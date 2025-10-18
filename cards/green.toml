@@ -1,0 +1,6 @@
+name = "Werewolf Green Agent"
+url  = "http://localhost:8001"
+launcher_url = "http://localhost:9001"
+description = "Referee implementing the scripted werewolf.v1 design doc with structured prompts and metrics."
+capabilities = ["a2a","tools"]
+entrypoint = "uvicorn werewolf.env_green:app --host 0.0.0.0 --port 8001"
