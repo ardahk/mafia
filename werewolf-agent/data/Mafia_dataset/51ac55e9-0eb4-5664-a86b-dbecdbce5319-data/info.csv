@@ -1,0 +1,76 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-15 01:55:34.174663,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-15 01:55:55.477207,,,,,,f,,{},text,2,1,Natasha Cooke: Hello there
+3,2019-03-15 01:55:55.837232,,,,,,f,,{},text,4,1,Michael Williams: Stacy Dillon is a snitch.
+4,2019-03-15 01:56:07.040363,,,,,,f,,{},vote,4,1,Michael Williams: Stacy Dillon
+5,2019-03-15 01:56:12.292791,,,,,,f,,{},vote,2,1,Natasha Cooke: Ashley Lowe
+6,2019-03-15 01:56:39.813085,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Ashley Lowe
+9,2019-03-15 01:56:57.855565,,,,,,f,,{},text,2,1,Natasha Cooke: How do you know that
+12,2019-03-15 01:57:03.983496,,,,,,f,,{},text,4,1,Michael Williams: Stacy Dillon is a snitch.
+16,2019-03-15 01:57:12.759027,,,,,,f,,{},text,13,1,Alicia Diaz: Hello
+19,2019-03-15 01:57:30.096438,,,,,,f,,{},vote,2,1,Natasha Cooke: Stacy Dillon
+24,2019-03-15 01:57:55.245952,,,,,,f,,{},vote,13,1,Alicia Diaz: Michael Williams
+27,2019-03-15 01:58:32.89284,,,,,,f,,{},vote,4,1,Michael Williams: Stacy Dillon
+31,2019-03-15 01:59:17.903711,,,,,,f,,{},vote,10,1,Ashley Adams: Aaron Morse
+32,2019-03-15 01:59:19.123676,,,,,,t,2019-03-15 01:59:20.138643,{},text,7,1,Stacy Dillon: nice
+30,2019-03-15 01:59:12.02456,,,,,,t,2019-03-15 01:59:20.171593,{},text,7,1,Stacy Dillon: we just lost didn't we?
+23,2019-03-15 01:57:50.460016,,,,,,t,2019-03-15 01:59:20.198353,{},text,7,1,Stacy Dillon: you just know i'm not mafia so I'm being targeted
+20,2019-03-15 01:57:31.292294,,,,,,t,2019-03-15 01:59:20.220708,{},vote,7,1,Stacy Dillon: Michael Williams
+15,2019-03-15 01:57:12.342056,,,,,,t,2019-03-15 01:59:20.233367,{},text,7,1,"Stacy Dillon: okay, who here is mafia?"
+33,2019-03-15 01:59:21.234411,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Stacy Dillon
+34,2019-03-15 02:00:06.783376,,,,,,f,,{},text,4,1,Michael Williams: I will eliminate whoever Natasha chooses.
+35,2019-03-15 02:00:16.31468,,,,,,f,,{},text,2,1,Natasha Cooke: Only mafia can talk at night
+36,2019-03-15 02:00:29.966221,,,,,,f,,{},info,1,1,Phase Change to Daytime
+42,2019-03-15 02:00:56.347677,,,,,,f,,{},vote,4,1,Michael Williams: Kyle Mack
+43,2019-03-15 02:00:58.743475,,,,,,f,,{},text,2,1,Natasha Cooke: William I am on your side.
+46,2019-03-15 02:01:11.611863,,,,,,f,,{},text,2,1,Natasha Cooke: See the list below for living 
+47,2019-03-15 02:01:17.519256,,,,,,f,,{},vote,2,1,Natasha Cooke: Adam Ward
+38,2019-03-15 02:00:41.729397,,,,,,t,2019-03-15 02:01:31.3024,{},text,14,1,Kyle Mack: Hey
+29,2019-03-15 01:59:05.615685,,,,,,t,2019-03-15 02:01:31.31954,{},text,14,1,Kyle Mack: are you there
+28,2019-03-15 01:59:01.494436,,,,,,t,2019-03-15 02:01:31.334243,{},text,14,1,Kyle Mack: hello
+26,2019-03-15 01:58:24.133132,,,,,,t,2019-03-15 02:01:31.345474,{},text,14,1,Kyle Mack: the single person
+25,2019-03-15 01:58:01.241346,,,,,,t,2019-03-15 02:01:31.360902,{},text,14,1,Kyle Mack: The mafia is center of person
+21,2019-03-15 01:57:36.0434,,,,,,t,2019-03-15 02:01:31.37222,{},text,14,1,Kyle Mack: No
+18,2019-03-15 01:57:21.842619,,,,,,t,2019-03-15 02:01:31.382801,{},text,14,1,Kyle Mack: Hai
+8,2019-03-15 01:56:55.873691,,,,,,t,2019-03-15 02:01:31.393583,{},text,14,1,Kyle Mack: Hello
+52,2019-03-15 02:01:56.943652,,,,,,f,,{},vote,13,1,Alicia Diaz: Kyle Mack
+55,2019-03-15 02:02:16.28134,,,,,,f,,{},vote,10,1,Ashley Adams: Aaron Morse
+58,2019-03-15 02:03:10.842984,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Kyle Mack
+59,2019-03-15 02:03:29.429432,,,,,,f,,{},text,4,1,Michael Williams: Eliminate Adam Ward.
+60,2019-03-15 02:03:52.756151,,,,,,f,,{},text,2,1,Natasha Cooke: Michael let get rid of  Aaron
+61,2019-03-15 02:04:10.936281,,,,,,f,,{},text,2,1,Natasha Cooke: ok adam it is
+62,2019-03-15 02:04:18.182499,,,,,,f,,{},vote,2,1,Natasha Cooke: Adam Ward
+11,2019-03-15 01:57:01.191141,,,,,,t,2019-03-15 02:04:19.382659,{},text,5,1,Adam Ward: hello
+17,2019-03-15 01:57:20.701724,,,,,,t,2019-03-15 02:04:19.414952,{},text,5,1,Adam Ward: So that mean Stacy needs to go
+22,2019-03-15 01:57:39.65072,,,,,,t,2019-03-15 02:04:19.429933,{},vote,5,1,Adam Ward: Stacy Dillon
+39,2019-03-15 02:00:42.911701,,,,,,t,2019-03-15 02:04:19.442496,{},text,5,1,Adam Ward: Hey
+45,2019-03-15 02:01:09.684295,,,,,,t,2019-03-15 02:04:19.455364,{},text,5,1,Adam Ward: Kyle seems to know who is who
+48,2019-03-15 02:01:34.895717,,,,,,t,2019-03-15 02:04:19.469375,{},text,5,1,Adam Ward: So who should be next
+50,2019-03-15 02:01:47.74613,,,,,,t,2019-03-15 02:04:19.482894,{},vote,5,1,Adam Ward: Kyle Mack
+53,2019-03-15 02:01:57.414158,,,,,,t,2019-03-15 02:04:19.496308,{},text,5,1,Adam Ward: Ok Kyle it is
+56,2019-03-15 02:02:21.115545,,,,,,t,2019-03-15 02:04:19.509688,{},text,5,1,Adam Ward: Bye Kyle
+63,2019-03-15 02:04:20.251098,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Adam Ward
+10,2019-03-15 01:56:58.775037,,,,,,t,2019-03-15 02:04:21.153845,{},text,8,1,Mary Arnold: hey
+14,2019-03-15 01:57:08.776005,,,,,,t,2019-03-15 02:04:21.164906,{},vote,8,1,Mary Arnold: Aaron Morse
+40,2019-03-15 02:00:50.056865,,,,,,t,2019-03-15 02:04:21.180495,{},text,8,1,Mary Arnold: hy
+44,2019-03-15 02:01:00.10874,,,,,,t,2019-03-15 02:04:21.192714,{},vote,8,1,Mary Arnold: Kyle Mack
+65,2019-03-15 02:04:38.751995,,,,,,f,,{},vote,4,1,Michael Williams: Aaron Morse
+67,2019-03-15 02:05:08.341373,,,,,,f,,{},text,2,1,Natasha Cooke: Michael get mary arnold
+68,2019-03-15 02:05:10.115899,,,,,,f,,{},vote,2,1,Natasha Cooke: Mary Arnold
+69,2019-03-15 02:05:10.451231,,,,,,f,,{},text,10,1,Ashley Adams: Aaron Morse keeps suggesting and eliminating bystanders
+71,2019-03-15 02:05:28.360576,,,,,,f,,{},vote,13,1,Alicia Diaz: Michael Williams
+72,2019-03-15 02:05:32.925249,,,,,,f,,{},vote,10,1,Ashley Adams: Aaron Morse
+7,2019-03-15 01:56:54.823675,,,,,,t,2019-03-15 02:06:59.45161,{},vote,9,1,Aaron Morse: Adam Ward
+13,2019-03-15 01:57:06.247794,,,,,,t,2019-03-15 02:06:59.463169,{},text,9,1,Aaron Morse: aye yinz
+37,2019-03-15 02:00:41.109154,,,,,,t,2019-03-15 02:06:59.47851,{},vote,9,1,Aaron Morse: Kyle Mack
+41,2019-03-15 02:00:50.507524,,,,,,t,2019-03-15 02:06:59.489771,{},text,9,1,Aaron Morse: Aye my dawgs it's definitely Kyle
+49,2019-03-15 02:01:43.903625,,,,,,t,2019-03-15 02:06:59.502348,{},text,9,1,Aaron Morse: Kyle man
+51,2019-03-15 02:01:51.038679,,,,,,t,2019-03-15 02:06:59.515169,{},text,9,1,Aaron Morse: He sounds like bad news
+54,2019-03-15 02:02:10.439245,,,,,,t,2019-03-15 02:06:59.52753,{},text,9,1,Aaron Morse: Yo peace Kyle
+57,2019-03-15 02:02:56.028652,,,,,,t,2019-03-15 02:06:59.538802,{},text,9,1,Aaron Morse: We outchea Kyle
+64,2019-03-15 02:04:30.036791,,,,,,t,2019-03-15 02:06:59.550505,{},vote,9,1,Aaron Morse: Michael Williams
+66,2019-03-15 02:04:39.564463,,,,,,t,2019-03-15 02:06:59.56405,{},text,9,1,Aaron Morse: Michael Williams don't sound like a cool cat...
+70,2019-03-15 02:05:22.461229,,,,,,t,2019-03-15 02:06:59.576913,{},text,9,1,Aaron Morse: Word on the street is Michael Williams ain't cut like the rest of us
+75,2019-03-15 02:06:59.648097,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Aaron Morse
+73,2019-03-15 02:05:59.910276,,,,,,f,,{},text,4,1,Michael Williams: Aaron Morse is scary.
+74,2019-03-15 02:06:29.279519,,,,,,t,2019-03-15 02:06:59.589749,{},text,9,1,Aaron Morse: Hahaha just playin my dawg! This game mad fun man

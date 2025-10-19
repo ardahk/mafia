@@ -1,0 +1,57 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-01-27 00:09:35.090874,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+8,2019-01-27 00:10:52.600966,,,,,,f,,{},info,1,1,Phase Change to Daytime
+9,2019-01-27 00:10:52.847903,,,,,,f,,{},info,1,1,Phase Change to Daytime
+14,2019-01-27 00:11:11.312827,,,,,,t,2019-01-27 00:24:22.966709,{},text,9,1,Christopher Smith: Hello
+24,2019-01-27 00:12:23.159567,,,,,,t,2019-01-27 00:24:22.982292,{},vote,9,1,Christopher Smith: Kimberly Lyons
+10,2019-01-27 00:11:00.46529,,,,,,t,2019-01-27 00:27:40.337133,{},text,6,1,Mary Trujillo: hello
+20,2019-01-27 00:11:39.635632,,,,,,t,2019-01-27 00:27:40.35116,{},vote,6,1,Mary Trujillo: Troy Thomas
+22,2019-01-27 00:11:54.583203,,,,,,t,2019-01-27 00:27:40.378238,{},text,6,1,Mary Trujillo: If you can vote that means you must be in the mafia.
+29,2019-01-27 00:13:06.496985,,,,,,t,2019-01-27 00:13:31.682164,{},text,8,1,Troy Thomas: Looks like this should be a win for the mafia if I'm eliminated
+26,2019-01-27 00:12:30.216565,,,,,,t,2019-01-27 00:13:31.694473,{},vote,8,1,Troy Thomas: Ryan Hodges
+25,2019-01-27 00:12:24.773026,,,,,,t,2019-01-27 00:13:31.703887,{},text,8,1,Troy Thomas: ??
+19,2019-01-27 00:11:39.08232,,,,,,t,2019-01-27 00:13:31.712628,{},text,8,1,Troy Thomas: I'm legitimately ignorant but ok
+12,2019-01-27 00:11:08.157828,,,,,,t,2019-01-27 00:13:31.721061,{},text,8,1,"Troy Thomas: I don't really understand how we're supposed to know who to vote for, I just chose Bryce Fields at random.."
+33,2019-01-27 00:13:32.206785,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+34,2019-01-27 00:13:32.303368,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+35,2019-01-27 00:13:32.435796,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+36,2019-01-27 00:13:32.564076,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+30,2019-01-27 00:13:09.10121,,,,,,t,2019-01-27 00:27:40.402258,{},text,6,1,"Mary Trujillo: Right, and he said he chose Byrce"
+31,2019-01-27 00:13:27.035459,,,,,,t,2019-01-27 00:27:40.422076,{},text,6,1,Mary Trujillo: You couldn't have chosen Bryce in the last phase as a bystander
+15,2019-01-27 00:11:11.729609,,,,,,t,2019-01-27 00:33:30.606907,{},text,10,1,Diana Pennington: Hi
+27,2019-01-27 00:12:38.293564,,,,,,t,2019-01-27 00:33:30.621758,{},vote,10,1,Diana Pennington: Troy Thomas
+3,2019-01-27 00:09:57.523166,,,,,,t,2019-01-27 00:38:32.132163,{},text,2,1,Ryan Hodges: hi
+5,2019-01-27 00:10:42.31813,,,,,,t,2019-01-27 00:38:32.144597,{},text,2,1,Ryan Hodges: sure
+6,2019-01-27 00:10:46.142014,,,,,,t,2019-01-27 00:38:32.160196,{},vote,2,1,Ryan Hodges: Bryce Fields
+54,2019-01-27 00:22:56.198157,,,,,,t,2019-01-27 00:38:32.173997,{},text,2,1,"Ryan Hodges: yeah tons of errors in console, oh well messaging req"
+13,2019-01-27 00:11:09.245854,,,,,,t,2019-01-27 00:38:32.184745,{},text,2,1,Ryan Hodges: hey
+17,2019-01-27 00:11:25.748919,,,,,,t,2019-01-27 00:38:32.197882,{},text,2,1,"Ryan Hodges: nice, the feigning ignorance angle"
+56,2019-01-27 00:24:13.008356,,,,,,t,2019-01-27 00:38:32.28974,{},text,2,1,Ryan Hodges: :)
+32,2019-01-27 00:13:30.341932,,,,,,t,2019-01-27 00:38:32.309846,{},vote,2,1,Ryan Hodges: Troy Thomas
+37,2019-01-27 00:14:02.990644,,,,,,t,2019-01-27 00:38:32.323956,{},text,2,1,Ryan Hodges: lol
+39,2019-01-27 00:14:19.94229,,,,,,t,2019-01-27 00:38:32.339811,{},text,2,1,"Ryan Hodges: I say we leave up troy, his shtick is too terrible"
+40,2019-01-27 00:14:28.044533,,,,,,t,2019-01-27 00:38:32.351739,{},text,2,1,Ryan Hodges: yeah perhaps vote her out
+2,2019-01-27 00:09:52.254934,,,,,,t,2019-01-27 00:53:02.589335,{},text,3,1,Natalie Morris: Yo
+4,2019-01-27 00:10:34.628353,,,,,,t,2019-01-27 00:53:02.604626,{},text,3,1,Natalie Morris: who shall we knock off first? Bryce?
+7,2019-01-27 00:10:50.606545,,,,,,t,2019-01-27 00:53:02.62113,{},vote,3,1,Natalie Morris: Bryce Fields
+48,2019-01-27 00:19:15.30071,,,,,,t,2019-01-27 00:53:02.633235,{},text,3,1,"Natalie Morris: right. So, should we just sit back and let them eat themselves?"
+16,2019-01-27 00:11:19.083089,,,,,,t,2019-01-27 00:53:02.657951,{},text,3,1,Natalie Morris: hi
+55,2019-01-27 00:23:20.04305,,,,,,t,2019-01-27 00:53:02.671428,{},text,3,1,Natalie Morris: OK. nice being a criminal with you.
+21,2019-01-27 00:11:50.08089,,,,,,t,2019-01-27 00:53:02.68545,{},vote,3,1,Natalie Morris: Troy Thomas
+38,2019-01-27 00:14:17.922654,,,,,,t,2019-01-27 00:53:02.705139,{},text,3,1,Natalie Morris: Christina is too wise
+41,2019-01-27 00:14:48.456311,,,,,,t,2019-01-27 00:53:02.721156,{},vote,3,1,Natalie Morris: Christina Rollins
+46,2019-01-27 00:18:04.860333,,,,,,t,2019-01-27 00:53:02.739619,{},text,3,1,Natalie Morris: christopher smith said only hello
+11,2019-01-27 00:11:07.503028,,,,,,t,2019-01-27 00:18:15.012621,{},text,7,1,Christina Rollins: Hi
+18,2019-01-27 00:11:36.128829,,,,,,t,2019-01-27 00:18:15.059516,{},vote,7,1,Christina Rollins: Troy Thomas
+23,2019-01-27 00:12:15.275985,,,,,,t,2019-01-27 00:18:15.106696,{},text,7,1,Christina Rollins: that is not the case.
+28,2019-01-27 00:12:46.327588,,,,,,t,2019-01-27 00:18:15.129484,{},text,7,1,"Christina Rollins: that's only in the nighttime, Mary."
+42,2019-01-27 00:15:05.212718,,,,,,t,2019-01-27 00:38:32.364427,{},vote,2,1,Ryan Hodges: Christina Rollins
+43,2019-01-27 00:16:02.779835,,,,,,t,2019-01-27 00:38:32.377351,{},text,2,1,Ryan Hodges: has anyone not talked yet
+47,2019-01-27 00:18:38.703235,,,,,,t,2019-01-27 00:38:32.390448,{},text,2,1,Ryan Hodges: and diana I think
+49,2019-01-27 00:20:34.987532,,,,,,t,2019-01-27 00:38:32.40291,{},text,2,1,Ryan Hodges: is it stuck?
+51,2019-01-27 00:20:42.971968,,,,,,t,2019-01-27 00:38:32.414588,{},text,2,1,Ryan Hodges: rip
+52,2019-01-27 00:21:05.345784,,,,,,t,2019-01-27 00:38:32.423848,{},text,2,1,Ryan Hodges: somebody must have dropped or something
+45,2019-01-27 00:17:12.195774,,,,,,t,2019-01-27 00:53:02.752458,{},text,3,1,Natalie Morris: hard to tell. i have to keep scanning
+50,2019-01-27 00:20:37.960457,,,,,,t,2019-01-27 00:53:02.768773,{},text,3,1,Natalie Morris: hello?
+44,2019-01-27 00:16:21.932266,,,,,,t,2019-01-27 00:38:32.434698,{},text,2,1,"Ryan Hodges: or said very little, probably leave them for now"
+53,2019-01-27 00:21:55.576782,,,,,,t,2019-01-27 00:53:02.779634,{},text,3,1,Natalie Morris: Yeah the timer got to zero but we aren't moving to daytime. 

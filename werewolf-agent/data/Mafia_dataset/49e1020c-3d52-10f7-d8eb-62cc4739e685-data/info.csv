@@ -1,0 +1,52 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-12 23:05:43.895497,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-12 23:05:43.962792,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+3,2019-03-12 23:06:10.994531,,,,,,f,,{},text,2,1,"Danielle Moore: Hello, we should eliminate Barry"
+4,2019-03-12 23:06:29.658535,,,,,,f,,{},text,4,1,Janice Estrada: sounds good thats how i will vote
+5,2019-03-12 23:06:35.36881,,,,,,f,,{},text,2,1,Danielle Moore: great
+6,2019-03-12 23:06:37.033163,,,,,,f,,{},vote,4,1,Janice Estrada: Barry Dunn
+7,2019-03-12 23:06:37.700441,,,,,,f,,{},vote,2,1,Danielle Moore: Barry Dunn
+8,2019-03-12 23:06:49.578817,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Barry Dunn
+9,2019-03-12 23:07:01.644928,,,,,,f,,{},vote,9,1,Justin Scott: Aaron Horton
+10,2019-03-12 23:07:09.431901,,,,,,f,,{},vote,2,1,Danielle Moore: Aaron Horton
+11,2019-03-12 23:07:13.922498,,,,,,f,,{},text,9,1,Justin Scott: Let's knock one out
+12,2019-03-12 23:07:18.725979,,,,,,f,,{},vote,4,1,Janice Estrada: Aaron Horton
+16,2019-03-12 23:07:35.469014,,,,,,f,,{},text,9,1,Justin Scott: Lol we'll get you next
+18,2019-03-12 23:07:53.45411,,,,,,f,,{},text,4,1,Janice Estrada: ha ha christopher should have said that earlier
+23,2019-03-12 23:09:15.6465,,,,,,f,,{},text,9,1,Justin Scott: I swear this timer moves slower than normal
+24,2019-03-12 23:09:19.475389,,,,,,f,,{},text,11,1,Shane Bell: vote out shane
+25,2019-03-12 23:09:22.516064,,,,,,t,2019-03-12 23:09:28.93118,{},text,10,1,Aaron Horton: Why yall want to eliminate me?
+21,2019-03-12 23:08:48.329874,,,,,,t,2019-03-12 23:09:28.937638,{},text,10,1,"Aaron Horton: Vang is mafia, eliminate her"
+19,2019-03-12 23:07:59.851425,,,,,,t,2019-03-12 23:09:28.943483,{},vote,10,1,Aaron Horton: Christopher Diaz
+14,2019-03-12 23:07:20.46851,,,,,,t,2019-03-12 23:09:28.948801,{},text,10,1,Aaron Horton: Vote for Melissa Vang
+26,2019-03-12 23:09:29.25892,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Aaron Horton
+27,2019-03-12 23:09:51.329261,,,,,,f,,{},text,2,1,"Danielle Moore: I think we should hold off on Chris, and take someone else out"
+28,2019-03-12 23:09:59.523155,,,,,,f,,{},text,2,1,Danielle Moore: Vote Chris in the daytime
+29,2019-03-12 23:10:17.056354,,,,,,f,,{},vote,2,1,Danielle Moore: Melissa Vang
+30,2019-03-12 23:10:28.56238,,,,,,f,,{},text,4,1,Janice Estrada: I agree i will so luis
+20,2019-03-12 23:08:40.391105,,,,,,t,2019-03-12 23:10:38.845528,{},vote,8,1,Melissa Vang: Christopher Diaz
+17,2019-03-12 23:07:52.61689,,,,,,t,2019-03-12 23:10:38.867518,{},text,8,1,Melissa Vang: vote for aaron horton
+31,2019-03-12 23:10:39.37971,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Melissa Vang
+32,2019-03-12 23:10:53.683227,,,,,,f,,{},text,9,1,Justin Scott: Let's let Christopher go home
+33,2019-03-12 23:10:54.194533,,,,,,f,,{},vote,11,1,Shane Bell: Justin Scott
+35,2019-03-12 23:10:59.903887,,,,,,f,,{},vote,9,1,Justin Scott: Christopher Diaz
+36,2019-03-12 23:11:09.39931,,,,,,f,,{},vote,2,1,Danielle Moore: Christopher Diaz
+37,2019-03-12 23:11:12.820699,,,,,,f,,{},vote,4,1,Janice Estrada: Christopher Diaz
+38,2019-03-12 23:11:14.9013,,,,,,f,,{},text,11,1,Shane Bell: i vote aaron
+40,2019-03-12 23:11:39.655697,,,,,,f,,{},text,2,1,Danielle Moore: As you wish Chris!
+43,2019-03-12 23:12:24.194958,,,,,,f,,{},text,4,1,Janice Estrada: gonna miss u christopher 
+45,2019-03-12 23:13:18.117034,,,,,,t,2019-03-12 23:13:19.64396,{},text,7,1,Christopher Diaz: I'm hit!
+44,2019-03-12 23:12:40.428494,,,,,,t,2019-03-12 23:13:19.659868,{},text,7,1,Christopher Diaz: awww shucks
+42,2019-03-12 23:11:59.833515,,,,,,t,2019-03-12 23:13:19.672459,{},text,7,1,Christopher Diaz: ty
+41,2019-03-12 23:11:43.468249,,,,,,t,2019-03-12 23:13:19.688451,{},vote,7,1,Christopher Diaz: Shane Bell
+34,2019-03-12 23:10:56.994154,,,,,,t,2019-03-12 23:13:19.705686,{},text,7,1,Christopher Diaz: Kill me lol
+22,2019-03-12 23:08:57.13466,,,,,,t,2019-03-12 23:13:19.725918,{},vote,7,1,Christopher Diaz: Melissa Vang
+13,2019-03-12 23:07:19.880732,,,,,,t,2019-03-12 23:13:19.751464,{},text,7,1,Christopher Diaz: Kill Christopher Diaz b/c I gtg
+46,2019-03-12 23:13:20.179961,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Christopher Diaz
+47,2019-03-12 23:13:27.989195,,,,,,f,,{},text,4,1,Janice Estrada: ok how about lucas 
+48,2019-03-12 23:13:46.749927,,,,,,f,,{},text,2,1,Danielle Moore: Sure
+49,2019-03-12 23:13:52.87832,,,,,,f,,{},vote,4,1,Janice Estrada: Lucas Richardson
+50,2019-03-12 23:13:55.064163,,,,,,f,,{},vote,2,1,Danielle Moore: Lucas Richardson
+15,2019-03-12 23:07:25.176381,,,,,,t,2019-03-12 23:14:28.989575,{},vote,5,1,Lucas Richardson: Aaron Horton
+39,2019-03-12 23:11:26.908591,,,,,,t,2019-03-12 23:14:29.023498,{},vote,5,1,Lucas Richardson: Christopher Diaz
+51,2019-03-12 23:14:29.225328,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Lucas Richardson

@@ -1,0 +1,63 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-15 21:50:57.04963,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+6,2019-03-15 21:52:02.992521,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Ryan Vazquez
+8,2019-03-15 21:52:16.935272,,,,,,f,,{},vote,5,1,Derek Giles: Scott Marshall
+9,2019-03-15 21:52:23.276856,,,,,,f,,{},vote,9,1,Jacob Brown: Brent Graham
+10,2019-03-15 21:52:23.472647,,,,,,f,,{},text,13,1,"Nicole Ross: Hey everyone! Nicole here, ready to follow the crowd!"
+12,2019-03-15 21:52:37.814953,,,,,,f,,{},text,11,1,Stacy Jensen: brent graham
+13,2019-03-15 21:52:42.013176,,,,,,f,,{},text,12,1,Lisa Rose: Hello everyone.
+16,2019-03-15 21:52:56.762925,,,,,,f,,{},text,6,1,Adam Williams: hi
+17,2019-03-15 21:52:57.657081,,,,,,f,,{},text,12,1,Lisa Rose: Derek Giles
+18,2019-03-15 21:52:59.640948,,,,,,f,,{},text,5,1,"Derek Giles: Oh, shoot.  I can't change my vote.  :("
+20,2019-03-15 21:53:09.56524,,,,,,f,,{},text,11,1,Stacy Jensen: heheh
+23,2019-03-15 21:53:27.924502,,,,,,f,,{},text,11,1,Stacy Jensen: no it says not changeable
+24,2019-03-15 21:53:31.105796,,,,,,f,,{},text,5,1,"Derek Giles: What are we supposed to base this vote on?  My button says ""vote (note changeable)"""
+25,2019-03-15 21:53:33.467231,,,,,,f,,{},vote,12,1,Lisa Rose: Derek Giles
+26,2019-03-15 21:53:40.7336,,,,,,f,,{},text,11,1,Stacy Jensen: majority
+28,2019-03-15 21:53:47.538851,,,,,,f,,{},vote,13,1,Nicole Ross: Derek Giles
+29,2019-03-15 21:53:59.434734,,,,,,f,,{},text,5,1,Derek Giles: Awww.... now you're going to kill me.  Lol.  
+30,2019-03-15 21:54:01.139809,,,,,,f,,{},text,13,1,"Nicole Ross: You can still click it, just can't change it afterwards."
+31,2019-03-15 21:54:09.963676,,,,,,f,,{},vote,6,1,Adam Williams: Brent Graham
+32,2019-03-15 21:54:13.373009,,,,,,f,,{},text,11,1,Stacy Jensen: I'm going with brent sorry :-[
+33,2019-03-15 21:54:15.823843,,,,,,f,,{},vote,11,1,Stacy Jensen: Brent Graham
+34,2019-03-15 21:54:16.645292,,,,,,f,,{},text,13,1,"Nicole Ross: Hey, gotta kill someone."
+36,2019-03-15 21:54:35.820334,,,,,,f,,{},text,11,1,Stacy Jensen: how do we get rid of the mafia??
+38,2019-03-15 21:54:39.209838,,,,,,f,,{},text,13,1,Nicole Ross: Just don't hold anything against me if I voted for you and you survive!
+37,2019-03-15 21:54:36.833823,,,,,,t,2019-03-15 21:54:43.165019,{},text,3,1,Brent Graham: sad
+19,2019-03-15 21:53:04.490632,,,,,,t,2019-03-15 21:54:43.186459,{},vote,3,1,Brent Graham: Stacy Jensen
+14,2019-03-15 21:52:47.076552,,,,,,t,2019-03-15 21:54:43.225473,{},text,3,1,Brent Graham: Stacy Jensen
+5,2019-03-15 21:51:49.653539,,,,,,t,2019-03-15 21:54:43.250541,{},vote,3,1,Brent Graham: Ryan Vazquez
+2,2019-03-15 21:51:26.44958,,,,,,t,2019-03-15 21:54:43.265879,{},text,3,1,Brent Graham: lets take out stacy
+39,2019-03-15 21:54:44.85393,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Brent Graham
+41,2019-03-15 21:55:52.597323,,,,,,f,,{},info,1,1,Phase Change to Daytime
+42,2019-03-15 21:56:05.206632,,,,,,f,,{},text,6,1,Adam Williams: So uh good job on the first hanging
+43,2019-03-15 21:56:16.576721,,,,,,f,,{},text,13,1,Nicole Ross: Looks like the problem is solved!
+45,2019-03-15 21:56:40.764753,,,,,,f,,{},text,11,1,Stacy Jensen: this is like Survivor
+46,2019-03-15 21:56:46.751646,,,,,,f,,{},text,6,1,Adam Williams: So jacob for sure?
+47,2019-03-15 21:56:48.114486,,,,,,f,,{},text,5,1,"Derek Giles: Was Jacob not here the whole chat of ""day 1""?  If so... maybe vote Jacob?"
+48,2019-03-15 21:56:49.106736,,,,,,f,,{},text,9,1,Jacob Brown: I'm not sure who else may be involved since nothing happened at night
+49,2019-03-15 21:56:54.291343,,,,,,f,,{},text,13,1,"Nicole Ross: Hey, I still have all these nooses. Gotta use them up."
+50,2019-03-15 21:57:05.858075,,,,,,f,,{},text,11,1,Stacy Jensen: there wasn't a majority at night
+51,2019-03-15 21:57:22.051956,,,,,,f,,{},text,9,1,Jacob Brown: I was the first one to vote on day 1 and got the right guy lol
+53,2019-03-15 21:57:45.08572,,,,,,f,,{},text,6,1,Adam Williams: Or the person didn't know how to vote
+54,2019-03-15 21:57:46.108787,,,,,,f,,{},text,9,1,Jacob Brown: Derek got the wrong guy
+55,2019-03-15 21:58:00.81743,,,,,,f,,{},text,9,1,Jacob Brown: so I think Derek is mafia
+56,2019-03-15 21:58:01.379861,,,,,,f,,{},text,5,1,"Derek Giles: Yes, I clearly suck at this game.  No argument from me!  "
+58,2019-03-15 21:58:13.955194,,,,,,f,,{},text,11,1,Stacy Jensen: I don't understand this at all
+59,2019-03-15 21:58:20.291656,,,,,,f,,{},text,5,1,"Derek Giles: I would defo be the least competent mafia person ever.  I'm with you, Stacy."
+60,2019-03-15 21:58:24.710579,,,,,,f,,{},vote,12,1,Lisa Rose: Scott Marshall
+61,2019-03-15 21:58:27.252651,,,,,,f,,{},vote,11,1,Stacy Jensen: Scott Marshall
+3,2019-03-15 21:51:37.258091,,,,,,t,2019-03-15 21:58:32.608107,{},vote,2,1,Scott Marshall: Ryan Vazquez
+4,2019-03-15 21:51:44.530082,,,,,,t,2019-03-15 21:58:32.620206,{},text,2,1,Scott Marshall: Ryan vazquez
+7,2019-03-15 21:52:03.496807,,,,,,t,2019-03-15 21:58:32.632037,{},text,2,1,Scott Marshall: brent graham
+11,2019-03-15 21:52:31.972862,,,,,,t,2019-03-15 21:58:32.653201,{},text,2,1,Scott Marshall: Adam williams
+15,2019-03-15 21:52:55.260561,,,,,,t,2019-03-15 21:58:32.66541,{},text,2,1,Scott Marshall: Brent Graham
+21,2019-03-15 21:53:18.527886,,,,,,t,2019-03-15 21:58:32.677641,{},text,2,1,"Scott Marshall: Derek, you should be able to"
+22,2019-03-15 21:53:26.796349,,,,,,t,2019-03-15 21:58:32.688534,{},text,2,1,Scott Marshall: brent graham
+27,2019-03-15 21:53:46.806214,,,,,,t,2019-03-15 21:58:32.698736,{},text,2,1,Scott Marshall: go with brent then
+35,2019-03-15 21:54:33.92303,,,,,,t,2019-03-15 21:58:32.707528,{},text,2,1,"Scott Marshall: yup, have to pick someone, lol"
+40,2019-03-15 21:55:05.832365,,,,,,t,2019-03-15 21:58:32.718406,{},text,2,1,Scott Marshall: Nicholas Ross is my pick this time
+44,2019-03-15 21:56:20.883202,,,,,,t,2019-03-15 21:58:32.733301,{},text,2,1,"Scott Marshall: Okay Jacob, after you this time"
+52,2019-03-15 21:57:32.959701,,,,,,t,2019-03-15 21:58:32.745958,{},text,2,1,Scott Marshall: Me too
+57,2019-03-15 21:58:11.188545,,,,,,t,2019-03-15 21:58:32.759534,{},text,2,1,"Scott Marshall: YEs adam, jacob"
+62,2019-03-15 21:58:32.808521,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Scott Marshall

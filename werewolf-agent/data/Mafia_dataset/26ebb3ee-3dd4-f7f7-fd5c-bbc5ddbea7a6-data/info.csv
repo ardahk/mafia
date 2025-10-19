@@ -1,0 +1,92 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-15 22:37:41.366949,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+3,2019-03-15 22:38:19.575023,,,,,,f,,{},text,3,1,Jesse Martin: Want to eliminate Mary?
+5,2019-03-15 22:38:44.937744,,,,,,f,,{},vote,3,1,Jesse Martin: Mary Blake
+6,2019-03-15 22:39:07.727296,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Mary Blake
+12,2019-03-15 22:39:31.009967,,,,,,f,,{},text,3,1,Jesse Martin: hello
+15,2019-03-15 22:39:39.60878,,,,,,f,,{},text,11,1,Rebecca Patterson: hey!
+16,2019-03-15 22:39:46.181289,,,,,,f,,{},text,3,1,Jesse Martin: How is everyone?
+25,2019-03-15 22:40:26.689839,,,,,,f,,{},text,3,1,Jesse Martin: Mary
+26,2019-03-15 22:40:31.636823,,,,,,f,,{},vote,3,1,Jesse Martin: Mary Reed
+27,2019-03-15 22:40:36.387154,,,,,,f,,{},vote,11,1,Rebecca Patterson: William Rubio
+17,2019-03-15 22:39:51.737984,,,,,,t,2019-03-15 22:41:47.548762,{},vote,12,1,William Rubio: Ricky Mcneil
+35,2019-03-15 22:41:48.167595,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - William Rubio
+37,2019-03-15 22:42:08.608818,,,,,,f,,{},text,3,1,Jesse Martin: Who should we eliminate
+39,2019-03-15 22:42:31.143024,,,,,,f,,{},text,3,1,Jesse Martin: Sounds good
+40,2019-03-15 22:42:36.266376,,,,,,f,,{},vote,3,1,Jesse Martin: Mary Reed
+28,2019-03-15 22:40:43.43265,,,,,,t,2019-03-15 22:42:57.234504,{},text,6,1,Mary Reed: William Rubio
+14,2019-03-15 22:39:36.95136,,,,,,t,2019-03-15 22:42:57.244745,{},vote,6,1,Mary Reed: William Rubio
+11,2019-03-15 22:39:30.790301,,,,,,t,2019-03-15 22:42:57.256551,{},text,6,1,Mary Reed: hello
+41,2019-03-15 22:42:57.602508,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Mary Reed
+43,2019-03-15 22:43:12.887153,,,,,,f,,{},text,3,1,"Jesse Martin: Hello, who should we eliminate?"
+50,2019-03-15 22:44:02.861482,,,,,,f,,{},vote,11,1,Rebecca Patterson: Ricky Mcneil
+54,2019-03-15 22:44:20.962457,,,,,,f,,{},text,3,1,Jesse Martin: Poor Ricky lol
+60,2019-03-15 22:45:13.821399,,,,,,f,,{},vote,3,1,Jesse Martin: Rebecca Patterson
+2,2019-03-15 22:38:10.489389,,,,,,t,2019-03-15 22:45:37.460777,{},text,2,1,"Ricky Mcneil: Hi, this is Ricky, don't vote for me!"
+4,2019-03-15 22:38:35.241426,,,,,,t,2019-03-15 22:45:37.469341,{},text,2,1,Ricky Mcneil: I agree to eliminate Mary
+18,2019-03-15 22:39:56.559766,,,,,,t,2019-03-15 22:45:37.478383,{},text,2,1,Ricky Mcneil: Shall we vote out Mary Reed
+21,2019-03-15 22:40:04.137295,,,,,,t,2019-03-15 22:45:37.48512,{},vote,2,1,Ricky Mcneil: William Rubio
+38,2019-03-15 22:42:13.068278,,,,,,t,2019-03-15 22:45:37.497494,{},text,2,1,Ricky Mcneil: Who to vote out? Mary Reed?
+46,2019-03-15 22:43:33.122616,,,,,,t,2019-03-15 22:45:37.508185,{},text,2,1,Ricky Mcneil: Vote out Kimberly
+52,2019-03-15 22:44:06.625012,,,,,,t,2019-03-15 22:45:37.520862,{},text,2,1,Ricky Mcneil: Ricky is a sweetheart
+56,2019-03-15 22:44:31.312195,,,,,,t,2019-03-15 22:45:37.53127,{},vote,2,1,Ricky Mcneil: Kimberly Harrison
+59,2019-03-15 22:44:44.206786,,,,,,t,2019-03-15 22:45:37.541538,{},text,2,1,Ricky Mcneil: I will haunt you
+62,2019-03-15 22:45:37.904599,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Ricky Mcneil
+63,2019-03-15 22:45:54.276787,,,,,,f,,{},text,3,1,Jesse Martin: Oh no ricky lol
+64,2019-03-15 22:46:02.455829,,,,,,f,,{},vote,3,1,Jesse Martin: Kimberly Harrison
+9,2019-03-15 22:39:27.777267,,,,,,t,2019-03-15 22:46:47.252293,{},text,10,1,Kimberly Harrison: Hello
+13,2019-03-15 22:39:32.581937,,,,,,t,2019-03-15 22:46:47.292339,{},text,10,1,Kimberly Harrison: Hi! 
+20,2019-03-15 22:39:58.385934,,,,,,t,2019-03-15 22:46:47.331916,{},text,10,1,"Kimberly Harrison: Great! So, who do we vote for?"
+24,2019-03-15 22:40:19.396199,,,,,,t,2019-03-15 22:46:47.349841,{},text,10,1,Kimberly Harrison: LOL touche
+29,2019-03-15 22:40:44.81198,,,,,,t,2019-03-15 22:46:47.386982,{},text,10,1,Kimberly Harrison: Looks like William isn't doing so hot
+30,2019-03-15 22:40:52.063125,,,,,,t,2019-03-15 22:46:47.416243,{},vote,10,1,Kimberly Harrison: William Rubio
+67,2019-03-15 22:47:02.914078,,,,,,f,,{},text,3,1,Jesse Martin: Good Morning!
+76,2019-03-15 22:47:57.711081,,,,,,f,,{},text,3,1,Jesse Martin: Jeffery
+77,2019-03-15 22:48:01.66674,,,,,,f,,{},vote,3,1,Jesse Martin: Jeffrey Miles
+7,2019-03-15 22:39:18.171988,,,,,,t,2019-03-15 22:49:27.415724,{},vote,5,1,Jeffrey Miles: William Rubio
+45,2019-03-15 22:43:22.989428,,,,,,t,2019-03-15 22:49:27.424015,{},vote,5,1,Jeffrey Miles: Kimberly Harrison
+69,2019-03-15 22:47:16.476636,,,,,,t,2019-03-15 22:49:27.435475,{},vote,5,1,Jeffrey Miles: Jesse Martin
+79,2019-03-15 22:49:38.612215,,,,,,f,,{},text,3,1,Jesse Martin: Noooooooo!
+10,2019-03-15 22:39:28.630061,,,,,,t,2019-03-15 22:50:37.18381,{},text,7,1,Christopher Drake: Hi everyone! 
+19,2019-03-15 22:39:56.595349,,,,,,t,2019-03-15 22:50:37.19022,{},text,7,1,Christopher Drake: Fine thanks. Who should we eliminate?
+23,2019-03-15 22:40:16.491469,,,,,,t,2019-03-15 22:50:37.196147,{},vote,7,1,Christopher Drake: William Rubio
+31,2019-03-15 22:41:03.081021,,,,,,t,2019-03-15 22:50:37.202855,{},text,7,1,"Christopher Drake: Yeah, I think William seems to be the popular choice."
+42,2019-03-15 22:43:11.678535,,,,,,t,2019-03-15 22:50:37.20947,{},text,7,1,Christopher Drake: Hello again everyone!
+8,2019-03-15 22:39:22.996765,,,,,,t,2019-03-15 22:53:17.28731,{},text,4,1,Jeremiah Johnson: Hi
+22,2019-03-15 22:40:11.500862,,,,,,t,2019-03-15 22:53:17.296561,{},text,4,1,Jeremiah Johnson: depends on who you are
+34,2019-03-15 22:41:23.681534,,,,,,t,2019-03-15 22:53:17.307898,{},vote,4,1,Jeremiah Johnson: Rebecca Patterson
+44,2019-03-15 22:43:17.584913,,,,,,t,2019-03-15 22:53:17.318214,{},vote,4,1,Jeremiah Johnson: Ricky Mcneil
+66,2019-03-15 22:46:56.807777,,,,,,t,2019-03-15 22:53:17.32699,{},vote,4,1,Jeremiah Johnson: Jeffrey Miles
+32,2019-03-15 22:41:18.250606,,,,,,t,2019-03-15 22:46:47.436586,{},text,10,1,Kimberly Harrison: I don't see him on here conversing 
+33,2019-03-15 22:41:21.779482,,,,,,t,2019-03-15 22:46:47.450364,{},text,10,1,Kimberly Harrison: hmmm
+36,2019-03-15 22:41:48.235114,,,,,,t,2019-03-15 22:46:47.469583,{},text,10,1,Kimberly Harrison: Have a good night muwhwhw
+49,2019-03-15 22:44:00.537979,,,,,,t,2019-03-15 22:46:47.488009,{},text,10,1,Kimberly Harrison: HAHA
+51,2019-03-15 22:44:03.756886,,,,,,t,2019-03-15 22:46:47.522914,{},text,10,1,Kimberly Harrison: I can second that
+53,2019-03-15 22:44:10.167592,,,,,,t,2019-03-15 22:46:47.539739,{},vote,10,1,Kimberly Harrison: Ricky Mcneil
+55,2019-03-15 22:44:25.295709,,,,,,t,2019-03-15 22:46:47.572401,{},text,10,1,"Kimberly Harrison: LOL! Awe, Ricky"
+57,2019-03-15 22:44:36.66221,,,,,,t,2019-03-15 22:46:47.589411,{},text,10,1,Kimberly Harrison: I see you ricky
+58,2019-03-15 22:44:38.325811,,,,,,t,2019-03-15 22:46:47.609568,{},text,10,1,Kimberly Harrison: I see you
+61,2019-03-15 22:45:32.654371,,,,,,t,2019-03-15 22:46:47.624158,{},text,10,1,Kimberly Harrison: <3
+65,2019-03-15 22:46:47.950508,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Kimberly Harrison
+70,2019-03-15 22:47:22.488663,,,,,,f,,{},text,3,1,Jesse Martin: Who should we vote out?
+71,2019-03-15 22:47:26.099068,,,,,,f,,{},vote,11,1,Rebecca Patterson: Jeffrey Miles
+73,2019-03-15 22:47:41.787802,,,,,,f,,{},text,3,1,Jesse Martin: Any mafia in here?
+78,2019-03-15 22:49:27.609026,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Jeffrey Miles
+80,2019-03-15 22:49:43.43015,,,,,,f,,{},vote,3,1,Jesse Martin: Christopher Drake
+47,2019-03-15 22:43:51.326397,,,,,,t,2019-03-15 22:50:37.219658,{},text,7,1,"Christopher Drake: Hmm, I think we should actually vote out Ricky. He seems too eager to kick people out."
+48,2019-03-15 22:43:59.044103,,,,,,t,2019-03-15 22:50:37.228781,{},vote,7,1,Christopher Drake: Ricky Mcneil
+68,2019-03-15 22:47:16.22449,,,,,,t,2019-03-15 22:50:37.237996,{},text,7,1,Christopher Drake: Morning! Who do you think we should eliminate today?
+74,2019-03-15 22:47:50.982441,,,,,,t,2019-03-15 22:50:37.245824,{},text,7,1,"Christopher Drake: I'm going to vote for Jeffrey Miles, because he seems to like kicking people out."
+75,2019-03-15 22:47:55.207688,,,,,,t,2019-03-15 22:50:37.253593,{},vote,7,1,Christopher Drake: Jeffrey Miles
+81,2019-03-15 22:50:37.340215,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Christopher Drake
+83,2019-03-15 22:51:01.632762,,,,,,f,,{},text,3,1,"Jesse Martin: Good morning, who do we vote on next?"
+84,2019-03-15 22:51:09.373336,,,,,,f,,{},vote,11,1,Rebecca Patterson: Jeremiah Johnson
+85,2019-03-15 22:51:29.863165,,,,,,f,,{},vote,3,1,Jesse Martin: Jeremiah Johnson
+87,2019-03-15 22:52:07.202572,,,,,,f,,{},text,3,1,Jesse Martin: Sorry Jeremiah!
+88,2019-03-15 22:52:32.419328,,,,,,f,,{},text,3,1,Jesse Martin: Hopefully Rebecca doesn't kill me.
+89,2019-03-15 22:52:38.124621,,,,,,f,,{},text,11,1,Rebecca Patterson: its all part of the game :)
+72,2019-03-15 22:47:41.05194,,,,,,t,2019-03-15 22:53:17.334493,{},text,4,1,Jeremiah Johnson: Jeffrey Miles
+82,2019-03-15 22:50:58.997661,,,,,,t,2019-03-15 22:53:17.342719,{},vote,4,1,Jeremiah Johnson: Rebecca Patterson
+86,2019-03-15 22:51:36.212587,,,,,,t,2019-03-15 22:53:17.350903,{},text,4,1,Jeremiah Johnson: IDK
+90,2019-03-15 22:53:17.392626,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Jeremiah Johnson
+91,2019-03-15 22:53:17.495097,,,,,,f,,{},text,3,1,Jesse Martin: Good night rebecca

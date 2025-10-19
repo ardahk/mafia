@@ -1,0 +1,109 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-01-27 02:00:03.323726,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-01-27 02:00:32.562585,,,,,,f,,{},vote,4,1,Wendy White: Christopher Bailey
+3,2019-01-27 02:00:34.564959,,,,,,f,,{},text,2,1,Nicolas Cole: I say lets get rid of Gregory
+4,2019-01-27 02:01:10.719531,,,,,,f,,{},info,1,1,Phase Change to Daytime
+7,2019-01-27 02:01:26.058459,,,,,,f,,{},text,8,1,Danielle Castro: hey
+12,2019-01-27 02:01:43.533825,,,,,,f,,{},text,4,1,Wendy White: Hi!
+13,2019-01-27 02:01:44.322544,,,,,,f,,{},text,6,1,"Robin Rodriguez: So, how's all you'se doin'."
+15,2019-01-27 02:01:53.432055,,,,,,f,,{},text,2,1,Nicolas Cole: hi yall
+16,2019-01-27 02:01:58.076852,,,,,,f,,{},text,8,1,Danielle Castro: whodunnit
+18,2019-01-27 02:02:20.220524,,,,,,f,,{},text,4,1,Wendy White: Is that English?
+20,2019-01-27 02:02:24.368231,,,,,,f,,{},text,8,1,Danielle Castro: colonel mustard in the library with the candlestick
+22,2019-01-27 02:02:29.010003,,,,,,f,,{},vote,2,1,Nicolas Cole: Matthew Taylor
+24,2019-01-27 02:02:38.631458,,,,,,f,,{},text,8,1,Danielle Castro: wrong game
+27,2019-01-27 02:02:56.05675,,,,,,f,,{},vote,4,1,Wendy White: Matthew Taylor
+28,2019-01-27 02:02:59.653189,,,,,,f,,{},text,2,1,Nicolas Cole: who's the mouthiest???
+29,2019-01-27 02:03:04.020641,,,,,,f,,{},text,6,1,Robin Rodriguez: You'se better not be think'in of pushin' a button on Robin Lefty Rodriguez!
+32,2019-01-27 02:03:22.941279,,,,,,f,,{},text,8,1,Danielle Castro: eyy fuggeddaboutit
+33,2019-01-27 02:03:45.129067,,,,,,f,,{},vote,8,1,Danielle Castro: Chelsea Cook
+34,2019-01-27 02:03:49.513238,,,,,,f,,{},text,6,1,Robin Rodriguez: Hey I'm just playin' wit' you'se.
+30,2019-01-27 02:03:13.243838,,,,,,t,2019-01-27 02:03:51.846127,{},text,11,1,Matthew Taylor: who do you all want eliminate?
+26,2019-01-27 02:02:53.405336,,,,,,t,2019-01-27 02:03:51.863983,{},text,11,1,Matthew Taylor: just chat
+25,2019-01-27 02:02:41.070603,,,,,,t,2019-01-27 02:03:51.884016,{},text,11,1,Matthew Taylor: oh really
+17,2019-01-27 02:02:11.751462,,,,,,t,2019-01-27 02:03:51.922143,{},text,11,1,Matthew Taylor: going to eliminate you..ah aha
+8,2019-01-27 02:01:29.3936,,,,,,t,2019-01-27 02:03:51.955152,{},vote,11,1,Matthew Taylor: Gregory Ware
+6,2019-01-27 02:01:22.952238,,,,,,t,2019-01-27 02:03:51.994793,{},text,11,1,Matthew Taylor: hello
+35,2019-01-27 02:03:54.394433,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+36,2019-01-27 02:03:54.461697,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+37,2019-01-27 02:03:54.660765,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+38,2019-01-27 02:03:54.904263,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+39,2019-01-27 02:03:55.233224,,,,,,f,,{},text,2,1,Nicolas Cole: Matt has a lot to say...
+40,2019-01-27 02:03:55.939006,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+41,2019-01-27 02:03:56.309858,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+42,2019-01-27 02:04:10.057813,,,,,,f,,{},text,4,1,Wendy White: Hey
+43,2019-01-27 02:04:21.4675,,,,,,f,,{},text,4,1,Wendy White: OH yeah
+44,2019-01-27 02:04:35.875949,,,,,,f,,{},text,2,1,"Nicolas Cole: Hi, I vote for Amanda"
+45,2019-01-27 02:04:55.509863,,,,,,f,,{},text,2,1,Nicolas Cole: It's too dark to see the screen
+46,2019-01-27 02:05:00.791958,,,,,,f,,{},info,1,1,Phase Change to Daytime
+47,2019-01-27 02:05:01.153416,,,,,,f,,{},info,1,1,Phase Change to Daytime
+49,2019-01-27 02:05:36.091913,,,,,,f,,{},vote,6,1,Robin Rodriguez: Amanda Pearson
+50,2019-01-27 02:05:38.677494,,,,,,f,,{},text,2,1,Nicolas Cole: Yeah lets kill off Matthew!
+53,2019-01-27 02:05:53.111874,,,,,,f,,{},text,4,1,Wendy White: Who's next?
+56,2019-01-27 02:06:06.511947,,,,,,f,,{},text,2,1,Nicolas Cole: He;s already dead..how about Chelsea
+57,2019-01-27 02:06:10.018761,,,,,,f,,{},text,6,1,Robin Rodriguez: Yeah! That guy's a rat fink.
+58,2019-01-27 02:06:11.261053,,,,,,f,,{},text,8,1,Danielle Castro: damn those instant votes
+60,2019-01-27 02:06:24.023612,,,,,,f,,{},vote,2,1,Nicolas Cole: Chelsea Cook
+64,2019-01-27 02:06:39.201016,,,,,,f,,{},vote,8,1,Danielle Castro: Chelsea Cook
+67,2019-01-27 02:06:48.573787,,,,,,f,,{},vote,4,1,Wendy White: Chelsea Cook
+70,2019-01-27 02:06:59.579929,,,,,,f,,{},text,6,1,Robin Rodriguez: I'm an upstandin' citzen!
+71,2019-01-27 02:07:05.644125,,,,,,f,,{},text,4,1,Wendy White: Peace out
+73,2019-01-27 02:07:28.610154,,,,,,f,,{},text,6,1,Robin Rodriguez: A bidnessman!
+75,2019-01-27 02:07:41.722471,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+76,2019-01-27 02:07:41.92697,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+78,2019-01-27 02:07:42.408628,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+83,2019-01-27 02:08:34.247673,,,,,,f,,{},text,4,1,Wendy White: I hate the scrolling
+84,2019-01-27 02:08:39.525503,,,,,,f,,{},text,2,1,Nicolas Cole: amanda is history
+85,2019-01-27 02:08:44.300869,,,,,,f,,{},vote,4,1,Wendy White: Amanda Pearson
+5,2019-01-27 02:01:22.466341,,,,,,t,2019-01-27 02:08:49.990001,{},vote,12,1,Amanda Pearson: Robin Rodriguez
+9,2019-01-27 02:01:30.889402,,,,,,t,2019-01-27 02:08:50.027915,{},text,12,1,Amanda Pearson: Hi there
+94,2019-01-27 02:09:38.227716,,,,,,f,,{},vote,2,1,Nicolas Cole: Gregory Ware
+11,2019-01-27 02:01:38.985697,,,,,,t,2019-01-27 02:11:29.986839,{},vote,10,1,Gregory Ware: Matthew Taylor
+14,2019-01-27 02:01:44.656851,,,,,,t,2019-01-27 02:11:30.032692,{},text,10,1,Gregory Ware: hello
+52,2019-01-27 02:05:41.518611,,,,,,t,2019-01-27 02:11:30.063753,{},text,10,1,Gregory Ware: hahahahaha
+61,2019-01-27 02:06:27.572434,,,,,,t,2019-01-27 02:11:30.091685,{},vote,10,1,Gregory Ware: Chelsea Cook
+66,2019-01-27 02:06:41.53512,,,,,,t,2019-01-27 02:11:30.116558,{},text,10,1,Gregory Ware: go for chelsea
+74,2019-01-27 02:07:37.958711,,,,,,f,,{},text,4,1,Wendy White: Or Amanda
+77,2019-01-27 02:07:42.286419,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+79,2019-01-27 02:07:42.823969,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+82,2019-01-27 02:08:14.72036,,,,,,f,,{},vote,2,1,Nicolas Cole: Amanda Pearson
+95,2019-01-27 02:09:40.48476,,,,,,f,,{},text,6,1,"Robin Rodriguez: Any of you'se want a big screen TV, I got a bunch of 'em, 80% off!"
+92,2019-01-27 02:09:14.74426,,,,,,t,2019-01-27 02:11:30.285698,{},text,10,1,Gregory Ware: kill me first..hahahah
+97,2019-01-27 02:09:43.711618,,,,,,t,2019-01-27 02:11:30.373488,{},text,10,1,Gregory Ware: thank you
+10,2019-01-27 02:01:31.001174,,,,,,t,2019-01-27 02:07:40.086186,{},text,7,1,Chelsea Cook: Hello
+19,2019-01-27 02:02:23.864022,,,,,,t,2019-01-27 02:07:40.112667,{},text,7,1,"Chelsea Cook: Amanda Pearson was pretty quick to cast her vote, seems suspicious to me"
+23,2019-01-27 02:02:33.974254,,,,,,t,2019-01-27 02:07:40.13972,{},vote,7,1,Chelsea Cook: Amanda Pearson
+48,2019-01-27 02:05:16.19815,,,,,,t,2019-01-27 02:07:40.167673,{},text,7,1,Chelsea Cook: RIP Matthew
+54,2019-01-27 02:05:54.998867,,,,,,t,2019-01-27 02:07:40.200837,{},vote,7,1,Chelsea Cook: Amanda Pearson
+62,2019-01-27 02:06:28.280415,,,,,,t,2019-01-27 02:07:40.227645,{},text,7,1,Chelsea Cook: I dindu nuffin
+65,2019-01-27 02:06:40.072993,,,,,,t,2019-01-27 02:07:40.247183,{},text,7,1,Chelsea Cook: RIP me
+69,2019-01-27 02:06:55.164858,,,,,,t,2019-01-27 02:07:40.27302,{},text,7,1,Chelsea Cook: gg mafia
+80,2019-01-27 02:07:54.322124,,,,,,f,,{},text,4,1,Wendy White: I say Amanda is next
+81,2019-01-27 02:08:01.832765,,,,,,f,,{},text,2,1,"Nicolas Cole: Pick one,  I can barely read the text"
+90,2019-01-27 02:08:52.465989,,,,,,f,,{},info,1,1,Phase Change to Daytime
+93,2019-01-27 02:09:31.879696,,,,,,f,,{},text,2,1,Nicolas Cole: Ok Greg you;'re dead to me
+96,2019-01-27 02:09:40.770699,,,,,,f,,{},text,8,1,Danielle Castro: who got voted off the island?
+21,2019-01-27 02:02:28.080727,,,,,,t,2019-01-27 02:08:50.03988,{},text,12,1,Amanda Pearson: That sounds suspicious...
+31,2019-01-27 02:03:20.372928,,,,,,t,2019-01-27 02:08:50.056922,{},text,12,1,Amanda Pearson: It seems like Robin Rodriguez is trying to intimidate us!
+51,2019-01-27 02:05:39.256223,,,,,,t,2019-01-27 02:08:50.072451,{},text,12,1,Amanda Pearson: Sorry Matthew :(
+55,2019-01-27 02:05:59.341961,,,,,,t,2019-01-27 02:08:50.091992,{},text,12,1,Amanda Pearson: Robin is still trying to intimidate us!
+59,2019-01-27 02:06:17.780799,,,,,,t,2019-01-27 02:08:50.149382,{},text,12,1,Amanda Pearson: Chelsea?
+63,2019-01-27 02:06:34.506159,,,,,,t,2019-01-27 02:08:50.167381,{},vote,12,1,Amanda Pearson: Chelsea Cook
+68,2019-01-27 02:06:52.697803,,,,,,t,2019-01-27 02:08:50.188171,{},text,12,1,Amanda Pearson: Sorry Chelsea you seem to protest too much :(
+72,2019-01-27 02:07:09.484692,,,,,,t,2019-01-27 02:08:50.207738,{},text,12,1,Amanda Pearson: Robin next...
+86,2019-01-27 02:08:51.241765,,,,,,f,,{},info,1,1,Phase Change to Daytime
+87,2019-01-27 02:08:51.725759,,,,,,f,,{},info,1,1,Phase Change to Daytime
+88,2019-01-27 02:08:51.976343,,,,,,f,,{},info,1,1,Phase Change to Daytime
+89,2019-01-27 02:08:52.180583,,,,,,f,,{},info,1,1,Phase Change to Daytime
+91,2019-01-27 02:08:55.994624,,,,,,f,,{},text,12,1,"Amanda Pearson: Sorry Robin, but you sound suspicious"
+98,2019-01-27 02:09:56.998179,,,,,,f,,{},text,4,1,Wendy White: See ya Greg
+99,2019-01-27 02:10:03.835823,,,,,,f,,{},vote,4,1,Wendy White: Gregory Ware
+101,2019-01-27 02:10:31.015826,,,,,,f,,{},vote,8,1,Danielle Castro: Wendy White
+103,2019-01-27 02:10:46.521509,,,,,,f,,{},text,2,1,Nicolas Cole: gregory was suicidial
+104,2019-01-27 02:10:54.250745,,,,,,f,,{},text,4,1,Wendy White: haha
+105,2019-01-27 02:10:55.258485,,,,,,f,,{},text,6,1,Robin Rodriguez: 'Day fell off a truck.
+100,2019-01-27 02:10:12.729192,,,,,,t,2019-01-27 02:11:30.396704,{},text,10,1,Gregory Ware: :D
+102,2019-01-27 02:10:39.650135,,,,,,t,2019-01-27 02:11:30.412581,{},vote,10,1,Gregory Ware: Nicolas Cole
+106,2019-01-27 02:11:30.524795,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+107,2019-01-27 02:11:30.920692,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+108,2019-01-27 02:11:31.139158,,,,,,f,,{},info,1,1,Phase Change to Nighttime

@@ -1,0 +1,82 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-12 20:37:37.840334,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-12 20:37:59.467239,,,,,,f,,{},text,3,1,"Monica Sweeney: Hi, who do we want to take out?"
+4,2019-03-12 20:38:13.591138,,,,,,f,,{},vote,3,1,Monica Sweeney: Thomas Mcconnell
+6,2019-03-12 20:38:42.691318,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Thomas Mcconnell
+9,2019-03-12 20:38:56.829468,,,,,,f,,{},text,3,1,Monica Sweeney: Hi everyone
+14,2019-03-12 20:39:07.019151,,,,,,f,,{},text,6,1,Colin Case: Hello
+17,2019-03-12 20:39:52.918939,,,,,,f,,{},vote,6,1,Colin Case: Felicia Schwartz
+19,2019-03-12 20:40:09.857987,,,,,,f,,{},vote,3,1,Monica Sweeney: Curtis Lawrence
+23,2019-03-12 20:40:43.96411,,,,,,f,,{},text,6,1,Colin Case: Why vote Curtis? 
+28,2019-03-12 20:41:21.489216,,,,,,f,,{},text,6,1,Colin Case: Benyamin is correct.
+25,2019-03-12 20:41:06.221861,,,,,,t,2019-03-12 20:41:23.000318,{},text,9,1,"Curtis Lawrence: I guarantee you I'm not mafia, but do what you gotta do."
+21,2019-03-12 20:40:25.755141,,,,,,t,2019-03-12 20:41:23.009963,{},text,9,1,Curtis Lawrence: well nice knowing you!
+16,2019-03-12 20:39:42.2773,,,,,,t,2019-03-12 20:41:23.016989,{},vote,9,1,Curtis Lawrence: Danny Owens
+15,2019-03-12 20:39:09.386373,,,,,,t,2019-03-12 20:41:23.025816,{},text,9,1,Curtis Lawrence: hello
+30,2019-03-12 20:41:23.552405,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Curtis Lawrence
+33,2019-03-12 20:41:57.791302,,,,,,f,,{},text,3,1,Monica Sweeney: Then they'll know it was you
+35,2019-03-12 20:42:17.456168,,,,,,f,,{},text,3,1,Monica Sweeney: We can do Danny and try to throw them off the tail?
+13,2019-03-12 20:39:02.390372,,,,,,t,2019-03-12 20:42:31.815923,{},vote,5,1,Danny Owens: Curtis Lawrence
+10,2019-03-12 20:38:58.26558,,,,,,t,2019-03-12 20:42:31.835143,{},text,5,1,Danny Owens: hi
+38,2019-03-12 20:42:32.573627,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Danny Owens
+39,2019-03-12 20:42:36.712598,,,,,,f,,{},text,5,1,Danny Owens: hi
+41,2019-03-12 20:42:47.818195,,,,,,f,,{},vote,6,1,Colin Case: Felicia Schwartz
+44,2019-03-12 20:43:15.226792,,,,,,f,,{},text,3,1,Monica Sweeney: I dream of Curtis?
+48,2019-03-12 20:43:42.141264,,,,,,f,,{},text,3,1,Monica Sweeney: Why are we voting Felicia?
+52,2019-03-12 20:44:19.366723,,,,,,f,,{},text,3,1,Monica Sweeney: Wait what?
+53,2019-03-12 20:44:23.274227,,,,,,f,,{},text,3,1,Monica Sweeney: I mean I'm all for bye Felicia lol
+59,2019-03-12 20:44:51.125405,,,,,,f,,{},vote,3,1,Monica Sweeney: Benjamin Wright
+60,2019-03-12 20:44:55.448336,,,,,,f,,{},text,6,1,Colin Case: 4 votes? people afk?
+3,2019-03-12 20:38:08.473982,,,,,,t,2019-03-12 20:45:12.41953,{},text,2,1,Felicia Schwartz: We should vote on Thomas McConnel
+5,2019-03-12 20:38:23.974881,,,,,,t,2019-03-12 20:45:12.430411,{},vote,2,1,Felicia Schwartz: Thomas Mcconnell
+12,2019-03-12 20:39:00.953463,,,,,,t,2019-03-12 20:45:12.44072,{},text,2,1,Felicia Schwartz: hey everybody
+20,2019-03-12 20:40:15.691173,,,,,,t,2019-03-12 20:45:12.457486,{},vote,2,1,Felicia Schwartz: Curtis Lawrence
+24,2019-03-12 20:40:52.163155,,,,,,t,2019-03-12 20:45:12.469513,{},text,2,1,Felicia Schwartz: is he the mafioso?
+31,2019-03-12 20:41:44.767603,,,,,,t,2019-03-12 20:45:12.479551,{},text,2,1,Felicia Schwartz: lets take out benjamin writght
+32,2019-03-12 20:41:49.98683,,,,,,t,2019-03-12 20:45:12.491594,{},text,2,1,Felicia Schwartz: knows too much!
+65,2019-03-12 20:45:37.70303,,,,,,f,,{},vote,3,1,Monica Sweeney: Tyler Howell
+11,2019-03-12 20:38:58.515281,,,,,,t,2019-03-12 20:46:21.843274,{},text,8,1,Tyler Howell: Hi
+22,2019-03-12 20:40:31.217997,,,,,,t,2019-03-12 20:46:21.854419,{},text,8,1,Tyler Howell: lol
+29,2019-03-12 20:41:21.53612,,,,,,t,2019-03-12 20:46:21.865722,{},vote,8,1,Tyler Howell: Felicia Schwartz
+42,2019-03-12 20:42:49.579863,,,,,,t,2019-03-12 20:46:21.877298,{},text,8,1,Tyler Howell: Curtis lives!
+45,2019-03-12 20:43:15.422503,,,,,,t,2019-03-12 20:46:21.886765,{},text,8,1,Tyler Howell: awww
+49,2019-03-12 20:43:57.83316,,,,,,t,2019-03-12 20:46:21.895736,{},text,8,1,Tyler Howell: So we can say bye to her?
+54,2019-03-12 20:44:24.371671,,,,,,t,2019-03-12 20:46:21.904344,{},text,8,1,Tyler Howell: What makes you think she knew that?
+57,2019-03-12 20:44:38.624278,,,,,,t,2019-03-12 20:46:21.914368,{},text,8,1,Tyler Howell: She only asked if curtis was
+62,2019-03-12 20:45:02.137019,,,,,,t,2019-03-12 20:46:21.926054,{},vote,8,1,Tyler Howell: Felicia Schwartz
+68,2019-03-12 20:47:05.173331,,,,,,f,,{},vote,6,1,Colin Case: Justin Johnson
+72,2019-03-12 20:47:44.407433,,,,,,f,,{},vote,3,1,Monica Sweeney: Justin Johnson
+74,2019-03-12 20:48:23.277728,,,,,,f,,{},text,3,1,Monica Sweeney: lol
+75,2019-03-12 20:48:38.453934,,,,,,f,,{},text,3,1,"Monica Sweeney: Well I guess you get to finish early, sorry Justin :("
+8,2019-03-12 20:38:53.503191,,,,,,t,2019-03-12 20:49:02.047881,{},text,10,1,Justin Johnson: hello
+27,2019-03-12 20:41:12.262012,,,,,,t,2019-03-12 20:49:02.090824,{},vote,10,1,Justin Johnson: Curtis Lawrence
+46,2019-03-12 20:43:23.410046,,,,,,t,2019-03-12 20:49:02.120967,{},vote,10,1,Justin Johnson: Felicia Schwartz
+79,2019-03-12 20:49:02.889528,,,,,,f,,{},text,3,1,Monica Sweeney: I think Ben and Colin are gonna win
+80,2019-03-12 20:49:07.050525,,,,,,f,,{},vote,3,1,Monica Sweeney: Benjamin Wright
+7,2019-03-12 20:38:52.015899,,,,,,t,2019-03-12 20:50:11.641863,{},text,4,1,Benjamin Wright: Hello
+18,2019-03-12 20:40:01.834827,,,,,,t,2019-03-12 20:50:11.649364,{},vote,4,1,Benjamin Wright: Curtis Lawrence
+34,2019-03-12 20:42:15.659799,,,,,,t,2019-03-12 20:45:12.50431,{},text,2,1,"Felicia Schwartz: haha yeah i was thinking that, but they might not notice"
+36,2019-03-12 20:42:20.853624,,,,,,t,2019-03-12 20:45:12.514478,{},text,2,1,Felicia Schwartz: danny
+37,2019-03-12 20:42:26.455293,,,,,,t,2019-03-12 20:45:12.526799,{},vote,2,1,Felicia Schwartz: Danny Owens
+51,2019-03-12 20:44:10.983602,,,,,,t,2019-03-12 20:45:12.53845,{},text,2,1,Felicia Schwartz: hm?
+55,2019-03-12 20:44:24.769139,,,,,,t,2019-03-12 20:45:12.551059,{},text,2,1,Felicia Schwartz: i asked if we got him cause i thought we won
+56,2019-03-12 20:44:36.291761,,,,,,t,2019-03-12 20:45:12.564728,{},text,2,1,Felicia Schwartz: you sound very suspicious benjamin
+58,2019-03-12 20:44:44.104698,,,,,,t,2019-03-12 20:45:12.574604,{},vote,2,1,Felicia Schwartz: Benjamin Wright
+64,2019-03-12 20:45:12.875089,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Felicia Schwartz
+66,2019-03-12 20:46:22.08773,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Tyler Howell
+71,2019-03-12 20:47:42.117938,,,,,,t,2019-03-12 20:49:02.169318,{},vote,10,1,Justin Johnson: Benjamin Wright
+76,2019-03-12 20:48:55.001363,,,,,,t,2019-03-12 20:49:02.193194,{},text,10,1,"Justin Johnson: its ok, I am kinda over this lol"
+67,2019-03-12 20:46:59.079099,,,,,,t,2019-03-12 20:50:11.729658,{},text,4,1,"Benjamin Wright: Well who is left, what do you all think, who could it be"
+73,2019-03-12 20:48:17.334408,,,,,,t,2019-03-12 20:49:02.145497,{},text,10,1,Justin Johnson: 39 minutes and no bonus...might be underpaid? lol
+77,2019-03-12 20:49:02.48044,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Justin Johnson
+26,2019-03-12 20:41:09.241555,,,,,,t,2019-03-12 20:50:11.656281,{},text,4,1,Benjamin Wright: Felicia is mafioso
+40,2019-03-12 20:42:43.625813,,,,,,t,2019-03-12 20:50:11.663604,{},vote,4,1,Benjamin Wright: Felicia Schwartz
+43,2019-03-12 20:43:07.786405,,,,,,t,2019-03-12 20:50:11.670477,{},text,4,1,Benjamin Wright: only in our dreams
+47,2019-03-12 20:43:25.575098,,,,,,t,2019-03-12 20:50:11.677335,{},text,4,1,Benjamin Wright: no silly you dream of me
+50,2019-03-12 20:44:00.123747,,,,,,t,2019-03-12 20:50:11.684412,{},text,4,1,Benjamin Wright: well she knew who was mafioso before so she must be mafioso herself
+61,2019-03-12 20:44:55.638873,,,,,,t,2019-03-12 20:50:11.693669,{},text,4,1,Benjamin Wright: take it as you will but I'm quite certain about her now
+63,2019-03-12 20:45:08.893878,,,,,,t,2019-03-12 20:50:11.702633,{},text,4,1,Benjamin Wright: this is mturk so yes
+69,2019-03-12 20:47:28.002928,,,,,,t,2019-03-12 20:50:11.711612,{},text,4,1,Benjamin Wright: This game obviously needs a bonus that's what I think
+70,2019-03-12 20:47:32.993741,,,,,,t,2019-03-12 20:50:11.72182,{},vote,4,1,Benjamin Wright: Justin Johnson
+78,2019-03-12 20:49:02.701446,,,,,,t,2019-03-12 20:50:11.736593,{},text,4,1,Benjamin Wright: ya this is the worst
+81,2019-03-12 20:50:11.780752,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Benjamin Wright

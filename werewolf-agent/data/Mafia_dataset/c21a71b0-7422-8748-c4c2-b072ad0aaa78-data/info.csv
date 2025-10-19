@@ -1,0 +1,95 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-10 23:34:49.98479,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+4,2019-03-10 23:35:56.628585,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Paul Gaines
+10,2019-03-10 23:36:29.85151,,,,,,f,,{},text,14,1,Alicia Esparza: not me!!
+16,2019-03-10 23:36:39.852587,,,,,,f,,{},text,14,1,Alicia Esparza: by cory
+26,2019-03-10 23:37:14.381562,,,,,,f,,{},vote,14,1,Alicia Esparza: Cory Barron
+38,2019-03-10 23:38:11.21584,,,,,,f,,{},text,14,1,Alicia Esparza: bye jill
+39,2019-03-10 23:38:15.613379,,,,,,t,2019-03-10 23:38:36.249228,{},text,10,1,Cory Barron: no hard feelings
+37,2019-03-10 23:38:07.8185,,,,,,t,2019-03-10 23:38:36.25918,{},text,10,1,Cory Barron: Well good luck to you all
+30,2019-03-10 23:37:29.280784,,,,,,t,2019-03-10 23:38:36.270314,{},text,10,1,Cory Barron: I think you all should worry about Ashley. Why would she single me out?
+15,2019-03-10 23:36:37.655913,,,,,,t,2019-03-10 23:38:36.282001,{},text,10,1,Cory Barron: ashley has got to go!
+9,2019-03-10 23:36:21.190272,,,,,,t,2019-03-10 23:38:36.292246,{},text,10,1,Cory Barron: hello. not me!
+40,2019-03-10 23:38:37.298038,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Cory Barron
+32,2019-03-10 23:37:44.062463,,,,,,t,2019-03-10 23:39:45.893414,{},text,8,1,Jill Mcdonald: Yes eliminate me so I can get paid and get away from you losers
+24,2019-03-10 23:37:03.539184,,,,,,t,2019-03-10 23:39:45.906261,{},vote,8,1,Jill Mcdonald: Cory Barron
+20,2019-03-10 23:36:51.612799,,,,,,t,2019-03-10 23:39:45.915807,{},text,8,1,Jill Mcdonald: see you later cory
+11,2019-03-10 23:36:30.372989,,,,,,t,2019-03-10 23:39:45.925519,{},text,8,1,Jill Mcdonald: Im with you Cory is outta there
+7,2019-03-10 23:36:14.628514,,,,,,t,2019-03-10 23:39:45.936186,{},text,8,1,Jill Mcdonald: I say we eliminate Danielle Oliver
+42,2019-03-10 23:39:46.367141,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Jill Mcdonald
+48,2019-03-10 23:40:29.446374,,,,,,f,,{},text,14,1,Alicia Esparza: JIll
+56,2019-03-10 23:41:14.381213,,,,,,f,,{},text,14,1,Alicia Esparza: Ashley is history
+58,2019-03-10 23:41:46.224598,,,,,,f,,{},vote,14,1,Alicia Esparza: Ashley Stout
+6,2019-03-10 23:36:12.623102,,,,,,t,2019-03-10 23:42:26.141704,{},text,15,1,Ashley Stout: Cory Baron. Everyone vote Cory Baron.
+8,2019-03-10 23:36:20.047709,,,,,,t,2019-03-10 23:42:26.152195,{},text,15,1,Ashley Stout: Barron is a mafia name
+13,2019-03-10 23:36:33.771154,,,,,,t,2019-03-10 23:42:26.160296,{},text,15,1,Ashley Stout: Barron is a mafia name guys trust me
+22,2019-03-10 23:37:00.408695,,,,,,t,2019-03-10 23:42:26.168806,{},vote,15,1,Ashley Stout: Cory Barron
+27,2019-03-10 23:37:17.381009,,,,,,t,2019-03-10 23:42:26.179026,{},text,15,1,Ashley Stout: Italiansayswhat?
+34,2019-03-10 23:37:51.524585,,,,,,t,2019-03-10 23:42:26.188463,{},text,15,1,Ashley Stout: I go with my gut instinct
+43,2019-03-10 23:40:11.01283,,,,,,t,2019-03-10 23:42:26.197433,{},text,15,1,Ashley Stout: Danielle
+5,2019-03-10 23:36:10.399709,,,,,,t,2019-03-10 23:43:35.807414,{},text,13,1,Nicholas Davis: No idea who mafia might be...
+14,2019-03-10 23:36:36.745713,,,,,,t,2019-03-10 23:43:35.824374,{},text,13,1,Nicholas Davis: Nicholas Davis sounds shifty...oh wait.
+23,2019-03-10 23:37:03.357048,,,,,,t,2019-03-10 23:43:35.845963,{},vote,13,1,Nicholas Davis: Donna Farrell
+33,2019-03-10 23:37:46.448512,,,,,,t,2019-03-10 23:43:35.870528,{},text,13,1,Nicholas Davis: There doesn't seem to be any evidence for it.
+35,2019-03-10 23:38:03.878454,,,,,,t,2019-03-10 23:43:35.888112,{},text,13,1,Nicholas Davis: LOL I hope your doctor doesn't do the same
+47,2019-03-10 23:40:28.903153,,,,,,t,2019-03-10 23:43:35.899295,{},text,13,1,Nicholas Davis: I've never heard of a mafiosa named Danielle
+50,2019-03-10 23:40:34.193217,,,,,,t,2019-03-10 23:43:35.910246,{},text,13,1,Nicholas Davis: or Ashley for that matter
+60,2019-03-10 23:42:18.235801,,,,,,t,2019-03-10 23:43:35.922197,{},vote,13,1,Nicholas Davis: Ashley Stout
+61,2019-03-10 23:42:25.052696,,,,,,t,2019-03-10 23:43:35.939475,{},text,13,1,Nicholas Davis: I vote to evict the annoying
+76,2019-03-10 23:45:42.734624,,,,,,f,,{},text,14,1,Alicia Esparza: Laura for certain
+77,2019-03-10 23:46:08.832965,,,,,,f,,{},vote,14,1,Alicia Esparza: Laura Buck
+12,2019-03-10 23:36:32.026534,,,,,,t,2019-03-10 23:46:16.049998,{},text,6,1,Laura Buck: Abigail Woods
+21,2019-03-10 23:36:55.589036,,,,,,t,2019-03-10 23:46:16.058741,{},text,6,1,Laura Buck: Abigail total mafia name and awfully quit
+31,2019-03-10 23:37:38.657144,,,,,,t,2019-03-10 23:46:16.068907,{},vote,6,1,Laura Buck: Abigail Woods
+17,2019-03-10 23:36:42.452858,,,,,,t,2019-03-10 23:47:25.840702,{},text,12,1,Donna Farrell: cory
+18,2019-03-10 23:36:50.297071,,,,,,t,2019-03-10 23:47:25.85012,{},vote,12,1,Donna Farrell: Cory Barron
+25,2019-03-10 23:37:04.044506,,,,,,t,2019-03-10 23:47:25.866011,{},text,12,1,"Donna Farrell: sorry, Cory"
+59,2019-03-10 23:42:07.18822,,,,,,t,2019-03-10 23:47:25.88841,{},vote,12,1,Donna Farrell: Ashley Stout
+2,2019-03-10 23:35:07.698392,,,,,,t,2019-03-10 23:50:06.086743,{},vote,4,1,Danielle Oliver: Paul Gaines
+3,2019-03-10 23:35:26.084116,,,,,,t,2019-03-10 23:50:06.103261,{},text,4,1,Danielle Oliver: Paul Gaines needs to go
+19,2019-03-10 23:36:51.148828,,,,,,t,2019-03-10 23:50:06.122041,{},text,4,1,Danielle Oliver: Cory is dead weight
+28,2019-03-10 23:37:21.642065,,,,,,t,2019-03-10 23:50:06.136217,{},text,4,1,Danielle Oliver: Jill Mcdonald AFTER CORY
+29,2019-03-10 23:37:26.548017,,,,,,t,2019-03-10 23:50:06.149106,{},vote,4,1,Danielle Oliver: Cory Barron
+45,2019-03-10 23:40:24.570541,,,,,,t,2019-03-10 23:42:26.208893,{},text,15,1,Ashley Stout: Jill disappeared Danielle wanted Jill gone
+51,2019-03-10 23:40:40.876027,,,,,,t,2019-03-10 23:42:26.223668,{},text,15,1,Ashley Stout: yesterday Danielle wanted her gone and then she disappeared at night
+52,2019-03-10 23:40:49.971787,,,,,,t,2019-03-10 23:42:26.239587,{},text,15,1,Ashley Stout: Mobster for sure
+54,2019-03-10 23:41:04.217257,,,,,,t,2019-03-10 23:42:26.254037,{},vote,15,1,Ashley Stout: Danielle Oliver
+57,2019-03-10 23:41:39.051043,,,,,,t,2019-03-10 23:42:26.266927,{},text,15,1,"Ashley Stout: Danielle said ""Jill Mcdonald AFTER CORY"" and then she disappeared. It's obvious"
+62,2019-03-10 23:42:26.665653,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Ashley Stout
+46,2019-03-10 23:40:27.176355,,,,,,t,2019-03-10 23:46:16.077289,{},text,6,1,Laura Buck: Ashley
+55,2019-03-10 23:41:13.04952,,,,,,t,2019-03-10 23:46:16.085092,{},vote,6,1,Laura Buck: Ashley Stout
+66,2019-03-10 23:44:03.924217,,,,,,t,2019-03-10 23:46:16.094226,{},text,6,1,Laura Buck: Danielle?
+75,2019-03-10 23:45:30.884189,,,,,,t,2019-03-10 23:46:16.102344,{},vote,6,1,Laura Buck: Alicia Esparza
+78,2019-03-10 23:46:16.280385,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Laura Buck
+74,2019-03-10 23:45:26.395224,,,,,,t,2019-03-10 23:47:25.900842,{},vote,12,1,Donna Farrell: Laura Buck
+64,2019-03-10 23:43:36.227117,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Nicholas Davis
+68,2019-03-10 23:44:08.150071,,,,,,f,,{},text,14,1,Alicia Esparza: Laura
+73,2019-03-10 23:45:06.28096,,,,,,t,2019-03-10 23:46:16.111516,{},text,6,1,Laura Buck: Probably Alicia then.
+70,2019-03-10 23:44:22.346779,,,,,,t,2019-03-10 23:47:25.914303,{},text,12,1,Donna Farrell: laura
+72,2019-03-10 23:45:00.728134,,,,,,t,2019-03-10 23:47:25.92616,{},text,12,1,Donna Farrell: sadness.  I have kids
+80,2019-03-10 23:47:26.73128,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Donna Farrell
+81,2019-03-10 23:47:33.360791,,,,,,f,,{},text,16,1,Abigail Woods: Well good luck to you all
+83,2019-03-10 23:47:55.362862,,,,,,f,,{},text,16,1,Abigail Woods:  I've never heard of a mafiosa named Danielle
+84,2019-03-10 23:48:06.983575,,,,,,f,,{},text,14,1,Alicia Esparza: Danielle must go now
+85,2019-03-10 23:48:07.691624,,,,,,f,,{},text,16,1,Abigail Woods: Jill has bad attitude
+87,2019-03-10 23:48:50.47058,,,,,,f,,{},text,16,1,Abigail Woods:  Cory is dead weight
+88,2019-03-10 23:49:02.360271,,,,,,f,,{},text,14,1,Alicia Esparza: cory is gone
+90,2019-03-10 23:49:32.606326,,,,,,f,,{},text,16,1,Abigail Woods: see you later cory
+91,2019-03-10 23:49:39.10303,,,,,,f,,{},vote,14,1,Alicia Esparza: Danielle Oliver
+93,2019-03-10 23:50:00.13507,,,,,,f,,{},text,16,1,Abigail Woods: I go with my gut instinct
+36,2019-03-10 23:38:05.090374,,,,,,t,2019-03-10 23:50:06.163711,{},text,4,1,Danielle Oliver: Jill has bad attitude 
+41,2019-03-10 23:38:46.890879,,,,,,t,2019-03-10 23:50:06.176517,{},vote,4,1,Danielle Oliver: Jill Mcdonald
+44,2019-03-10 23:40:22.753522,,,,,,t,2019-03-10 23:50:06.190628,{},text,4,1,Danielle Oliver: 100 % ASHLEY
+49,2019-03-10 23:40:33.894303,,,,,,t,2019-03-10 23:50:06.204294,{},vote,4,1,Danielle Oliver: Ashley Stout
+53,2019-03-10 23:41:03.976835,,,,,,t,2019-03-10 23:50:06.219201,{},text,4,1,Danielle Oliver: Ashley needs to GO 100%
+63,2019-03-10 23:42:45.076787,,,,,,t,2019-03-10 23:50:06.237813,{},vote,4,1,Danielle Oliver: Nicholas Davis
+65,2019-03-10 23:44:00.447621,,,,,,t,2019-03-10 23:50:06.253878,{},text,4,1,Danielle Oliver: DONNA needs to GO next
+67,2019-03-10 23:44:06.986402,,,,,,t,2019-03-10 23:50:06.264941,{},vote,4,1,Danielle Oliver: Donna Farrell
+69,2019-03-10 23:44:14.482539,,,,,,t,2019-03-10 23:50:06.273995,{},text,4,1,Danielle Oliver: yes laura
+71,2019-03-10 23:44:46.300203,,,,,,t,2019-03-10 23:50:06.281824,{},text,4,1,Danielle Oliver: Laura then DONNA
+79,2019-03-10 23:46:32.57869,,,,,,t,2019-03-10 23:50:06.291801,{},vote,4,1,Danielle Oliver: Donna Farrell
+82,2019-03-10 23:47:46.879659,,,,,,t,2019-03-10 23:50:06.301941,{},text,4,1,Danielle Oliver: ABIGAIL
+86,2019-03-10 23:48:31.684703,,,,,,t,2019-03-10 23:50:06.315216,{},text,4,1,Danielle Oliver: alicia 100% must go
+89,2019-03-10 23:49:19.457211,,,,,,t,2019-03-10 23:50:06.326561,{},vote,4,1,Danielle Oliver: Alicia Esparza
+92,2019-03-10 23:49:50.137962,,,,,,t,2019-03-10 23:50:06.342235,{},text,4,1,Danielle Oliver: c-ya cory
+94,2019-03-10 23:50:06.39369,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Danielle Oliver

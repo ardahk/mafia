@@ -1,0 +1,12 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-13 02:05:59.035934,,,,,,f,,{},source,1,
+2,2019-03-13 02:16:26.915771,Jay Williams,True,,,,f,,{},mafioso,1,8
+3,2019-03-13 02:16:27.000359,Abigail Perez,True,,,,f,,{},mafioso,1,10
+10,2019-03-13 02:16:27.795486,Michael Sharp,True,,,,f,,{},bystander,1,2
+12,2019-03-13 02:16:28.569363,John Bridges,True,,,,f,,{},bystander,1,7
+11,2019-03-13 02:16:27.895771,Karen Smith,False,2019-03-13 02:17:32.381605,,,f,,{},bystander,1,6
+4,2019-03-13 02:16:27.119226,Jason Rodriguez,False,2019-03-13 02:20:13.870741,,,f,,{},bystander,1,1
+13,2019-03-13 02:16:30.107204,Matthew Franco,False,2019-03-13 02:21:22.243681,,,f,,{},bystander,1,3
+7,2019-03-13 02:16:27.390317,Austin Williams,False,2019-03-13 02:24:02.992593,,,f,,{},bystander,1,5
+8,2019-03-13 02:16:27.504925,Jerry Pearson,False,2019-03-13 02:25:12.53132,,,f,,{},bystander,1,4
+6,2019-03-13 02:16:27.335782,Kelly Mclaughlin,False,2019-03-13 02:27:52.540797,,,f,,{},bystander,1,9

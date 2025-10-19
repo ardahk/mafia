@@ -1,0 +1,38 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-15 22:43:52.182866,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-15 22:44:07.992482,,,,,,f,,{},text,3,1,Marissa Hernandez: Hello
+3,2019-03-15 22:44:11.477925,,,,,,f,,{},vote,2,1,Bridget Russell: Anthony Armstrong
+4,2019-03-15 22:44:19.33216,,,,,,f,,{},text,2,1,Bridget Russell: Hey
+5,2019-03-15 22:44:23.630289,,,,,,f,,{},text,3,1,Marissa Hernandez: Eliminate the first in list?
+6,2019-03-15 22:44:32.833469,,,,,,f,,{},text,2,1,Bridget Russell: Sure.
+7,2019-03-15 22:44:37.013738,,,,,,f,,{},vote,3,1,Marissa Hernandez: John Willis
+8,2019-03-15 22:44:58.985056,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Anthony Armstrong
+9,2019-03-15 22:45:04.098344,,,,,,f,,{},text,3,1,Marissa Hernandez: Hello
+10,2019-03-15 22:45:15.26754,,,,,,f,,{},text,4,1,John Willis: Hi
+11,2019-03-15 22:45:17.964899,,,,,,f,,{},text,3,1,Marissa Hernandez: Eliminate the first in list?
+12,2019-03-15 22:45:19.777428,,,,,,f,,{},text,9,1,William Sullivan: Good morning!
+13,2019-03-15 22:45:30.010997,,,,,,f,,{},vote,3,1,Marissa Hernandez: Alexander Rhodes
+14,2019-03-15 22:45:30.950993,,,,,,f,,{},text,4,1,John Willis: I was thinking 2nd. 
+15,2019-03-15 22:45:39.733937,,,,,,f,,{},vote,4,1,John Willis: Alexander Rhodes
+16,2019-03-15 22:45:53.670434,,,,,,f,,{},text,4,1,John Willis: Morning!
+18,2019-03-15 22:46:07.661768,,,,,,f,,{},text,3,1,Marissa Hernandez: Lets just take it from the top
+19,2019-03-15 22:46:18.650707,,,,,,f,,{},text,2,1,Bridget Russell: Why not
+20,2019-03-15 22:46:29.31308,,,,,,f,,{},text,4,1,John Willis: Sounds good.
+21,2019-03-15 22:46:52.944231,,,,,,f,,{},text,2,1,Bridget Russell: I believe we all have differently ordered lists
+22,2019-03-15 22:47:02.446912,,,,,,f,,{},text,9,1,William Sullivan: Def different orders
+23,2019-03-15 22:47:03.400878,,,,,,f,,{},text,4,1,"John Willis: Yeah, we do. "
+24,2019-03-15 22:47:17.34292,,,,,,f,,{},text,3,1,Marissa Hernandez: Ok I will be more explicit 
+25,2019-03-15 22:47:20.733151,,,,,,f,,{},text,3,1,Marissa Hernandez: Sorry :D
+26,2019-03-15 22:47:33.933432,,,,,,f,,{},text,3,1,Marissa Hernandez: See you tomorrow morning :X
+27,2019-03-15 22:47:39.704425,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Alexander Rhodes
+28,2019-03-15 22:47:50.633037,,,,,,f,,{},text,2,1,"Bridget Russell: Alright, who will it be"
+29,2019-03-15 22:47:53.614689,,,,,,f,,{},text,3,1,Marissa Hernandez: Ok i have benjamin miller first on my list
+30,2019-03-15 22:47:57.710666,,,,,,f,,{},vote,3,1,Marissa Hernandez: Benjamin Miller
+31,2019-03-15 22:48:01.063096,,,,,,f,,{},text,2,1,"Bridget Russell: Ok, let's do it"
+32,2019-03-15 22:48:12.681516,,,,,,f,,{},text,2,1,Bridget Russell: This experiment is ridiculous
+33,2019-03-15 22:48:13.404733,,,,,,f,,{},text,3,1,Marissa Hernandez: im going to tell the daytime people the first person on my list
+34,2019-03-15 22:48:16.889253,,,,,,f,,{},text,3,1,Marissa Hernandez: haha yes
+35,2019-03-15 22:48:30.299784,,,,,,f,,{},text,2,1,"Bridget Russell: Ok, that's also a fair way to pick"
+36,2019-03-15 22:48:37.45127,,,,,,f,,{},vote,2,1,Bridget Russell: Benjamin Miller
+17,2019-03-15 22:46:02.936018,,,,,,t,2019-03-15 22:48:48.798168,{},vote,8,1,Benjamin Miller: Alexander Rhodes
+37,2019-03-15 22:48:48.864409,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Benjamin Miller

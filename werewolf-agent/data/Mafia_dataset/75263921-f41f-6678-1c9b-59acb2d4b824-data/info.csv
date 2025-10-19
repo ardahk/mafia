@@ -1,0 +1,33 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-13 18:28:00.28037,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-13 18:28:48.36162,,,,,,f,,{},text,2,1,Brandy Knight: Kelly Lopez has to go
+3,2019-03-13 18:29:05.535691,,,,,,f,,{},info,1,1,Phase Change to Daytime
+4,2019-03-13 18:29:21.622361,,,,,,f,,{},vote,2,1,Brandy Knight: Kelly Lopez
+6,2019-03-13 18:29:28.483525,,,,,,f,,{},text,10,1,Elizabeth Mason: who should we get rid of?
+10,2019-03-13 18:30:34.633806,,,,,,f,,{},text,10,1,Elizabeth Mason: kelly?
+12,2019-03-13 18:30:59.426035,,,,,,f,,{},vote,10,1,Elizabeth Mason: Kelly Lopez
+13,2019-03-13 18:31:15.383261,,,,,,f,,{},text,2,1,Brandy Knight: I'm here.  I just hate to pick someone to get rid of.
+17,2019-03-13 18:31:45.653866,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Kelly Lopez
+18,2019-03-13 18:32:21.579942,,,,,,f,,{},text,2,1,Brandy Knight: lets get rid of Cody
+19,2019-03-13 18:32:51.224995,,,,,,f,,{},vote,2,1,Brandy Knight: Cody Henderson Jr.
+16,2019-03-13 18:31:36.82083,,,,,,t,2019-03-13 18:32:55.194903,{},text,8,1,Cody Henderson Jr.: Well it looks like the majority picked poor K. Lo
+14,2019-03-13 18:31:22.480936,,,,,,t,2019-03-13 18:32:55.207986,{},vote,8,1,Cody Henderson Jr.: Kelly Lopez
+11,2019-03-13 18:30:44.055448,,,,,,t,2019-03-13 18:32:55.22246,{},text,8,1,"Cody Henderson Jr.: Ronald, William, Kelly, Brandy are still quiet"
+9,2019-03-13 18:30:04.202669,,,,,,t,2019-03-13 18:32:55.2311,{},text,8,1,Cody Henderson Jr.: I mean probably vote with 30 seconds left at least.
+8,2019-03-13 18:29:47.033965,,,,,,t,2019-03-13 18:32:55.239248,{},text,8,1,Cody Henderson Jr.: Let's see who speaks up.
+5,2019-03-13 18:29:23.922398,,,,,,t,2019-03-13 18:32:55.248323,{},text,8,1,Cody Henderson Jr.: Well it seems the mafia missed their first chance mwuhaha
+20,2019-03-13 18:32:55.466028,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Cody Henderson Jr.
+22,2019-03-13 18:33:54.610858,,,,,,f,,{},vote,10,1,Elizabeth Mason: Ronald Smith
+24,2019-03-13 18:34:05.658853,,,,,,f,,{},vote,2,1,Brandy Knight: Ronald Smith
+26,2019-03-13 18:35:35.601717,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Ronald Smith
+27,2019-03-13 18:35:50.370445,,,,,,f,,{},vote,2,1,Brandy Knight: William Williams
+21,2019-03-13 18:33:27.096427,,,,,,t,2019-03-13 18:36:45.197333,{},vote,9,1,William Williams: Ronald Smith
+28,2019-03-13 18:36:45.318278,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - William Williams
+29,2019-03-13 18:37:01.779068,,,,,,f,,{},vote,2,1,Brandy Knight: Adam Davidson
+30,2019-03-13 18:37:16.005668,,,,,,f,,{},vote,10,1,Elizabeth Mason: Adam Davidson
+31,2019-03-13 18:37:36.083294,,,,,,t,2019-03-13 18:39:25.351145,{},vote,7,1,Adam Davidson: Brandy Knight
+25,2019-03-13 18:34:18.635267,,,,,,t,2019-03-13 18:39:25.365326,{},vote,7,1,Adam Davidson: Ronald Smith
+23,2019-03-13 18:33:56.843011,,,,,,t,2019-03-13 18:39:25.3754,{},text,7,1,Adam Davidson: who's the next?
+15,2019-03-13 18:31:27.546708,,,,,,t,2019-03-13 18:39:25.389517,{},vote,7,1,Adam Davidson: Kelly Lopez
+7,2019-03-13 18:29:44.925505,,,,,,t,2019-03-13 18:39:25.400917,{},text,7,1,Adam Davidson: I don't konw
+32,2019-03-13 18:39:25.491211,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Adam Davidson

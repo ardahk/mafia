@@ -1,0 +1,97 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-01-28 17:51:08.349688,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-01-28 17:51:08.389957,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+3,2019-01-28 17:51:42.900953,,,,,,f,,{},text,2,1,John Thompson: Andrea Sanchez sleeps with the fishes
+4,2019-01-28 17:51:51.40271,,,,,,f,,{},text,4,1,Gregory Huffman: awesome!
+5,2019-01-28 17:52:02.045136,,,,,,f,,{},vote,4,1,Gregory Huffman: Andrea Sanchez
+6,2019-01-28 17:52:07.447197,,,,,,f,,{},vote,2,1,John Thompson: Andrea Sanchez
+7,2019-01-28 17:52:15.113528,,,,,,f,,{},info,1,1,Phase Change to Daytime
+8,2019-01-28 17:52:15.615429,,,,,,f,,{},info,1,1,Phase Change to Daytime
+11,2019-01-28 17:52:37.095716,,,,,,f,,{},text,5,1,Frank Butler: Hi everyone
+14,2019-01-28 17:52:41.704798,,,,,,f,,{},text,2,1,John Thompson: Hi
+18,2019-01-28 17:52:54.938417,,,,,,f,,{},text,5,1,"Frank Butler: Doing great, how is everyone?"
+23,2019-01-28 17:53:23.219718,,,,,,f,,{},vote,2,1,John Thompson: Gregory Walker
+29,2019-01-28 17:53:42.194176,,,,,,f,,{},text,2,1,John Thompson: Snitches get stitches.
+32,2019-01-28 17:53:54.200931,,,,,,f,,{},vote,5,1,Frank Butler: Tanya Kennedy
+35,2019-01-28 17:54:13.905854,,,,,,f,,{},text,10,1,Anthony Floyd: Hi
+39,2019-01-28 17:54:49.432664,,,,,,f,,{},text,10,1,Anthony Floyd: haha
+19,2019-01-28 17:52:56.338906,,,,,,t,2019-01-28 17:54:54.59602,{},vote,9,1,Tanya Kennedy: Gregory Walker
+17,2019-01-28 17:52:53.683318,,,,,,t,2019-01-28 17:54:54.608324,{},text,9,1,Tanya Kennedy: im voting gregory walker
+13,2019-01-28 17:52:40.554636,,,,,,t,2019-01-28 17:54:54.620162,{},text,9,1,Tanya Kennedy: hello
+40,2019-01-28 17:54:55.511909,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+41,2019-01-28 17:54:55.592207,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+42,2019-01-28 17:54:55.609098,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+43,2019-01-28 17:54:55.65254,,,,,,f,,{},vote,4,1,Gregory Huffman: Tanya Kennedy
+44,2019-01-28 17:54:55.846033,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+46,2019-01-28 17:54:55.991795,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+47,2019-01-28 17:54:56.095221,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+48,2019-01-28 17:55:29.245136,,,,,,f,,{},text,2,1,John Thompson: Michael Petersen is a problem.
+49,2019-01-28 17:55:34.809128,,,,,,f,,{},vote,2,1,John Thompson: Michael Petersen
+50,2019-01-28 17:55:43.10624,,,,,,f,,{},text,4,1,Gregory Huffman: sounds good!
+51,2019-01-28 17:55:50.556355,,,,,,f,,{},vote,4,1,Gregory Huffman: Michael Petersen
+38,2019-01-28 17:54:46.389915,,,,,,t,2019-01-28 17:56:04.437268,{},text,7,1,Michael Petersen: Bye Tanya
+30,2019-01-28 17:53:46.338701,,,,,,t,2019-01-28 17:56:04.449211,{},text,7,1,Michael Petersen: Haha
+26,2019-01-28 17:53:24.2382,,,,,,t,2019-01-28 17:56:04.46085,{},vote,7,1,Michael Petersen: Tanya Kennedy
+22,2019-01-28 17:53:18.195981,,,,,,t,2019-01-28 17:56:04.472232,{},text,7,1,Michael Petersen: Gregory is my best friend
+20,2019-01-28 17:53:05.800388,,,,,,t,2019-01-28 17:56:04.484108,{},text,7,1,Michael Petersen: I'm voting for you then Tanya
+12,2019-01-28 17:52:40.200791,,,,,,t,2019-01-28 17:56:04.496306,{},text,7,1,Michael Petersen: Hello
+52,2019-01-28 17:56:04.837466,,,,,,f,,{},info,1,1,Phase Change to Daytime
+53,2019-01-28 17:56:05.221297,,,,,,f,,{},info,1,1,Phase Change to Daytime
+57,2019-01-28 17:56:37.823741,,,,,,f,,{},text,10,1,Anthony Floyd: I still don't know who to vote for.
+58,2019-01-28 17:56:53.395582,,,,,,f,,{},text,2,1,"John Thompson: Hey, wtf... I didn't do nuttin."
+60,2019-01-28 17:57:07.574881,,,,,,f,,{},text,2,1,John Thompson: Walker is trying to turn  you against me so he can kill you himself.
+61,2019-01-28 17:57:09.493226,,,,,,f,,{},vote,10,1,Anthony Floyd: Gregory Walker
+62,2019-01-28 17:57:25.188214,,,,,,f,,{},text,10,1,Anthony Floyd: I think Gregory is throwing around a lot of accusations.
+64,2019-01-28 17:57:32.538089,,,,,,f,,{},vote,2,1,John Thompson: Gregory Walker
+65,2019-01-28 17:57:38.863903,,,,,,f,,{},text,10,1,Anthony Floyd: He's trying to blend in!
+66,2019-01-28 17:57:39.768511,,,,,,f,,{},text,2,1,John Thompson: Because I know how you are.
+70,2019-01-28 17:58:39.856164,,,,,,f,,{},vote,5,1,Frank Butler: Gregory Walker
+9,2019-01-28 17:52:27.627382,,,,,,t,2019-01-28 17:58:44.638117,{},text,11,1,Gregory Walker: hey all
+16,2019-01-28 17:52:44.904857,,,,,,t,2019-01-28 17:58:44.649538,{},text,11,1,Gregory Walker: how are you?
+72,2019-01-28 17:58:45.223415,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+73,2019-01-28 17:58:45.330481,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+74,2019-01-28 17:58:45.447088,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+75,2019-01-28 17:58:45.659496,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+76,2019-01-28 17:59:08.095805,,,,,,f,,{},vote,2,1,John Thompson: Howard Robinson
+78,2019-01-28 17:59:31.718984,,,,,,f,,{},text,4,1,Gregory Huffman: okay
+10,2019-01-28 17:52:33.02244,,,,,,t,2019-01-28 17:59:54.365911,{},text,13,1,Howard Robinson: Hello
+25,2019-01-28 17:53:24.061168,,,,,,t,2019-01-28 17:59:54.379686,{},vote,13,1,Howard Robinson: Tanya Kennedy
+56,2019-01-28 17:56:24.960369,,,,,,t,2019-01-28 17:59:54.390255,{},vote,13,1,Howard Robinson: John Thompson
+80,2019-01-28 17:59:54.797038,,,,,,f,,{},info,1,1,Phase Change to Daytime
+81,2019-01-28 18:00:42.305056,,,,,,f,,{},vote,4,1,Gregory Huffman: Joseph Miller
+83,2019-01-28 18:00:54.129896,,,,,,f,,{},vote,2,1,John Thompson: Joseph Miller
+84,2019-01-28 18:01:05.460598,,,,,,f,,{},text,2,1,John Thompson: Joseph was trying to vote you out anthony
+85,2019-01-28 18:01:36.298732,,,,,,f,,{},text,10,1,"Anthony Floyd: What, when?"
+88,2019-01-28 18:01:58.210076,,,,,,f,,{},text,10,1,Anthony Floyd: haha
+89,2019-01-28 18:02:05.02054,,,,,,f,,{},text,2,1,John Thompson: I knew it!
+90,2019-01-28 18:02:10.960002,,,,,,f,,{},text,10,1,Anthony Floyd: are you sure he wasn't trying to vote me out during your secret mafia meeting?
+21,2019-01-28 17:53:11.786309,,,,,,t,2019-01-28 17:58:44.659277,{},text,11,1,Gregory Walker: I second Tanya
+24,2019-01-28 17:53:23.801881,,,,,,t,2019-01-28 17:58:44.668954,{},text,11,1,Gregory Walker: lol
+27,2019-01-28 17:53:31.470644,,,,,,t,2019-01-28 17:58:44.677932,{},vote,11,1,Gregory Walker: Tanya Kennedy
+31,2019-01-28 17:53:47.955968,,,,,,t,2019-01-28 17:58:44.687446,{},text,11,1,Gregory Walker: Thanks Michael
+34,2019-01-28 17:54:06.140481,,,,,,t,2019-01-28 17:58:44.696796,{},text,11,1,Gregory Walker: Thanks to all of you :)
+36,2019-01-28 17:54:17.673107,,,,,,t,2019-01-28 17:58:44.708669,{},text,11,1,Gregory Walker: Keep scrolling ;]
+37,2019-01-28 17:54:39.24602,,,,,,t,2019-01-28 17:58:44.718322,{},text,11,1,Gregory Walker: Hi Anthony
+45,2019-01-28 17:54:55.907413,,,,,,t,2019-01-28 17:58:44.727338,{},text,11,1,Gregory Walker: cya later lol
+54,2019-01-28 17:56:09.980943,,,,,,t,2019-01-28 17:58:44.737465,{},text,11,1,"Gregory Walker: I am voting out John, sorry John Thompson had to do it ;]"
+55,2019-01-28 17:56:18.530961,,,,,,t,2019-01-28 17:58:44.747543,{},vote,11,1,Gregory Walker: John Thompson
+59,2019-01-28 17:56:59.315558,,,,,,t,2019-01-28 17:58:44.757087,{},text,11,1,"Gregory Walker: Pick what you guts says, or follow majority its upto you man"
+63,2019-01-28 17:57:27.317439,,,,,,t,2019-01-28 17:58:44.767245,{},text,11,1,Gregory Walker: lol you voted against me before ;]
+68,2019-01-28 17:58:19.116633,,,,,,t,2019-01-28 17:58:44.777959,{},text,11,1,"Gregory Walker: I dont play blend in games, if you wanna vote me out, go ahead"
+71,2019-01-28 17:58:45.099191,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+77,2019-01-28 17:59:22.971916,,,,,,f,,{},text,2,1,John Thompson: Robinson is the next to get it.
+79,2019-01-28 17:59:51.788846,,,,,,f,,{},vote,4,1,Gregory Huffman: Howard Robinson
+82,2019-01-28 18:00:46.986566,,,,,,f,,{},text,10,1,Anthony Floyd: What now?
+92,2019-01-28 18:02:25.842799,,,,,,f,,{},text,10,1,Anthony Floyd: haha
+93,2019-01-28 18:02:31.303936,,,,,,f,,{},vote,5,1,Frank Butler: Joseph Miller
+87,2019-01-28 18:01:48.004859,,,,,,t,2019-01-28 18:02:34.755455,{},vote,12,1,Joseph Miller: Anthony Floyd
+91,2019-01-28 18:02:21.053809,,,,,,t,2019-01-28 18:02:34.772793,{},text,12,1,Joseph Miller: imma psychic
+95,2019-01-28 18:02:35.040756,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+96,2019-01-28 18:02:35.230567,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+94,2019-01-28 18:02:32.76432,,,,,,f,,{},text,2,1,John Thompson: What mafia meeting?
+15,2019-01-28 17:52:42.961241,,,,,,t,2019-01-28 18:02:34.663458,{},text,12,1,Joseph Miller: hi
+28,2019-01-28 17:53:38.384982,,,,,,t,2019-01-28 18:02:34.68098,{},vote,12,1,Joseph Miller: Tanya Kennedy
+33,2019-01-28 17:54:03.394876,,,,,,t,2019-01-28 18:02:34.700704,{},text,12,1,"Joseph Miller: nice, the page gets longer as more people type"
+67,2019-01-28 17:57:58.534578,,,,,,t,2019-01-28 18:02:34.713532,{},vote,12,1,Joseph Miller: Gregory Walker
+69,2019-01-28 17:58:20.307255,,,,,,t,2019-01-28 18:02:34.727206,{},text,12,1,Joseph Miller: there i broke a tie
+86,2019-01-28 18:01:44.496851,,,,,,t,2019-01-28 18:02:34.738648,{},text,12,1,Joseph Miller: now ;)

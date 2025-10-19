@@ -1,0 +1,10 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-12 22:54:44.653765,,,,,,f,,{},source,1,
+2,2019-03-12 23:07:57.263073,Tiffany Hill,True,,,,f,,{},mafioso,1,11
+4,2019-03-12 23:07:57.440251,Cody Garner,True,,,,f,,{},mafioso,1,6
+6,2019-03-12 23:07:57.615156,Peter Perez,True,,,,f,,{},bystander,1,8
+12,2019-03-12 23:08:00.280026,Mark Baird,True,,,,f,,{},bystander,1,7
+11,2019-03-12 23:07:58.706685,Suzanne Moore,False,2019-03-12 23:09:03.79885,,,f,,{},bystander,1,10
+10,2019-03-12 23:07:58.334977,Kathryn Payne,False,2019-03-12 23:11:44.769739,,,f,,{},bystander,1,9
+8,2019-03-12 23:07:57.767822,Jose Gonzalez,False,2019-03-12 23:12:53.951148,,,f,,{},bystander,1,5
+9,2019-03-12 23:07:57.888693,Dr. Amy Mcdaniel,False,2019-03-12 23:15:34.171006,,,f,,{},bystander,1,2

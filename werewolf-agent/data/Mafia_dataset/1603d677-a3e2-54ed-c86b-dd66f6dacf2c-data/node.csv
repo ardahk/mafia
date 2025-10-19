@@ -1,0 +1,12 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-13 18:05:39.86669,,,,,,f,,{},source,1,
+5,2019-03-13 18:14:33.328968,Stephen Clark,True,,,,f,,{},bystander,1,7
+7,2019-03-13 18:14:33.480418,Gabriel Durham,True,,,,f,,{},bystander,1,8
+12,2019-03-13 18:14:34.143157,Chad Collins,True,,,,f,,{},bystander,1,9
+13,2019-03-13 18:14:34.794735,Alicia Randall,True,,,,f,,{},bystander,1,10
+14,2019-03-13 18:14:35.112432,Frances Kelly,False,2019-03-13 18:15:37.925353,,,f,,{},bystander,1,3
+11,2019-03-13 18:14:33.964276,Diane Mooney,False,2019-03-13 18:18:18.64976,,,f,,{},bystander,1,2
+9,2019-03-13 18:14:33.589941,Jordan May,False,2019-03-13 18:19:27.879232,,,f,,{},bystander,1,4
+4,2019-03-13 18:14:33.173264,Shawn Bailey,False,2019-03-13 18:22:08.070321,,,f,,{},mafioso,1,1
+10,2019-03-13 18:14:33.707538,Donna Cook,False,2019-03-13 18:23:17.417421,,,f,,{},bystander,1,6
+3,2019-03-13 18:14:33.043064,Tricia Miller,False,2019-03-13 18:25:57.499557,,,f,,{},mafioso,1,11

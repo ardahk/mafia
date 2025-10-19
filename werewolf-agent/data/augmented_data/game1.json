@@ -1,0 +1,606 @@
+
+{
+  "game_id": "demo-6p-day1-night1",
+  "phase_sequence": ["night_1", "day_1"],
+  "players": [
+    { "id": "A1", "role_private": "peasant", "alignment": "town", "alive": true },
+    { "id": "A2", "role_private": "werewolf", "alignment": "wolves", "alive": true },
+    { "id": "A3", "role_private": "detective", "alignment": "town", "alive": true },
+    { "id": "A4", "role_private": "peasant", "alignment": "town", "alive": false },
+    { "id": "A5", "role_private": "werewolf", "alignment": "wolves", "alive": true },
+    { "id": "A6", "role_private": "peasant", "alignment": "town", "alive": true }
+  ],
+
+  "night_1": {
+    "wolves_private_chat": [
+      {
+        "speaker": "A2",
+        "content": "We should pick someone who won’t draw suspicion tomorrow. A4 hardly speaks and blends in easily — that makes them a perfect quiet victim."
+      },
+      {
+        "speaker": "A5",
+        "content": "Agreed. The loud ones are dangerous later, but right now we need an easy kill to buy us time. Let’s take A4 tonight."
+      }
+    ],
+    "wolves_action": { "chosen_target": "A4" },
+    "detective_action": {
+      "detective": "A3",
+      "inspected": "A5",
+      "result": { "is_werewolf": true },
+      "private_note": "My instinct was right — A5 hides malice behind calm tone. Must reveal subtly tomorrow."
+    },
+    "night_outcome": { "killed": "A4" }
+  },
+
+  "day_1": {
+    "opening_state": {
+      "alive_players": ["A1", "A2", "A3", "A5", "A6"],
+      "graveyard": [{ "player": "A4", "cause": "night_kill" }]
+    },
+
+    "agent_actions": [
+      {
+        "agent": "A1",
+        "private_thought": "A4’s death shocks me. They were harmless. Wolves must be trying to avoid attention. A2 spoke confidently yesterday — maybe too confidently. I’ll focus on reading the tone today, not just logic.",
+        "public_speech": "We lost A4 overnight. That feels targeted — someone quiet, easy to remove. I don’t trust how relaxed A2 seemed before. I’m open to thoughts, but I’m leaning slightly toward A2 for being too smooth.",
+        "vote": "A5"
+      },
+      {
+        "agent": "A2",
+        "private_thought": "Need to steer suspicion away from me and A5. A3 loves logic — I’ll accuse him of overanalyzing. If I make the town think logic is suspicious, they’ll argue among themselves.",
+        "public_speech": "Everyone’s jumping to conclusions already. We have no evidence, just paranoia. Honestly, A3’s constant reasoning feels like a wolf pretending to help — overcompensating, maybe?",
+        "vote": "A3"
+      },
+      {
+        "agent": "A3",
+        "private_thought": "I confirmed A5 is a werewolf. I can’t expose my role directly; they’ll kill me tonight. I’ll plant suspicion carefully — push on A5 while sounding like a normal villager. Need the others to notice.",
+        "public_speech": "I watched A5 yesterday — calm but evasive. When questions came up, they changed the topic. Wolves often do that early on. I think A5’s quiet confidence hides something.",
+        "vote": "A5"
+      },
+      {
+        "agent": "A5",
+        "private_thought": "A3 might have checked me. I have to flip suspicion fast. If I accuse A1 or A3, maybe people won’t risk another wrong lynch so early. Keep the tone calm; panic gets you killed.",
+        "public_speech": "I think A1 is being too emotional — wolves love using emotion to rally the town. A3 is pushing logic again. Maybe they’re a wolf trying to control the vote flow. I’d prefer we hold off on rash lynches.",
+        "vote": "A3"
+      },
+      {
+        "agent": "A6",
+        "private_thought": "I can’t tell who’s lying yet. A3 sounds logical, but that can be fake. A5’s calmness feels both reassuring and suspicious. I’ll side with whoever feels less manipulative today.",
+        "public_speech": "I agree that A5 feels oddly calm. That alone doesn’t prove anything, but we need to start somewhere. I’ll support a vote on A5 to get information.",
+        "vote": "A5"
+      }
+    ],
+
+    "final_vote_result": {
+      "A1": "A5",
+      "A2": "A3",
+      "A3": "A5",
+      "A5": "A3",
+      "A6": "A5",
+      "tally": { "A5": 3, "A3": 2 },
+      "voted_out": "A5",
+      "reveal": { "role": "werewolf", "alignment": "wolves" }
+    },
+
+    "end_of_day_summary": {
+      "public_announcement": "A5 was voted out and revealed to be a werewolf. The town breathes a cautious sigh of relief.",
+      "private_reactions": [
+        {
+          "agent": "A3",
+          "note": "I managed to guide the town without exposing myself. One wolf down — but A2 will surely come for me tonight."
+        },
+        {
+          "agent": "A2",
+          "note": "Disaster. A5 is gone. I have to avenge them tonight and silence A3 before they expose everything."
+        },
+        {
+          "agent": "A1",
+          "note": "Good call, I think. But if A3 was right, maybe they know more than they let on. Protect them tomorrow."
+        }
+      ]
+    }
+  }
+}
+
+{
+  "schema_version": "werewolf.v1",
+  "game_id": "G-2025-10-13-002",
+  "created_at_utc": "2025-10-13T00:00:00Z",
+  "seed": 20251013,
+  "config": {
+    "roles": ["Werewolf", "Seer", "Doctor", "Villager", "Villager"],
+    "reveal_role_on_elimination": true,
+    "wolf_chat_at_night": false,
+    "doctor_can_self_protect": false,
+    "vote_type": "secret_ballot",
+    "runoff_ties": false,
+    "max_words_day_talk": 120,
+    "json_only_responses": true,
+    "uniform_token_budget_per_turn": 256
+  },
+  "players": [
+    {"id": "P1", "alias": "Agent_Claude", "provider": "anthropic", "model": "claude-3-opus", "initial_elo": {"overall":1500,"wolf":1500,"villager":1500}, "alive": true},
+    {"id": "P2", "alias": "Agent_Gemini", "provider": "google", "model": "gemini-1.5-pro", "initial_elo": {"overall":1500,"wolf":1500,"villager":1500}, "alive": true},
+    {"id": "P3", "alias": "Agent_ChatGPT", "provider": "openai", "model": "gpt-5", "initial_elo": {"overall":1500,"wolf":1500,"villager":1500}, "alive": true},
+    {"id": "P4", "alias": "Agent_Llama", "provider": "meta", "model": "llama-3.1-70b", "initial_elo": {"overall":1500,"wolf":1500,"villager":1500}, "alive": true},
+    {"id": "P5", "alias": "Agent_Mistral", "provider": "mistral", "model": "mistral-large-2", "initial_elo": {"overall":1500,"wolf":1500,"villager":1500}, "alive": true}
+  ],
+  "role_assignment": {
+    "P1": "Werewolf",
+    "P2": "Seer",
+    "P3": "Doctor",
+    "P4": "Villager",
+    "P5": "Villager"
+  },
+  "phases": [
+    {
+      "phase_type": "day",
+      "day_number": 1,
+      "public_state": {
+        "alive_players": ["P1","P2","P3","P4","P5"],
+        "public_history": []
+      },
+      "discussion": {
+        "turns": [
+          {
+            "player_id": "P1",
+            "day_discussion_prompt": {
+              "phase": "day",
+              "day_number": 1,
+              "you": {"id": "P1", "role": "Werewolf", "alive": true},
+              "players": [{"id":"P1","alive":true},{"id":"P2","alive":true},{"id":"P3","alive":true},{"id":"P4","alive":true},{"id":"P5","alive":true}],
+              "public_history": [],
+              "constraints": {"max_words": 120, "no_role_reveal": true, "json_only": true}
+            },
+            "private_thought": {
+              "intent": "Deflect early attention; seed doubt on low-activity slot.",
+              "suspects": ["P5","P4"],
+              "ally_estimates": {"P1":1.0},
+              "confidence": 0.62
+            },
+            "day_discussion_response": {"talk": "Let’s start with light pressure on quieter players. Early votes create info—no hard reads yet."}
+          },
+          {
+            "player_id": "P2",
+            "day_discussion_prompt": {
+              "phase": "day",
+              "day_number": 1,
+              "you": {"id": "P2", "role": "Seer", "alive": true},
+              "players": [{"id":"P1","alive":true},{"id":"P2","alive":true},{"id":"P3","alive":true},{"id":"P4","alive":true},{"id":"P5","alive":true}],
+              "public_history": [],
+              "constraints": {"max_words": 120, "no_role_reveal": true, "json_only": true}
+            },
+            "private_thought": {
+              "intent": "Stay low; collect D1 voting patterns for N1 inspect.",
+              "inspect_candidates": ["P1","P4"],
+              "confidence": 0.58
+            },
+            "day_discussion_response": {"talk": "Agree with generating signals. I want reasons attached to votes—no pure bandwagons."}
+          },
+          {
+            "player_id": "P3",
+            "day_discussion_prompt": {
+              "phase": "day",
+              "day_number": 1,
+              "you": {"id": "P3", "role": "Doctor", "alive": true},
+              "players": [{"id":"P1","alive":true},{"id":"P2","alive":true},{"id":"P3","alive":true},{"id":"P4","alive":true},{"id":"P5","alive":true}],
+              "public_history": [],
+              "constraints": {"max_words": 120, "no_role_reveal": true, "json_only": true}
+            },
+            "private_thought": {
+              "intent": "Identify likely N1 kill; protect most vocal analyst.",
+              "protect_priority": ["P2","P1","P4"],
+              "confidence": 0.55
+            },
+            "day_discussion_response": {"talk": "If you vote someone, add one concrete behavior reason. I’m side-eyeing echoing without substance."}
+          },
+          {
+            "player_id": "P4",
+            "day_discussion_prompt": {
+              "phase": "day",
+              "day_number": 1,
+              "you": {"id": "P4", "role": "Villager", "alive": true},
+              "players": [{"id":"P1","alive":true},{"id":"P2","alive":true},{"id":"P3","alive":true},{"id":"P4","alive":true},{"id":"P5","alive":true}],
+              "public_history": [],
+              "constraints": {"max_words": 120, "no_role_reveal": true, "json_only": true}
+            },
+            "private_thought": {
+              "intent": "Pressure passive slot to force content.",
+              "suspects": ["P5"],
+              "confidence": 0.52
+            },
+            "day_discussion_response": {"talk": "P5 is light on specifics so far. I’d support pressure there to get reads."}
+          },
+          {
+            "player_id": "P5",
+            "day_discussion_prompt": {
+              "phase": "day",
+              "day_number": 1,
+              "you": {"id": "P5", "role": "Villager", "alive": true},
+              "players": [{"id":"P1","alive":true},{"id":"P2","alive":true},{"id":"P3","alive":true},{"id":"P4","alive":true},{"id":"P5","alive":true}],
+              "public_history": [],
+              "constraints": {"max_words": 120, "no_role_reveal": true, "json_only": true}
+            },
+            "private_thought": {
+              "intent": "Defend from early wagon; pick a counter-suspect.",
+              "suspects": ["P1"],
+              "confidence": 0.49
+            },
+            "day_discussion_response": {"talk": "I’m here. Early pushes are fine, but P1 is steering without naming criteria. Explain your plan, P1."}
+          }
+        ]
+      },
+      "voting": {
+        "prompts": [
+          {
+            "player_id": "P1",
+            "day_vote_prompt": {
+              "phase":"vote",
+              "day_number": 1,
+              "you":{"id":"P1"},
+              "options":["P2","P3","P4","P5"],
+              "public_summary":"General agreement to pressure quieter slots; mild scrutiny on P1’s steering."
+            },
+            "private_thought": {
+              "tie_break_preference": ["P5","P4","P2","P3"],
+              "heuristics": ["Eliminate low-info day1"],
+              "confidence": 0.64
+            }
+          },
+          {
+            "player_id": "P2",
+            "day_vote_prompt": {
+              "phase":"vote",
+              "day_number": 1,
+              "you":{"id":"P2"},
+              "options":["P1","P3","P4","P5"],
+              "public_summary":"Pressure forming on P5; questions toward P1’s lack of specifics."
+            },
+            "private_thought": {
+              "tie_break_preference": ["P1","P5","P4","P3"],
+              "heuristics": ["Avoid pure lurker elim if avoidable"],
+              "confidence": 0.55
+            }
+          },
+          {
+            "player_id": "P3",
+            "day_vote_prompt": {
+              "phase":"vote",
+              "day_number": 1,
+              "you":{"id":"P3"},
+              "options":["P1","P2","P4","P5"],
+              "public_summary":"Likely elim: P5 if votes consolidate; minority wants to test P1."
+            },
+            "private_thought": {
+              "tie_break_preference": ["P5","P1","P4","P2"],
+              "heuristics": ["Favor wagon with clear reasons to read reactions"],
+              "confidence": 0.57
+            }
+          },
+          {
+            "player_id": "P4",
+            "day_vote_prompt": {
+              "phase":"vote",
+              "day_number": 1,
+              "you":{"id":"P4"},
+              "options":["P1","P2","P3","P5"],
+              "public_summary":"End of day approaching; split between P5 and P1."
+            },
+            "private_thought": {
+              "tie_break_preference": ["P5","P1","P3","P2"],
+              "heuristics": ["Pressure passive to force claims D2"],
+              "confidence": 0.58
+            }
+          },
+          {
+            "player_id": "P5",
+            "day_vote_prompt": {
+              "phase":"vote",
+              "day_number": 1,
+              "you":{"id":"P5"},
+              "options":["P1","P2","P3","P4"],
+              "public_summary":"Momentum against P5; some suspicion on P1."
+            },
+            "private_thought": {
+              "tie_break_preference": ["P1","P4","P3","P2"],
+              "heuristics": ["Vote accuser to test intent"],
+              "confidence": 0.50
+            }
+          }
+        ],
+        "responses": [
+          {"player_id":"P1","vote_response":{"vote":"P5","one_sentence_reason":"Low information today—vote to generate alignment signals."}},
+          {"player_id":"P2","vote_response":{"vote":"P1","one_sentence_reason":"Steering without criteria; want accountability."}},
+          {"player_id":"P3","vote_response":{"vote":"P5","one_sentence_reason":"Consolidate on the slot with least substantiated posts."}},
+          {"player_id":"P4","vote_response":{"vote":"P5","one_sentence_reason":"Pressure quietest slot now; reassess tomorrow."}},
+          {"player_id":"P5","vote_response":{"vote":"P1","one_sentence_reason":"I read the steering as agenda-driven."}}
+        ],
+        "tally": {
+          "P1": 2,
+          "P5": 3
+        },
+        "eliminated": {"player_id":"P5","role_revealed":"Villager"}
+      }
+    },
+    {
+      "phase_type": "night",
+      "night_number": 1,
+      "public_state": {
+        "alive_players": ["P1","P2","P3","P4"],
+        "last_eliminated": {"player_id":"P5","role":"Villager"}
+      },
+      "prompts": [
+        {
+          "player_id": "P1",
+          "night_role_prompt": {
+            "phase":"night",
+            "night_number":1,
+            "role":"Werewolf",
+            "you":{"id":"P1"},
+            "kill_options":["P2","P3","P4"],
+            "public_history_summary":"D1 elim: P5 (Villager). Votes on P1 from P2 and P5.",
+            "constraints":{"json_only":true}
+          },
+          "private_thought": {
+            "target_preference": ["P2","P3","P4"],
+            "risk_assessment": "P2 is vocal and suspicious of me; high threat.",
+            "confidence": 0.71
+          }
+        },
+        {
+          "player_id": "P2",
+          "night_role_prompt": {
+            "phase":"night",
+            "night_number":1,
+            "role":"Seer",
+            "you":{"id":"P2"},
+            "inspect_options":["P1","P3","P4"],
+            "public_history_summary":"D1: P5 flipped Villager; P1 under scrutiny.",
+            "constraints":{"json_only":true}
+          },
+          "private_thought": {
+            "inspect_priority": ["P1","P4","P3"],
+            "goal": "Confirm/clear top suspect for D2 push.",
+            "confidence": 0.73
+          }
+        },
+        {
+          "player_id": "P3",
+          "night_role_prompt": {
+            "phase":"night",
+            "night_number":1,
+            "role":"Doctor",
+            "you":{"id":"P3"},
+            "protect_options":["P1","P2","P3","P4"],
+            "public_history_summary":"Analyst P2 might draw a kill.",
+            "constraints":{"json_only":true}
+          },
+          "private_thought": {
+            "protect_priority": ["P2","P4","P1","P3"],
+            "risk_assessment": "Protect talkative analyst to preserve info.",
+            "confidence": 0.68
+          }
+        },
+        {
+          "player_id": "P4",
+          "night_role_prompt": {
+            "phase":"night",
+            "night_number":1,
+            "role":"Villager",
+            "you":{"id":"P4"},
+            "action_options":[],
+            "public_history_summary":"No action.",
+            "constraints":{"json_only":true}
+          },
+          "private_thought": {
+            "intent": "Plan D2: reassess P1 with new info.",
+            "confidence": 0.48
+          }
+        }
+      ],
+      "responses": [
+        {"player_id":"P1","night_action_response":{"kill_vote":"P2","reason":"Remove the vocal analyst accusing me."}},
+        {"player_id":"P2","night_action_response":{"inspect":"P1"}},
+        {"player_id":"P3","night_action_response":{"protect":"P2","reason":"Likely target; maximize information retention."}},
+        {"player_id":"P4","night_action_response":{"sleep":true}}
+      ],
+      "resolution": {
+        "wolf_team_decision": {"target":"P2","unanimous":true},
+        "doctor_protect": {"doctor_id":"P3","target":"P2"},
+        "seer_results_private": [{"seer_id":"P2","target":"P1","is_werewolf":true}],
+        "night_kill": {"target":"P2","success":false,"saved_by":"P3"},
+        "public_update": "No one died during the night."
+      }
+    },
+    {
+      "phase_type": "day",
+      "day_number": 2,
+      "public_state": {
+        "alive_players": ["P1","P2","P3","P4"],
+        "public_history": [
+          {"type":"elim","day":1,"player_id":"P5","role":"Villager"},
+          {"type":"night","night":1,"event":"no_kill","saved":"hidden"}
+        ]
+      },
+      "discussion": {
+        "turns": [
+          {
+            "player_id":"P2",
+            "day_discussion_prompt":{
+              "phase":"day",
+              "day_number":2,
+              "you":{"id":"P2","role":"Seer","alive":true},
+              "players":[{"id":"P1","alive":true},{"id":"P2","alive":true},{"id":"P3","alive":true},{"id":"P4","alive":true}],
+              "public_history":[{"phase":"day","day":1,"eliminated":"P5"},{"phase":"night","night":1,"no_kill":true}],
+              "constraints":{"max_words":120,"no_role_reveal":true,"json_only":true}
+            },
+            "private_thought": {
+              "intent": "Secure elim on P1 without outing role; push logic from voting and N1 outcome.",
+              "primary_target": "P1",
+              "confidence": 0.93
+            },
+            "day_discussion_response":{"talk":"Given D1 votes and last night’s outcome, P1 remains my top suspect. I support eliminating P1 today."}
+          },
+          {
+            "player_id":"P3",
+            "day_discussion_prompt":{
+              "phase":"day",
+              "day_number":2,
+              "you":{"id":"P3","role":"Doctor","alive":true},
+              "players":[{"id":"P1","alive":true},{"id":"P2","alive":true},{"id":"P3","alive":true},{"id":"P4","alive":true}],
+              "public_history":[{"phase":"day","day":1,"eliminated":"P5"},{"phase":"night","night":1,"no_kill":true}],
+              "constraints":{"max_words":120,"no_role_reveal":true,"json_only":true}
+            },
+            "private_thought": {
+              "intent": "Back P2’s push subtly; avoid claiming.",
+              "primary_target": "P1",
+              "confidence": 0.78
+            },
+            "day_discussion_response":{"talk":"I see the case. P1’s day-one steering + night context → highest equity elim."}
+          },
+          {
+            "player_id":"P4",
+            "day_discussion_prompt":{
+              "phase":"day",
+              "day_number":2,
+              "you":{"id":"P4","role":"Villager","alive":true},
+              "players":[{"id":"P1","alive":true},{"id":"P2","alive":true},{"id":"P3","alive":true},{"id":"P4","alive":true}],
+              "public_history":[{"phase":"day","day":1,"eliminated":"P5"},{"phase":"night","night":1,"no_kill":true}],
+              "constraints":{"max_words":120,"no_role_reveal":true,"json_only":true}
+            },
+            "private_thought": {
+              "intent": "Commit to P1 after reviewing D1 wagon and pushes.",
+              "primary_target": "P1",
+              "confidence": 0.74
+            },
+            "day_discussion_response":{"talk":"I’m convinced. I’ll vote P1 unless a strong counter-case appears."}
+          },
+          {
+            "player_id":"P1",
+            "day_discussion_prompt":{
+              "phase":"day",
+              "day_number":2,
+              "you":{"id":"P1","role":"Werewolf","alive":true},
+              "players":[{"id":"P1","alive":true},{"id":"P2","alive":true},{"id":"P3","alive":true},{"id":"P4","alive":true}],
+              "public_history":[{"phase":"day","day":1,"eliminated":"P5"},{"phase":"night","night":1,"no_kill":true}],
+              "constraints":{"max_words":120,"no_role_reveal":true,"json_only":true}
+            },
+            "private_thought": {
+              "intent": "Divert elim to P2; sow doubt on night result.",
+              "escape_lines": ["Question why no kill; imply doc misplay or NK target elsewhere"],
+              "confidence": 0.41
+            },
+            "day_discussion_response":{"talk":"The ‘solve’ on me is too neat. The no-kill could be anything—misclick, self-protect, or bluff. P2’s narrative is forced."}
+          }
+        ]
+      },
+      "voting": {
+        "prompts": [
+          {
+            "player_id":"P1",
+            "day_vote_prompt":{"phase":"vote","day_number":2,"you":{"id":"P1"},"options":["P2","P3","P4"],"public_summary":"Majority leaning toward eliminating P1."},
+            "private_thought": {
+              "tie_break_preference": ["P2","P3","P4"],
+              "heuristics": ["Vote accuser to survive"],
+              "confidence": 0.46
+            }
+          },
+          {
+            "player_id":"P2",
+            "day_vote_prompt":{"phase":"vote","day_number":2,"you":{"id":"P2"},"options":["P1","P3","P4"],"public_summary":"Decision likely P1 vs low-prob counterpush on P2."},
+            "private_thought": {
+              "tie_break_preference": ["P1","P4","P3"],
+              "heuristics": ["Eliminate top suspect; keep PRs hidden"],
+              "confidence": 0.95
+            }
+          },
+          {
+            "player_id":"P3",
+            "day_vote_prompt":{"phase":"vote","day_number":2,"you":{"id":"P3"},"options":["P1","P2","P4"],"public_summary":"Consolidate to avoid split."},
+            "private_thought": {
+              "tie_break_preference": ["P1","P4","P2"],
+              "heuristics": ["Back consistent case; avoid late pivots"],
+              "confidence": 0.82
+            }
+          },
+          {
+            "player_id":"P4",
+            "day_vote_prompt":{"phase":"vote","day_number":2,"you":{"id":"P4"},"options":["P1","P2","P3"],"public_summary":"One correct vote decides the game."},
+            "private_thought": {
+              "tie_break_preference": ["P1","P2","P3"],
+              "heuristics": ["Follow strongest day logic"],
+              "confidence": 0.80
+            }
+          }
+        ],
+        "responses": [
+          {"player_id":"P1","vote_response":{"vote":"P2","one_sentence_reason":"Driving a too-clean narrative; remove the driver."}},
+          {"player_id":"P2","vote_response":{"vote":"P1","one_sentence_reason":"Best explanation for D1 patterns and night outcome."}},
+          {"player_id":"P3","vote_response":{"vote":"P1","one_sentence_reason":"Consistent case; highest probability wolf."}},
+          {"player_id":"P4","vote_response":{"vote":"P1","one_sentence_reason":"Agrees with evidence and team consensus."}}
+        ],
+        "tally": {
+          "P1": 3,
+          "P2": 1
+        },
+        "eliminated": {"player_id":"P1","role_revealed":"Werewolf"},
+        "end_of_game": true
+      }
+    }
+  ],
+  "final_result": {
+    "winning_side": "Town",
+    "reason": "The only Werewolf (P1) was eliminated on Day 2.",
+    "survivors": [
+      {"player_id":"P2","role":"Seer"},
+      {"player_id":"P3","role":"Doctor"},
+      {"player_id":"P4","role":"Villager"}
+    ],
+    "elimination_order": [
+      {"phase":"day","index":1,"player_id":"P5","role":"Villager"},
+      {"phase":"day","index":2,"player_id":"P1","role":"Werewolf"}
+    ]
+  },
+  "postgame_metrics": {
+    "per_agent": {
+      "P1": {
+        "alias":"Agent_Claude","role":"Werewolf","won":false,
+        "days_survived":2,
+        "votes_cast":[{"day":1,"target":"P5","enemy_alignment":true},{"day":2,"target":"P2","enemy_alignment":true}],
+        "received_votes":[{"day":1,"count":2},{"day":2,"count":3}],
+        "eliminated_on_day":2
+      },
+      "P2": {
+        "alias":"Agent_Gemini","role":"Seer","won":true,
+        "inspections":[{"night":1,"target":"P1","is_werewolf":true}],
+        "days_survived":2,
+        "votes_cast":[{"day":1,"target":"P1","enemy_alignment":true},{"day":2,"target":"P1","enemy_alignment":true}]
+      },
+      "P3": {
+        "alias":"Agent_ChatGPT","role":"Doctor","won":true,
+        "protections":[{"night":1,"target":"P2","saved":true}],
+        "days_survived":2,
+        "votes_cast":[{"day":1,"target":"P5","enemy_alignment":false},{"day":2,"target":"P1","enemy_alignment":true}]
+      },
+      "P4": {
+        "alias":"Agent_Llama","role":"Villager","won":true,
+        "days_survived":2,
+        "votes_cast":[{"day":1,"target":"P5","enemy_alignment":false},{"day":2,"target":"P1","enemy_alignment":true}]
+      },
+      "P5": {
+        "alias":"Agent_Mistral","role":"Villager","won":false,
+        "days_survived":1,
+        "votes_cast":[{"day":1,"target":"P1","enemy_alignment":true}],
+        "eliminated_on_day":1
+      }
+    },
+    "summary": {
+      "town_win": true,
+      "wolves_eliminated_days": [2],
+      "mis_eliminations": [{"day":1,"player_id":"P5","role":"Villager"}],
+      "mis_elim_rate": 0.5,
+      "total_days": 2
+    }
+  }
+}
+}

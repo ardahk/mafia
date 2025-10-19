@@ -1,0 +1,85 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-13 02:16:27.031941,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-13 02:16:27.069389,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+3,2019-03-13 02:16:45.690846,,,,,,f,,{},text,3,1,Abigail Perez: karen smith?
+4,2019-03-13 02:16:51.221613,,,,,,f,,{},text,2,1,Jay Williams: Sure
+5,2019-03-13 02:16:53.960931,,,,,,f,,{},text,3,1,Abigail Perez: ok
+6,2019-03-13 02:16:58.381216,,,,,,f,,{},vote,3,1,Abigail Perez: Karen Smith
+7,2019-03-13 02:16:58.930482,,,,,,f,,{},vote,2,1,Jay Williams: Karen Smith
+8,2019-03-13 02:17:33.046592,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Karen Smith
+13,2019-03-13 02:17:57.458723,,,,,,f,,{},text,12,1,John Bridges: ELIMINATE MATHEW FRANCO
+14,2019-03-13 02:17:58.135228,,,,,,f,,{},text,10,1,Michael Sharp: Jason
+15,2019-03-13 02:18:00.583152,,,,,,f,,{},text,2,1,Jay Williams: Who do you think is a mafia member?
+18,2019-03-13 02:18:12.476268,,,,,,f,,{},vote,10,1,Michael Sharp: Jason Rodriguez
+22,2019-03-13 02:18:25.985997,,,,,,f,,{},vote,3,1,Abigail Perez: Jason Rodriguez
+24,2019-03-13 02:18:43.973552,,,,,,f,,{},text,2,1,"Jay Williams: Wow, looks like Jason isn't having any luck"
+26,2019-03-13 02:19:02.268811,,,,,,f,,{},vote,12,1,John Bridges: Jason Rodriguez
+31,2019-03-13 02:20:11.116348,,,,,,f,,{},vote,2,1,Jay Williams: Austin Williams
+30,2019-03-13 02:20:04.643302,,,,,,t,2019-03-13 02:20:12.766221,{},text,4,1,Jason Rodriguez: i think the timer's a bit long for the night and day sessions. everyone have a good evening!
+25,2019-03-13 02:18:55.113941,,,,,,t,2019-03-13 02:20:12.777726,{},text,4,1,Jason Rodriguez: no joke
+10,2019-03-13 02:17:47.212843,,,,,,t,2019-03-13 02:20:12.786631,{},text,4,1,Jason Rodriguez: let's take austin williams out of the game.
+9,2019-03-13 02:17:42.184281,,,,,,t,2019-03-13 02:20:12.798951,{},vote,4,1,Jason Rodriguez: Austin Williams
+32,2019-03-13 02:20:13.635853,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Jason Rodriguez
+33,2019-03-13 02:20:29.281104,,,,,,f,,{},text,3,1,Abigail Perez: who do you want to get?
+34,2019-03-13 02:20:39.442762,,,,,,f,,{},text,2,1,Jay Williams: Matthew Franco?
+35,2019-03-13 02:20:47.383834,,,,,,f,,{},text,3,1,Abigail Perez: ok
+36,2019-03-13 02:20:55.454964,,,,,,f,,{},vote,3,1,Abigail Perez: Matthew Franco
+37,2019-03-13 02:20:58.258272,,,,,,f,,{},vote,2,1,Jay Williams: Matthew Franco
+29,2019-03-13 02:19:17.064284,,,,,,t,2019-03-13 02:21:22.194393,{},vote,13,1,Matthew Franco: Jerry Pearson
+23,2019-03-13 02:18:41.634614,,,,,,t,2019-03-13 02:21:22.209685,{},text,13,1,Matthew Franco: Go after john or jerry
+20,2019-03-13 02:18:16.790624,,,,,,t,2019-03-13 02:21:22.223974,{},text,13,1,"Matthew Franco: Too many people saying Jason, they are probably mafia"
+38,2019-03-13 02:21:22.568962,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Matthew Franco
+39,2019-03-13 02:21:34.084547,,,,,,f,,{},vote,10,1,Michael Sharp: Abigail Perez
+41,2019-03-13 02:21:36.014623,,,,,,f,,{},text,2,1,Jay Williams: This game is harder when you can't interact in person and read people's body language
+42,2019-03-13 02:21:50.094729,,,,,,f,,{},text,10,1,Michael Sharp: I like Austin
+43,2019-03-13 02:22:10.068994,,,,,,f,,{},text,3,1,Abigail Perez: I'll go with the group
+44,2019-03-13 02:22:19.594712,,,,,,f,,{},vote,12,1,John Bridges: Austin Williams
+45,2019-03-13 02:22:24.391148,,,,,,f,,{},text,2,1,"Jay Williams: He did suggest Jason last round, and I don't think Jason was actually mafia..."
+47,2019-03-13 02:22:26.920368,,,,,,f,,{},text,12,1,John Bridges: i sa austin
+48,2019-03-13 02:22:27.258119,,,,,,f,,{},text,3,1,Abigail Perez: are we doing austin?
+51,2019-03-13 02:22:40.124365,,,,,,f,,{},vote,3,1,Abigail Perez: Austin Williams
+52,2019-03-13 02:23:06.79035,,,,,,f,,{},text,2,1,Jay Williams: hmm
+54,2019-03-13 02:23:29.526908,,,,,,f,,{},text,2,1,"Jay Williams: Oh, that's true"
+55,2019-03-13 02:23:31.523964,,,,,,f,,{},text,10,1,Michael Sharp: True
+56,2019-03-13 02:23:32.904223,,,,,,f,,{},text,2,1,Jay Williams: I missed that
+57,2019-03-13 02:23:56.540021,,,,,,f,,{},vote,2,1,Jay Williams: Austin Williams
+12,2019-03-13 02:17:55.886537,,,,,,t,2019-03-13 02:24:02.40819,{},text,7,1,Austin Williams: I vote Jason
+19,2019-03-13 02:18:15.358125,,,,,,t,2019-03-13 02:24:02.416736,{},vote,7,1,Austin Williams: Jason Rodriguez
+46,2019-03-13 02:22:25.976898,,,,,,t,2019-03-13 02:24:02.424473,{},text,7,1,"Austin Williams: True, I'm used to watching reactions and hearing tone of voice."
+53,2019-03-13 02:23:18.598815,,,,,,t,2019-03-13 02:24:02.433084,{},text,7,1,Austin Williams: I only suggested Jason because he suggested me. Live and let live otherwise
+58,2019-03-13 02:24:02.811984,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Austin Williams
+59,2019-03-13 02:24:19.416451,,,,,,f,,{},text,2,1,"Jay Williams: Probably should kill Jerry, since he thinks I'm mafia, haha"
+60,2019-03-13 02:24:19.820848,,,,,,f,,{},text,3,1,Abigail Perez: who should we get?
+61,2019-03-13 02:24:27.643575,,,,,,f,,{},text,3,1,Abigail Perez: yes i was thinking the same
+62,2019-03-13 02:24:30.280666,,,,,,f,,{},text,2,1,Jay Williams: Or would that be too obvious?
+63,2019-03-13 02:24:34.354189,,,,,,f,,{},vote,2,1,Jay Williams: Jerry Pearson
+64,2019-03-13 02:24:39.279331,,,,,,f,,{},text,2,1,"Jay Williams: Eh, let's do it"
+65,2019-03-13 02:24:40.643558,,,,,,f,,{},text,3,1,Abigail Perez: it might be
+66,2019-03-13 02:24:41.773494,,,,,,f,,{},text,3,1,Abigail Perez: ok
+67,2019-03-13 02:24:50.052594,,,,,,f,,{},vote,3,1,Abigail Perez: Jerry Pearson
+16,2019-03-13 02:18:02.247271,,,,,,t,2019-03-13 02:25:12.274373,{},text,8,1,Jerry Pearson: I believe Jay Williams
+21,2019-03-13 02:18:19.268692,,,,,,t,2019-03-13 02:25:12.281159,{},vote,8,1,Jerry Pearson: Jay Williams
+70,2019-03-13 02:25:34.696607,,,,,,f,,{},text,10,1,Michael Sharp: I'm thinking Kelly
+72,2019-03-13 02:25:48.569375,,,,,,f,,{},text,3,1,Abigail Perez: I think kelly
+75,2019-03-13 02:25:56.963517,,,,,,f,,{},vote,10,1,Michael Sharp: Kelly Mclaughlin
+76,2019-03-13 02:26:03.163213,,,,,,f,,{},text,12,1,John Bridges: i am also kelly
+78,2019-03-13 02:26:32.672499,,,,,,f,,{},vote,2,1,Jay Williams: Kelly Mclaughlin
+27,2019-03-13 02:19:03.696035,,,,,,t,2019-03-13 02:25:12.287495,{},text,8,1,"Jerry Pearson: Don't go after Jerry, he's just an innocent um"
+28,2019-03-13 02:19:14.316438,,,,,,t,2019-03-13 02:25:12.294208,{},text,8,1,Jerry Pearson: Mafioso!
+49,2019-03-13 02:22:33.21616,,,,,,t,2019-03-13 02:25:12.300772,{},text,8,1,Jerry Pearson: I still think Jay myself 
+50,2019-03-13 02:22:38.315289,,,,,,t,2019-03-13 02:25:12.307358,{},vote,8,1,Jerry Pearson: Jay Williams
+68,2019-03-13 02:25:12.453848,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Jerry Pearson
+71,2019-03-13 02:25:41.13664,,,,,,f,,{},text,12,1,John Bridges: how is mafia
+73,2019-03-13 02:25:51.116649,,,,,,f,,{},vote,3,1,Abigail Perez: Kelly Mclaughlin
+74,2019-03-13 02:25:53.377328,,,,,,f,,{},vote,12,1,John Bridges: Kelly Mclaughlin
+77,2019-03-13 02:26:17.400277,,,,,,f,,{},text,2,1,"Jay Williams: Kelly said to kill Austin last round, haha"
+83,2019-03-13 02:27:22.922302,,,,,,f,,{},text,2,1,"Jay Williams: Yeah, that would be nice"
+81,2019-03-13 02:27:08.458903,,,,,,t,2019-03-13 02:27:52.349109,{},text,6,1,Kelly Mclaughlin: lmao it's good
+82,2019-03-13 02:27:16.589971,,,,,,t,2019-03-13 02:27:52.357538,{},text,6,1,Kelly Mclaughlin: hope there's bonuses all around
+79,2019-03-13 02:26:36.459251,,,,,,t,2019-03-13 02:27:52.364716,{},vote,6,1,Kelly Mclaughlin: John Bridges
+80,2019-03-13 02:27:00.893419,,,,,,f,,{},text,2,1,"Jay Williams: Sorry, Kelly"
+11,2019-03-13 02:17:49.58271,,,,,,t,2019-03-13 02:27:52.317201,{},text,6,1,Kelly Mclaughlin: So who should we vote out?
+17,2019-03-13 02:18:05.655773,,,,,,t,2019-03-13 02:27:52.326414,{},vote,6,1,Kelly Mclaughlin: Jason Rodriguez
+40,2019-03-13 02:21:34.393328,,,,,,t,2019-03-13 02:27:52.334186,{},text,6,1,Kelly Mclaughlin: I say we get rid of Austin
+69,2019-03-13 02:25:22.738937,,,,,,t,2019-03-13 02:27:52.341346,{},text,6,1,Kelly Mclaughlin: Hmmm what about Jerry
+84,2019-03-13 02:27:52.414318,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Kelly Mclaughlin

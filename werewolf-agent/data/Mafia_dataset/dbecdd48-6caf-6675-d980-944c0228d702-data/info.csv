@@ -1,0 +1,87 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-14 19:28:44.827379,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+6,2019-03-14 19:29:59.051431,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Scott Mason
+15,2019-03-14 19:30:31.136006,,,,,,f,,{},text,13,1,Vanessa Berry: Hello
+26,2019-03-14 19:31:00.140269,,,,,,f,,{},text,13,1,Vanessa Berry: I assumed it was a male
+36,2019-03-14 19:31:54.749338,,,,,,f,,{},vote,13,1,Vanessa Berry: Richard Walter
+34,2019-03-14 19:31:48.582005,,,,,,t,2019-03-14 19:32:37.66832,{},vote,10,1,Amanda Carson: Matthew Ortega
+32,2019-03-14 19:31:41.270179,,,,,,t,2019-03-14 19:32:37.676941,{},text,10,1,Amanda Carson: I'll vote Matthew
+31,2019-03-14 19:31:34.480757,,,,,,t,2019-03-14 19:32:37.683704,{},text,10,1,Amanda Carson: Trying too hard
+29,2019-03-14 19:31:29.269193,,,,,,t,2019-03-14 19:32:37.690257,{},text,10,1,Amanda Carson: I agree. Matthew is
+22,2019-03-14 19:30:48.705946,,,,,,t,2019-03-14 19:32:37.696742,{},text,10,1,Amanda Carson: Im just talkative LOL
+20,2019-03-14 19:30:43.637686,,,,,,t,2019-03-14 19:32:37.704621,{},text,10,1,Amanda Carson: really
+19,2019-03-14 19:30:41.616636,,,,,,t,2019-03-14 19:32:37.712791,{},text,10,1,Amanda Carson: Im not
+11,2019-03-14 19:30:19.292841,,,,,,t,2019-03-14 19:32:37.722103,{},text,10,1,"Amanda Carson: Hi, bystanders!  Seems to me if we're smart, and we have more than the mafia, we can win this if we're smart"
+39,2019-03-14 19:32:38.777399,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Amanda Carson
+12,2019-03-14 19:30:19.556431,,,,,,t,2019-03-14 19:33:47.42038,{},text,7,1,Caroline Hansen: Hey!
+33,2019-03-14 19:31:47.187621,,,,,,t,2019-03-14 19:33:47.431521,{},vote,7,1,Caroline Hansen: Matthew Ortega
+46,2019-03-14 19:33:47.749039,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Caroline Hansen
+48,2019-03-14 19:34:03.187485,,,,,,f,,{},vote,13,1,Vanessa Berry: Richard Walter
+54,2019-03-14 19:34:24.687171,,,,,,f,,{},text,13,1,Vanessa Berry: I have my eye on Richard Walter
+58,2019-03-14 19:34:53.170401,,,,,,f,,{},text,13,1,Vanessa Berry: How is that funny?
+66,2019-03-14 19:35:34.737229,,,,,,f,,{},text,13,1,"Vanessa Berry: Autumn Martinez is a crappy person, but not mafia"
+3,2019-03-14 19:29:20.123721,,,,,,t,2019-03-14 19:36:27.643382,{},text,2,1,Matthew Ortega: get rid of scott
+5,2019-03-14 19:29:32.27589,,,,,,t,2019-03-14 19:36:27.653163,{},vote,2,1,Matthew Ortega: Scott Mason
+10,2019-03-14 19:30:16.845567,,,,,,t,2019-03-14 19:36:27.666179,{},text,2,1,Matthew Ortega: hi
+71,2019-03-14 19:36:29.019276,,,,,,f,,{},text,2,1,Matthew Ortega: lets get her outttta here!!!!!!!!!!!!!!!!!!!
+13,2019-03-14 19:30:20.503746,,,,,,t,2019-03-14 19:37:10.694398,{},text,5,1,Autumn Martinez: Hi
+21,2019-03-14 19:30:45.381871,,,,,,t,2019-03-14 19:37:10.704099,{},text,5,1,Autumn Martinez: Agreed. Amanda is mafia.
+30,2019-03-14 19:31:30.985708,,,,,,t,2019-03-14 19:37:10.713022,{},text,5,1,"Autumn Martinez: Amanda, who should we vote out then?"
+37,2019-03-14 19:31:57.570872,,,,,,t,2019-03-14 19:37:10.720512,{},vote,5,1,Autumn Martinez: Amanda Carson
+51,2019-03-14 19:34:12.401179,,,,,,t,2019-03-14 19:37:10.730886,{},text,5,1,Autumn Martinez: So who's a bystander?
+60,2019-03-14 19:34:57.004063,,,,,,t,2019-03-14 19:37:10.740478,{},text,5,1,Autumn Martinez: I'm mafia
+64,2019-03-14 19:35:09.33819,,,,,,t,2019-03-14 19:37:10.749274,{},text,5,1,Autumn Martinez: Vote me out
+65,2019-03-14 19:35:30.792332,,,,,,t,2019-03-14 19:37:10.760676,{},vote,5,1,Autumn Martinez: Matthew Ortega
+9,2019-03-14 19:30:13.85901,,,,,,t,2019-03-14 19:37:37.47737,{},text,15,1,Juan Harris: hi
+25,2019-03-14 19:30:54.978657,,,,,,t,2019-03-14 19:37:37.490377,{},vote,15,1,Juan Harris: Amanda Carson
+50,2019-03-14 19:34:08.110201,,,,,,t,2019-03-14 19:37:37.50417,{},text,15,1,Juan Harris: hello
+61,2019-03-14 19:34:59.012243,,,,,,t,2019-03-14 19:37:37.513455,{},vote,15,1,Juan Harris: Matthew Ortega
+75,2019-03-14 19:37:37.851322,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Juan Harris
+2,2019-03-14 19:28:59.099641,,,,,,t,2019-03-14 19:40:17.400226,{},text,4,1,Richard Walter: Hey all!
+4,2019-03-14 19:29:27.8439,,,,,,t,2019-03-14 19:40:17.408652,{},text,4,1,Richard Walter: I'm down with that.
+14,2019-03-14 19:30:21.763236,,,,,,t,2019-03-14 19:40:17.417805,{},text,4,1,Richard Walter: Hello 
+23,2019-03-14 19:30:49.945532,,,,,,t,2019-03-14 19:40:17.427801,{},vote,4,1,Richard Walter: Amanda Carson
+7,2019-03-14 19:30:08.205981,,,,,,t,2019-03-14 20:20:53.072908,{},text,12,1,Jodi Williams: hey
+8,2019-03-14 19:30:12.68092,,,,,,t,2019-03-14 20:20:53.087305,{},text,12,1,Jodi Williams: hi guys
+17,2019-03-14 19:30:39.273208,,,,,,t,2019-03-14 20:20:53.097958,{},text,12,1,Jodi Williams: hey how r u
+27,2019-03-14 19:31:15.311307,,,,,,t,2019-03-14 20:20:53.109523,{},text,12,1,Jodi Williams: matthew is mafia
+38,2019-03-14 19:31:58.047351,,,,,,t,2019-03-14 20:20:53.121876,{},text,12,1,Jodi Williams: hey just for lol guys
+47,2019-03-14 19:33:52.15402,,,,,,t,2019-03-14 20:20:53.133692,{},text,12,1,Jodi Williams: hey
+53,2019-03-14 19:34:19.863308,,,,,,t,2019-03-14 20:20:53.144009,{},text,12,1,Jodi Williams: really
+56,2019-03-14 19:34:40.919483,,,,,,t,2019-03-14 20:20:53.152552,{},text,12,1,Jodi Williams: hahaha
+63,2019-03-14 19:35:09.15087,,,,,,t,2019-03-14 20:20:53.161192,{},text,12,1,Jodi Williams: great
+68,2019-03-14 19:36:05.627745,,,,,,t,2019-03-14 20:20:53.169618,{},text,12,1,Jodi Williams: no guys
+76,2019-03-14 19:37:42.091386,,,,,,t,2019-03-14 20:20:53.18236,{},text,12,1,Jodi Williams: helo
+16,2019-03-14 19:30:35.805137,,,,,,t,2019-03-14 19:36:27.676571,{},text,2,1,Matthew Ortega: amnda is mafia
+18,2019-03-14 19:30:39.376804,,,,,,t,2019-03-14 19:36:27.688077,{},text,2,1,Matthew Ortega: vote her out
+24,2019-03-14 19:30:51.45227,,,,,,t,2019-03-14 19:36:27.699151,{},vote,2,1,Matthew Ortega: Amanda Carson
+28,2019-03-14 19:31:27.032282,,,,,,t,2019-03-14 19:36:27.710244,{},text,2,1,Matthew Ortega: whos matthew?
+35,2019-03-14 19:31:51.753457,,,,,,t,2019-03-14 19:36:27.720527,{},text,2,1,Matthew Ortega: im gonna make you an offer you cant refuse
+41,2019-03-14 19:32:53.474116,,,,,,t,2019-03-14 19:36:27.730883,{},text,2,1,Matthew Ortega: sure
+49,2019-03-14 19:34:06.551917,,,,,,t,2019-03-14 19:36:27.744645,{},text,2,1,"Matthew Ortega: vanessa is mafia, lets get rid of her"
+55,2019-03-14 19:34:31.413141,,,,,,t,2019-03-14 19:36:27.753939,{},text,2,1,Matthew Ortega: vanessa berry is gonan sleep with the fishes
+57,2019-03-14 19:34:44.147132,,,,,,t,2019-03-14 19:36:27.766333,{},vote,2,1,Matthew Ortega: Vanessa Berry
+62,2019-03-14 19:35:08.614964,,,,,,t,2019-03-14 19:36:27.777484,{},text,2,1,Matthew Ortega: autumn is mafia too
+67,2019-03-14 19:35:41.461303,,,,,,t,2019-03-14 19:36:27.789691,{},text,2,1,Matthew Ortega: autumn is a made man
+69,2019-03-14 19:36:19.846941,,,,,,t,2019-03-14 19:36:27.802312,{},text,2,1,Matthew Ortega: one more vote for vanessa
+70,2019-03-14 19:36:28.323095,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Matthew Ortega
+79,2019-03-14 19:38:45.194278,,,,,,f,,{},text,13,1,Vanessa Berry: Richard Walter is too suspicious
+80,2019-03-14 19:39:00.697536,,,,,,f,,{},vote,13,1,Vanessa Berry: Richard Walter
+83,2019-03-14 19:40:02.55768,,,,,,f,,{},text,13,1,Vanessa Berry: Why?
+84,2019-03-14 19:40:09.606635,,,,,,f,,{},text,13,1,Vanessa Berry: How many women mafioso do you know?
+40,2019-03-14 19:32:49.402461,,,,,,t,2019-03-14 19:40:17.436323,{},text,4,1,Richard Walter: Get rid of Caroline?
+42,2019-03-14 19:33:00.303651,,,,,,t,2019-03-14 19:40:17.444727,{},text,4,1,Richard Walter: She voted you out with Autumn
+43,2019-03-14 19:33:05.893975,,,,,,t,2019-03-14 19:40:17.453891,{},vote,4,1,Richard Walter: Caroline Hansen
+44,2019-03-14 19:33:19.937103,,,,,,t,2019-03-14 19:40:17.465337,{},text,4,1,"Richard Walter: er,Amanda*"
+45,2019-03-14 19:33:34.087214,,,,,,t,2019-03-14 19:40:17.475508,{},text,4,1,Richard Walter: Vanessa makes me nervous she voted me 
+52,2019-03-14 19:34:14.359729,,,,,,t,2019-03-14 19:40:17.485376,{},text,4,1,"Richard Walter: Hey Jodi, who do you think is in the Mafia?"
+59,2019-03-14 19:34:55.063359,,,,,,t,2019-03-14 19:40:17.497614,{},vote,4,1,Richard Walter: Vanessa Berry
+72,2019-03-14 19:36:38.501829,,,,,,t,2019-03-14 19:40:17.505987,{},vote,4,1,Richard Walter: Juan Harris
+73,2019-03-14 19:36:42.96372,,,,,,t,2019-03-14 19:40:17.515154,{},text,4,1,Richard Walter: damnuit
+74,2019-03-14 19:36:52.983558,,,,,,t,2019-03-14 19:40:17.523338,{},text,4,1,Richard Walter: Meant to click Vanessa and can't change it
+78,2019-03-14 19:38:09.947543,,,,,,t,2019-03-14 19:40:17.532068,{},text,4,1,Richard Walter: Jodi - did you not vote last round? Any suspicions?
+77,2019-03-14 19:37:51.500795,,,,,,t,2019-03-14 19:40:17.540821,{},text,4,1,Richard Walter: So who do we think is in the Mafia? 
+81,2019-03-14 19:39:11.961956,,,,,,t,2019-03-14 19:40:17.54901,{},vote,4,1,Richard Walter: Vanessa Berry
+82,2019-03-14 19:39:26.161554,,,,,,t,2019-03-14 19:40:17.557369,{},text,4,1,"Richard Walter: Interesting, would make sense Vanessa is mafia. "
+85,2019-03-14 19:40:17.759738,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Richard Walter
+86,2019-03-14 19:47:34.899039,,,,,,f,,{},info,1,1,Phase Change to Daytime

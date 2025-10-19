@@ -1,0 +1,102 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-13 00:29:17.01443,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+5,2019-03-13 00:30:22.787821,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Raymond Campbell
+7,2019-03-13 00:30:41.416659,,,,,,f,,{},text,10,1,Nicole Lang: hey group 
+11,2019-03-13 00:30:47.443207,,,,,,f,,{},text,5,1,Veronica Snyder: Hi all
+19,2019-03-13 00:31:36.306263,,,,,,f,,{},text,10,1,Nicole Lang: julian works for me
+20,2019-03-13 00:31:37.337994,,,,,,f,,{},text,5,1,Veronica Snyder: How to chose??
+25,2019-03-13 00:31:56.02906,,,,,,f,,{},text,10,1,Nicole Lang: haha that's how we're choosing
+28,2019-03-13 00:32:12.057242,,,,,,f,,{},text,10,1,Nicole Lang: idk though
+30,2019-03-13 00:32:17.962701,,,,,,f,,{},text,10,1,Nicole Lang: you guys are kind of pushing julian
+32,2019-03-13 00:32:22.754012,,,,,,f,,{},text,10,1,Nicole Lang: probably know hes not mafia
+33,2019-03-13 00:32:28.103925,,,,,,f,,{},text,10,1,Nicole Lang: how else could you know who to pick
+37,2019-03-13 00:32:38.666695,,,,,,f,,{},text,5,1,Veronica Snyder: No one seems to like Julian! lol
+39,2019-03-13 00:32:39.986209,,,,,,f,,{},text,10,1,Nicole Lang: of course you do julian hahah
+47,2019-03-13 00:32:58.488268,,,,,,f,,{},vote,5,1,Veronica Snyder: Mr. Michael Nelson Jr.
+44,2019-03-13 00:32:49.731656,,,,,,t,2019-03-13 00:33:02.775191,{},text,2,1,Mr. Michael Nelson Jr.: Let's Lynch Nathan 
+38,2019-03-13 00:32:39.026218,,,,,,t,2019-03-13 00:33:02.793688,{},text,2,1,Mr. Michael Nelson Jr.: Whoa! I can't help what my name is
+29,2019-03-13 00:32:16.514658,,,,,,t,2019-03-13 00:33:02.815248,{},text,2,1,Mr. Michael Nelson Jr.: Julian will whack us.
+21,2019-03-13 00:31:44.716785,,,,,,t,2019-03-13 00:33:02.826949,{},text,2,1,Mr. Michael Nelson Jr.: Sounds like a mobish name
+17,2019-03-13 00:31:22.339048,,,,,,t,2019-03-13 00:33:02.841682,{},vote,2,1,Mr. Michael Nelson Jr.: Julian Barrett
+16,2019-03-13 00:31:19.833146,,,,,,t,2019-03-13 00:33:02.850871,{},text,2,1,Mr. Michael Nelson Jr.: Julian
+14,2019-03-13 00:30:59.312544,,,,,,t,2019-03-13 00:33:02.870993,{},text,2,1,Mr. Michael Nelson Jr.: How is everyone today?
+6,2019-03-13 00:30:38.066949,,,,,,t,2019-03-13 00:33:02.881569,{},text,2,1,Mr. Michael Nelson Jr.: Hello.
+4,2019-03-13 00:29:56.091427,,,,,,t,2019-03-13 00:33:02.891545,{},vote,2,1,Mr. Michael Nelson Jr.: Raymond Campbell
+3,2019-03-13 00:29:47.517076,,,,,,t,2019-03-13 00:33:02.919409,{},text,2,1,Mr. Michael Nelson Jr.: Let's take out Raymond.
+2,2019-03-13 00:29:27.31342,,,,,,t,2019-03-13 00:33:02.940766,{},text,2,1,Mr. Michael Nelson Jr.: Hi.
+48,2019-03-13 00:33:03.712246,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Mr. Michael Nelson Jr.
+8,2019-03-13 00:30:44.789018,,,,,,t,2019-03-13 00:34:12.352087,{},text,4,1,Christopher Turner: hello
+13,2019-03-13 00:30:56.65947,,,,,,t,2019-03-13 00:34:12.372609,{},text,4,1,Christopher Turner: who should we get rid of?
+18,2019-03-13 00:31:34.680379,,,,,,t,2019-03-13 00:34:12.437022,{},text,4,1,Christopher Turner: Michael sounds suspicious
+26,2019-03-13 00:32:03.825651,,,,,,t,2019-03-13 00:34:12.467735,{},text,4,1,Christopher Turner: Yeah I don't trust the guy
+40,2019-03-13 00:32:41.394701,,,,,,t,2019-03-13 00:34:12.494655,{},text,4,1,"Christopher Turner: Yeah, never trust someone with ttwo first names."
+50,2019-03-13 00:34:12.94063,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Christopher Turner
+51,2019-03-13 00:34:21.517527,,,,,,f,,{},text,10,1,Nicole Lang: whoops forgot to vote last time
+52,2019-03-13 00:34:24.682378,,,,,,f,,{},text,10,1,Nicole Lang: so what are we thinking
+53,2019-03-13 00:34:40.084056,,,,,,f,,{},text,5,1,Veronica Snyder: Hmmm...
+54,2019-03-13 00:34:49.214512,,,,,,f,,{},text,10,1,Nicole Lang: maybe brittany bc she didn't vote for michael?
+57,2019-03-13 00:35:07.326933,,,,,,f,,{},text,5,1,"Veronica Snyder: You're voting for yourself, Nathan?"
+60,2019-03-13 00:35:14.521693,,,,,,f,,{},text,10,1,Nicole Lang: why would you vote for yourself?
+63,2019-03-13 00:35:37.071142,,,,,,f,,{},text,5,1,Veronica Snyder: Reverse psychology?
+64,2019-03-13 00:35:39.485481,,,,,,f,,{},text,10,1,Nicole Lang: uhh nathan are you okay haha
+65,2019-03-13 00:35:49.708204,,,,,,f,,{},text,10,1,Nicole Lang: im going brittany
+66,2019-03-13 00:35:53.704603,,,,,,f,,{},vote,10,1,Nicole Lang: Brittany Taylor
+67,2019-03-13 00:35:56.330108,,,,,,f,,{},text,5,1,Veronica Snyder: Do you want to harm yourself Nathan?
+12,2019-03-13 00:30:50.629754,,,,,,t,2019-03-13 00:38:02.480176,{},text,8,1,Nathan Lynch: hi
+15,2019-03-13 00:31:05.974368,,,,,,t,2019-03-13 00:38:02.494636,{},text,8,1,Nathan Lynch: who to eliminate?
+22,2019-03-13 00:31:49.949509,,,,,,t,2019-03-13 00:38:02.515731,{},text,8,1,"Nathan Lynch: well, is anybody not talking?"
+27,2019-03-13 00:32:11.297276,,,,,,t,2019-03-13 00:38:02.54844,{},text,8,1,Nathan Lynch: who talked the least?
+9,2019-03-13 00:30:45.110675,,,,,,t,2019-03-13 00:40:42.461067,{},text,3,1,Julian Barrett: Hi!
+24,2019-03-13 00:31:54.877429,,,,,,t,2019-03-13 00:40:42.471595,{},text,3,1,Julian Barrett: I'm here
+35,2019-03-13 00:32:32.545898,,,,,,t,2019-03-13 00:40:42.479497,{},text,3,1,Julian Barrett: I agree.
+45,2019-03-13 00:32:55.418856,,,,,,t,2019-03-13 00:40:42.487209,{},vote,3,1,Julian Barrett: Mr. Michael Nelson Jr.
+49,2019-03-13 00:33:36.04015,,,,,,t,2019-03-13 00:40:42.494128,{},vote,3,1,Julian Barrett: Christopher Turner
+56,2019-03-13 00:34:51.496105,,,,,,t,2019-03-13 00:40:42.500867,{},text,3,1,Julian Barrett: What about Nathan Lynch?
+72,2019-03-13 00:36:32.195338,,,,,,t,2019-03-13 00:36:52.813179,{},text,9,1,Brittany Taylor: so be it then
+70,2019-03-13 00:36:10.863524,,,,,,t,2019-03-13 00:38:02.675067,{},vote,8,1,Nathan Lynch: Brittany Taylor
+79,2019-03-13 00:38:17.292949,,,,,,f,,{},text,10,1,Nicole Lang: wow they didn't vote me out I'm shocked haha
+80,2019-03-13 00:38:22.227887,,,,,,f,,{},text,10,1,Nicole Lang: who's even left??
+68,2019-03-13 00:36:04.11092,,,,,,t,2019-03-13 00:40:42.508065,{},text,3,1,Julian Barrett: Well you got my vote if oyu want it.
+77,2019-03-13 00:37:38.142477,,,,,,t,2019-03-13 00:40:42.51825,{},vote,3,1,Julian Barrett: Nathan Lynch
+73,2019-03-13 00:36:46.705309,,,,,,f,,{},vote,5,1,Veronica Snyder: Brittany Taylor
+74,2019-03-13 00:36:50.091183,,,,,,t,2019-03-13 00:36:52.823141,{},vote,9,1,Brittany Taylor: Nicole Lang
+31,2019-03-13 00:32:22.202351,,,,,,t,2019-03-13 00:38:02.577515,{},text,8,1,"Nathan Lynch: i'd go with Michael Nelson, he has too many names."
+34,2019-03-13 00:32:29.778414,,,,,,t,2019-03-13 00:38:02.596209,{},text,8,1,Nathan Lynch: I don't even want to type them all.
+36,2019-03-13 00:32:34.768021,,,,,,t,2019-03-13 00:38:02.606561,{},text,8,1,Nathan Lynch: 'Jr.'
+41,2019-03-13 00:32:41.693014,,,,,,t,2019-03-13 00:38:02.6191,{},text,8,1,Nathan Lynch: sounds mobbed up
+43,2019-03-13 00:32:47.550571,,,,,,t,2019-03-13 00:38:02.634918,{},vote,8,1,Nathan Lynch: Mr. Michael Nelson Jr.
+55,2019-03-13 00:34:50.340785,,,,,,t,2019-03-13 00:38:02.643136,{},text,8,1,"Nathan Lynch: I'll say Michael Nelson Jr., or me."
+59,2019-03-13 00:35:08.3773,,,,,,t,2019-03-13 00:38:02.651174,{},text,8,1,"Nathan Lynch: I can't vote for myself, but that's not bad. I'll give you moral support."
+61,2019-03-13 00:35:26.868687,,,,,,t,2019-03-13 00:38:02.659231,{},text,8,1,Nathan Lynch: I have been acting suspiciously.
+62,2019-03-13 00:35:36.963383,,,,,,t,2019-03-13 00:38:02.666886,{},text,8,1,"Nathan Lynch: If I were you, I'd vote for me. That's all I'm saying."
+69,2019-03-13 00:36:06.245698,,,,,,t,2019-03-13 00:38:02.687612,{},text,8,1,"Nathan Lynch: Yeah, I don't like her music. I'll vote for her."
+78,2019-03-13 00:38:02.813724,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Nathan Lynch
+83,2019-03-13 00:38:42.819376,,,,,,t,2019-03-13 00:40:42.530105,{},text,3,1,Julian Barrett: I think so.
+75,2019-03-13 00:36:50.695914,,,,,,f,,{},text,10,1,"Nicole Lang: well you didn't vote for michael, i think that makes sense"
+10,2019-03-13 00:30:45.268517,,,,,,t,2019-03-13 00:36:52.757088,{},text,9,1,Brittany Taylor: hi
+23,2019-03-13 00:31:50.302048,,,,,,t,2019-03-13 00:36:52.768528,{},text,9,1,Brittany Taylor: Good question
+42,2019-03-13 00:32:42.265282,,,,,,t,2019-03-13 00:36:52.778074,{},text,9,1,Brittany Taylor: I agree
+46,2019-03-13 00:32:56.458789,,,,,,t,2019-03-13 00:36:52.792881,{},vote,9,1,Brittany Taylor: Nathan Lynch
+58,2019-03-13 00:35:08.033008,,,,,,t,2019-03-13 00:36:52.8029,{},text,9,1,Brittany Taylor: I felt Nathan was too pushy
+76,2019-03-13 00:36:53.091488,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Brittany Taylor
+82,2019-03-13 00:38:33.625499,,,,,,f,,{},text,5,1,Veronica Snyder: Looks like we're down to 3?
+84,2019-03-13 00:38:50.658311,,,,,,f,,{},text,10,1,Nicole Lang: no but i argued a lot against brittany figured theyd off me in the night tbh
+85,2019-03-13 00:39:09.998477,,,,,,f,,{},text,10,1,Nicole Lang: does that mean there's one mafia left? are we all bystanders? how does this work haha
+88,2019-03-13 00:39:38.158613,,,,,,f,,{},text,10,1,Nicole Lang: *sigh*
+89,2019-03-13 00:39:44.111825,,,,,,f,,{},text,5,1,Veronica Snyder: Sounds like it could be any possibility. 
+90,2019-03-13 00:39:46.911349,,,,,,f,,{},text,5,1,Veronica Snyder: Dammit
+91,2019-03-13 00:39:57.387489,,,,,,f,,{},text,10,1,Nicole Lang: i'm voitng julian bc idk what to do
+92,2019-03-13 00:40:06.281387,,,,,,f,,{},text,10,1,Nicole Lang: its up to you guys I guess haha
+93,2019-03-13 00:40:08.567854,,,,,,f,,{},vote,10,1,Nicole Lang: Julian Barrett
+94,2019-03-13 00:40:08.742122,,,,,,f,,{},text,5,1,Veronica Snyder: Who loves Italian food
+97,2019-03-13 00:40:24.822996,,,,,,f,,{},text,10,1,Nicole Lang: undersatndable
+98,2019-03-13 00:40:36.854158,,,,,,f,,{},text,10,1,Nicole Lang: ah WAIT
+71,2019-03-13 00:36:18.225304,,,,,,t,2019-03-13 00:40:42.537884,{},vote,3,1,Julian Barrett: Brittany Taylor
+81,2019-03-13 00:38:31.85368,,,,,,t,2019-03-13 00:40:42.5461,{},text,3,1,Julian Barrett: Want to be voted out?
+86,2019-03-13 00:39:10.857095,,,,,,t,2019-03-13 00:40:42.553457,{},text,3,1,Julian Barrett: lol guess they're not that smart.
+87,2019-03-13 00:39:23.731883,,,,,,t,2019-03-13 00:40:42.562588,{},text,3,1,Julian Barrett: I think it could be either.
+95,2019-03-13 00:40:13.557026,,,,,,t,2019-03-13 00:40:42.570894,{},text,3,1,Julian Barrett: Then you've got my vote I guess
+96,2019-03-13 00:40:19.037173,,,,,,t,2019-03-13 00:40:42.579654,{},vote,3,1,Julian Barrett: Nicole Lang
+99,2019-03-13 00:40:40.618634,,,,,,t,2019-03-13 00:40:42.588123,{},text,3,1,Julian Barrett: Good luck
+100,2019-03-13 00:40:42.70978,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Julian Barrett
+101,2019-03-13 00:40:43.239947,,,,,,f,,{},text,10,1,Nicole Lang: they pushed julian in the beginni

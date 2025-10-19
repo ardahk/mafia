@@ -1,0 +1,105 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-11 20:05:17.665946,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-11 20:05:39.588742,,,,,,f,,{},text,2,1,"Jeremy Davis: hi!, who do you want to elimate?"
+3,2019-03-11 20:06:28.16736,,,,,,f,,{},info,1,1,Phase Change to Daytime
+8,2019-03-11 20:06:41.287288,,,,,,f,,{},text,2,1,Jeremy Davis: hi all!
+10,2019-03-11 20:06:41.985013,,,,,,f,,{},text,3,1,Harold Peterson: You pick please
+11,2019-03-11 20:06:42.443178,,,,,,f,,{},text,10,1,William Reed: hi
+14,2019-03-11 20:06:51.809006,,,,,,f,,{},text,3,1,Harold Peterson: Hello
+18,2019-03-11 20:07:05.73076,,,,,,f,,{},vote,3,1,Harold Peterson: Roy Moore
+20,2019-03-11 20:07:06.51785,,,,,,f,,{},text,2,1,Jeremy Davis: nice to meet everyone
+21,2019-03-11 20:07:18.047271,,,,,,f,,{},vote,10,1,William Reed: Brittany Oliver
+22,2019-03-11 20:07:18.484178,,,,,,f,,{},text,3,1,Harold Peterson: why are you guys picking before we talk about it?
+26,2019-03-11 20:08:17.319935,,,,,,f,,{},text,3,1,Harold Peterson: that's Jet Li
+28,2019-03-11 20:08:32.945001,,,,,,f,,{},text,2,1,Jeremy Davis: roy moore as in the failed politician? lol
+29,2019-03-11 20:08:34.456298,,,,,,f,,{},text,10,1,William Reed: she isn't talking sounds like a mob goon to me
+33,2019-03-11 20:09:08.803853,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Brittany Oliver
+34,2019-03-11 20:09:09.128324,,,,,,t,2019-03-11 20:09:09.212245,{},text,9,1,Brittany Oliver: oh
+35,2019-03-11 20:09:24.967014,,,,,,f,,{},text,3,1,Harold Peterson: who do you want to select?
+36,2019-03-11 20:09:41.238114,,,,,,f,,{},text,2,1,Jeremy Davis: who was deleted in the day part?
+37,2019-03-11 20:09:55.282608,,,,,,f,,{},text,2,1,Jeremy Davis: let's do brittany or roy 
+38,2019-03-11 20:09:55.780643,,,,,,f,,{},text,3,1,Harold Peterson: Brittany
+39,2019-03-11 20:10:01.86261,,,,,,f,,{},text,3,1,Harold Peterson: Roy then
+40,2019-03-11 20:10:06.794529,,,,,,f,,{},vote,3,1,Harold Peterson: Roy Moore
+41,2019-03-11 20:10:12.807438,,,,,,f,,{},vote,2,1,Jeremy Davis: Roy Moore
+42,2019-03-11 20:10:15.670726,,,,,,f,,{},text,2,1,Jeremy Davis: good for me
+31,2019-03-11 20:08:44.595011,,,,,,t,2019-03-11 20:10:17.53996,{},text,11,1,Roy Moore: you are right my mistake
+30,2019-03-11 20:08:35.813278,,,,,,t,2019-03-11 20:10:17.548977,{},text,11,1,Roy Moore: why did you choose me
+25,2019-03-11 20:07:44.493713,,,,,,t,2019-03-11 20:10:17.556775,{},text,11,1,Roy Moore: ryan are you related to Jet
+23,2019-03-11 20:07:25.613417,,,,,,t,2019-03-11 20:10:17.564639,{},text,11,1,Roy Moore: i barra going to beat you up
+19,2019-03-11 20:07:06.020947,,,,,,t,2019-03-11 20:10:17.573059,{},vote,11,1,Roy Moore: Brittany Oliver
+7,2019-03-11 20:06:39.291015,,,,,,t,2019-03-11 20:10:17.580606,{},text,11,1,Roy Moore: hello all
+43,2019-03-11 20:10:18.185808,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Roy Moore
+46,2019-03-11 20:10:33.916649,,,,,,f,,{},text,3,1,Harold Peterson: I missed you guys
+47,2019-03-11 20:10:51.301066,,,,,,f,,{},text,10,1,William Reed: why'd the mob whack the person everyone was voting for they should've left him alive to distract from them
+53,2019-03-11 20:11:47.805703,,,,,,f,,{},vote,3,1,Harold Peterson: Scott Glenn
+55,2019-03-11 20:12:39.020663,,,,,,f,,{},text,2,1,Jeremy Davis: I wonder if scott glenn is related to john glenn the astronaut? 
+58,2019-03-11 20:12:53.762421,,,,,,f,,{},vote,10,1,William Reed: Diana Ayala
+6,2019-03-11 20:06:36.592739,,,,,,t,2019-03-11 20:12:57.768645,{},text,14,1,Scott Glenn: Roy Moore
+9,2019-03-11 20:06:41.550609,,,,,,t,2019-03-11 20:12:57.78021,{},vote,14,1,Scott Glenn: Brittany Oliver
+13,2019-03-11 20:06:51.502212,,,,,,t,2019-03-11 20:12:57.789663,{},text,14,1,Scott Glenn: hi
+45,2019-03-11 20:10:31.289455,,,,,,t,2019-03-11 20:12:57.800453,{},vote,14,1,Scott Glenn: Diana Ayala
+49,2019-03-11 20:11:03.627302,,,,,,t,2019-03-11 20:12:57.809894,{},text,14,1,Scott Glenn: kimberly ibarra
+56,2019-03-11 20:12:39.848381,,,,,,t,2019-03-11 20:12:57.818746,{},text,14,1,Scott Glenn: what is happening
+59,2019-03-11 20:12:58.332438,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Scott Glenn
+60,2019-03-11 20:12:58.81711,,,,,,f,,{},vote,2,1,Jeremy Davis: Scott Glenn
+61,2019-03-11 20:13:22.857279,,,,,,f,,{},text,2,1,"Jeremy Davis: so far so good, but maybe we shouldn't have gotten rid of roy so soon. My bad"
+62,2019-03-11 20:13:41.011702,,,,,,f,,{},text,3,1,Harold Peterson: yeah that was bad
+63,2019-03-11 20:13:54.88179,,,,,,f,,{},text,2,1,Jeremy Davis: you pick this time
+64,2019-03-11 20:14:03.481686,,,,,,f,,{},text,3,1,Harold Peterson: i already voted for Scott
+65,2019-03-11 20:14:08.16895,,,,,,f,,{},info,1,1,Phase Change to Daytime
+70,2019-03-11 20:14:57.195753,,,,,,f,,{},text,2,1,Jeremy Davis: quick with the peterson vote already...
+71,2019-03-11 20:15:01.26028,,,,,,f,,{},text,10,1,William Reed: hmmm again the mob did a no kill
+12,2019-03-11 20:06:45.484992,,,,,,t,2019-03-11 20:17:57.385659,{},text,5,1,Mark Espinoza: hi all!
+32,2019-03-11 20:08:49.126804,,,,,,t,2019-03-11 20:17:57.395895,{},vote,5,1,Mark Espinoza: Roy Moore
+48,2019-03-11 20:11:03.034595,,,,,,t,2019-03-11 20:17:57.407043,{},text,5,1,Mark Espinoza: hmm
+54,2019-03-11 20:12:26.002642,,,,,,t,2019-03-11 20:17:57.417797,{},text,5,1,Mark Espinoza: scott was the first voter last time...
+4,2019-03-11 20:06:31.081981,,,,,,t,2019-03-11 20:18:33.699092,{},text,12,1,Ryan Lee: day
+5,2019-03-11 20:06:34.561529,,,,,,t,2019-03-11 20:18:33.708221,{},text,12,1,Ryan Lee: hi
+16,2019-03-11 20:06:59.616728,,,,,,t,2019-03-11 20:18:33.715104,{},text,12,1,Ryan Lee: nice to meet you all
+66,2019-03-11 20:14:18.85453,,,,,,t,2019-03-11 20:18:33.724211,{},vote,12,1,Ryan Lee: Harold Peterson
+15,2019-03-11 20:06:52.268974,,,,,,t,2019-03-11 20:20:37.546464,{},vote,7,1,Kimberly Ibarra: Roy Moore
+27,2019-03-11 20:08:17.752051,,,,,,t,2019-03-11 20:20:37.558173,{},text,7,1,Kimberly Ibarra: Why is everyone choosing Brittany?
+44,2019-03-11 20:10:29.316795,,,,,,t,2019-03-11 20:20:37.570287,{},text,7,1,Kimberly Ibarra: Well now I feel bad
+72,2019-03-11 20:15:21.436371,,,,,,f,,{},text,3,1,"Harold Peterson: guys, no"
+77,2019-03-11 20:15:58.833218,,,,,,f,,{},text,2,1,Jeremy Davis: I wonder if the mob is purposefully not getting rid of people at night and instead trying to do it during the day? How many can be in the mafia? 
+17,2019-03-11 20:07:01.783434,,,,,,t,2019-03-11 20:16:47.851817,{},text,13,1,Diana Ayala: hola
+24,2019-03-11 20:07:36.279428,,,,,,t,2019-03-11 20:16:47.863105,{},vote,13,1,Diana Ayala: Brittany Oliver
+50,2019-03-11 20:11:13.075781,,,,,,t,2019-03-11 20:16:47.875815,{},vote,13,1,Diana Ayala: Scott Glenn
+57,2019-03-11 20:12:45.565504,,,,,,t,2019-03-11 20:16:47.888953,{},text,13,1,Diana Ayala: yeah he's been the first voter twice
+67,2019-03-11 20:14:48.436765,,,,,,t,2019-03-11 20:16:47.900799,{},vote,13,1,Diana Ayala: Harold Peterson
+83,2019-03-11 20:16:48.53584,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Diana Ayala
+84,2019-03-11 20:17:05.256551,,,,,,f,,{},text,2,1,Jeremy Davis: what should we do now?
+85,2019-03-11 20:17:12.255421,,,,,,f,,{},text,3,1,Harold Peterson: Espinoze to make it seem less suspicious?
+87,2019-03-11 20:17:46.533691,,,,,,f,,{},vote,3,1,Harold Peterson: Mark Espinoza
+68,2019-03-11 20:14:52.381058,,,,,,t,2019-03-11 20:17:57.428616,{},text,5,1,"Mark Espinoza: ok, wow"
+80,2019-03-11 20:16:26.038175,,,,,,t,2019-03-11 20:17:57.438453,{},text,5,1,Mark Espinoza: 1 or more
+89,2019-03-11 20:17:57.618126,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Mark Espinoza
+82,2019-03-11 20:16:42.20755,,,,,,t,2019-03-11 20:20:37.607702,{},text,7,1,Kimberly Ibarra: that would be a lonely night if there was only 1
+74,2019-03-11 20:15:45.579777,,,,,,f,,{},vote,3,1,Harold Peterson: Diana Ayala
+81,2019-03-11 20:16:39.669966,,,,,,f,,{},vote,2,1,Jeremy Davis: Diana Ayala
+73,2019-03-11 20:15:38.560048,,,,,,t,2019-03-11 20:17:57.447205,{},vote,5,1,Mark Espinoza: Diana Ayala
+75,2019-03-11 20:15:45.863817,,,,,,f,,{},vote,10,1,William Reed: Diana Ayala
+78,2019-03-11 20:16:11.903113,,,,,,f,,{},text,10,1,William Reed: I think it's random
+88,2019-03-11 20:17:48.37976,,,,,,f,,{},vote,2,1,Jeremy Davis: Mark Espinoza
+90,2019-03-11 20:18:15.440878,,,,,,f,,{},text,3,1,Harold Peterson: whoa! i'm confused
+76,2019-03-11 20:15:54.580718,,,,,,f,,{},text,3,1,Harold Peterson: Ayala then
+79,2019-03-11 20:16:15.408482,,,,,,f,,{},text,10,1,William Reed: there's at least 1
+86,2019-03-11 20:17:35.77595,,,,,,f,,{},text,2,1,Jeremy Davis: good for me
+91,2019-03-11 20:18:27.748811,,,,,,f,,{},text,10,1,William Reed: yeah me too
+93,2019-03-11 20:19:24.08833,,,,,,f,,{},text,3,1,Harold Peterson: Kim's acting suspicious
+94,2019-03-11 20:19:38.658203,,,,,,f,,{},text,2,1,"Jeremy Davis: I'm not, but I certainly can see how it would be suspicious. At this point, I don't know what's going on"
+98,2019-03-11 20:20:13.728857,,,,,,f,,{},text,10,1,William Reed: So far we haven't found any mob goons
+99,2019-03-11 20:20:16.46902,,,,,,f,,{},text,2,1,"Jeremy Davis: I keep having to scroll up to see how much time is lef, lol"
+100,2019-03-11 20:20:24.958704,,,,,,f,,{},text,2,1,Jeremy Davis: left
+101,2019-03-11 20:20:28.026022,,,,,,f,,{},vote,3,1,Harold Peterson: Kimberly Ibarra
+102,2019-03-11 20:20:35.092355,,,,,,f,,{},vote,10,1,William Reed: Kimberly Ibarra
+103,2019-03-11 20:20:37.045427,,,,,,f,,{},vote,2,1,Jeremy Davis: William Reed
+51,2019-03-11 20:11:33.934354,,,,,,t,2019-03-11 20:20:37.578691,{},text,7,1,Kimberly Ibarra: I'm going with Diana on this one
+52,2019-03-11 20:11:38.30926,,,,,,t,2019-03-11 20:20:37.587782,{},vote,7,1,Kimberly Ibarra: Scott Glenn
+69,2019-03-11 20:14:55.117522,,,,,,t,2019-03-11 20:20:37.597779,{},vote,7,1,Kimberly Ibarra: Harold Peterson
+92,2019-03-11 20:18:43.165935,,,,,,t,2019-03-11 20:20:37.617687,{},text,7,1,Kimberly Ibarra: Jeremy was the deciding vote last day.  Could he be mafia?
+95,2019-03-11 20:19:42.10128,,,,,,t,2019-03-11 20:20:37.625794,{},text,7,1,Kimberly Ibarra: for having an opinion?  sure
+96,2019-03-11 20:19:44.715118,,,,,,t,2019-03-11 20:20:37.636997,{},text,7,1,Kimberly Ibarra: maybe its you Harold
+97,2019-03-11 20:19:59.098802,,,,,,t,2019-03-11 20:20:37.649313,{},vote,7,1,Kimberly Ibarra: Harold Peterson
+104,2019-03-11 20:20:37.709934,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Kimberly Ibarra

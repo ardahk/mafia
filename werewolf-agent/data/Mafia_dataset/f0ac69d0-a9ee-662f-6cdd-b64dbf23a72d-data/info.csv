@@ -1,0 +1,88 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-10 22:45:39.732882,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-10 22:46:09.568861,,,,,,f,,{},vote,2,1,Jason Smith: Alexander Lopez
+3,2019-03-10 22:46:31.532324,,,,,,f,,{},text,3,1,"Robert Anderson: Good enough for me, Alexander Lopez sleeps with the fishes tonight."
+4,2019-03-10 22:46:38.328738,,,,,,f,,{},vote,3,1,Robert Anderson: Alexander Lopez
+5,2019-03-10 22:46:45.515209,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Alexander Lopez
+9,2019-03-10 22:47:01.279649,,,,,,f,,{},text,3,1,Robert Anderson: hello
+11,2019-03-10 22:47:02.22208,,,,,,f,,{},text,14,1,Kimberly Warren: hi
+15,2019-03-10 22:47:19.105192,,,,,,f,,{},vote,11,1,Katherine Harper: Ricardo Owens
+19,2019-03-10 22:47:40.708805,,,,,,f,,{},vote,3,1,Robert Anderson: James Perez
+22,2019-03-10 22:47:54.687107,,,,,,f,,{},text,2,1,Jason Smith: Im too nice to be mafia
+27,2019-03-10 22:48:15.050907,,,,,,f,,{},vote,14,1,Kimberly Warren: James Perez
+30,2019-03-10 22:48:34.828439,,,,,,f,,{},text,3,1,"Robert Anderson: One name is as good as another at this point, I guess"
+34,2019-03-10 22:49:08.778773,,,,,,f,,{},vote,2,1,Jason Smith: Ricardo Owens
+35,2019-03-10 22:49:09.714534,,,,,,f,,{},text,3,1,"Robert Anderson: That would be a short game, lol"
+36,2019-03-10 22:49:15.384113,,,,,,t,2019-03-10 22:49:25.176571,{},text,10,1,James Perez: lol everyone had the same idea 
+33,2019-03-10 22:49:06.664804,,,,,,t,2019-03-10 22:49:25.183619,{},text,10,1,James Perez: sure
+29,2019-03-10 22:48:34.492332,,,,,,t,2019-03-10 22:49:25.190089,{},text,10,1,James Perez: Ricardo is too quiet
+26,2019-03-10 22:48:11.875707,,,,,,t,2019-03-10 22:49:25.197453,{},text,10,1,James Perez: Im both
+20,2019-03-10 22:47:46.335693,,,,,,t,2019-03-10 22:49:25.203857,{},text,10,1,James Perez: lol
+17,2019-03-10 22:47:25.028782,,,,,,t,2019-03-10 22:49:25.209987,{},text,10,1,James Perez: Im mafia
+13,2019-03-10 22:47:13.702576,,,,,,t,2019-03-10 22:49:25.217075,{},vote,10,1,James Perez: Ricardo Owens
+8,2019-03-10 22:46:59.834155,,,,,,t,2019-03-10 22:49:25.223249,{},text,10,1,James Perez: hi
+38,2019-03-10 22:49:25.771142,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - James Perez
+39,2019-03-10 22:49:44.284459,,,,,,f,,{},text,3,1,Robert Anderson: Stephen Frank?
+40,2019-03-10 22:50:08.760972,,,,,,f,,{},text,2,1,Jason Smith: james perez
+41,2019-03-10 22:50:28.061691,,,,,,f,,{},text,3,1,Robert Anderson: Sure.
+42,2019-03-10 22:50:35.176581,,,,,,f,,{},info,1,1,Phase Change to Daytime
+45,2019-03-10 22:51:12.377143,,,,,,f,,{},vote,14,1,Kimberly Warren: Ricardo Owens
+46,2019-03-10 22:51:13.516629,,,,,,f,,{},text,3,1,"Robert Anderson: Well, we were building some Ricardo momentum last time"
+48,2019-03-10 22:51:21.319902,,,,,,f,,{},vote,11,1,Katherine Harper: Ricardo Owens
+50,2019-03-10 22:51:35.684287,,,,,,f,,{},vote,3,1,Robert Anderson: Ricardo Owens
+52,2019-03-10 22:51:50.321172,,,,,,f,,{},vote,2,1,Jason Smith: Ricardo Owens
+60,2019-03-10 22:53:00.789982,,,,,,f,,{},text,3,1,"Robert Anderson: She really liked jaguars, I guess"
+62,2019-03-10 22:53:10.746799,,,,,,f,,{},text,2,1,Jason Smith: I want to take a selfie with the mafiosa
+12,2019-03-10 22:47:02.91215,,,,,,t,2019-03-10 22:53:15.51388,{},text,16,1,Ricardo Owens: ello
+24,2019-03-10 22:48:04.139728,,,,,,t,2019-03-10 22:53:15.531062,{},vote,16,1,Ricardo Owens: Jason Smith
+32,2019-03-10 22:48:58.058348,,,,,,t,2019-03-10 22:53:15.550445,{},text,16,1,Ricardo Owens: i mean i'm just processing everyone admitting to being mafia even though they can't all be lol
+53,2019-03-10 22:51:55.094175,,,,,,t,2019-03-10 22:53:15.57134,{},text,16,1,Ricardo Owens: sigh i should of just said i'm mafia like everyone else 
+55,2019-03-10 22:52:11.375898,,,,,,t,2019-03-10 22:53:15.589369,{},vote,16,1,Ricardo Owens: Katherine Hull
+64,2019-03-10 22:53:16.385121,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Ricardo Owens
+65,2019-03-10 22:53:40.70386,,,,,,f,,{},text,3,1,"Robert Anderson: Hull or Frank, maybe?"
+66,2019-03-10 22:53:50.218546,,,,,,f,,{},text,2,1,Jason Smith: hull
+67,2019-03-10 22:53:57.52017,,,,,,f,,{},vote,3,1,Robert Anderson: Katherine Hull
+68,2019-03-10 22:54:17.749935,,,,,,f,,{},vote,2,1,Jason Smith: Katherine Hull
+6,2019-03-10 22:46:51.502814,,,,,,t,2019-03-10 22:54:24.898673,{},text,9,1,Katherine Hull: hi
+70,2019-03-10 22:54:54.483603,,,,,,f,,{},text,3,1,Robert Anderson: Any favorites?
+71,2019-03-10 22:55:16.041382,,,,,,f,,{},text,2,1,Jason Smith: you pick
+73,2019-03-10 22:55:39.492595,,,,,,f,,{},text,3,1,"Robert Anderson: LOL, the pressure!"
+76,2019-03-10 22:56:19.145401,,,,,,f,,{},vote,14,1,Kimberly Warren: David Barnes
+77,2019-03-10 22:56:21.785052,,,,,,f,,{},vote,3,1,Robert Anderson: David Barnes
+78,2019-03-10 22:56:26.748318,,,,,,f,,{},vote,11,1,Katherine Harper: David Barnes
+79,2019-03-10 22:56:35.746962,,,,,,f,,{},vote,2,1,Jason Smith: David Barnes
+81,2019-03-10 22:57:05.407953,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - David Barnes
+16,2019-03-10 22:47:21.515371,,,,,,t,2019-03-10 22:54:24.909504,{},text,9,1,Katherine Hull: I am the mafia
+21,2019-03-10 22:47:54.293031,,,,,,t,2019-03-10 22:54:24.920297,{},vote,9,1,Katherine Hull: James Perez
+31,2019-03-10 22:48:50.97697,,,,,,t,2019-03-10 22:54:24.930705,{},text,9,1,Katherine Hull: Ricardo def mafia
+37,2019-03-10 22:49:17.938998,,,,,,t,2019-03-10 22:54:24.940228,{},text,9,1,Katherine Hull: that's what someone in the mafia would say
+44,2019-03-10 22:51:08.076327,,,,,,t,2019-03-10 22:54:24.951348,{},vote,9,1,Katherine Hull: Ricardo Owens
+49,2019-03-10 22:51:24.536465,,,,,,t,2019-03-10 22:54:24.966528,{},text,9,1,Katherine Hull: Ricardo is sketchy as the day is long
+54,2019-03-10 22:51:57.720164,,,,,,t,2019-03-10 22:54:24.979102,{},text,9,1,Katherine Hull: Ricardo vote for yourself. Your fate has been decided
+58,2019-03-10 22:52:41.661033,,,,,,t,2019-03-10 22:54:24.989126,{},text,9,1,Katherine Hull: how about that woman that jumped into the jaguar exhibit in Arizona today. Bold move
+63,2019-03-10 22:53:11.375667,,,,,,t,2019-03-10 22:54:24.998039,{},text,9,1,"Katherine Hull: she tried to pet, it didn't work"
+69,2019-03-10 22:54:25.202474,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Katherine Hull
+82,2019-03-10 22:57:34.969754,,,,,,f,,{},text,3,1,Robert Anderson: Frank... and I think we win?
+83,2019-03-10 22:57:56.858165,,,,,,f,,{},text,2,1,Jason Smith: frank it is
+86,2019-03-10 22:58:14.318103,,,,,,f,,{},text,3,1,Robert Anderson: Nice being criminals with you.
+84,2019-03-10 22:58:04.548287,,,,,,f,,{},vote,3,1,Robert Anderson: Stephen Frank
+85,2019-03-10 22:58:08.663144,,,,,,f,,{},vote,2,1,Jason Smith: Stephen Frank
+7,2019-03-10 22:46:55.154844,,,,,,t,2019-03-10 22:58:14.881699,{},vote,15,1,Stephen Frank: James Perez
+10,2019-03-10 22:47:01.966894,,,,,,t,2019-03-10 22:58:14.888068,{},text,15,1,Stephen Frank: hello
+14,2019-03-10 22:47:15.064497,,,,,,t,2019-03-10 22:58:14.896248,{},text,15,1,Stephen Frank: i know who is mafia
+18,2019-03-10 22:47:33.868465,,,,,,t,2019-03-10 22:58:14.903722,{},text,15,1,Stephen Frank: i am too
+23,2019-03-10 22:48:02.427062,,,,,,t,2019-03-10 22:58:14.910301,{},text,15,1,Stephen Frank: lol or im a bystander with a gun
+25,2019-03-10 22:48:06.72565,,,,,,t,2019-03-10 22:58:14.917923,{},text,15,1,Stephen Frank: hmm..
+28,2019-03-10 22:48:28.302833,,,,,,t,2019-03-10 22:58:14.924888,{},text,15,1,Stephen Frank: jason smith mafia confirmed
+43,2019-03-10 22:50:46.285524,,,,,,t,2019-03-10 22:58:14.931671,{},text,15,1,Stephen Frank: hmmm
+47,2019-03-10 22:51:20.607174,,,,,,t,2019-03-10 22:58:14.937864,{},text,15,1,Stephen Frank: nobody thinks im mafia...
+51,2019-03-10 22:51:43.974742,,,,,,t,2019-03-10 22:58:14.944299,{},vote,15,1,Stephen Frank: Ricardo Owens
+56,2019-03-10 22:52:18.44118,,,,,,t,2019-03-10 22:58:14.950678,{},text,15,1,Stephen Frank: i think we may be racists
+57,2019-03-10 22:52:34.894679,,,,,,t,2019-03-10 22:58:14.957112,{},text,15,1,Stephen Frank: were building the wall in the mafia game
+59,2019-03-10 22:52:58.112601,,,,,,t,2019-03-10 22:58:14.963372,{},text,15,1,Stephen Frank: lol nice
+61,2019-03-10 22:53:07.102597,,,,,,t,2019-03-10 22:58:14.970013,{},text,15,1,Stephen Frank: did she win?
+72,2019-03-10 22:55:36.621436,,,,,,t,2019-03-10 22:58:14.976436,{},text,15,1,Stephen Frank: james
+74,2019-03-10 22:56:05.449558,,,,,,t,2019-03-10 22:58:14.983073,{},vote,15,1,Stephen Frank: David Barnes
+75,2019-03-10 22:56:11.602476,,,,,,t,2019-03-10 22:58:14.991682,{},text,15,1,Stephen Frank: im voting david
+80,2019-03-10 22:56:45.284631,,,,,,t,2019-03-10 22:58:14.998598,{},text,15,1,Stephen Frank: buh bye david
+87,2019-03-10 22:58:15.043335,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Stephen Frank

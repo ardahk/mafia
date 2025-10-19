@@ -1,0 +1,12 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-15 23:53:33.694343,,,,,,f,,{},source,1,
+2,2019-03-16 00:05:25.52312,Daniel Humphrey,True,,,,f,,{},mafioso,1,10
+3,2019-03-16 00:05:25.781518,Paul Silva,True,,,,f,,{},mafioso,1,4
+11,2019-03-16 00:05:26.459834,Megan Jackson,True,,,,f,,{},bystander,1,1
+12,2019-03-16 00:05:26.71607,Thomas Pruitt,True,,,,f,,{},bystander,1,7
+7,2019-03-16 00:05:26.0722,Timothy Underwood,False,2019-03-16 00:06:31.631969,,,f,,{},bystander,1,2
+4,2019-03-16 00:05:25.89401,Sara Marshall,False,2019-03-16 00:09:11.849607,,,f,,{},bystander,1,9
+9,2019-03-16 00:05:26.311023,Bill Brock,False,2019-03-16 00:10:21.589782,,,f,,{},bystander,1,3
+14,2019-03-16 00:05:28.677382,Kimberly Sullivan,False,2019-03-16 00:13:01.597657,,,f,,{},bystander,1,5
+13,2019-03-16 00:05:27.833929,Erica Joseph,False,2019-03-16 00:14:10.793014,,,t,2019-03-16 00:13:32.906485,{},bystander,1,6
+8,2019-03-16 00:05:26.142093,Richard Johnson,False,2019-03-16 00:16:51.288703,,,f,,{},bystander,1,8

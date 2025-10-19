@@ -1,0 +1,11 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-01-27 01:52:12.173055,,,,,,f,,{},source,1,
+2,2019-01-27 02:00:03.207036,Nicolas Cole,True,,,,f,,{},mafioso,1,10
+4,2019-01-27 02:00:03.444074,Wendy White,True,,,,f,,{},mafioso,1,7
+6,2019-01-27 02:00:03.665244,Robin Rodriguez,True,,,,f,,{},bystander,1,5
+8,2019-01-27 02:00:04.660123,Danielle Castro,True,,,,f,,{},bystander,1,1
+9,2019-01-27 02:00:04.793617,Christopher Bailey,False,2019-01-27 02:01:10.324621,,,f,,{},bystander,1,9
+11,2019-01-27 02:00:05.683492,Matthew Taylor,False,2019-01-27 02:03:52.094398,,,f,,{},bystander,1,2
+7,2019-01-27 02:00:03.880247,Chelsea Cook,False,2019-01-27 02:07:41.586428,,,f,,{},bystander,1,4
+12,2019-01-27 02:00:07.472969,Amanda Pearson,False,2019-01-27 02:08:50.307081,,,f,,{},bystander,1,8
+10,2019-01-27 02:00:05.525381,Gregory Ware,False,2019-01-27 02:11:30.81066,,,f,,{},bystander,1,3

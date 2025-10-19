@@ -1,0 +1,12 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-01-28 17:33:09.089786,,,,,,f,,{},source,1,
+2,2019-01-28 17:51:08.089197,John Thompson,True,,,,f,,{},mafioso,1,12
+4,2019-01-28 17:51:08.301201,Gregory Huffman,True,,,,f,,{},mafioso,1,10
+5,2019-01-28 17:51:08.711971,Frank Butler,True,,,,f,,{},bystander,1,3
+10,2019-01-28 17:51:09.738007,Anthony Floyd,True,,,,f,,{},bystander,1,2
+6,2019-01-28 17:51:08.928713,Andrea Sanchez,False,2019-01-28 17:52:15.215704,,,f,,{},bystander,1,11
+9,2019-01-28 17:51:09.537789,Tanya Kennedy,False,2019-01-28 17:54:55.499437,,,f,,{},bystander,1,1
+7,2019-01-28 17:51:09.232465,Michael Petersen,False,2019-01-28 17:56:04.975535,,,f,,{},bystander,1,5
+11,2019-01-28 17:51:10.447009,Gregory Walker,False,2019-01-28 17:58:45.268326,,,f,,{},bystander,1,7
+13,2019-01-28 17:51:12.251644,Howard Robinson,False,2019-01-28 17:59:54.735173,,,f,,{},bystander,1,9
+12,2019-01-28 17:51:10.792843,Joseph Miller,False,2019-01-28 18:02:34.927311,,,f,,{},bystander,1,8

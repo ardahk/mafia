@@ -1,0 +1,9 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-15 22:28:20.83028,,,,,,f,,{},source,1,
+2,2019-03-15 22:43:52.096831,Bridget Russell,True,,,,f,,{},mafioso,1,3
+3,2019-03-15 22:43:52.245082,Marissa Hernandez,True,,,,f,,{},mafioso,1,10
+4,2019-03-15 22:43:52.368316,John Willis,True,,,,f,,{},bystander,1,9
+9,2019-03-15 22:43:56.663604,William Sullivan,True,,,,f,,{},bystander,1,5
+6,2019-03-15 22:43:52.489639,Anthony Armstrong,False,2019-03-15 22:44:59.098693,,,f,,{},bystander,1,7
+7,2019-03-15 22:43:52.634278,Alexander Rhodes,False,2019-03-15 22:47:39.164786,,,f,,{},bystander,1,4
+8,2019-03-15 22:43:52.76396,Benjamin Miller,False,2019-03-15 22:48:48.982984,,,f,,{},bystander,1,2

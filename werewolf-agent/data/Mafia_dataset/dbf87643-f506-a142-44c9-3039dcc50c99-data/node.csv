@@ -1,0 +1,11 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-15 17:41:13.745676,,,,,,f,,{},source,1,
+2,2019-03-15 17:48:59.349415,Mariah Burke,True,,,,f,,{},mafioso,1,9
+8,2019-03-15 17:48:59.611903,Michelle Graham,True,,,,f,,{},bystander,1,3
+9,2019-03-15 17:48:59.692539,Mark Parker,False,2019-03-15 17:50:04.916313,,,f,,{},bystander,1,1
+4,2019-03-15 17:48:59.458011,Elizabeth Saunders,False,2019-03-15 17:52:45.652939,,,f,,{},mafioso,1,7
+13,2019-03-15 17:49:01.569365,Ryan Richardson,False,2019-03-15 17:53:54.579457,,,f,,{},bystander,1,2
+14,2019-03-15 17:49:02.212026,Jake Pierce,False,2019-03-15 17:56:35.344008,,,f,,{},bystander,1,4
+6,2019-03-15 17:48:59.520522,Kaitlyn Martinez,False,2019-03-15 17:57:44.592258,,,f,,{},bystander,1,8
+11,2019-03-15 17:49:00.122293,Jordan Rojas,False,2019-03-15 18:00:25.500951,,,f,,{},bystander,1,10
+12,2019-03-15 17:49:00.337232,Dakota Kelly,False,2019-03-15 18:01:34.684178,,,f,,{},bystander,1,5

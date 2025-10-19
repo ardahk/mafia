@@ -1,0 +1,13 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-13 22:05:05.492126,,,,,,f,,{},source,1,
+2,2019-03-13 22:31:15.163331,Richard Stevens,True,,,,f,,{},mafioso,1,2
+3,2019-03-13 22:31:15.304329,Jessica Michael,True,,,,f,,{},mafioso,1,1
+7,2019-03-13 22:31:15.749641,Amanda Stevens,True,,,,f,,{},bystander,1,3
+10,2019-03-13 22:31:16.116059,Nicole Barker,True,,,,f,,{},bystander,1,6
+6,2019-03-13 22:31:15.636122,Tiffany Baker,False,2019-03-13 22:32:20.000877,,,f,,{},bystander,1,8
+4,2019-03-13 22:31:15.374546,Patrick Gonzales,False,2019-03-13 22:35:00.780838,,,t,2019-03-13 22:31:31.59476,{},bystander,1,11
+9,2019-03-13 22:31:15.993562,Deborah Alvarez,False,2019-03-13 22:37:10.504306,,,f,,{},bystander,1,10
+13,2019-03-13 22:36:06.874944,Christina Morgan,False,2019-03-13 22:43:39.95726,,,f,,{},bystander,1,13
+11,2019-03-13 22:31:16.525804,Shane Landry,False,2019-03-13 22:44:49.609824,,,f,,{},bystander,1,12
+8,2019-03-13 22:31:15.905056,Angela Murphy,False,2019-03-13 22:47:29.695045,,,f,,{},bystander,1,4
+12,2019-03-13 22:31:17.189401,Tammy Weaver,False,2019-03-13 22:48:39.331297,,,f,,{},bystander,1,9

@@ -1,0 +1,67 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-16 00:05:25.593836,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-16 00:05:52.501456,,,,,,f,,{},text,2,1,Daniel Humphrey: Eliminate Underwood
+3,2019-03-16 00:06:21.940595,,,,,,f,,{},vote,2,1,Daniel Humphrey: Timothy Underwood
+4,2019-03-16 00:06:22.10731,,,,,,f,,{},vote,3,1,Paul Silva: Timothy Underwood
+5,2019-03-16 00:06:31.52566,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Timothy Underwood
+6,2019-03-16 00:06:38.406073,,,,,,f,,{},text,2,1,Daniel Humphrey: sup yall
+8,2019-03-16 00:06:56.123836,,,,,,f,,{},text,11,1,Megan Jackson: sup
+10,2019-03-16 00:07:00.044687,,,,,,f,,{},text,3,1,Paul Silva: killing sara marshall lol
+11,2019-03-16 00:07:00.237691,,,,,,f,,{},vote,11,1,Megan Jackson: Daniel Humphrey
+13,2019-03-16 00:07:05.043118,,,,,,f,,{},text,2,1,Daniel Humphrey: why kimberly?
+18,2019-03-16 00:07:33.836674,,,,,,f,,{},text,12,1,Thomas Pruitt: I'll go with Sara Marshall
+20,2019-03-16 00:07:46.219182,,,,,,f,,{},text,3,1,Paul Silva: like the movie get it?
+21,2019-03-16 00:07:51.296806,,,,,,f,,{},vote,2,1,Daniel Humphrey: Sara Marshall
+23,2019-03-16 00:08:16.269441,,,,,,f,,{},vote,12,1,Thomas Pruitt: Sara Marshall
+24,2019-03-16 00:08:19.799353,,,,,,f,,{},vote,3,1,Paul Silva: Sara Marshall
+26,2019-03-16 00:08:46.857972,,,,,,t,2019-03-16 00:09:11.077116,{},text,4,1,Sara Marshall: idiots
+17,2019-03-16 00:07:28.680964,,,,,,t,2019-03-16 00:09:11.08604,{},text,4,1,Sara Marshall: paul ya done
+14,2019-03-16 00:07:05.145628,,,,,,t,2019-03-16 00:09:11.094432,{},vote,4,1,Sara Marshall: Paul Silva
+7,2019-03-16 00:06:48.273295,,,,,,t,2019-03-16 00:09:11.102003,{},text,4,1,Sara Marshall: yo
+27,2019-03-16 00:09:11.687386,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Sara Marshall
+28,2019-03-16 00:09:27.093613,,,,,,f,,{},text,2,1,"Daniel Humphrey: yo, who do you think?"
+29,2019-03-16 00:09:51.989469,,,,,,f,,{},text,3,1,Paul Silva: thomas was the last to come around on sara lets go with him
+30,2019-03-16 00:10:03.176064,,,,,,f,,{},text,3,1,Paul Silva: sorry make that bill brock
+31,2019-03-16 00:10:16.602636,,,,,,f,,{},vote,2,1,Daniel Humphrey: Bill Brock
+32,2019-03-16 00:10:20.103003,,,,,,f,,{},vote,3,1,Paul Silva: Bill Brock
+25,2019-03-16 00:08:36.611129,,,,,,t,2019-03-16 00:10:20.912258,{},vote,9,1,Bill Brock: Sara Marshall
+33,2019-03-16 00:10:21.503658,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Bill Brock
+36,2019-03-16 00:11:09.422054,,,,,,f,,{},vote,3,1,Paul Silva: Richard Johnson
+37,2019-03-16 00:11:28.909041,,,,,,f,,{},text,2,1,Daniel Humphrey: are we really just going random names or do we have a real reason
+39,2019-03-16 00:12:09.033308,,,,,,f,,{},text,2,1,Daniel Humphrey: kind of suspicious to just vote for a random guy first before discussion.
+42,2019-03-16 00:12:26.784944,,,,,,f,,{},text,3,1,Paul Silva: johnson was too willing to go after sullivan
+43,2019-03-16 00:12:32.46542,,,,,,f,,{},vote,2,1,Daniel Humphrey: Kimberly Sullivan
+44,2019-03-16 00:12:33.853284,,,,,,f,,{},text,12,1,Thomas Pruitt: agree
+46,2019-03-16 00:12:50.302332,,,,,,f,,{},text,3,1,Paul Silva: i agree with kim
+48,2019-03-16 00:12:55.514985,,,,,,f,,{},vote,11,1,Megan Jackson: Kimberly Sullivan
+49,2019-03-16 00:12:56.076028,,,,,,f,,{},vote,12,1,Thomas Pruitt: Kimberly Sullivan
+45,2019-03-16 00:12:39.133778,,,,,,t,2019-03-16 00:13:01.066654,{},text,14,1,"Kimberly Sullivan: Richard made an accusation before discussing, so Richard is probably mafia."
+35,2019-03-16 00:10:41.806394,,,,,,t,2019-03-16 00:13:01.076531,{},vote,14,1,Kimberly Sullivan: Richard Johnson
+22,2019-03-16 00:08:13.635057,,,,,,t,2019-03-16 00:13:01.085991,{},vote,14,1,Kimberly Sullivan: Sara Marshall
+50,2019-03-16 00:13:01.449592,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Kimberly Sullivan
+51,2019-03-16 00:13:32.582842,,,,,,f,,{},text,3,1,Paul Silva: erica joseph is too smart for her own good.
+12,2019-03-16 00:07:01.187697,,,,,,t,2019-03-16 00:13:32.936225,{},text,13,1,Erica Joseph: 1
+15,2019-03-16 00:07:19.684793,,,,,,t,2019-03-16 00:13:32.945472,{},text,13,1,Erica Joseph: 12
+19,2019-03-16 00:07:43.077036,,,,,,t,2019-03-16 00:13:32.954115,{},text,13,1,Erica Joseph: 12
+34,2019-03-16 00:10:28.186024,,,,,,t,2019-03-16 00:13:32.961478,{},text,13,1,Erica Joseph: SARA MARSHALL
+41,2019-03-16 00:12:25.832498,,,,,,t,2019-03-16 00:13:32.968544,{},text,13,1,Erica Joseph: GOOD THINK
+52,2019-03-16 00:13:39.175705,,,,,,f,,{},text,2,1,Daniel Humphrey: exactly what i was thinking
+53,2019-03-16 00:13:48.923768,,,,,,f,,{},vote,3,1,Paul Silva: Erica Joseph
+54,2019-03-16 00:13:51.689365,,,,,,f,,{},vote,2,1,Daniel Humphrey: Erica Joseph
+55,2019-03-16 00:14:10.95282,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Erica Joseph
+57,2019-03-16 00:15:11.111006,,,,,,f,,{},text,3,1,Paul Silva: johnson led the mob against sullivan and he was wrong suspecious?
+58,2019-03-16 00:15:22.964292,,,,,,f,,{},vote,3,1,Paul Silva: Richard Johnson
+60,2019-03-16 00:15:37.651941,,,,,,f,,{},text,2,1,"Daniel Humphrey: i see why kimberly voted you, because you voted her first, lol"
+61,2019-03-16 00:15:41.413551,,,,,,f,,{},text,2,1,Daniel Humphrey: i feel bad.
+62,2019-03-16 00:16:10.288922,,,,,,f,,{},text,2,1,Daniel Humphrey: you were the first to ever vote.
+63,2019-03-16 00:16:15.36527,,,,,,f,,{},vote,2,1,Daniel Humphrey: Richard Johnson
+64,2019-03-16 00:16:28.49959,,,,,,f,,{},text,2,1,Daniel Humphrey: that's cuz you're comfortable with the user interface already.
+65,2019-03-16 00:16:49.310271,,,,,,f,,{},vote,12,1,Thomas Pruitt: Richard Johnson
+9,2019-03-16 00:06:56.423634,,,,,,t,2019-03-16 00:16:51.007314,{},vote,8,1,Richard Johnson: Kimberly Sullivan
+16,2019-03-16 00:07:26.325087,,,,,,t,2019-03-16 00:16:51.018063,{},text,8,1,Richard Johnson: why not
+38,2019-03-16 00:11:39.128517,,,,,,t,2019-03-16 00:16:51.030259,{},text,8,1,"Richard Johnson: not me, how about sullivan"
+40,2019-03-16 00:12:19.821238,,,,,,t,2019-03-16 00:16:51.043277,{},text,8,1,Richard Johnson: yeah
+47,2019-03-16 00:12:52.784451,,,,,,t,2019-03-16 00:16:51.055378,{},vote,8,1,Richard Johnson: Kimberly Sullivan
+56,2019-03-16 00:15:05.908988,,,,,,t,2019-03-16 00:16:51.067745,{},vote,8,1,Richard Johnson: Paul Silva
+59,2019-03-16 00:15:30.174764,,,,,,t,2019-03-16 00:16:51.077381,{},text,8,1,Richard Johnson: just a guess
+66,2019-03-16 00:16:51.139,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Richard Johnson

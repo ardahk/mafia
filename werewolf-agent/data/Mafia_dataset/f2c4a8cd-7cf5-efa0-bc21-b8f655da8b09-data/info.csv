@@ -1,0 +1,59 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-11 17:21:15.369253,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+4,2019-03-11 17:22:20.175671,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Tina Black
+8,2019-03-11 17:22:38.685474,,,,,,f,,{},text,7,1,Jeffrey Morris: hey everyone
+9,2019-03-11 17:22:40.636968,,,,,,f,,{},text,5,1,Andrea Lee: sup
+11,2019-03-11 17:22:48.878514,,,,,,f,,{},text,11,1,Danielle Silva: Hi
+22,2019-03-11 17:23:48.658782,,,,,,f,,{},vote,11,1,Danielle Silva: Valerie White
+30,2019-03-11 17:24:40.84649,,,,,,f,,{},vote,7,1,Jeffrey Morris: Laura Pena
+32,2019-03-11 17:24:46.870517,,,,,,f,,{},vote,5,1,Andrea Lee: Laura Pena
+28,2019-03-11 17:24:27.093272,,,,,,t,2019-03-11 17:25:00.046167,{},text,4,1,Laura Pena: i mean no
+25,2019-03-11 17:24:19.189168,,,,,,t,2019-03-11 17:25:00.055114,{},text,4,1,Laura Pena: yes
+21,2019-03-11 17:23:46.58782,,,,,,t,2019-03-11 17:25:00.06146,{},text,4,1,"Laura Pena: carol is a mafia too, i saw it when we were chatting last night"
+17,2019-03-11 17:23:26.458715,,,,,,t,2019-03-11 17:25:00.069165,{},text,4,1,Laura Pena: lets kill him
+13,2019-03-11 17:23:08.918826,,,,,,t,2019-03-11 17:25:00.079725,{},text,4,1,Laura Pena: me
+10,2019-03-11 17:22:46.817059,,,,,,t,2019-03-11 17:25:00.086729,{},text,4,1,Laura Pena: hi all
+2,2019-03-11 17:21:45.111551,,,,,,t,2019-03-11 17:25:00.093481,{},vote,4,1,Laura Pena: Tina Black
+34,2019-03-11 17:25:00.645224,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Laura Pena
+31,2019-03-11 17:24:44.093926,,,,,,t,2019-03-11 17:26:09.753679,{},vote,6,1,Carol Stone: Laura Pena
+24,2019-03-11 17:24:10.844106,,,,,,t,2019-03-11 17:26:09.762782,{},text,6,1,Carol Stone: Or you are and trying to throw them off track
+18,2019-03-11 17:23:29.658146,,,,,,t,2019-03-11 17:26:09.771273,{},text,6,1,Carol Stone: hi
+36,2019-03-11 17:26:10.126217,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Carol Stone
+38,2019-03-11 17:26:41.803898,,,,,,f,,{},vote,7,1,Jeffrey Morris: Valerie White
+40,2019-03-11 17:26:50.729265,,,,,,f,,{},vote,11,1,Danielle Silva: Valerie White
+42,2019-03-11 17:26:57.20228,,,,,,f,,{},text,7,1,"Jeffrey Morris: it's okay, you only got them killed"
+47,2019-03-11 17:28:40.240098,,,,,,f,,{},vote,5,1,Andrea Lee: Valerie White
+5,2019-03-11 17:22:29.670748,,,,,,t,2019-03-11 17:28:50.025249,{},text,8,1,Valerie White: hello
+12,2019-03-11 17:23:00.765124,,,,,,t,2019-03-11 17:28:50.036821,{},text,8,1,Valerie White: who thinks Johnny is Mafia?
+16,2019-03-11 17:23:24.025021,,,,,,t,2019-03-11 17:28:50.04711,{},text,8,1,"Valerie White: haha, yea"
+26,2019-03-11 17:24:20.807461,,,,,,t,2019-03-11 17:28:50.055174,{},text,8,1,Valerie White: we can get Carol next round
+29,2019-03-11 17:24:36.469181,,,,,,t,2019-03-11 17:28:50.074157,{},vote,8,1,Valerie White: Johnny Stevens
+37,2019-03-11 17:26:25.186466,,,,,,t,2019-03-11 17:28:50.085915,{},text,8,1,"Valerie White: I got that one wrong, so sorry"
+44,2019-03-11 17:27:13.342438,,,,,,t,2019-03-11 17:28:50.099647,{},text,8,1,Valerie White: I didn't though
+46,2019-03-11 17:27:37.324449,,,,,,t,2019-03-11 17:28:50.10715,{},text,8,1,Valerie White: going with Johnny again
+48,2019-03-11 17:28:50.453662,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Valerie White
+6,2019-03-11 17:22:36.053833,,,,,,t,2019-03-11 17:29:59.718394,{},text,12,1,Diane Jennings: Greetings
+15,2019-03-11 17:23:18.789682,,,,,,t,2019-03-11 17:29:59.724179,{},text,12,1,Diane Jennings: I can't say no
+20,2019-03-11 17:23:35.987325,,,,,,t,2019-03-11 17:29:59.730091,{},text,12,1,Diane Jennings: poor Johnny
+23,2019-03-11 17:24:00.572679,,,,,,t,2019-03-11 17:29:59.735877,{},vote,12,1,Diane Jennings: Johnny Stevens
+33,2019-03-11 17:24:47.656843,,,,,,t,2019-03-11 17:29:59.741779,{},text,12,1,Diane Jennings: look for the long coat
+41,2019-03-11 17:26:55.284529,,,,,,t,2019-03-11 17:29:59.747731,{},text,12,1,Diane Jennings: interesting turn of events
+45,2019-03-11 17:27:26.869863,,,,,,t,2019-03-11 17:29:59.753774,{},vote,12,1,Diane Jennings: Valerie White
+50,2019-03-11 17:29:59.886786,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Diane Jennings
+51,2019-03-11 17:30:20.364608,,,,,,f,,{},text,5,1,Andrea Lee: who did it
+52,2019-03-11 17:30:40.39363,,,,,,f,,{},text,7,1,Jeffrey Morris: tommy with the butcher knife in the kitchen
+53,2019-03-11 17:30:43.867388,,,,,,f,,{},vote,7,1,Jeffrey Morris: Zachary Hurley
+56,2019-03-11 17:31:20.949082,,,,,,f,,{},vote,11,1,Danielle Silva: Zachary Hurley
+57,2019-03-11 17:32:01.397368,,,,,,f,,{},vote,5,1,Andrea Lee: Johnny Stevens
+3,2019-03-11 17:22:01.237767,,,,,,t,2019-03-11 17:32:39.849442,{},vote,2,1,Zachary Hurley: Tina Black
+7,2019-03-11 17:22:37.409403,,,,,,t,2019-03-11 17:32:39.858738,{},text,2,1,Zachary Hurley: hi
+14,2019-03-11 17:23:12.703269,,,,,,t,2019-03-11 17:32:39.86545,{},text,2,1,Zachary Hurley: Sounds like a mafia name to me 
+19,2019-03-11 17:23:34.941009,,,,,,t,2019-03-11 17:32:39.87194,{},vote,2,1,Zachary Hurley: Johnny Stevens
+27,2019-03-11 17:24:25.611229,,,,,,t,2019-03-11 17:32:39.878301,{},text,2,1,Zachary Hurley: ok
+35,2019-03-11 17:25:31.793137,,,,,,t,2019-03-11 17:32:39.884761,{},vote,2,1,Zachary Hurley: Carol Stone
+39,2019-03-11 17:26:49.686773,,,,,,t,2019-03-11 17:32:39.890871,{},text,2,1,Zachary Hurley: ? 
+43,2019-03-11 17:27:04.587919,,,,,,t,2019-03-11 17:32:39.901431,{},vote,2,1,Zachary Hurley: Valerie White
+49,2019-03-11 17:29:28.762411,,,,,,t,2019-03-11 17:32:39.908238,{},vote,2,1,Zachary Hurley: Diane Jennings
+54,2019-03-11 17:31:06.652019,,,,,,t,2019-03-11 17:32:39.91421,{},text,2,1,Zachary Hurley: Johhny boy did it with a ax 
+55,2019-03-11 17:31:14.461366,,,,,,t,2019-03-11 17:32:39.920896,{},vote,2,1,Zachary Hurley: Johnny Stevens
+58,2019-03-11 17:32:39.957619,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Zachary Hurley

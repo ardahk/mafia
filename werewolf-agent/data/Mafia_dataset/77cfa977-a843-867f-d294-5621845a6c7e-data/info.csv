@@ -1,0 +1,105 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-11 18:52:06.85018,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+3,2019-03-11 18:52:20.321409,,,,,,f,,{},text,2,1,Christopher Turner: Hello~
+5,2019-03-11 18:53:14.209569,,,,,,f,,{},info,1,1,Phase Change to Daytime
+7,2019-03-11 18:53:25.996016,,,,,,f,,{},text,2,1,Christopher Turner: Hello Everyone
+8,2019-03-11 18:53:30.353517,,,,,,f,,{},text,12,1,Michael Anderson: Hio
+15,2019-03-11 18:53:46.485424,,,,,,f,,{},vote,2,1,Christopher Turner: Erin Cabrera
+22,2019-03-11 18:54:06.60733,,,,,,f,,{},text,12,1,Michael Anderson: no clue
+26,2019-03-11 18:54:21.465638,,,,,,f,,{},vote,12,1,Michael Anderson: Stephanie Gonzalez
+30,2019-03-11 18:54:35.112309,,,,,,f,,{},text,2,1,Christopher Turner: Sorry Erin 
+33,2019-03-11 18:54:49.444832,,,,,,f,,{},text,12,1,Michael Anderson: its random if there arent enough votes
+34,2019-03-11 18:54:52.688375,,,,,,f,,{},text,2,1,"Christopher Turner: Most votes, if tie then its random between the two"
+42,2019-03-11 18:55:48.479018,,,,,,f,,{},text,2,1,Christopher Turner: Welp see you guys in the morning
+40,2019-03-11 18:55:38.280149,,,,,,t,2019-03-11 18:55:53.032159,{},text,8,1,Erin Jackson DVM: trying to hill you 
+36,2019-03-11 18:55:00.313535,,,,,,t,2019-03-11 18:55:53.06944,{},text,8,1,Erin Jackson DVM: well nice idea
+28,2019-03-11 18:54:33.590265,,,,,,t,2019-03-11 18:55:53.091054,{},text,8,1,Erin Jackson DVM: hey
+21,2019-03-11 18:54:04.365504,,,,,,t,2019-03-11 18:55:53.13077,{},text,8,1,Erin Jackson DVM: no idea
+13,2019-03-11 18:53:36.134845,,,,,,t,2019-03-11 18:55:53.14804,{},text,8,1,Erin Jackson DVM: hello
+43,2019-03-11 18:55:54.78705,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Erin Jackson DVM
+44,2019-03-11 18:56:11.544439,,,,,,f,,{},text,2,1,"Christopher Turner: timer is fast, didn't know which Erin"
+46,2019-03-11 18:56:26.214127,,,,,,f,,{},text,2,1,Christopher Turner: William
+48,2019-03-11 18:56:31.807976,,,,,,f,,{},vote,2,1,Christopher Turner: William Stanley
+11,2019-03-11 18:53:33.870936,,,,,,t,2019-03-11 18:57:02.134209,{},text,14,1,William Stanley: any ideas on who to elimate?
+18,2019-03-11 18:54:00.651223,,,,,,t,2019-03-11 18:57:02.152831,{},text,14,1,William Stanley: hello
+29,2019-03-11 18:54:34.182613,,,,,,t,2019-03-11 18:57:02.173448,{},vote,14,1,William Stanley: Erin Jackson DVM
+32,2019-03-11 18:54:46.568775,,,,,,t,2019-03-11 18:57:02.212094,{},text,14,1,William Stanley: do not know
+37,2019-03-11 18:55:03.128139,,,,,,t,2019-03-11 18:57:02.230547,{},text,14,1,William Stanley: ty christopher
+39,2019-03-11 18:55:12.519953,,,,,,t,2019-03-11 18:57:02.248455,{},text,14,1,William Stanley: ha
+41,2019-03-11 18:55:42.399519,,,,,,t,2019-03-11 18:57:02.27298,{},text,14,1,William Stanley: That was not very nice of Erin
+52,2019-03-11 18:57:03.377825,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - William Stanley
+60,2019-03-11 18:58:02.501552,,,,,,f,,{},vote,2,1,Christopher Turner: Cristian Roberts
+61,2019-03-11 18:58:03.50387,,,,,,f,,{},vote,12,1,Michael Anderson: Stephanie Gonzalez
+66,2019-03-11 18:58:44.007267,,,,,,f,,{},text,2,1,"Christopher Turner: Hmm, you targeted someone so fast Cristian, ... mafia trying to point fingers? "
+69,2019-03-11 18:59:15.848535,,,,,,f,,{},text,12,1,Michael Anderson: Dance fighting is how all mafia disputes are settled
+72,2019-03-11 19:00:11.150461,,,,,,f,,{},vote,2,1,Christopher Turner: Henry Brown
+20,2019-03-11 18:54:04.094013,,,,,,t,2019-03-11 19:00:52.074019,{},vote,16,1,Henry Brown: Erin Jackson DVM
+23,2019-03-11 18:54:10.50536,,,,,,t,2019-03-11 19:00:52.098603,{},text,16,1,Henry Brown: well i guess we're killing this guy
+31,2019-03-11 18:54:37.4652,,,,,,t,2019-03-11 19:00:52.129202,{},text,16,1,Henry Brown: do the votes have to be unanimous or just 'most votes wins'
+58,2019-03-11 18:57:47.637416,,,,,,t,2019-03-11 19:00:52.157494,{},vote,16,1,Henry Brown: Stephanie Gonzalez
+73,2019-03-11 19:00:52.712201,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Henry Brown
+6,2019-03-11 18:53:22.598677,,,,,,t,2019-03-11 19:03:32.589393,{},text,13,1,Cristian Roberts: Hello
+17,2019-03-11 18:53:59.346424,,,,,,t,2019-03-11 19:03:32.621037,{},text,13,1,Cristian Roberts: not sure tbh
+25,2019-03-11 18:54:20.393944,,,,,,t,2019-03-11 19:03:32.641497,{},vote,13,1,Cristian Roberts: Erin Jackson DVM
+27,2019-03-11 18:54:26.805058,,,,,,t,2019-03-11 19:03:32.655685,{},text,13,1,Cristian Roberts: seem OK
+55,2019-03-11 18:57:25.308042,,,,,,t,2019-03-11 19:03:32.667823,{},text,13,1,Cristian Roberts: We off'd one of our own... seems Stephanie Gonzalez needs to go now..
+10,2019-03-11 18:53:33.098976,,,,,,t,2019-03-11 19:04:42.110112,{},text,15,1,Erin Cabrera: Hey
+35,2019-03-11 18:55:00.162658,,,,,,t,2019-03-11 19:04:42.138044,{},vote,15,1,Erin Cabrera: Erin Jackson DVM
+53,2019-03-11 18:57:07.863583,,,,,,t,2019-03-11 19:04:42.156385,{},vote,15,1,Erin Cabrera: Stephanie Gonzalez
+9,2019-03-11 18:53:30.591415,,,,,,t,2019-03-11 19:07:22.270132,{},text,6,1,Jonathan Kim: Hi
+16,2019-03-11 18:53:54.486815,,,,,,t,2019-03-11 19:07:22.289975,{},vote,6,1,Jonathan Kim: Erin Jackson DVM
+56,2019-03-11 18:57:31.108216,,,,,,t,2019-03-11 19:07:22.312667,{},vote,6,1,Jonathan Kim: Christopher Turner
+63,2019-03-11 18:58:24.479434,,,,,,t,2019-03-11 19:07:22.335034,{},text,6,1,Jonathan Kim: Something suspicious about Christopher Turner
+76,2019-03-11 19:01:11.348582,,,,,,t,2019-03-11 19:07:22.35425,{},text,6,1,"Jonathan Kim: I think it's Henry, too quiet"
+12,2019-03-11 18:53:34.229759,,,,,,t,2019-03-11 19:08:32.133514,{},text,10,1,Brandon Cruz: hi
+24,2019-03-11 18:54:13.581922,,,,,,t,2019-03-11 19:08:32.152859,{},vote,10,1,Brandon Cruz: Michael Anderson
+54,2019-03-11 18:57:23.556068,,,,,,t,2019-03-11 19:08:32.172852,{},vote,10,1,Brandon Cruz: Henry Brown
+67,2019-03-11 18:58:53.353641,,,,,,t,2019-03-11 19:08:32.186474,{},text,10,1,Brandon Cruz: hahaha
+68,2019-03-11 18:58:57.668522,,,,,,t,2019-03-11 19:08:32.204918,{},text,10,1,Brandon Cruz: dance fight
+2,2019-03-11 18:52:19.553675,,,,,,t,2019-03-11 18:59:42.604558,{},text,4,1,Stephanie Gonzalez: Hi
+4,2019-03-11 18:53:09.982215,,,,,,t,2019-03-11 18:59:42.614575,{},text,4,1,Stephanie Gonzalez: lets eliminate Erin 
+14,2019-03-11 18:53:40.613903,,,,,,t,2019-03-11 18:59:42.629967,{},vote,4,1,Stephanie Gonzalez: Erin Jackson DVM
+19,2019-03-11 18:54:02.735639,,,,,,t,2019-03-11 18:59:42.639549,{},text,4,1,Stephanie Gonzalez: Hi 
+38,2019-03-11 18:55:05.017352,,,,,,t,2019-03-11 18:59:42.650547,{},text,4,1,Stephanie Gonzalez: Erin tried to break my legs
+45,2019-03-11 18:56:19.891496,,,,,,t,2019-03-11 18:59:42.669855,{},text,4,1,Stephanie Gonzalez: So who is next?
+47,2019-03-11 18:56:31.551704,,,,,,t,2019-03-11 18:59:42.678949,{},text,4,1,Stephanie Gonzalez: Yeah it is fast
+49,2019-03-11 18:56:37.959783,,,,,,t,2019-03-11 18:59:42.687327,{},text,4,1,Stephanie Gonzalez: Ok William it is
+50,2019-03-11 18:56:45.086719,,,,,,t,2019-03-11 18:59:42.698718,{},vote,4,1,Stephanie Gonzalez: William Stanley
+51,2019-03-11 18:56:59.748628,,,,,,t,2019-03-11 18:59:42.710174,{},text,4,1,Stephanie Gonzalez: day time
+59,2019-03-11 18:57:51.117478,,,,,,t,2019-03-11 18:59:42.721989,{},text,4,1,"Stephanie Gonzalez: No, I'm a good guy."
+62,2019-03-11 18:58:11.076953,,,,,,t,2019-03-11 18:59:42.732596,{},vote,4,1,Stephanie Gonzalez: Cristian Roberts
+65,2019-03-11 18:58:41.638636,,,,,,t,2019-03-11 18:59:42.744248,{},text,4,1,Stephanie Gonzalez: Get him!
+71,2019-03-11 18:59:43.559269,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Stephanie Gonzalez
+79,2019-03-11 19:01:46.068739,,,,,,f,,{},text,2,1,Christopher Turner: :/ i'm not mafia... 
+80,2019-03-11 19:01:55.13137,,,,,,f,,{},vote,12,1,Michael Anderson: Cristian Roberts
+81,2019-03-11 19:02:06.790058,,,,,,f,,{},vote,2,1,Christopher Turner: Cristian Roberts
+82,2019-03-11 19:02:28.026967,,,,,,f,,{},text,12,1,Michael Anderson: Maybe quiet is a bystander trying to stay away from the Mafia
+57,2019-03-11 18:57:40.215913,,,,,,t,2019-03-11 19:03:32.680034,{},vote,13,1,Cristian Roberts: Stephanie Gonzalez
+64,2019-03-11 18:58:34.474325,,,,,,t,2019-03-11 19:03:32.695329,{},text,13,1,Cristian Roberts: Only one way to find out!
+70,2019-03-11 18:59:18.77108,,,,,,t,2019-03-11 19:03:32.709811,{},text,13,1,Cristian Roberts: Still leaning towards Stephanie
+75,2019-03-11 19:01:07.166492,,,,,,t,2019-03-11 19:03:32.729562,{},text,13,1,Cristian Roberts: Christopher's turn....
+77,2019-03-11 19:01:13.184606,,,,,,t,2019-03-11 19:03:32.753622,{},vote,13,1,Cristian Roberts: Christopher Turner
+84,2019-03-11 19:02:34.576076,,,,,,t,2019-03-11 19:03:32.771886,{},text,13,1,Cristian Roberts: Why would it be me Brandon & Michael? I voted against the mafia last round... Maybe you two are part of it to?
+88,2019-03-11 19:03:33.254717,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Cristian Roberts
+89,2019-03-11 19:04:03.322401,,,,,,f,,{},vote,2,1,Christopher Turner: Erin Cabrera
+74,2019-03-11 19:00:56.862678,,,,,,t,2019-03-11 19:04:42.175653,{},vote,15,1,Erin Cabrera: Cristian Roberts
+86,2019-03-11 19:03:04.993517,,,,,,t,2019-03-11 19:04:42.395389,{},text,15,1,Erin Cabrera: Has Jonathan Kim voted at all??
+90,2019-03-11 19:04:42.716477,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Erin Cabrera
+91,2019-03-11 19:04:45.555647,,,,,,f,,{},vote,15,1,Erin Cabrera: Jonathan Kim
+92,2019-03-11 19:05:20.112994,,,,,,f,,{},text,2,1,"Christopher Turner: It might be Jonathan Kim... killing off Erin who accused him ""yesterday"""
+94,2019-03-11 19:05:37.150012,,,,,,f,,{},vote,2,1,Christopher Turner: Jonathan Kim
+96,2019-03-11 19:06:24.664504,,,,,,f,,{},text,12,1,Michael Anderson: Hmmmmmmm
+97,2019-03-11 19:06:27.624498,,,,,,f,,{},vote,12,1,Michael Anderson: Jonathan Kim
+99,2019-03-11 19:06:38.278373,,,,,,f,,{},text,2,1,Christopher Turner: We needed to vote someone off to kill the mafia
+83,2019-03-11 19:02:29.16159,,,,,,t,2019-03-11 19:07:22.37372,{},text,6,1,Jonathan Kim: It can't be Christian
+85,2019-03-11 19:03:03.868252,,,,,,t,2019-03-11 19:07:22.396181,{},text,6,1,Jonathan Kim: It doesn't make sense to be Cristian.
+87,2019-03-11 19:03:15.029983,,,,,,t,2019-03-11 19:07:22.413658,{},vote,6,1,Jonathan Kim: Brandon Cruz
+95,2019-03-11 19:05:40.497332,,,,,,t,2019-03-11 19:07:22.437296,{},text,6,1,Jonathan Kim: I vote Erin C. since she voted off Cristian first
+98,2019-03-11 19:06:36.692592,,,,,,t,2019-03-11 19:07:22.45046,{},text,6,1,Jonathan Kim: Mafia is gonna win cause you are idiots.
+100,2019-03-11 19:07:22.689232,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Jonathan Kim
+101,2019-03-11 19:07:36.056717,,,,,,f,,{},vote,2,1,Christopher Turner: Brandon Cruz
+102,2019-03-11 19:07:54.609372,,,,,,f,,{},text,2,1,Christopher Turner: Woot
+103,2019-03-11 19:08:08.371368,,,,,,f,,{},text,2,1,Christopher Turner: Lets go Mafia!
+78,2019-03-11 19:01:38.534034,,,,,,t,2019-03-11 19:08:32.221397,{},vote,10,1,Brandon Cruz: Cristian Roberts
+93,2019-03-11 19:05:27.971047,,,,,,t,2019-03-11 19:08:32.240802,{},vote,10,1,Brandon Cruz: Jonathan Kim
+104,2019-03-11 19:08:32.425943,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Brandon Cruz

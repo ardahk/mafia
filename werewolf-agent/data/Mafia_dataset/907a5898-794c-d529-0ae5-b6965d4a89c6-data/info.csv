@@ -1,0 +1,69 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-14 20:58:38.309403,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+6,2019-03-14 20:59:44.1591,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Micheal Francis
+8,2019-03-14 20:59:57.467068,,,,,,f,,{},text,7,1,Jordan Downs: hi
+9,2019-03-14 20:59:58.017232,,,,,,f,,{},text,8,1,Bryce Gibson: Did anyone die?
+12,2019-03-14 21:00:09.613175,,,,,,f,,{},text,7,1,Jordan Downs: what?
+14,2019-03-14 21:00:20.776801,,,,,,f,,{},text,5,1,Rebecca Nguyen: I'm here
+16,2019-03-14 21:00:23.253413,,,,,,f,,{},text,10,1,Abigail Clark: Harold could you restate your question.
+18,2019-03-14 21:00:39.812825,,,,,,f,,{},text,5,1,Rebecca Nguyen: Rebecca  is here
+19,2019-03-14 21:00:50.364189,,,,,,f,,{},vote,10,1,Abigail Clark: John Luna
+20,2019-03-14 21:00:56.641532,,,,,,f,,{},text,8,1,Bryce Gibson: I don't know how anyone's sure of anything
+21,2019-03-14 21:00:57.861437,,,,,,f,,{},text,7,1,Jordan Downs: Jessica?
+22,2019-03-14 21:00:59.930232,,,,,,f,,{},text,5,1,Rebecca Nguyen: It appears Wendy Leach might be gone
+15,2019-03-14 21:00:22.344628,,,,,,t,2019-03-14 21:01:04.851587,{},text,4,1,Harold Price: JOHN LUNA
+11,2019-03-14 21:00:04.818133,,,,,,t,2019-03-14 21:01:04.860962,{},vote,4,1,Harold Price: John Luna
+10,2019-03-14 21:00:01.397467,,,,,,t,2019-03-14 21:01:04.869552,{},text,4,1,Harold Price: I AM NOW SURE ON THIS ONW
+5,2019-03-14 20:59:23.242005,,,,,,t,2019-03-14 21:01:04.878676,{},text,4,1,Harold Price: I MADE MY VOTE
+4,2019-03-14 20:59:11.72142,,,,,,t,2019-03-14 21:01:04.887634,{},vote,4,1,Harold Price: Micheal Francis
+2,2019-03-14 20:58:49.700244,,,,,,t,2019-03-14 21:01:04.896989,{},text,4,1,Harold Price: HEY NOW
+25,2019-03-14 21:01:19.591426,,,,,,f,,{},text,7,1,Jordan Downs: lol
+27,2019-03-14 21:01:28.328099,,,,,,f,,{},text,5,1,Rebecca Nguyen: John Luna appeared after the night
+28,2019-03-14 21:01:28.861069,,,,,,f,,{},text,8,1,Bryce Gibson: Only Harold does
+29,2019-03-14 21:01:30.940974,,,,,,f,,{},text,7,1,Jordan Downs: but jessica is not speaking
+31,2019-03-14 21:01:36.075217,,,,,,f,,{},text,10,1,Abigail Clark: It seems like the current consensus. 
+34,2019-03-14 21:01:45.350832,,,,,,f,,{},text,5,1,Rebecca Nguyen: I vote for John Luna to be eliminated
+35,2019-03-14 21:01:47.470496,,,,,,f,,{},text,8,1,Bryce Gibson: Well sounds like Benjamin is mafia
+40,2019-03-14 21:02:09.99002,,,,,,f,,{},vote,5,1,Rebecca Nguyen: John Luna
+41,2019-03-14 21:02:11.183052,,,,,,t,2019-03-14 21:02:23.879734,{},text,6,1,John Luna: I'm not smart enough to be mafia.
+37,2019-03-14 21:01:57.000448,,,,,,t,2019-03-14 21:02:23.887332,{},text,6,1,John Luna: Rebecca you are bullying me
+32,2019-03-14 21:01:37.099666,,,,,,t,2019-03-14 21:02:23.895702,{},text,6,1,John Luna: Because I showed up a few seconds late?
+26,2019-03-14 21:01:20.948539,,,,,,t,2019-03-14 21:02:23.9045,{},text,6,1,John Luna: We have no information about people.
+23,2019-03-14 21:01:10.86199,,,,,,t,2019-03-14 21:02:23.912926,{},text,6,1,John Luna: Right?! How can we pick?
+17,2019-03-14 21:00:26.894309,,,,,,t,2019-03-14 21:02:23.926799,{},text,6,1,"John Luna: Not me, How about Rebecca"
+43,2019-03-14 21:02:24.308949,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - John Luna
+13,2019-03-14 21:00:13.332335,,,,,,t,2019-03-14 21:03:43.863515,{},text,9,1,Wendy Leach: Who should we get rid of?
+24,2019-03-14 21:01:11.556215,,,,,,t,2019-03-14 21:03:43.878264,{},text,9,1,Wendy Leach: Why does everyone want to eliminate John Luna?
+38,2019-03-14 21:02:00.78184,,,,,,t,2019-03-14 21:03:43.886893,{},text,9,1,Wendy Leach: The three that picked John are probably mafia!
+39,2019-03-14 21:02:05.634099,,,,,,t,2019-03-14 21:03:43.896816,{},text,9,1,Wendy Leach: They're in cahoots!
+45,2019-03-14 21:03:44.584292,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Wendy Leach
+46,2019-03-14 21:03:49.074878,,,,,,f,,{},text,14,1,Gary Chavez: hello
+47,2019-03-14 21:04:03.912397,,,,,,f,,{},text,8,1,Bryce Gibson: I am guessing Harold.
+48,2019-03-14 21:04:04.248845,,,,,,f,,{},text,10,1,Abigail Clark: I really dislike this randomly generated name.
+49,2019-03-14 21:04:04.328677,,,,,,f,,{},text,5,1,Rebecca Nguyen: I vote for Benjamin this time
+50,2019-03-14 21:04:07.388077,,,,,,f,,{},text,13,1,Michael Baird: howdy
+51,2019-03-14 21:04:13.109218,,,,,,f,,{},vote,5,1,Rebecca Nguyen: Benjamin Pollard
+52,2019-03-14 21:04:30.723126,,,,,,f,,{},vote,8,1,Bryce Gibson: Harold Price
+53,2019-03-14 21:04:31.040678,,,,,,f,,{},text,14,1,Gary Chavez: ok bye
+54,2019-03-14 21:04:39.576148,,,,,,f,,{},text,10,1,Abigail Clark: Rebecca seemed quick to the draw.
+55,2019-03-14 21:04:47.786197,,,,,,f,,{},text,14,1,Gary Chavez: yes
+56,2019-03-14 21:05:02.758351,,,,,,f,,{},text,13,1,"Michael Baird: Okay, I'll go with Benjamin"
+57,2019-03-14 21:05:16.106826,,,,,,f,,{},vote,13,1,Michael Baird: Benjamin Pollard
+58,2019-03-14 21:05:23.288705,,,,,,f,,{},text,10,1,Abigail Clark: Anyone have any other suggestions it's currently between Benjamin and Harold
+59,2019-03-14 21:05:39.282553,,,,,,f,,{},text,14,1,Gary Chavez: no
+61,2019-03-14 21:05:57.047227,,,,,,f,,{},text,13,1,Michael Baird: LOL
+62,2019-03-14 21:05:58.644236,,,,,,f,,{},text,14,1,Gary Chavez: yes
+63,2019-03-14 21:06:02.733255,,,,,,f,,{},text,8,1,Bryce Gibson: Weren't you quick to the draw first round?
+65,2019-03-14 21:06:13.565121,,,,,,f,,{},vote,10,1,Abigail Clark: Benjamin Pollard
+66,2019-03-14 21:06:15.950204,,,,,,f,,{},text,8,1,Bryce Gibson: yeah but you had voted
+3,2019-03-14 20:59:03.434003,,,,,,t,2019-03-14 21:06:23.962044,{},text,2,1,Benjamin Pollard: YOU'RE AN ALL STAR
+7,2019-03-14 20:59:44.286788,,,,,,t,2019-03-14 21:06:23.968026,{},vote,2,1,Benjamin Pollard: John Luna
+30,2019-03-14 21:01:35.736835,,,,,,t,2019-03-14 21:06:23.976803,{},text,2,1,Benjamin Pollard: i don't remember even selecting anybody
+33,2019-03-14 21:01:42.989082,,,,,,t,2019-03-14 21:06:23.986693,{},text,2,1,Benjamin Pollard: so....i'm not sure what's going on
+36,2019-03-14 21:01:48.440569,,,,,,t,2019-03-14 21:06:23.996111,{},text,2,1,Benjamin Pollard: i just loaded in and had a vote already somehow?
+42,2019-03-14 21:02:15.227813,,,,,,t,2019-03-14 21:06:24.004677,{},text,2,1,Benjamin Pollard: lol
+44,2019-03-14 21:02:43.932921,,,,,,t,2019-03-14 21:06:24.014083,{},vote,2,1,Benjamin Pollard: Wendy Leach
+60,2019-03-14 21:05:43.230495,,,,,,t,2019-03-14 21:06:24.021369,{},text,2,1,Benjamin Pollard: nobody is going to questoin the people that quick to the draw?
+64,2019-03-14 21:06:09.405932,,,,,,t,2019-03-14 21:06:24.029747,{},text,2,1,Benjamin Pollard: i loaded in late to the first round
+67,2019-03-14 21:06:23.240534,,,,,,t,2019-03-14 21:06:24.039342,{},text,2,1,Benjamin Pollard: yeah and i don't know how?
+68,2019-03-14 21:06:24.072838,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Benjamin Pollard

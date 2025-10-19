@@ -1,0 +1,12 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-11 18:39:46.249287,,,,,,f,,{},source,1,
+2,2019-03-11 18:52:06.731365,Christopher Turner,True,,,,f,,{},mafioso,1,4
+12,2019-03-11 18:52:07.683402,Michael Anderson,True,,,,f,,{},bystander,1,9
+8,2019-03-11 18:52:07.275668,Erin Jackson DVM,False,2019-03-11 18:55:55.119334,,,f,,{},bystander,1,7
+14,2019-03-11 18:52:08.723567,William Stanley,False,2019-03-11 18:57:03.533816,,,f,,{},bystander,1,5
+4,2019-03-11 18:52:06.94336,Stephanie Gonzalez,False,2019-03-11 18:59:44.063938,,,f,,{},mafioso,1,10
+16,2019-03-11 18:52:09.933368,Henry Brown,False,2019-03-11 19:00:52.959543,,,f,,{},bystander,1,1
+13,2019-03-11 18:52:07.918951,Cristian Roberts,False,2019-03-11 19:03:33.750506,,,f,,{},bystander,1,8
+15,2019-03-11 18:52:09.220953,Erin Cabrera,False,2019-03-11 19:04:42.860607,,,f,,{},bystander,1,6
+6,2019-03-11 18:52:07.101956,Jonathan Kim,False,2019-03-11 19:07:22.477983,,,f,,{},bystander,1,2
+10,2019-03-11 18:52:07.566144,Brandon Cruz,False,2019-03-11 19:08:32.381729,,,f,,{},bystander,1,3

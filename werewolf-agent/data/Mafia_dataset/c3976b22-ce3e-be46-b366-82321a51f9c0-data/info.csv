@@ -1,0 +1,73 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-11 01:13:32.19076,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-11 01:14:01.970947,,,,,,f,,{},text,3,1,Jon Gutierrez: Ryan?
+3,2019-03-11 01:14:12.855987,,,,,,f,,{},text,4,1,Ryan Russell: Dwayne Lam sounds like a good choice
+4,2019-03-11 01:14:19.67112,,,,,,f,,{},text,3,1,Jon Gutierrez: That works for me :) 
+5,2019-03-11 01:14:28.216767,,,,,,f,,{},vote,3,1,Jon Gutierrez: Dwayne Lam
+6,2019-03-11 01:14:34.529996,,,,,,f,,{},vote,4,1,Ryan Russell: Dwayne Lam
+7,2019-03-11 01:14:38.306635,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Dwayne Lam
+10,2019-03-11 01:14:48.23575,,,,,,f,,{},text,8,1,Kellie Anderson: Hello
+14,2019-03-11 01:15:02.638578,,,,,,f,,{},text,3,1,Jon Gutierrez: Hi there! 
+15,2019-03-11 01:15:04.594247,,,,,,f,,{},text,4,1,Ryan Russell: What's up?
+16,2019-03-11 01:15:09.112156,,,,,,f,,{},text,4,1,Ryan Russell: How does this work 
+19,2019-03-11 01:15:22.310058,,,,,,f,,{},vote,8,1,Kellie Anderson: Joshua Herman
+21,2019-03-11 01:15:47.076887,,,,,,f,,{},text,4,1,Ryan Russell: I've been playing it my whole life.  
+23,2019-03-11 01:15:56.975344,,,,,,f,,{},text,4,1,Ryan Russell: Kind of natural at this point
+24,2019-03-11 01:16:04.015844,,,,,,f,,{},text,3,1,Jon Gutierrez: lol
+25,2019-03-11 01:16:05.735313,,,,,,f,,{},text,12,1,Kimberly Stevenson: Howdy y'all
+28,2019-03-11 01:16:12.547553,,,,,,f,,{},vote,4,1,Ryan Russell: Joshua Herman
+31,2019-03-11 01:16:37.347651,,,,,,f,,{},text,4,1,Ryan Russell: Reminds me of IT.  We all float down here
+33,2019-03-11 01:16:44.775354,,,,,,f,,{},vote,12,1,Kimberly Stevenson: Stephanie Espinoza
+35,2019-03-11 01:17:06.551623,,,,,,f,,{},vote,3,1,Jon Gutierrez: Joshua Herman
+30,2019-03-11 01:16:25.430757,,,,,,t,2019-03-11 01:17:18.615238,{},vote,9,1,Joshua Herman: Ryan Russell
+20,2019-03-11 01:15:35.626923,,,,,,t,2019-03-11 01:17:18.628696,{},text,9,1,Joshua Herman: Ryan playing dumb to stay alive?
+17,2019-03-11 01:15:15.993801,,,,,,t,2019-03-11 01:17:18.638625,{},text,9,1,Joshua Herman: Brent can i trust you?
+12,2019-03-11 01:14:59.829358,,,,,,t,2019-03-11 01:17:18.65102,{},text,9,1,Joshua Herman: There seems to be some mafia members among us!
+8,2019-03-11 01:14:45.740447,,,,,,t,2019-03-11 01:17:18.66389,{},text,9,1,Joshua Herman: hello all!
+39,2019-03-11 01:17:19.701,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Joshua Herman
+40,2019-03-11 01:17:39.424092,,,,,,f,,{},text,3,1,"Jon Gutierrez: Alright, who's next?"
+41,2019-03-11 01:17:54.890717,,,,,,f,,{},text,4,1,Ryan Russell: Who do you think now?
+42,2019-03-11 01:18:09.855776,,,,,,f,,{},text,3,1,Jon Gutierrez: Brent maybe?
+43,2019-03-11 01:18:10.828066,,,,,,f,,{},text,4,1,Ryan Russell: You tell me. I've got your back. 
+44,2019-03-11 01:18:25.166004,,,,,,f,,{},vote,3,1,Jon Gutierrez: Brent Green
+45,2019-03-11 01:18:27.52259,,,,,,f,,{},text,4,1,Ryan Russell: Brent it is
+34,2019-03-11 01:17:04.834823,,,,,,t,2019-03-11 01:18:27.908915,{},vote,13,1,Brent Green: Stephanie Espinoza
+22,2019-03-11 01:15:52.11388,,,,,,t,2019-03-11 01:18:27.919005,{},text,13,1,Brent Green: I think so Joshua.
+9,2019-03-11 01:14:47.488837,,,,,,t,2019-03-11 01:18:27.926783,{},text,13,1,Brent Green: hello.
+46,2019-03-11 01:18:28.343202,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Brent Green
+47,2019-03-11 01:18:42.489538,,,,,,f,,{},text,3,1,"Jon Gutierrez: Morning guys, lol"
+48,2019-03-11 01:18:42.873304,,,,,,f,,{},text,12,1,Kimberly Stevenson: Why brent why!?
+49,2019-03-11 01:19:02.273973,,,,,,f,,{},text,8,1,Kellie Anderson: Good morning friends
+52,2019-03-11 01:19:51.543521,,,,,,f,,{},text,4,1,Ryan Russell: I got interupted before I got to answer the ballons questions.  99 of them Paul. 99 Red Balloons.
+53,2019-03-11 01:19:57.978269,,,,,,f,,{},text,3,1,Jon Gutierrez: What's lampredotto? 
+58,2019-03-11 01:20:31.855163,,,,,,f,,{},text,4,1,Ryan Russell: Think what Stephanie?
+60,2019-03-11 01:20:48.991522,,,,,,f,,{},vote,12,1,Kimberly Stevenson: Stephanie Espinoza
+61,2019-03-11 01:20:50.116953,,,,,,f,,{},text,4,1,Ryan Russell: You did it to yourself. 
+62,2019-03-11 01:20:52.764399,,,,,,f,,{},vote,8,1,Kellie Anderson: Stephanie Espinoza
+63,2019-03-11 01:20:55.236585,,,,,,f,,{},vote,3,1,Jon Gutierrez: Stephanie Espinoza
+11,2019-03-11 01:14:56.94895,,,,,,t,2019-03-11 01:21:08.061417,{},text,7,1,Stephanie Espinoza: Hey!
+18,2019-03-11 01:15:21.677159,,,,,,t,2019-03-11 01:21:08.068263,{},text,7,1,Stephanie Espinoza: Check the instructions
+27,2019-03-11 01:16:09.668216,,,,,,t,2019-03-11 01:21:08.08048,{},text,7,1,Stephanie Espinoza: We're all dumb here
+29,2019-03-11 01:16:14.316563,,,,,,t,2019-03-11 01:21:08.086252,{},text,7,1,Stephanie Espinoza: Some are more dumb than others
+36,2019-03-11 01:17:08.030617,,,,,,t,2019-03-11 01:21:08.093058,{},text,7,1,Stephanie Espinoza: I'd almost say vote me out so I can complete this HIT faster lol
+65,2019-03-11 01:21:23.290471,,,,,,f,,{},text,4,1,Ryan Russell: My vote didn't go through last time.  
+67,2019-03-11 01:22:01.332462,,,,,,f,,{},text,3,1,Jon Gutierrez: kimberly this time?
+69,2019-03-11 01:22:06.379692,,,,,,f,,{},vote,4,1,Ryan Russell: Paul Schneider
+70,2019-03-11 01:22:09.943008,,,,,,f,,{},text,3,1,"Jon Gutierrez: Paul works for me, lol"
+13,2019-03-11 01:15:01.476736,,,,,,t,2019-03-11 01:22:18.098304,{},text,11,1,Paul Schneider: Greetings!
+26,2019-03-11 01:16:08.984947,,,,,,t,2019-03-11 01:22:18.114866,{},vote,11,1,Paul Schneider: Stephanie Espinoza
+32,2019-03-11 01:16:38.928561,,,,,,t,2019-03-11 01:22:18.134421,{},text,11,1,"Paul Schneider: You seem to be really connected to the family, like a Targaryen."
+37,2019-03-11 01:17:10.497729,,,,,,t,2019-03-11 01:22:18.147216,{},text,11,1,"Paul Schneider: Ryan, have you seen any red balloons? :)"
+51,2019-03-11 01:19:26.674036,,,,,,t,2019-03-11 01:22:18.159106,{},text,11,1,Paul Schneider: Brent made the best lampredotto.
+38,2019-03-11 01:17:11.264993,,,,,,t,2019-03-11 01:21:08.100485,{},vote,7,1,Stephanie Espinoza: Joshua Herman
+50,2019-03-11 01:19:05.601987,,,,,,t,2019-03-11 01:21:08.107391,{},text,7,1,Stephanie Espinoza: I think our mafia member radars are off
+54,2019-03-11 01:20:04.626259,,,,,,t,2019-03-11 01:21:08.114689,{},text,7,1,Stephanie Espinoza: I wonder how many of the voters for Joshua knew he was a bystander
+55,2019-03-11 01:20:07.359496,,,,,,t,2019-03-11 01:21:08.120761,{},text,7,1,Stephanie Espinoza: makes you think
+57,2019-03-11 01:20:31.173533,,,,,,t,2019-03-11 01:21:08.129545,{},vote,7,1,Stephanie Espinoza: Jon Gutierrez
+64,2019-03-11 01:21:08.33087,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Stephanie Espinoza
+66,2019-03-11 01:21:33.541514,,,,,,f,,{},text,3,1,Jon Gutierrez: woops
+68,2019-03-11 01:22:01.583273,,,,,,f,,{},text,4,1,Ryan Russell: I say Paul for getting 99 red baloons stuck in my head
+71,2019-03-11 01:22:17.657654,,,,,,f,,{},vote,3,1,Jon Gutierrez: Paul Schneider
+56,2019-03-11 01:20:18.264027,,,,,,t,2019-03-11 01:22:18.177307,{},text,11,1,"Paul Schneider: Ryan: LOL, now that's stuck in my head. ;)"
+59,2019-03-11 01:20:34.145638,,,,,,t,2019-03-11 01:22:18.18938,{},vote,11,1,Paul Schneider: Stephanie Espinoza
+72,2019-03-11 01:22:18.308538,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Paul Schneider

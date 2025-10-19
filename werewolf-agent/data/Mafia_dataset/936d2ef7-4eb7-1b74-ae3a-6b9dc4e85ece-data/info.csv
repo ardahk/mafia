@@ -1,0 +1,68 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-12 20:18:14.924839,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+3,2019-03-12 20:18:43.769932,,,,,,f,,{},text,3,1,Brittany Evans: yo
+5,2019-03-12 20:19:00.141463,,,,,,f,,{},text,3,1,Brittany Evans: doesnt matter
+7,2019-03-12 20:19:20.733879,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Mr. Joseph Mcknight
+10,2019-03-12 20:19:44.910475,,,,,,f,,{},text,11,1,Rachel Costa: hi
+13,2019-03-12 20:19:48.726194,,,,,,f,,{},text,3,1,Brittany Evans: hi
+18,2019-03-12 20:20:43.707797,,,,,,f,,{},vote,11,1,Rachel Costa: Frank Steele
+23,2019-03-12 20:22:01.248773,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Frank Steele
+25,2019-03-12 20:22:51.513441,,,,,,f,,{},vote,3,1,Brittany Evans: Elizabeth Andrews
+15,2019-03-12 20:19:56.480921,,,,,,t,2019-03-12 20:23:10.156357,{},vote,7,1,Elizabeth Andrews: Melissa Hunt
+8,2019-03-12 20:19:39.276737,,,,,,t,2019-03-12 20:23:10.165836,{},text,7,1,Elizabeth Andrews: Hello
+27,2019-03-12 20:23:10.511601,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Elizabeth Andrews
+31,2019-03-12 20:23:39.861833,,,,,,f,,{},text,11,1,Rachel Costa: Hi
+32,2019-03-12 20:23:43.231965,,,,,,f,,{},text,3,1,Brittany Evans: hi
+36,2019-03-12 20:23:49.762298,,,,,,f,,{},vote,11,1,Rachel Costa: Erin Blevins
+42,2019-03-12 20:24:19.19257,,,,,,f,,{},vote,3,1,Brittany Evans: Erin Blevins
+44,2019-03-12 20:25:06.053024,,,,,,t,2019-03-12 20:25:50.612577,{},text,2,1,"Erin Blevins: Though, Blevins is a gross sounding name, so fair I guess"
+43,2019-03-12 20:24:26.61056,,,,,,t,2019-03-12 20:25:50.622691,{},text,2,1,Erin Blevins: Sad days for miss Erin
+41,2019-03-12 20:24:05.020211,,,,,,t,2019-03-12 20:25:50.636469,{},text,2,1,Erin Blevins: D:
+40,2019-03-12 20:24:02.35756,,,,,,t,2019-03-12 20:25:50.648692,{},vote,2,1,Erin Blevins: Jamie Burch
+33,2019-03-12 20:23:43.90941,,,,,,t,2019-03-12 20:25:50.65934,{},text,2,1,Erin Blevins: Hey!
+26,2019-03-12 20:22:59.344816,,,,,,t,2019-03-12 20:25:50.669895,{},text,2,1,"Erin Blevins: Elizabeth seems vaguely leader like, so I voted for her"
+24,2019-03-12 20:22:22.652641,,,,,,t,2019-03-12 20:25:50.681691,{},vote,2,1,Erin Blevins: Elizabeth Andrews
+21,2019-03-12 20:20:55.839801,,,,,,t,2019-03-12 20:25:50.693141,{},vote,2,1,Erin Blevins: Frank Steele
+12,2019-03-12 20:19:48.224867,,,,,,t,2019-03-12 20:25:50.704496,{},text,2,1,Erin Blevins: Hello!
+6,2019-03-12 20:19:12.693837,,,,,,t,2019-03-12 20:25:50.715704,{},vote,2,1,Erin Blevins: Mr. Joseph Mcknight
+4,2019-03-12 20:18:54.275335,,,,,,t,2019-03-12 20:25:50.726002,{},text,2,1,Erin Blevins: Do you have anyone specific you wanted to off?
+2,2019-03-12 20:18:34.423174,,,,,,t,2019-03-12 20:25:50.736013,{},text,2,1,Erin Blevins: Hello
+46,2019-03-12 20:25:51.571816,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Erin Blevins
+47,2019-03-12 20:26:09.28382,,,,,,f,,{},vote,3,1,Brittany Evans: Jorge Mcintosh
+11,2019-03-12 20:19:45.703069,,,,,,t,2019-03-12 20:27:00.307613,{},text,13,1,Jorge Mcintosh: Hello!
+19,2019-03-12 20:20:49.242731,,,,,,t,2019-03-12 20:27:00.316076,{},vote,13,1,Jorge Mcintosh: Frank Steele
+28,2019-03-12 20:23:31.922106,,,,,,t,2019-03-12 20:27:00.325465,{},text,13,1,Jorge Mcintosh: Hello!
+39,2019-03-12 20:24:01.274649,,,,,,t,2019-03-12 20:27:00.336329,{},vote,13,1,Jorge Mcintosh: Erin Blevins
+45,2019-03-12 20:25:30.950008,,,,,,t,2019-03-12 20:27:00.345835,{},text,13,1,Jorge Mcintosh: lol
+48,2019-03-12 20:27:00.631549,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Jorge Mcintosh
+49,2019-03-12 20:27:06.618697,,,,,,f,,{},text,3,1,Brittany Evans: hi
+51,2019-03-12 20:27:09.839168,,,,,,f,,{},vote,3,1,Brittany Evans: Melissa Hunt
+55,2019-03-12 20:27:29.937164,,,,,,f,,{},vote,11,1,Rachel Costa: Melissa Hunt
+14,2019-03-12 20:19:51.036313,,,,,,t,2019-03-12 20:29:40.680349,{},text,4,1,Melissa Hunt: hi
+22,2019-03-12 20:20:58.663303,,,,,,t,2019-03-12 20:29:40.69621,{},vote,4,1,Melissa Hunt: Frank Steele
+35,2019-03-12 20:23:45.434232,,,,,,t,2019-03-12 20:29:40.708655,{},text,4,1,Melissa Hunt: Hi
+37,2019-03-12 20:23:56.654954,,,,,,t,2019-03-12 20:29:40.721474,{},vote,4,1,Melissa Hunt: Erin Blevins
+52,2019-03-12 20:27:14.908147,,,,,,t,2019-03-12 20:29:40.734638,{},text,4,1,Melissa Hunt: Hi
+54,2019-03-12 20:27:28.610423,,,,,,t,2019-03-12 20:29:40.747508,{},vote,4,1,Melissa Hunt: Jamie Burch
+57,2019-03-12 20:28:55.476248,,,,,,t,2019-03-12 20:29:40.763438,{},text,4,1,Melissa Hunt: Wish they would have made this like the actual game. All we can do is just randomly pick people lol
+59,2019-03-12 20:29:41.033811,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Melissa Hunt
+60,2019-03-12 20:29:49.363305,,,,,,f,,{},vote,3,1,Brittany Evans: Lindsay Johnson
+9,2019-03-12 20:19:43.436094,,,,,,t,2019-03-12 20:30:50.19892,{},text,8,1,Lindsay Johnson: Hi!
+20,2019-03-12 20:20:53.38803,,,,,,t,2019-03-12 20:30:50.210049,{},vote,8,1,Lindsay Johnson: Frank Steele
+34,2019-03-12 20:23:44.25205,,,,,,t,2019-03-12 20:30:50.224146,{},text,8,1,Lindsay Johnson: hi
+38,2019-03-12 20:24:00.121172,,,,,,t,2019-03-12 20:30:50.248416,{},vote,8,1,Lindsay Johnson: Erin Blevins
+50,2019-03-12 20:27:07.848821,,,,,,t,2019-03-12 20:30:50.276163,{},vote,8,1,Lindsay Johnson: Jamie Burch
+53,2019-03-12 20:27:24.394716,,,,,,t,2019-03-12 20:30:50.294189,{},text,8,1,Lindsay Johnson: hi
+61,2019-03-12 20:30:50.436929,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Lindsay Johnson
+62,2019-03-12 20:30:53.766317,,,,,,f,,{},vote,3,1,Brittany Evans: Jamie Burch
+63,2019-03-12 20:30:56.907408,,,,,,f,,{},text,3,1,Brittany Evans: hi
+66,2019-03-12 20:31:06.093059,,,,,,f,,{},vote,11,1,Rachel Costa: Jamie Burch
+16,2019-03-12 20:20:17.812715,,,,,,t,2019-03-12 20:33:30.389512,{},text,12,1,Jamie Burch: hello
+17,2019-03-12 20:20:26.995658,,,,,,t,2019-03-12 20:33:30.398392,{},vote,12,1,Jamie Burch: Frank Steele
+29,2019-03-12 20:23:37.572579,,,,,,t,2019-03-12 20:33:30.407304,{},text,12,1,Jamie Burch: hi
+30,2019-03-12 20:23:39.325808,,,,,,t,2019-03-12 20:33:30.417924,{},vote,12,1,Jamie Burch: Erin Blevins
+58,2019-03-12 20:29:03.569914,,,,,,t,2019-03-12 20:33:30.446504,{},text,12,1,Jamie Burch: hello
+56,2019-03-12 20:27:44.197215,,,,,,t,2019-03-12 20:33:30.430998,{},vote,12,1,Jamie Burch: Melissa Hunt
+64,2019-03-12 20:31:03.840268,,,,,,t,2019-03-12 20:33:30.456894,{},text,12,1,Jamie Burch: hi
+65,2019-03-12 20:31:05.690997,,,,,,t,2019-03-12 20:33:30.467674,{},vote,12,1,Jamie Burch: Brittany Evans
+67,2019-03-12 20:33:30.51961,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Jamie Burch

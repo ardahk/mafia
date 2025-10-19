@@ -1,0 +1,14 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-14 19:20:17.812323,,,,,,f,,{},source,1,
+13,2019-03-14 19:28:47.833024,Vanessa Berry,True,,,,f,,{},bystander,1,8
+10,2019-03-14 19:28:45.619356,Amanda Carson,False,2019-03-14 19:32:39.143964,,,f,,{},bystander,1,7
+8,2019-03-14 19:28:45.480135,Nichole Miller,True,,,,t,2019-03-14 19:33:06.109421,{},bystander,1,4
+7,2019-03-14 19:28:45.2243,Caroline Hansen,False,2019-03-14 19:33:47.987502,,,f,,{},bystander,1,1
+11,2019-03-14 19:28:46.119118,Scott Mason,False,2019-03-14 19:29:59.136557,,,t,2019-03-14 19:35:04.906298,{},bystander,1,5
+2,2019-03-14 19:28:44.599542,Matthew Ortega,False,2019-03-14 19:36:28.732664,,,f,,{},mafioso,1,6
+5,2019-03-14 19:28:45.019844,Autumn Martinez,True,,,,t,2019-03-14 19:37:10.668004,{},bystander,1,11
+15,2019-03-14 19:28:55.235804,Juan Harris,False,2019-03-14 19:37:37.536308,,,f,,{},bystander,1,9
+4,2019-03-14 19:28:44.817236,Richard Walter,False,2019-03-14 19:40:17.687942,,,f,,{},mafioso,1,10
+16,2019-03-14 19:46:31.901889,Donald Bryant,True,,,,f,,{},bystander,1,14
+17,2019-03-14 19:46:32.753617,Zachary Proctor,True,,,,f,,{},bystander,1,13
+12,2019-03-14 19:28:46.29683,Jodi Williams,True,,,,t,2019-03-14 20:20:53.005737,{},bystander,1,3

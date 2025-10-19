@@ -1,0 +1,126 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-02-01 20:19:41.744477,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+6,2019-02-01 20:20:46.073983,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Chris Scott
+10,2019-02-01 20:21:00.255883,,,,,,f,,{},text,7,1,Latoya Carter: hello
+11,2019-02-01 20:21:00.63285,,,,,,f,,{},text,10,1,Nancy Foley: hey
+25,2019-02-01 20:22:06.104188,,,,,,f,,{},text,10,1,Nancy Foley: lol
+28,2019-02-01 20:22:10.913092,,,,,,f,,{},text,10,1,Nancy Foley: are you sure?
+34,2019-02-01 20:22:22.142756,,,,,,f,,{},text,7,1,Latoya Carter: everyone agreeing natalie is probably mafia
+41,2019-02-01 20:23:03.8091,,,,,,f,,{},vote,7,1,Latoya Carter: Stephen Baldwin
+42,2019-02-01 20:23:09.069664,,,,,,f,,{},vote,10,1,Nancy Foley: Stephen Baldwin
+40,2019-02-01 20:22:57.504492,,,,,,t,2019-02-01 20:23:26.042347,{},text,11,1,Stephen Baldwin: m just trying to get this party started
+39,2019-02-01 20:22:52.05526,,,,,,t,2019-02-01 20:23:26.055851,{},text,11,1,Stephen Baldwin: i'
+32,2019-02-01 20:22:20.172733,,,,,,t,2019-02-01 20:23:26.069896,{},vote,11,1,Stephen Baldwin: Natalie Velasquez
+30,2019-02-01 20:22:15.102428,,,,,,t,2019-02-01 20:23:26.082042,{},text,11,1,Stephen Baldwin: i'll make my own mob out of these bystanders
+23,2019-02-01 20:22:00.001885,,,,,,t,2019-02-01 20:23:26.091605,{},text,11,1,Stephen Baldwin: good she's gone
+18,2019-02-01 20:21:31.632103,,,,,,t,2019-02-01 20:23:26.100794,{},text,11,1,Stephen Baldwin: natalie... that sounds like someone in the mafia 
+8,2019-02-01 20:21:00.084286,,,,,,t,2019-02-01 20:23:26.110027,{},text,11,1,Stephen Baldwin: hey
+44,2019-02-01 20:23:26.896961,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Stephen Baldwin
+7,2019-02-01 20:20:53.679681,,,,,,t,2019-02-01 20:24:35.646145,{},text,9,1,Aaron Vaughan: hi
+33,2019-02-01 20:22:20.716263,,,,,,t,2019-02-01 20:24:35.6617,{},vote,9,1,Aaron Vaughan: Kevin Morales
+54,2019-02-01 20:24:36.113615,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Aaron Vaughan
+57,2019-02-01 20:25:10.115303,,,,,,f,,{},text,7,1,Latoya Carter: mornin folks!
+59,2019-02-01 20:25:19.059194,,,,,,f,,{},text,10,1,Nancy Foley: morning
+61,2019-02-01 20:25:38.265336,,,,,,f,,{},text,7,1,Latoya Carter: see they voted natalie out...other person that wanted her out was Nathan. He's the next mafia
+64,2019-02-01 20:25:56.967247,,,,,,f,,{},text,7,1,Latoya Carter: bwahaha
+65,2019-02-01 20:26:00.700899,,,,,,f,,{},text,7,1,Latoya Carter: I can't read
+66,2019-02-01 20:26:05.685302,,,,,,f,,{},text,7,1,"Latoya Carter: vote me, I'm a dum dum"
+70,2019-02-01 20:26:41.604501,,,,,,f,,{},text,10,1,"Nancy Foley: yeah, he didn't get to say much yesterday"
+15,2019-02-01 20:21:09.16544,,,,,,t,2019-02-01 20:28:25.671147,{},text,12,1,Christine King: who want to go first?
+17,2019-02-01 20:21:29.128722,,,,,,t,2019-02-01 20:28:25.6771,{},text,12,1,Christine King: ready to kick someone...
+19,2019-02-01 20:21:35.727137,,,,,,t,2019-02-01 20:28:25.68273,{},text,12,1,Christine King: try..hahahah
+36,2019-02-01 20:22:30.730772,,,,,,t,2019-02-01 20:28:25.688847,{},text,12,1,Christine King: yes kick her out
+45,2019-02-01 20:23:27.021256,,,,,,t,2019-02-01 20:28:25.694575,{},vote,12,1,Christine King: Natalie Velasquez
+55,2019-02-01 20:25:01.453515,,,,,,t,2019-02-01 20:28:25.700117,{},vote,12,1,Christine King: Natalie Velasquez
+60,2019-02-01 20:25:19.567218,,,,,,t,2019-02-01 20:28:25.705884,{},text,12,1,Christine King: very gd morning
+68,2019-02-01 20:26:13.897396,,,,,,t,2019-02-01 20:28:25.711638,{},text,12,1,Christine King: ok
+14,2019-02-01 20:21:06.500635,,,,,,t,2019-02-01 20:31:05.815297,{},text,6,1,Nathan Pham: Hello
+20,2019-02-01 20:21:51.217762,,,,,,t,2019-02-01 20:31:05.824898,{},text,6,1,Nathan Pham: I agree. Let's eliminate Natalie.
+26,2019-02-01 20:22:08.305378,,,,,,t,2019-02-01 20:31:05.841712,{},vote,6,1,Nathan Pham: Natalie Velasquez
+37,2019-02-01 20:22:35.270266,,,,,,t,2019-02-01 20:31:05.85394,{},text,6,1,Nathan Pham: Even Natalie agrees that Natalie cannot be trusted.
+63,2019-02-01 20:25:51.088284,,,,,,t,2019-02-01 20:31:05.866974,{},text,6,1,Nathan Pham: I am not mafia. 
+67,2019-02-01 20:26:12.135906,,,,,,t,2019-02-01 20:31:05.880324,{},text,6,1,Nathan Pham: Notice that Aaron was eliminated last night?
+13,2019-02-01 20:21:06.257891,,,,,,t,2019-02-01 20:32:15.656038,{},text,8,1,Dr. Christopher Hamilton: Hello!
+22,2019-02-01 20:21:55.350297,,,,,,t,2019-02-01 20:32:15.665014,{},text,8,1,"Dr. Christopher Hamilton: Stephen Baldwin... that guy has been in quite a few movies, I bet he's got mob connections. I vote Stephen Baldwin is the mafioso! "
+29,2019-02-01 20:22:13.681914,,,,,,t,2019-02-01 20:32:15.674675,{},vote,8,1,Dr. Christopher Hamilton: Stephen Baldwin
+38,2019-02-01 20:22:38.438919,,,,,,t,2019-02-01 20:32:15.683471,{},text,8,1,"Dr. Christopher Hamilton: Agreed, Baldwin was very quick to throw her under the bus. "
+43,2019-02-01 20:23:23.848166,,,,,,t,2019-02-01 20:32:15.69215,{},text,8,1,Dr. Christopher Hamilton: Sounds like something a mob boss would say. 
+2,2019-02-01 20:20:13.442241,,,,,,t,2019-02-01 20:34:55.805962,{},text,2,1,Kevin Morales: chris scott
+3,2019-02-01 20:20:19.704075,,,,,,t,2019-02-01 20:34:55.822308,{},vote,2,1,Kevin Morales: Chris Scott
+9,2019-02-01 20:21:00.102327,,,,,,t,2019-02-01 20:34:55.836478,{},text,2,1,Kevin Morales: hey
+16,2019-02-01 20:21:20.639279,,,,,,t,2019-02-01 20:34:55.846606,{},text,2,1,Kevin Morales: how about you?
+27,2019-02-01 20:22:09.180673,,,,,,t,2019-02-01 20:34:55.856785,{},text,2,1,Kevin Morales: baldwin sounds like it
+35,2019-02-01 20:22:30.549511,,,,,,t,2019-02-01 20:34:55.866722,{},vote,2,1,Kevin Morales: Stephen Baldwin
+46,2019-02-01 20:23:38.695645,,,,,,t,2019-02-01 20:34:55.876017,{},text,2,1,Kevin Morales: hmm
+71,2019-02-01 20:26:44.184421,,,,,,f,,{},vote,7,1,Latoya Carter: Nathan Pham
+75,2019-02-01 20:27:16.519508,,,,,,t,2019-02-01 20:34:55.942245,{},text,2,1,Kevin Morales: Nathan was quick to point his finger at Natalie.
+78,2019-02-01 20:28:24.183285,,,,,,t,2019-02-01 20:34:55.954602,{},vote,2,1,Kevin Morales: Christine King
+4,2019-02-01 20:20:30.332492,,,,,,t,2019-02-01 20:27:15.791472,{},text,4,1,Natalie Velasquez: hi
+5,2019-02-01 20:20:42.08041,,,,,,t,2019-02-01 20:27:15.797604,{},vote,4,1,Natalie Velasquez: Chris Scott
+12,2019-02-01 20:21:02.07462,,,,,,t,2019-02-01 20:27:15.803247,{},text,4,1,Natalie Velasquez: hi
+21,2019-02-01 20:21:53.1517,,,,,,t,2019-02-01 20:27:15.809316,{},text,4,1,Natalie Velasquez: I
+24,2019-02-01 20:22:05.572557,,,,,,t,2019-02-01 20:27:15.815486,{},text,4,1,Natalie Velasquez: I agree
+31,2019-02-01 20:22:15.525074,,,,,,t,2019-02-01 20:27:15.822206,{},text,4,1,Natalie Velasquez: Natalie can't be trusted
+47,2019-02-01 20:23:47.897967,,,,,,t,2019-02-01 20:27:15.828316,{},text,4,1,Natalie Velasquez: I don't know
+50,2019-02-01 20:24:21.496705,,,,,,t,2019-02-01 20:27:15.834065,{},text,4,1,Natalie Velasquez: you got any inclination?
+51,2019-02-01 20:24:25.283194,,,,,,t,2019-02-01 20:27:15.840036,{},text,4,1,Natalie Velasquez: sure
+53,2019-02-01 20:24:33.40493,,,,,,t,2019-02-01 20:27:15.845564,{},vote,4,1,Natalie Velasquez: Aaron Vaughan
+62,2019-02-01 20:25:50.620484,,,,,,t,2019-02-01 20:27:15.851503,{},text,4,1,Natalie Velasquez: or did they?
+74,2019-02-01 20:27:16.085563,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Natalie Velasquez
+79,2019-02-01 20:28:25.841479,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Christine King
+72,2019-02-01 20:27:04.94285,,,,,,t,2019-02-01 20:31:05.913668,{},text,6,1,"Nathan Pham: If you ask me, that means Kevin Morales might well be a mafia. "
+76,2019-02-01 20:27:24.450952,,,,,,t,2019-02-01 20:34:55.964594,{},text,2,1,"Kevin Morales: ehh, lol"
+82,2019-02-01 20:29:00.237066,,,,,,f,,{},vote,10,1,Nancy Foley: Kevin Morales
+83,2019-02-01 20:29:11.278113,,,,,,f,,{},text,10,1,Nancy Foley: morning
+93,2019-02-01 20:30:11.174582,,,,,,f,,{},text,7,1,Latoya Carter: Mind gamessss
+94,2019-02-01 20:30:19.001412,,,,,,f,,{},vote,7,1,Latoya Carter: Nathan Pham
+97,2019-02-01 20:30:48.208216,,,,,,f,,{},text,10,1,"Nancy Foley: welp, its too late to change my vote"
+69,2019-02-01 20:26:26.024701,,,,,,t,2019-02-01 20:31:05.889394,{},text,6,1,Nathan Pham: Aaron wanted Kevin Morales gone.
+81,2019-02-01 20:28:47.731057,,,,,,t,2019-02-01 20:31:05.924627,{},text,6,1,Nathan Pham: It turns out that Natalie was indeed a member of the mafia.
+86,2019-02-01 20:29:20.752369,,,,,,t,2019-02-01 20:31:05.933966,{},text,6,1,"Nathan Pham: Since I voted for Natalie to be eliminated, that means I'm not a mafia. Latoya, on the other hand, wanted me gone."
+88,2019-02-01 20:29:31.116856,,,,,,t,2019-02-01 20:31:05.94569,{},vote,6,1,Nathan Pham: Latoya Carter
+91,2019-02-01 20:29:55.185776,,,,,,t,2019-02-01 20:31:05.954477,{},text,6,1,"Nathan Pham: If I were a member of the Mafia, why would I vote to have a fellow Mafioso eliminated? Clearly I'm a bystander. "
+95,2019-02-01 20:30:39.17047,,,,,,t,2019-02-01 20:31:05.968045,{},text,6,1,"Nathan Pham: My detractors, however, clearly want me gone for the very reason that I have them pinned!"
+98,2019-02-01 20:31:06.17101,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Nathan Pham
+56,2019-02-01 20:25:03.586716,,,,,,t,2019-02-01 20:32:15.70027,{},text,8,1,Dr. Christopher Hamilton: Good morning!
+73,2019-02-01 20:27:10.074045,,,,,,t,2019-02-01 20:32:15.70916,{},text,8,1,Dr. Christopher Hamilton: Nathan did want Natalie gone though...
+80,2019-02-01 20:28:47.020227,,,,,,t,2019-02-01 20:32:15.717357,{},text,8,1,"Dr. Christopher Hamilton: Very few of us left, wow. Good morning, brave few. "
+84,2019-02-01 20:29:14.324882,,,,,,t,2019-02-01 20:32:15.725669,{},text,8,1,"Dr. Christopher Hamilton: Natalie was rotten all along. What about you, Nathan? Have you been active at night lately?"
+87,2019-02-01 20:29:24.123839,,,,,,t,2019-02-01 20:32:15.734799,{},text,8,1,Dr. Christopher Hamilton: He must be. 
+89,2019-02-01 20:29:39.179571,,,,,,t,2019-02-01 20:32:15.742513,{},vote,8,1,Dr. Christopher Hamilton: Nathan Pham
+92,2019-02-01 20:30:07.837423,,,,,,t,2019-02-01 20:32:15.750095,{},text,8,1,"Dr. Christopher Hamilton: So that you could be the last mafioso standing, your kind knows no loyalty!"
+100,2019-02-01 20:32:15.858146,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Dr. Christopher Hamilton
+103,2019-02-01 20:32:44.078951,,,,,,f,,{},text,7,1,Latoya Carter: yip
+104,2019-02-01 20:32:51.135622,,,,,,f,,{},text,7,1,Latoya Carter: which one of ya is it
+106,2019-02-01 20:33:04.948783,,,,,,f,,{},text,7,1,Latoya Carter: intense
+107,2019-02-01 20:33:09.36875,,,,,,f,,{},text,7,1,Latoya Carter: awww but it's not :(
+108,2019-02-01 20:33:17.214953,,,,,,f,,{},text,7,1,Latoya Carter: but you know that don't you
+109,2019-02-01 20:33:20.47104,,,,,,f,,{},vote,10,1,Nancy Foley: Kevin Morales
+110,2019-02-01 20:33:23.28494,,,,,,f,,{},text,7,1,Latoya Carter: ;)
+112,2019-02-01 20:33:40.430048,,,,,,f,,{},vote,7,1,Latoya Carter: Kevin Morales
+115,2019-02-01 20:34:05.446718,,,,,,f,,{},text,7,1,Latoya Carter: She is but I voted you cause you were gonna vote me
+116,2019-02-01 20:34:10.42857,,,,,,f,,{},text,7,1,Latoya Carter: meanie
+119,2019-02-01 20:34:25.659975,,,,,,f,,{},text,7,1,Latoya Carter: ok now that we've voted..
+120,2019-02-01 20:34:28.806939,,,,,,f,,{},text,7,1,Latoya Carter: who is it
+121,2019-02-01 20:34:36.764438,,,,,,f,,{},text,10,1,Nancy Foley: its not me
+123,2019-02-01 20:34:44.375993,,,,,,f,,{},text,7,1,Latoya Carter: I knew it Kevin!
+124,2019-02-01 20:34:46.228346,,,,,,f,,{},text,7,1,Latoya Carter: lol
+48,2019-02-01 20:23:57.30876,,,,,,t,2019-02-01 20:34:55.885511,{},text,2,1,Kevin Morales: eliminating nathan would be obvious
+49,2019-02-01 20:24:18.212699,,,,,,t,2019-02-01 20:34:55.89843,{},text,2,1,Kevin Morales: aaron?
+52,2019-02-01 20:24:29.797212,,,,,,t,2019-02-01 20:34:55.912103,{},vote,2,1,Kevin Morales: Aaron Vaughan
+58,2019-02-01 20:25:17.410571,,,,,,t,2019-02-01 20:34:55.923527,{},text,2,1,Kevin Morales: Feels good.
+77,2019-02-01 20:27:59.735988,,,,,,t,2019-02-01 20:34:55.931674,{},text,2,1,Kevin Morales: christine
+85,2019-02-01 20:29:14.50802,,,,,,t,2019-02-01 20:34:55.973502,{},text,2,1,"Kevin Morales: So, nathan is the other, right?"
+90,2019-02-01 20:29:44.511127,,,,,,t,2019-02-01 20:34:55.983825,{},vote,2,1,Kevin Morales: Nathan Pham
+96,2019-02-01 20:30:47.643222,,,,,,t,2019-02-01 20:34:55.993113,{},text,2,1,Kevin Morales: too much scrolling in this =/
+99,2019-02-01 20:31:37.35447,,,,,,t,2019-02-01 20:34:56.006326,{},vote,2,1,Kevin Morales: Dr. Christopher Hamilton
+101,2019-02-01 20:32:30.984459,,,,,,t,2019-02-01 20:34:56.017862,{},text,2,1,Kevin Morales: Hello?
+102,2019-02-01 20:32:38.379706,,,,,,t,2019-02-01 20:34:56.027488,{},text,2,1,Kevin Morales: are we all here?
+105,2019-02-01 20:33:01.706913,,,,,,t,2019-02-01 20:34:56.035961,{},text,2,1,Kevin Morales: You obs. :)
+111,2019-02-01 20:33:25.360717,,,,,,t,2019-02-01 20:34:56.05102,{},text,2,1,Kevin Morales: Your votes keep winning.
+113,2019-02-01 20:33:53.412267,,,,,,t,2019-02-01 20:34:56.060977,{},text,2,1,Kevin Morales: Nancy is quiet...
+114,2019-02-01 20:33:57.314787,,,,,,t,2019-02-01 20:34:56.072004,{},text,2,1,Kevin Morales: too quiet.
+117,2019-02-01 20:34:11.992937,,,,,,t,2019-02-01 20:34:56.084609,{},text,2,1,Kevin Morales: boo
+118,2019-02-01 20:34:15.048315,,,,,,t,2019-02-01 20:34:56.099079,{},vote,2,1,Kevin Morales: Nancy Foley
+125,2019-02-01 20:34:56.236324,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Kevin Morales
+122,2019-02-01 20:34:43.933126,,,,,,t,2019-02-01 20:34:56.113056,{},text,2,1,Kevin Morales: Show yourself!

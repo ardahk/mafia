@@ -1,0 +1,9 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-13 00:16:25.826067,,,,,,f,,{},source,1,
+6,2019-03-13 00:24:31.29744,Terri Green,True,,,,f,,{},bystander,1,7
+8,2019-03-13 00:24:31.757221,Carolyn Santana,True,,,,f,,{},bystander,1,4
+9,2019-03-13 00:24:34.337438,Caroline Moss,True,,,,f,,{},bystander,1,2
+7,2019-03-13 00:24:31.376712,William Washington DDS,False,2019-03-13 00:25:36.995219,,,f,,{},bystander,1,10
+2,2019-03-13 00:24:30.809326,Melanie Salas,False,2019-03-13 00:28:18.029678,,,f,,{},mafioso,1,6
+5,2019-03-13 00:24:31.135133,Richard Adams MD,False,2019-03-13 00:29:26.771574,,,f,,{},bystander,1,8
+3,2019-03-13 00:24:30.916516,Bryan Brown,False,2019-03-13 00:32:07.017477,,,f,,{},mafioso,1,5

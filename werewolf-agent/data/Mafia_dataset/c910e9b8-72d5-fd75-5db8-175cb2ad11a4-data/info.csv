@@ -1,0 +1,42 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-13 00:24:30.964332,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+4,2019-03-13 00:25:36.866525,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - William Washington DDS
+5,2019-03-13 00:25:45.069649,,,,,,f,,{},text,8,1,Carolyn Santana: Hello
+6,2019-03-13 00:25:49.09933,,,,,,f,,{},text,6,1,Terri Green: Who is the mob person ?
+8,2019-03-13 00:25:54.293015,,,,,,f,,{},text,9,1,Caroline Moss: Hello
+10,2019-03-13 00:26:04.033128,,,,,,f,,{},text,8,1,Carolyn Santana: I'm not sure I'm a bystander named Carolyn Santana
+12,2019-03-13 00:26:19.964506,,,,,,f,,{},vote,8,1,Carolyn Santana: Melanie Salas
+13,2019-03-13 00:26:31.783471,,,,,,f,,{},text,9,1,Caroline Moss: Bystander CM
+14,2019-03-13 00:26:36.024569,,,,,,f,,{},text,6,1,Terri Green: bystander here too Terri Green. It is very nice to meet you all
+16,2019-03-13 00:26:56.993223,,,,,,f,,{},text,8,1,Carolyn Santana: haha didn't see that coming....
+18,2019-03-13 00:27:06.128787,,,,,,f,,{},text,8,1,Carolyn Santana: she's a mobster!
+20,2019-03-13 00:27:18.19528,,,,,,f,,{},vote,6,1,Terri Green: Melanie Salas
+22,2019-03-13 00:27:52.400772,,,,,,f,,{},vote,9,1,Caroline Moss: Richard Adams MD
+24,2019-03-13 00:27:58.788306,,,,,,f,,{},text,8,1,Carolyn Santana: I honestly have no idea
+23,2019-03-13 00:27:57.033135,,,,,,t,2019-03-13 00:28:17.03198,{},text,2,1,Melanie Salas: I'm thinking Carolyn is and is just trying to get me out to save themselves
+19,2019-03-13 00:27:12.527977,,,,,,t,2019-03-13 00:28:17.059193,{},text,2,1,Melanie Salas: I am not!
+17,2019-03-13 00:27:01.384553,,,,,,t,2019-03-13 00:28:17.087979,{},text,2,1,Melanie Salas: lol
+15,2019-03-13 00:26:47.268891,,,,,,t,2019-03-13 00:28:17.108433,{},vote,2,1,Melanie Salas: Carolyn Santana
+7,2019-03-13 00:25:53.836387,,,,,,t,2019-03-13 00:28:17.125123,{},text,2,1,Melanie Salas: Hiya
+2,2019-03-13 00:25:11.549173,,,,,,t,2019-03-13 00:28:17.15826,{},vote,2,1,Melanie Salas: William Washington DDS
+26,2019-03-13 00:28:17.810015,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Melanie Salas
+25,2019-03-13 00:28:13.979767,,,,,,t,2019-03-13 00:29:26.453796,{},vote,5,1,Richard Adams MD: Melanie Salas
+21,2019-03-13 00:27:45.960907,,,,,,t,2019-03-13 00:29:26.463968,{},text,5,1,Richard Adams MD: Lol are we all bystanders?
+9,2019-03-13 00:25:58.06833,,,,,,t,2019-03-13 00:29:26.474365,{},text,5,1,Richard Adams MD: Hello all
+28,2019-03-13 00:29:26.670609,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Richard Adams MD
+29,2019-03-13 00:29:53.179482,,,,,,f,,{},text,6,1,Terri Green:  Well we made it threw the night lol
+30,2019-03-13 00:30:00.00866,,,,,,f,,{},text,8,1,Carolyn Santana: lol 
+31,2019-03-13 00:30:20.786794,,,,,,f,,{},text,8,1,Carolyn Santana: I'm not sure what to do now I have no idea who is left in the mob and I don't want to eliminate a bystander by mistake lol
+32,2019-03-13 00:30:36.237542,,,,,,f,,{},text,9,1,Caroline Moss: whats up Bryan
+34,2019-03-13 00:31:25.601015,,,,,,f,,{},vote,8,1,Carolyn Santana: Bryan Brown
+35,2019-03-13 00:31:33.326133,,,,,,f,,{},vote,9,1,Caroline Moss: Bryan Brown
+36,2019-03-13 00:31:34.390436,,,,,,f,,{},text,8,1,Carolyn Santana: I'm sorry if I'm wrong Bryan...
+37,2019-03-13 00:31:39.196505,,,,,,f,,{},vote,6,1,Terri Green: Bryan Brown
+39,2019-03-13 00:31:51.275671,,,,,,f,,{},text,6,1,Terri Green: sorry Bryan
+40,2019-03-13 00:31:56.127442,,,,,,f,,{},text,9,1,Caroline Moss: sorry
+38,2019-03-13 00:31:44.092887,,,,,,t,2019-03-13 00:32:06.899275,{},text,3,1,Bryan Brown: Ouch!
+33,2019-03-13 00:31:00.023248,,,,,,t,2019-03-13 00:32:06.925008,{},text,3,1,Bryan Brown: Hey! I'm  bystander like y'all.
+27,2019-03-13 00:29:19.680685,,,,,,t,2019-03-13 00:32:06.952393,{},vote,3,1,Bryan Brown: Richard Adams MD
+11,2019-03-13 00:26:13.636371,,,,,,t,2019-03-13 00:32:06.97457,{},text,3,1,Bryan Brown: Hey guys.
+3,2019-03-13 00:25:21.837458,,,,,,t,2019-03-13 00:32:06.989653,{},vote,3,1,Bryan Brown: William Washington DDS
+41,2019-03-13 00:32:07.112409,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Bryan Brown

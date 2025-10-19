@@ -1,0 +1,12 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-16 20:42:51.256422,,,,,,f,,{},source,1,
+5,2019-03-16 21:03:32.108136,Alexander Griffin,True,,,,f,,{},bystander,1,9
+9,2019-03-16 21:03:32.34229,Mitchell Schultz,True,,,,f,,{},bystander,1,7
+10,2019-03-16 21:03:32.532691,Ashley Bautista,True,,,,f,,{},bystander,1,3
+13,2019-03-16 21:03:35.111892,Eric Schneider,True,,,,f,,{},bystander,1,4
+14,2019-03-16 21:03:39.745283,Cynthia Bird,True,,,,f,,{},bystander,1,5
+6,2019-03-16 21:03:32.239111,Kendra Craig,False,2019-03-16 21:07:23.623903,,,f,,{},bystander,1,1
+11,2019-03-16 21:03:32.625875,Beth Ramsey,False,2019-03-16 21:08:32.916932,,,f,,{},bystander,1,8
+2,2019-03-16 21:03:31.815118,Sara Reed,False,2019-03-16 21:11:12.672686,,,f,,{},mafioso,1,10
+12,2019-03-16 21:03:32.866385,Kenneth Chavez,False,2019-03-16 21:12:22.283833,,,f,,{},bystander,1,11
+3,2019-03-16 21:03:31.993476,Ruben Sanchez,False,2019-03-16 21:15:02.388576,,,f,,{},mafioso,1,2

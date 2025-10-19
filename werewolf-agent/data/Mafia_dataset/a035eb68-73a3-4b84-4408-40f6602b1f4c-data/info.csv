@@ -1,0 +1,57 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-26 21:32:34.992188,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-26 21:33:08.166507,,,,,,t,2019-03-26 21:34:21.288285,{},text,5,1,Kelly Baker: lets get Heather!
+5,2019-03-26 21:34:21.651593,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Kelly Baker
+7,2019-03-26 21:34:37.887589,,,,,,f,,{},vote,10,1,Pamela Rowe: Michael Lucero
+8,2019-03-26 21:34:38.109389,,,,,,f,,{},vote,6,1,Lindsay Lamb: Lynn Reynolds
+10,2019-03-26 21:34:44.584277,,,,,,f,,{},text,6,1,Lindsay Lamb: Hello
+11,2019-03-26 21:34:47.336804,,,,,,f,,{},vote,8,1,Heather Valentine: Michael Lucero
+16,2019-03-26 21:35:53.839553,,,,,,t,2019-03-26 21:37:01.600944,{},vote,12,1,Michael Lucero: Lynn Reynolds
+13,2019-03-26 21:34:59.76531,,,,,,t,2019-03-26 21:37:01.611572,{},text,12,1,Michael Lucero: hello
+18,2019-03-26 21:37:02.301221,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Michael Lucero
+19,2019-03-26 21:37:02.304682,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Michael Lucero
+21,2019-03-26 21:38:12.059713,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Michael Lucero
+24,2019-03-26 21:39:16.110342,,,,,,f,,{},vote,8,1,Heather Valentine: Lynn Reynolds
+25,2019-03-26 21:39:19.48139,,,,,,f,,{},vote,6,1,Lindsay Lamb: Antonio Curtis
+27,2019-03-26 21:40:04.669081,,,,,,f,,{},text,8,1,Heather Valentine: you seem eager to throw people out
+28,2019-03-26 21:40:09.295852,,,,,,f,,{},text,8,1,Heather Valentine: motive?
+29,2019-03-26 21:40:51.811505,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Michael Lucero
+30,2019-03-26 21:42:01.764418,,,,,,f,,{},info,1,1,Phase Change to Daytime
+31,2019-03-26 21:42:06.969615,,,,,,f,,{},vote,10,1,Pamela Rowe: Lynn Reynolds
+32,2019-03-26 21:42:16.142632,,,,,,f,,{},vote,8,1,Heather Valentine: Lynn Reynolds
+35,2019-03-26 21:44:22.441535,,,,,,f,,{},text,8,1,Heather Valentine: where is everyone else?
+34,2019-03-26 21:43:44.451331,,,,,,t,2019-03-26 21:44:41.420625,{},vote,14,1,Lynn Reynolds: Antonio Curtis
+33,2019-03-26 21:42:40.498201,,,,,,t,2019-03-26 21:44:41.431384,{},text,14,1,Lynn Reynolds: that's what we play for
+26,2019-03-26 21:39:44.760589,,,,,,t,2019-03-26 21:44:41.443584,{},text,14,1,Lynn Reynolds: why???
+22,2019-03-26 21:38:22.236675,,,,,,t,2019-03-26 21:44:41.452864,{},vote,14,1,Lynn Reynolds: Lisa Harris
+17,2019-03-26 21:36:27.927179,,,,,,t,2019-03-26 21:44:41.471098,{},text,14,1,Lynn Reynolds: kick Michael Lucero out
+12,2019-03-26 21:34:49.903453,,,,,,t,2019-03-26 21:44:41.482758,{},vote,14,1,Lynn Reynolds: Michael Lucero
+6,2019-03-26 21:34:34.712283,,,,,,t,2019-03-26 21:44:41.491098,{},text,14,1,Lynn Reynolds: hello
+37,2019-03-26 21:44:41.761359,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Lynn Reynolds
+40,2019-03-26 21:45:51.480312,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Antonio Curtis
+41,2019-03-26 21:45:59.751426,,,,,,f,,{},vote,8,1,Heather Valentine: Dr. Sandy Neal DDS
+43,2019-03-26 21:46:19.664484,,,,,,f,,{},vote,6,1,Lindsay Lamb: Dr. Sandy Neal DDS
+44,2019-03-26 21:47:18.203921,,,,,,f,,{},vote,10,1,Pamela Rowe: Dr. Sandy Neal DDS
+45,2019-03-26 21:48:31.524423,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Dr. Sandy Neal DDS
+14,2019-03-26 21:35:02.433246,,,,,,t,2019-03-26 21:49:41.374654,{},text,13,1,James Shaw: hai
+15,2019-03-26 21:35:13.327667,,,,,,t,2019-03-26 21:49:41.384872,{},vote,13,1,James Shaw: Michael Lucero
+49,2019-03-26 21:49:41.530726,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - James Shaw
+50,2019-03-26 21:49:52.172712,,,,,,f,,{},vote,8,1,Heather Valentine: Lisa Harris
+51,2019-03-26 21:49:56.210117,,,,,,f,,{},vote,10,1,Pamela Rowe: Lisa Harris
+53,2019-03-26 21:50:20.072215,,,,,,f,,{},vote,6,1,Lindsay Lamb: Lisa Harris
+3,2019-03-26 21:33:33.9936,,,,,,t,2019-03-26 21:52:21.406314,{},vote,2,1,Lisa Harris: Kelly Baker
+4,2019-03-26 21:33:49.533348,,,,,,t,2019-03-26 21:52:21.417574,{},text,2,1,Lisa Harris: boo heather
+9,2019-03-26 21:34:42.63279,,,,,,t,2019-03-26 21:52:21.427325,{},vote,2,1,Lisa Harris: Michael Lucero
+20,2019-03-26 21:37:20.148053,,,,,,t,2019-03-26 21:52:21.436874,{},vote,2,1,Lisa Harris: Michael Lucero
+23,2019-03-26 21:39:11.627965,,,,,,t,2019-03-26 21:52:21.44624,{},vote,2,1,Lisa Harris: Lynn Reynolds
+36,2019-03-26 21:44:22.640995,,,,,,t,2019-03-26 21:52:21.4567,{},vote,2,1,Lisa Harris: Lynn Reynolds
+38,2019-03-26 21:45:33.945014,,,,,,t,2019-03-26 21:52:21.465768,{},vote,2,1,Lisa Harris: Antonio Curtis
+39,2019-03-26 21:45:49.09673,,,,,,t,2019-03-26 21:52:21.475308,{},text,2,1,"Lisa Harris: guys not playin, so lets knock him out"
+42,2019-03-26 21:46:06.141434,,,,,,t,2019-03-26 21:52:21.486099,{},vote,2,1,Lisa Harris: Dr. Sandy Neal DDS
+46,2019-03-26 21:48:50.89024,,,,,,t,2019-03-26 21:52:21.494062,{},vote,2,1,Lisa Harris: James Shaw
+47,2019-03-26 21:49:18.964924,,,,,,t,2019-03-26 21:52:21.502916,{},text,2,1,Lisa Harris: doooo ittttt
+48,2019-03-26 21:49:27.699006,,,,,,t,2019-03-26 21:52:21.510114,{},text,2,1,Lisa Harris: Thats an offer you cannot refuse!
+52,2019-03-26 21:50:01.954531,,,,,,t,2019-03-26 21:52:21.516698,{},text,2,1,Lisa Harris: aw poo
+54,2019-03-26 21:52:16.532131,,,,,,t,2019-03-26 21:52:21.523337,{},vote,2,1,Lisa Harris: Lindsay Lamb
+55,2019-03-26 21:52:21.563889,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Lisa Harris
+56,2019-03-26 21:52:21.789106,,,,,,f,,{},text,6,1,Lindsay Lamb: :-( sorry.

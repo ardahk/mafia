@@ -1,0 +1,61 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-12 23:07:57.35619,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-12 23:08:12.220677,,,,,,f,,{},vote,4,1,Cody Garner: Suzanne Moore
+3,2019-03-12 23:08:12.644173,,,,,,f,,{},text,2,1,Tiffany Hill: Hello
+4,2019-03-12 23:08:20.752431,,,,,,f,,{},text,4,1,Cody Garner: Hey
+5,2019-03-12 23:08:29.206451,,,,,,f,,{},text,4,1,Cody Garner: Let's vote for Suzanne
+6,2019-03-12 23:08:36.893563,,,,,,f,,{},text,2,1,Tiffany Hill: ok
+7,2019-03-12 23:08:38.773746,,,,,,f,,{},vote,2,1,Tiffany Hill: Suzanne Moore
+8,2019-03-12 23:09:03.498893,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Suzanne Moore
+10,2019-03-12 23:09:13.485396,,,,,,f,,{},text,6,1,Peter Perez: hi
+13,2019-03-12 23:09:26.647215,,,,,,f,,{},text,4,1,Cody Garner: Hey guys!
+14,2019-03-12 23:09:30.89162,,,,,,f,,{},text,2,1,Tiffany Hill: Hey
+18,2019-03-12 23:09:52.690532,,,,,,f,,{},vote,4,1,Cody Garner: Kathryn Payne
+20,2019-03-12 23:10:10.201494,,,,,,f,,{},text,6,1,Peter Perez: jose vote jose
+22,2019-03-12 23:10:20.310694,,,,,,f,,{},vote,2,1,Tiffany Hill: Kathryn Payne
+25,2019-03-12 23:10:46.485562,,,,,,f,,{},vote,6,1,Peter Perez: Kathryn Payne
+26,2019-03-12 23:10:47.338243,,,,,,f,,{},vote,12,1,Mark Baird: Kathryn Payne
+28,2019-03-12 23:11:00.620132,,,,,,f,,{},text,6,1,Peter Perez: oooo
+32,2019-03-12 23:11:39.437932,,,,,,t,2019-03-12 23:11:43.232058,{},text,10,1,Kathryn Payne: im a bystander but i gotcha
+30,2019-03-12 23:11:13.277847,,,,,,t,2019-03-12 23:11:43.259682,{},vote,10,1,Kathryn Payne: Dr. Amy Mcdaniel
+29,2019-03-12 23:11:02.003059,,,,,,t,2019-03-12 23:11:43.278423,{},text,10,1,Kathryn Payne: wrong choice guys lol but good luck
+21,2019-03-12 23:10:11.661239,,,,,,t,2019-03-12 23:11:43.304948,{},text,10,1,Kathryn Payne: I'm a simple woman and would never harm anyone
+12,2019-03-12 23:09:21.156877,,,,,,t,2019-03-12 23:11:43.341047,{},text,10,1,Kathryn Payne: Hello
+33,2019-03-12 23:11:44.329404,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Kathryn Payne
+34,2019-03-12 23:11:49.647868,,,,,,f,,{},text,4,1,Cody Garner: oh boy
+35,2019-03-12 23:11:54.918068,,,,,,f,,{},text,4,1,"Cody Garner: this is gonnna be harder than i thought, lol"
+36,2019-03-12 23:12:00.413388,,,,,,f,,{},text,4,1,Cody Garner: any thoughts on strategy?
+37,2019-03-12 23:12:01.741048,,,,,,f,,{},text,2,1,Tiffany Hill: I know
+38,2019-03-12 23:12:15.395107,,,,,,f,,{},text,4,1,"Cody Garner: i mean, obviously don't vote for each other, lol"
+39,2019-03-12 23:12:36.073422,,,,,,f,,{},text,2,1,Tiffany Hill: lolol i know...I think Dr. Amy should be next to go
+40,2019-03-12 23:12:37.570123,,,,,,f,,{},text,4,1,Cody Garner: let's get rid of jose
+41,2019-03-12 23:12:45.313153,,,,,,f,,{},vote,4,1,Cody Garner: Jose Gonzalez
+17,2019-03-12 23:09:52.24551,,,,,,t,2019-03-12 23:12:52.671526,{},text,8,1,Jose Gonzalez: trump 2020
+9,2019-03-12 23:09:10.874877,,,,,,t,2019-03-12 23:12:52.708004,{},vote,8,1,Jose Gonzalez: Kathryn Payne
+42,2019-03-12 23:12:53.621626,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Jose Gonzalez
+43,2019-03-12 23:12:58.717673,,,,,,f,,{},vote,8,1,Jose Gonzalez: Cody Garner
+46,2019-03-12 23:13:28.100997,,,,,,f,,{},text,6,1,Peter Perez: press f to pay respects
+49,2019-03-12 23:13:39.715085,,,,,,f,,{},text,4,1,Cody Garner: lol
+50,2019-03-12 23:13:53.714719,,,,,,f,,{},vote,4,1,Cody Garner: Peter Perez
+51,2019-03-12 23:14:06.35941,,,,,,f,,{},vote,6,1,Peter Perez: Tiffany Hill
+54,2019-03-12 23:14:21.413474,,,,,,f,,{},vote,2,1,Tiffany Hill: Dr. Amy Mcdaniel
+55,2019-03-12 23:14:31.156659,,,,,,f,,{},text,4,1,"Cody Garner: that's not nice, dr. amy! "
+57,2019-03-12 23:14:55.743874,,,,,,f,,{},vote,12,1,Mark Baird: Dr. Amy Mcdaniel
+58,2019-03-12 23:15:05.193194,,,,,,f,,{},text,6,1,Peter Perez: o no dr
+11,2019-03-12 23:09:19.279203,,,,,,t,2019-03-12 23:15:33.117615,{},text,9,1,Dr. Amy Mcdaniel: Yo what's up
+15,2019-03-12 23:09:38.095195,,,,,,t,2019-03-12 23:15:33.144462,{},text,9,1,Dr. Amy Mcdaniel: how we voting?
+16,2019-03-12 23:09:45.127311,,,,,,t,2019-03-12 23:15:33.184581,{},text,9,1,Dr. Amy Mcdaniel: whodunit
+19,2019-03-12 23:10:01.622474,,,,,,t,2019-03-12 23:15:33.242292,{},text,9,1,Dr. Amy Mcdaniel: lol
+23,2019-03-12 23:10:28.338722,,,,,,t,2019-03-12 23:15:33.268596,{},text,9,1,Dr. Amy Mcdaniel: sorry kat
+24,2019-03-12 23:10:32.665411,,,,,,t,2019-03-12 23:15:33.308182,{},vote,9,1,Dr. Amy Mcdaniel: Kathryn Payne
+27,2019-03-12 23:10:48.628782,,,,,,t,2019-03-12 23:15:33.350508,{},text,9,1,"Dr. Amy Mcdaniel: I'm a doctor, you're not looking good regardless"
+31,2019-03-12 23:11:27.094062,,,,,,t,2019-03-12 23:15:33.379223,{},text,9,1,Dr. Amy Mcdaniel: not much to go off of unless you're mafia tbh
+44,2019-03-12 23:13:02.41971,,,,,,t,2019-03-12 23:15:33.428852,{},text,9,1,Dr. Amy Mcdaniel: rip jose
+45,2019-03-12 23:13:26.340903,,,,,,t,2019-03-12 23:15:33.51406,{},text,9,1,"Dr. Amy Mcdaniel: so, who did it, fess up"
+47,2019-03-12 23:13:34.216943,,,,,,t,2019-03-12 23:15:33.543028,{},text,9,1,Dr. Amy Mcdaniel: doctor's orders
+48,2019-03-12 23:13:36.39413,,,,,,t,2019-03-12 23:15:33.570632,{},text,9,1,Dr. Amy Mcdaniel: f
+52,2019-03-12 23:14:11.374074,,,,,,t,2019-03-12 23:15:33.591609,{},vote,9,1,Dr. Amy Mcdaniel: Cody Garner
+53,2019-03-12 23:14:21.19046,,,,,,t,2019-03-12 23:15:33.618808,{},text,9,1,Dr. Amy Mcdaniel: this is going well on votes
+56,2019-03-12 23:14:51.339052,,,,,,t,2019-03-12 23:15:33.64517,{},text,9,1,Dr. Amy Mcdaniel: I just voted for the first person to vote haha
+59,2019-03-12 23:15:16.11333,,,,,,t,2019-03-12 23:15:33.691092,{},text,9,1,"Dr. Amy Mcdaniel: wow I figured I was just gonna get mafia'd, i'm a bystander, good luck guys"
+60,2019-03-12 23:15:34.009019,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Dr. Amy Mcdaniel

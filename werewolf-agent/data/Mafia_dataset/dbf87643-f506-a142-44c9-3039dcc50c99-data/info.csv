@@ -1,0 +1,118 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-15 17:48:59.40764,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-15 17:49:21.24135,,,,,,f,,{},text,2,1,Mariah Burke: Hi
+4,2019-03-15 17:49:45.543492,,,,,,f,,{},text,2,1,Mariah Burke: Get Mark?
+5,2019-03-15 17:49:57.883728,,,,,,f,,{},vote,2,1,Mariah Burke: Mark Parker
+6,2019-03-15 17:50:04.862954,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Mark Parker
+10,2019-03-15 17:50:27.054075,,,,,,f,,{},text,2,1,Mariah Burke: Poor guy
+11,2019-03-15 17:50:30.921929,,,,,,f,,{},text,8,1,Michelle Graham: Glad he's gone. He gave me crabs
+17,2019-03-15 17:50:49.838075,,,,,,f,,{},text,8,1,Michelle Graham: Boobs
+19,2019-03-15 17:50:54.036884,,,,,,f,,{},text,2,1,"Mariah Burke: Yeah, Elizabeth is lacking some compassion here. Seems like a bad guy imo."
+24,2019-03-15 17:51:19.57697,,,,,,f,,{},vote,8,1,Michelle Graham: Jordan Rojas
+30,2019-03-15 17:51:40.476378,,,,,,f,,{},text,2,1,Mariah Burke: I bet elizabeth did it. Just look at that evil laugh. Just sayin.
+35,2019-03-15 17:52:02.135113,,,,,,f,,{},text,2,1,Mariah Burke: Pitch fork time! Get Elizabeth!
+39,2019-03-15 17:52:21.901194,,,,,,f,,{},text,8,1,Michelle Graham: Kill me cause i'm sick of this stupid game
+45,2019-03-15 17:52:40.741295,,,,,,t,2019-03-15 17:52:44.782405,{},text,4,1,Elizabeth Saunders: I wanna trade
+43,2019-03-15 17:52:33.462851,,,,,,t,2019-03-15 17:52:44.797731,{},text,4,1,Elizabeth Saunders: get me outt
+37,2019-03-15 17:52:12.258055,,,,,,t,2019-03-15 17:52:44.808666,{},text,4,1,Elizabeth Saunders: ;)
+36,2019-03-15 17:52:08.154955,,,,,,t,2019-03-15 17:52:44.818738,{},text,4,1,Elizabeth Saunders: me and mariah 
+32,2019-03-15 17:51:44.929317,,,,,,t,2019-03-15 17:52:44.827191,{},text,4,1,Elizabeth Saunders: kick me out for that moneyy
+28,2019-03-15 17:51:33.258632,,,,,,t,2019-03-15 17:52:44.838863,{},text,4,1,Elizabeth Saunders: I am
+26,2019-03-15 17:51:25.851751,,,,,,t,2019-03-15 17:52:44.849569,{},text,4,1,Elizabeth Saunders: and this a game
+21,2019-03-15 17:51:10.578587,,,,,,t,2019-03-15 17:52:44.859276,{},text,4,1,Elizabeth Saunders: Im a hoarse
+20,2019-03-15 17:51:03.87135,,,,,,t,2019-03-15 17:52:44.871193,{},text,4,1,Elizabeth Saunders: hahaha
+14,2019-03-15 17:50:37.604774,,,,,,t,2019-03-15 17:52:44.88257,{},text,4,1,Elizabeth Saunders: Yeeeet
+9,2019-03-15 17:50:20.751455,,,,,,t,2019-03-15 17:52:44.89252,{},text,4,1,Elizabeth Saunders: hahaha
+8,2019-03-15 17:50:13.581672,,,,,,t,2019-03-15 17:52:44.90189,{},vote,4,1,Elizabeth Saunders: Dakota Kelly
+3,2019-03-15 17:49:30.916005,,,,,,t,2019-03-15 17:52:44.911476,{},text,4,1,Elizabeth Saunders: Heys
+47,2019-03-15 17:52:45.506577,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Elizabeth Saunders
+48,2019-03-15 17:52:45.663588,,,,,,f,,{},text,2,1,"Mariah Burke: Don't vote for Elizabeth, make them suffer and wait."
+49,2019-03-15 17:52:50.358444,,,,,,f,,{},vote,4,1,Elizabeth Saunders: Michelle Graham
+50,2019-03-15 17:52:54.36452,,,,,,f,,{},text,4,1,Elizabeth Saunders: h3ehe
+51,2019-03-15 17:53:25.572545,,,,,,f,,{},vote,2,1,Mariah Burke: Ryan Richardson
+42,2019-03-15 17:52:31.998729,,,,,,t,2019-03-15 17:53:54.252991,{},text,13,1,Ryan Richardson: Jordan Rojas
+52,2019-03-15 17:53:54.491647,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Ryan Richardson
+56,2019-03-15 17:54:29.768615,,,,,,f,,{},text,2,1,Mariah Burke: Good job Jordan. Feeling like a little murder today?
+64,2019-03-15 17:55:18.132364,,,,,,f,,{},text,2,1,"Mariah Burke: Michelle is really quiet, whats up with that? You think the killer is gonna talk? No way, they are gonna be silent and invisible."
+68,2019-03-15 17:55:44.315866,,,,,,f,,{},vote,8,1,Michelle Graham: Jake Pierce
+12,2019-03-15 17:50:34.728607,,,,,,t,2019-03-15 17:57:44.355686,{},text,6,1,Kaitlyn Martinez: feels bad
+18,2019-03-15 17:50:52.488269,,,,,,t,2019-03-15 17:57:44.364723,{},vote,6,1,Kaitlyn Martinez: Jake Pierce
+61,2019-03-15 17:54:58.734204,,,,,,t,2019-03-15 17:57:44.372924,{},vote,6,1,Kaitlyn Martinez: Mariah Burke
+7,2019-03-15 17:50:12.315022,,,,,,t,2019-03-15 18:00:24.634378,{},text,11,1,Jordan Rojas: Oh nooooo
+13,2019-03-15 17:50:35.397917,,,,,,t,2019-03-15 18:00:24.650237,{},text,11,1,Jordan Rojas: How can you laugh!? This is serious busines!
+15,2019-03-15 17:50:39.086223,,,,,,t,2019-03-15 18:00:24.6674,{},text,11,1,Jordan Rojas: .... my spelling sucks.
+23,2019-03-15 17:51:14.079915,,,,,,t,2019-03-15 18:00:24.684395,{},text,11,1,"Jordan Rojas: So, let's just confess. If you're the mafia, say so!"
+27,2019-03-15 17:51:31.601402,,,,,,t,2019-03-15 18:00:24.699776,{},text,11,1,Jordan Rojas: Is it?
+22,2019-03-15 17:51:11.29137,,,,,,t,2019-03-15 18:01:34.471115,{},vote,12,1,Dakota Kelly: Elizabeth Saunders
+75,2019-03-15 17:56:03.824122,,,,,,f,,{},text,2,1,Mariah Burke: Like death
+84,2019-03-15 17:56:35.316779,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Jake Pierce
+89,2019-03-15 17:57:59.911127,,,,,,f,,{},text,2,1,"Mariah Burke: Wow, good job Michelle, still killing without retribution I see."
+69,2019-03-15 17:55:45.261259,,,,,,t,2019-03-15 18:00:24.926948,{},text,11,1,"Jordan Rojas: The mafia has raptors, I'm sure."
+76,2019-03-15 17:56:04.937217,,,,,,t,2019-03-15 18:00:24.93626,{},text,11,1,"Jordan Rojas: Sure, I'll sheep vote."
+80,2019-03-15 17:56:24.923951,,,,,,t,2019-03-15 18:00:24.945901,{},text,11,1,"Jordan Rojas: Michelle Graham, are you the mafia lady?"
+91,2019-03-15 17:58:03.441824,,,,,,t,2019-03-15 18:00:24.959848,{},text,11,1,"Jordan Rojas: I just realized, I had to push vote xD Oops. I haven't been voting"
+92,2019-03-15 17:58:05.285344,,,,,,t,2019-03-15 18:00:24.969592,{},text,11,1,Jordan Rojas: bahahahaha
+99,2019-03-15 17:58:38.290188,,,,,,t,2019-03-15 18:00:24.982389,{},vote,11,1,Jordan Rojas: Michelle Graham
+70,2019-03-15 17:55:48.33937,,,,,,f,,{},text,2,1,Mariah Burke: I say vote michelle. That silence is deadly.
+74,2019-03-15 17:56:03.183326,,,,,,f,,{},text,8,1,Michelle Graham: What
+77,2019-03-15 17:56:12.780245,,,,,,f,,{},vote,2,1,Mariah Burke: Michelle Graham
+79,2019-03-15 17:56:23.07715,,,,,,f,,{},text,2,1,Mariah Burke: Get that mafia murderer michelle!
+81,2019-03-15 17:56:26.958147,,,,,,f,,{},text,8,1,"Michelle Graham: This is such a stupid game. I'm a bystander, but kill me anyways, want to get on with my day"
+16,2019-03-15 17:50:42.285698,,,,,,t,2019-03-15 17:56:34.662161,{},text,14,1,Jake Pierce: hmm hmm hmmm
+25,2019-03-15 17:51:20.215728,,,,,,t,2019-03-15 17:56:34.684663,{},text,14,1,Jake Pierce: a hoarse horse
+40,2019-03-15 17:52:28.459932,,,,,,t,2019-03-15 17:56:34.702971,{},vote,14,1,Jake Pierce: Elizabeth Saunders
+41,2019-03-15 17:52:31.505778,,,,,,t,2019-03-15 17:56:34.739048,{},text,14,1,Jake Pierce: there ya go
+55,2019-03-15 17:54:11.625191,,,,,,t,2019-03-15 17:56:34.753634,{},text,14,1,Jake Pierce: guess it wasnt her lol
+62,2019-03-15 17:55:06.403895,,,,,,t,2019-03-15 17:56:34.769949,{},text,14,1,Jake Pierce: mariah huh
+66,2019-03-15 17:55:31.004254,,,,,,t,2019-03-15 17:56:34.792325,{},text,14,1,Jake Pierce: im a bounty hunter/ raptor trainer by day
+67,2019-03-15 17:55:37.920446,,,,,,t,2019-03-15 17:56:34.80789,{},text,14,1,Jake Pierce: pays the bills
+85,2019-03-15 17:57:05.436236,,,,,,f,,{},vote,2,1,Mariah Burke: Kaitlyn Martinez
+90,2019-03-15 17:58:00.671914,,,,,,f,,{},vote,8,1,Michelle Graham: Jordan Rojas
+97,2019-03-15 17:58:33.561614,,,,,,f,,{},text,8,1,Michelle Graham: Never mess with Michelle on her period.
+98,2019-03-15 17:58:35.957702,,,,,,f,,{},text,2,1,"Mariah Burke: Just look at the denial from Michelle. I'm telling you, prime suspect, just saying."
+100,2019-03-15 17:58:44.086877,,,,,,f,,{},text,8,1,Michelle Graham: lmao
+87,2019-03-15 17:57:51.032367,,,,,,t,2019-03-15 18:00:24.996127,{},text,11,1,Jordan Rojas: !
+95,2019-03-15 17:58:17.353844,,,,,,t,2019-03-15 18:00:25.009329,{},text,11,1,"Jordan Rojas: And wtg, Michelle."
+102,2019-03-15 17:58:59.316277,,,,,,t,2019-03-15 18:00:25.023773,{},text,11,1,Jordan Rojas: DAKOTA
+72,2019-03-15 17:55:53.301214,,,,,,t,2019-03-15 18:00:25.037732,{},text,11,1,Jordan Rojas: Michelle?
+73,2019-03-15 17:55:55.954239,,,,,,t,2019-03-15 18:00:25.049709,{},text,11,1,Jordan Rojas: Like a fart?
+83,2019-03-15 17:56:33.819306,,,,,,t,2019-03-15 18:00:25.061309,{},text,11,1,Jordan Rojas: I'd say that too.
+88,2019-03-15 17:57:53.20936,,,,,,t,2019-03-15 18:00:25.076149,{},text,11,1,"Jordan Rojas: ALSO,"
+96,2019-03-15 17:58:23.764511,,,,,,t,2019-03-15 18:00:25.08914,{},text,11,1,"Jordan Rojas: Evil, saucy minx, you."
+101,2019-03-15 17:58:47.672674,,,,,,t,2019-03-15 18:00:25.102462,{},text,11,1,Jordan Rojas: Lol Michelle. 
+82,2019-03-15 17:56:31.623589,,,,,,t,2019-03-15 18:01:34.512993,{},vote,12,1,Dakota Kelly: Jake Pierce
+86,2019-03-15 17:57:44.494265,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Kaitlyn Martinez
+94,2019-03-15 17:58:16.023507,,,,,,f,,{},text,8,1,Michelle Graham: Is there a point to this?
+105,2019-03-15 17:59:22.302018,,,,,,f,,{},text,2,1,"Mariah Burke: You're right, dakota isn't talking."
+109,2019-03-15 17:59:59.043844,,,,,,f,,{},text,8,1,Michelle Graham: Think Jordan's getting 86d
+110,2019-03-15 17:59:59.573429,,,,,,f,,{},text,2,1,Mariah Burke: Pitch forks! Get that silent but deadly outta here!
+112,2019-03-15 18:00:01.602159,,,,,,f,,{},vote,2,1,Mariah Burke: Dakota Kelly
+29,2019-03-15 17:51:38.68707,,,,,,t,2019-03-15 18:00:24.714615,{},text,11,1,"Jordan Rojas: Is it, Elizabeth?"
+31,2019-03-15 17:51:40.597551,,,,,,t,2019-03-15 18:00:24.734414,{},text,11,1,Jordan Rojas: YOU ARE?!
+33,2019-03-15 17:51:47.419823,,,,,,t,2019-03-15 18:00:24.749806,{},text,11,1,Jordan Rojas: I'm scared.
+34,2019-03-15 17:51:56.533238,,,,,,t,2019-03-15 18:00:24.763276,{},text,11,1,Jordan Rojas: !
+38,2019-03-15 17:52:17.690012,,,,,,t,2019-03-15 18:00:24.776165,{},text,11,1,"Jordan Rojas: I'll vote for you, because you're sinister enough. You're a money hungry, hoarse horse."
+44,2019-03-15 17:52:37.747178,,,,,,t,2019-03-15 18:00:24.788777,{},text,11,1,Jordan Rojas: Oi! 
+46,2019-03-15 17:52:43.368336,,,,,,t,2019-03-15 18:00:24.801826,{},text,11,1,Jordan Rojas: Ryan Richardson!
+53,2019-03-15 17:54:02.328388,,,,,,t,2019-03-15 18:00:24.813983,{},text,11,1,Jordan Rojas: Wow.
+54,2019-03-15 17:54:06.960246,,,,,,t,2019-03-15 18:00:24.836243,{},text,11,1,Jordan Rojas: This does NOT look good for me.
+57,2019-03-15 17:54:33.325663,,,,,,t,2019-03-15 18:00:24.855225,{},text,11,1,"Jordan Rojas: Well, Ryan probably asked for it anyways."
+58,2019-03-15 17:54:38.75941,,,,,,t,2019-03-15 18:00:24.866578,{},text,11,1,Jordan Rojas: I would assume.
+59,2019-03-15 17:54:48.481222,,,,,,t,2019-03-15 18:00:24.878,{},text,11,1,Jordan Rojas: Sooooo
+60,2019-03-15 17:54:52.932585,,,,,,t,2019-03-15 18:00:24.888214,{},text,11,1,Jordan Rojas: Awkward silence.
+63,2019-03-15 17:55:08.447955,,,,,,t,2019-03-15 18:00:24.895936,{},text,11,1,Jordan Rojas: Jake Pierce sounds like a hard core name.
+65,2019-03-15 17:55:27.662587,,,,,,t,2019-03-15 18:00:24.903343,{},text,11,1,"Jordan Rojas: If I was mafia, I'd want Jake Pierce to be my name. Very suave."
+71,2019-03-15 17:55:49.647212,,,,,,t,2019-03-15 18:00:24.913612,{},text,11,1,Jordan Rojas: I read it in The Sun.
+78,2019-03-15 17:56:12.868131,,,,,,t,2019-03-15 18:00:25.119127,{},text,11,1,Jordan Rojas: Pitch forks a ready!
+93,2019-03-15 17:58:11.367828,,,,,,t,2019-03-15 18:00:25.133151,{},text,11,1,Jordan Rojas: <-clearly evil mastermind. 
+103,2019-03-15 17:59:07.577227,,,,,,t,2019-03-15 18:00:25.148973,{},text,11,1,Jordan Rojas: IS THERE A DAKOTA IN THE HOUSE?!
+106,2019-03-15 17:59:25.519936,,,,,,t,2019-03-15 18:00:25.162656,{},text,11,1,"Jordan Rojas: Getting really suspicious of you silent, murder-y types."
+107,2019-03-15 17:59:37.665235,,,,,,t,2019-03-15 18:00:25.174346,{},text,11,1,"Jordan Rojas: Of course I'm right,."
+108,2019-03-15 17:59:44.184341,,,,,,t,2019-03-15 18:00:25.200318,{},text,11,1,Jordan Rojas: I'm Jordan effing Rojas.
+111,2019-03-15 17:59:59.750219,,,,,,t,2019-03-15 18:00:25.21928,{},text,11,1,"Jordan Rojas: With a name like this, I'm probably a coffee/cocaine tycoon. "
+113,2019-03-15 18:00:25.381058,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Jordan Rojas
+114,2019-03-15 18:00:52.524516,,,,,,f,,{},text,2,1,"Mariah Burke: Jesus Michelle, what is wrong with you. Did they not pay you enough?"
+115,2019-03-15 18:01:11.365704,,,,,,f,,{},vote,2,1,Mariah Burke: Dakota Kelly
+116,2019-03-15 18:01:22.5794,,,,,,f,,{},text,2,1,Mariah Burke: I like talking to myself!
+104,2019-03-15 17:59:12.290046,,,,,,t,2019-03-15 18:01:34.535617,{},vote,12,1,Dakota Kelly: Jordan Rojas
+117,2019-03-15 18:01:34.710321,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Dakota Kelly

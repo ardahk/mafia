@@ -1,0 +1,109 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-13 22:31:15.225904,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-13 22:31:26.684631,,,,,,f,,{},text,3,1,Jessica Michael: hey
+3,2019-03-13 22:31:32.501866,,,,,,f,,{},text,2,1,Richard Stevens: hello
+4,2019-03-13 22:31:41.047092,,,,,,f,,{},text,3,1,Jessica Michael: who do we eliminate
+5,2019-03-13 22:32:00.913171,,,,,,f,,{},text,3,1,Jessica Michael: tiffany?
+6,2019-03-13 22:32:18.057165,,,,,,f,,{},vote,2,1,Richard Stevens: Tiffany Baker
+7,2019-03-13 22:32:19.943698,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Tiffany Baker
+9,2019-03-13 22:32:32.513192,,,,,,f,,{},text,7,1,Amanda Stevens: Hello!
+14,2019-03-13 22:32:50.295896,,,,,,f,,{},text,2,1,Richard Stevens: ok
+15,2019-03-13 22:32:52.554712,,,,,,f,,{},text,3,1,Jessica Michael: hi
+16,2019-03-13 22:32:52.825355,,,,,,f,,{},text,10,1,Nicole Barker: Patrick Gonzales
+17,2019-03-13 22:32:56.175224,,,,,,f,,{},text,7,1,Amanda Stevens: Alright.
+23,2019-03-13 22:33:18.143724,,,,,,f,,{},vote,10,1,Nicole Barker: Patrick Gonzales
+25,2019-03-13 22:33:21.581317,,,,,,f,,{},vote,7,1,Amanda Stevens: Patrick Gonzales
+27,2019-03-13 22:33:32.603434,,,,,,f,,{},vote,2,1,Richard Stevens: Patrick Gonzales
+29,2019-03-13 22:33:49.009156,,,,,,f,,{},text,7,1,Amanda Stevens: Bye Patrick :(
+32,2019-03-13 22:34:03.385776,,,,,,f,,{},text,10,1,Nicole Barker: Deborah should probably be next since she is throwing people under the bus...sounds just like mafia
+35,2019-03-13 22:34:28.114269,,,,,,f,,{},text,7,1,Amanda Stevens: A bit too eager...
+37,2019-03-13 22:34:49.745344,,,,,,f,,{},vote,3,1,Jessica Michael: Deborah Alvarez
+38,2019-03-13 22:35:00.577715,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Patrick Gonzales
+39,2019-03-13 22:35:30.659435,,,,,,f,,{},text,2,1,Richard Stevens: is deborah next
+40,2019-03-13 22:35:59.862444,,,,,,f,,{},vote,2,1,Richard Stevens: Deborah Alvarez
+41,2019-03-13 22:36:19.390157,,,,,,f,,{},vote,3,1,Jessica Michael: Deborah Alvarez
+33,2019-03-13 22:34:14.030239,,,,,,t,2019-03-13 22:37:10.083986,{},text,9,1,Deborah Alvarez: Nicole is a Russian Spy
+19,2019-03-13 22:32:57.973955,,,,,,t,2019-03-13 22:37:10.166817,{},text,9,1,Deborah Alvarez: Dirty Mafia
+13,2019-03-13 22:32:49.495433,,,,,,t,2019-03-13 22:37:10.238803,{},text,9,1,Deborah Alvarez: I hate him
+12,2019-03-13 22:32:44.077982,,,,,,t,2019-03-13 22:37:10.293618,{},vote,9,1,Deborah Alvarez: Patrick Gonzales
+10,2019-03-13 22:32:32.699485,,,,,,t,2019-03-13 22:37:10.327586,{},text,9,1,Deborah Alvarez: Patrick Gonzales is next
+42,2019-03-13 22:37:13.907784,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Deborah Alvarez
+46,2019-03-13 22:37:40.636417,,,,,,f,,{},text,10,1,Nicole Barker: Why?
+49,2019-03-13 22:38:17.436158,,,,,,f,,{},vote,10,1,Nicole Barker: Christina Morgan
+54,2019-03-13 22:38:47.721211,,,,,,f,,{},vote,2,1,Richard Stevens: Christina Morgan
+57,2019-03-13 22:39:26.084024,,,,,,f,,{},text,7,1,Amanda Stevens: I'll vote Christina too I guess!
+59,2019-03-13 22:39:33.649968,,,,,,f,,{},vote,7,1,Amanda Stevens: Christina Morgan
+63,2019-03-13 22:40:03.02698,,,,,,f,,{},text,2,1,Richard Stevens: Not sure what Shane did
+66,2019-03-13 22:41:07.012564,,,,,,f,,{},text,2,1,Richard Stevens: He did have it out for Patrick though
+67,2019-03-13 22:41:16.763399,,,,,,f,,{},text,10,1,Nicole Barker: odd
+69,2019-03-13 22:41:40.199855,,,,,,f,,{},vote,3,1,Jessica Michael: Christina Morgan
+70,2019-03-13 22:41:47.241469,,,,,,f,,{},text,7,1,Amanda Stevens: Patrick was a bystander who probably snitched. Snitches get stitches. :`(
+71,2019-03-13 22:42:02.540295,,,,,,f,,{},text,10,1,Nicole Barker: THats such a mafia thing to say!!
+11,2019-03-13 22:32:35.669056,,,,,,t,2019-03-13 22:44:48.975033,{},vote,11,1,Shane Landry: Patrick Gonzales
+8,2019-03-13 22:32:26.221315,,,,,,t,2019-03-13 22:47:29.085381,{},text,8,1,Angela Murphy: Hello people!
+20,2019-03-13 22:33:01.495009,,,,,,t,2019-03-13 22:47:29.092363,{},vote,8,1,Angela Murphy: Deborah Alvarez
+34,2019-03-13 22:34:20.208831,,,,,,t,2019-03-13 22:47:29.098474,{},text,8,1,Angela Murphy: I agree
+48,2019-03-13 22:38:07.14682,,,,,,t,2019-03-13 22:47:29.104739,{},text,8,1,Angela Murphy: Yeah I heard she laundered money to the Mafia along with Christina Morgan.
+50,2019-03-13 22:38:23.713949,,,,,,t,2019-03-13 22:47:29.110661,{},vote,8,1,Angela Murphy: Christina Morgan
+56,2019-03-13 22:39:25.899252,,,,,,t,2019-03-13 22:47:29.116697,{},text,8,1,Angela Murphy: What did shane do?
+58,2019-03-13 22:39:32.820925,,,,,,t,2019-03-13 22:47:29.122457,{},text,8,1,Angela Murphy: Poor Shane.
+60,2019-03-13 22:39:53.628764,,,,,,t,2019-03-13 22:47:29.128379,{},text,8,1,Angela Murphy: I've loved Shane since highschool.
+18,2019-03-13 22:32:57.217154,,,,,,t,2019-03-13 22:48:38.998368,{},text,12,1,Tammy Weaver: Why patrick gonzales?
+24,2019-03-13 22:33:21.431025,,,,,,t,2019-03-13 22:48:39.007256,{},text,12,1,Tammy Weaver: Gonzales? Like the kind of thing a mafioso might say
+28,2019-03-13 22:33:44.593587,,,,,,t,2019-03-13 22:48:39.018395,{},text,12,1,Tammy Weaver: I say vote for Deborah
+31,2019-03-13 22:34:03.177889,,,,,,t,2019-03-13 22:48:39.027759,{},vote,12,1,Tammy Weaver: Deborah Alvarez
+45,2019-03-13 22:37:36.457059,,,,,,t,2019-03-13 22:48:39.036698,{},text,12,1,Tammy Weaver: Are we in agreement that Deb is Mafia?
+51,2019-03-13 22:38:27.075049,,,,,,t,2019-03-13 22:48:39.044554,{},text,12,1,"Tammy Weaver: Oops, Deb's was taken in the night! :D"
+53,2019-03-13 22:38:44.928544,,,,,,t,2019-03-13 22:48:39.053342,{},vote,12,1,Tammy Weaver: Shane Landry
+55,2019-03-13 22:39:15.195282,,,,,,t,2019-03-13 22:48:39.064354,{},text,12,1,Tammy Weaver: Maybe it was a heart attack :P
+76,2019-03-13 22:43:50.606892,,,,,,f,,{},vote,2,1,Richard Stevens: Shane Landry
+77,2019-03-13 22:44:02.809343,,,,,,f,,{},text,3,1,Jessica Michael: wanna do angela?
+78,2019-03-13 22:44:35.544576,,,,,,f,,{},text,2,1,Richard Stevens: i voted shane
+86,2019-03-13 22:45:58.352004,,,,,,f,,{},text,10,1,Nicole Barker: I think angela is mafia....she wanted him gone
+72,2019-03-13 22:42:03.341461,,,,,,t,2019-03-13 22:47:29.147456,{},text,8,1,Angela Murphy: Shane Landry... Landry. Laundry. Laundered money to the mafia!
+96,2019-03-13 22:46:48.549262,,,,,,t,2019-03-13 22:47:29.153275,{},text,8,1,Angela Murphy: Not close enough to know he wasn't mafia.
+81,2019-03-13 22:45:19.736082,,,,,,t,2019-03-13 22:48:39.089842,{},text,12,1,Tammy Weaver: Well I'm stumpes
+82,2019-03-13 22:45:31.618834,,,,,,t,2019-03-13 22:48:39.101414,{},text,12,1,Tammy Weaver: Anyone want to confess?
+88,2019-03-13 22:46:14.493388,,,,,,t,2019-03-13 22:48:39.111832,{},text,12,1,Tammy Weaver: Unless they killed him to make us confused
+95,2019-03-13 22:46:46.720972,,,,,,t,2019-03-13 22:48:39.122434,{},text,12,1,Tammy Weaver: So be it . . .
+97,2019-03-13 22:46:53.234851,,,,,,t,2019-03-13 22:48:39.133282,{},text,12,1,Tammy Weaver: Sucks to your asmar
+74,2019-03-13 22:42:05.688987,,,,,,f,,{},text,7,1,Amanda Stevens: Apparently ditches in Patricks case...
+73,2019-03-13 22:42:03.841414,,,,,,t,2019-03-13 22:44:49.103523,{},text,11,1,Shane Landry: Patrick had it coming we all know it
+84,2019-03-13 22:45:52.050039,,,,,,f,,{},text,7,1,Amanda Stevens: The neighborhoods thinning out too quickly.
+85,2019-03-13 22:45:56.76578,,,,,,f,,{},text,3,1,Jessica Michael: Guess not :(
+90,2019-03-13 22:46:21.552451,,,,,,f,,{},vote,7,1,Amanda Stevens: Angela Murphy
+92,2019-03-13 22:46:33.182139,,,,,,f,,{},vote,10,1,Nicole Barker: Angela Murphy
+83,2019-03-13 22:45:37.784189,,,,,,t,2019-03-13 22:47:29.159607,{},text,8,1,"Angela Murphy: Gasp, so Shane wasn't Mafia?"
+91,2019-03-13 22:46:25.756544,,,,,,t,2019-03-13 22:47:29.165732,{},text,8,1,"Angela Murphy: Too late now, I never got to say goodbye."
+43,2019-03-13 22:37:21.955702,,,,,,t,2019-03-13 22:43:39.206613,{},text,13,1,Christina Morgan: Jessica
+44,2019-03-13 22:37:32.030757,,,,,,t,2019-03-13 22:43:39.216211,{},vote,13,1,Christina Morgan: Jessica Michael
+75,2019-03-13 22:43:39.682337,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Christina Morgan
+79,2019-03-13 22:44:47.207103,,,,,,f,,{},vote,3,1,Jessica Michael: Shane Landry
+98,2019-03-13 22:47:01.21569,,,,,,f,,{},text,10,1,"Nicole Barker: She threw him under the bus about patrick, who was also a bystander"
+87,2019-03-13 22:46:13.975472,,,,,,t,2019-03-13 22:47:29.171695,{},text,8,1,Angela Murphy: I forgive him.
+21,2019-03-13 22:33:08.006283,,,,,,t,2019-03-13 22:44:48.987384,{},text,11,1,Shane Landry: I just have that feeling about patrick
+22,2019-03-13 22:33:13.623447,,,,,,t,2019-03-13 22:44:48.99881,{},text,11,1,Shane Landry: get him!
+26,2019-03-13 22:33:29.334195,,,,,,t,2019-03-13 22:44:49.012513,{},text,11,1,Shane Landry: X)
+30,2019-03-13 22:33:56.5434,,,,,,t,2019-03-13 22:44:49.023952,{},text,11,1,Shane Landry: rip patrick
+36,2019-03-13 22:34:30.33377,,,,,,t,2019-03-13 22:44:49.037808,{},text,11,1,Shane Landry: this is gold
+47,2019-03-13 22:37:51.446799,,,,,,t,2019-03-13 22:44:49.048439,{},vote,11,1,Shane Landry: Christina Morgan
+52,2019-03-13 22:38:36.273701,,,,,,t,2019-03-13 22:44:49.06362,{},text,11,1,Shane Landry: XD
+62,2019-03-13 22:40:01.568137,,,,,,t,2019-03-13 22:44:49.075209,{},text,11,1,Shane Landry: bless
+68,2019-03-13 22:41:20.402255,,,,,,t,2019-03-13 22:44:49.089234,{},text,11,1,Shane Landry: you wouldn't hurt this face!
+80,2019-03-13 22:44:49.526813,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Shane Landry
+89,2019-03-13 22:46:17.776596,,,,,,f,,{},text,7,1,Amanda Stevens: I'll vote Angela.
+93,2019-03-13 22:46:35.447602,,,,,,f,,{},text,2,1,Richard Stevens: Seemed like Angela and him were close
+94,2019-03-13 22:46:38.62409,,,,,,f,,{},vote,2,1,Richard Stevens: Angela Murphy
+100,2019-03-13 22:47:12.807272,,,,,,f,,{},vote,3,1,Jessica Michael: Angela Murphy
+64,2019-03-13 22:40:04.73968,,,,,,t,2019-03-13 22:47:29.136057,{},text,8,1,"Angela Murphy: Whoops, did I say that out loud?"
+65,2019-03-13 22:41:02.03975,,,,,,t,2019-03-13 22:47:29.14184,{},text,8,1,Angela Murphy: Shane how could you vote for Patrick?! Taken in his prime... you monster I can never forgive you.
+101,2019-03-13 22:47:21.704245,,,,,,t,2019-03-13 22:47:29.178365,{},text,8,1,Angela Murphy: If you look up I never voted for Patrick.
+102,2019-03-13 22:47:28.933645,,,,,,t,2019-03-13 22:47:29.184102,{},text,8,1,Angela Murphy: Joke is on you mafia!
+103,2019-03-13 22:47:29.354121,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Angela Murphy
+104,2019-03-13 22:47:54.19495,,,,,,f,,{},text,2,1,Richard Stevens: SO is tammy next
+105,2019-03-13 22:47:58.57533,,,,,,f,,{},text,3,1,Jessica Michael: sure
+106,2019-03-13 22:48:02.892985,,,,,,f,,{},vote,3,1,Jessica Michael: Tammy Weaver
+107,2019-03-13 22:48:07.927985,,,,,,f,,{},vote,2,1,Richard Stevens: Tammy Weaver
+61,2019-03-13 22:40:01.354122,,,,,,t,2019-03-13 22:48:39.077111,{},text,12,1,Tammy Weaver: Shand piled on with Deb.  Guilt by association!!!
+99,2019-03-13 22:47:10.46507,,,,,,t,2019-03-13 22:48:39.145089,{},vote,12,1,Tammy Weaver: Angela Murphy
+108,2019-03-13 22:48:39.201763,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Tammy Weaver

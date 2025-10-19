@@ -1,0 +1,10 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-13 00:16:37.946667,,,,,,f,,{},source,1,
+5,2019-03-13 00:29:17.443471,Veronica Snyder,True,,,,f,,{},bystander,1,11
+10,2019-03-13 00:29:20.245044,Nicole Lang,True,,,,f,,{},bystander,1,1
+7,2019-03-13 00:29:17.564814,Raymond Campbell,False,2019-03-13 00:30:22.877968,,,f,,{},bystander,1,7
+2,2019-03-13 00:29:16.95818,Mr. Michael Nelson Jr.,False,2019-03-13 00:33:03.888795,,,f,,{},mafioso,1,13
+4,2019-03-13 00:29:17.2412,Christopher Turner,False,2019-03-13 00:34:13.103334,,,f,,{},bystander,1,8
+9,2019-03-13 00:29:18.223934,Brittany Taylor,False,2019-03-13 00:36:53.314292,,,f,,{},bystander,1,9
+8,2019-03-13 00:29:17.955058,Nathan Lynch,False,2019-03-13 00:38:02.714422,,,f,,{},bystander,1,3
+3,2019-03-13 00:29:17.041329,Julian Barrett,False,2019-03-13 00:40:42.604475,,,f,,{},mafioso,1,5

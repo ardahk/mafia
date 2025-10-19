@@ -1,0 +1,12 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-26 21:02:12.559413,,,,,,f,,{},source,1,
+6,2019-03-26 21:32:35.36883,Lindsay Lamb,True,,,,f,,{},bystander,1,6
+8,2019-03-26 21:32:35.53504,Heather Valentine,True,,,,f,,{},bystander,1,3
+10,2019-03-26 21:32:35.770195,Pamela Rowe,True,,,,f,,{},bystander,1,9
+5,2019-03-26 21:32:35.129561,Kelly Baker,False,2019-03-26 21:34:21.302552,,,f,,{},mafioso,1,10
+12,2019-03-26 21:32:36.01148,Michael Lucero,False,2019-03-26 21:38:12.158342,,,f,,{},bystander,1,7
+14,2019-03-26 21:32:38.526325,Lynn Reynolds,False,2019-03-26 21:44:41.507915,,,f,,{},bystander,1,2
+15,2019-03-26 21:33:19.190367,Antonio Curtis,False,2019-03-26 21:45:51.276684,,,f,,{},bystander,1,13
+9,2019-03-26 21:32:35.612915,Dr. Sandy Neal DDS,False,2019-03-26 21:48:31.407078,,,t,2019-03-26 21:32:57.430936,{},bystander,1,1
+2,2019-03-26 21:32:34.93415,Lisa Harris,False,2019-03-26 21:52:21.537016,,,f,,{},mafioso,1,11
+13,2019-03-26 21:32:38.145972,James Shaw,False,2019-03-26 21:49:41.404634,,,t,2019-03-26 21:54:13.157242,{},bystander,1,12

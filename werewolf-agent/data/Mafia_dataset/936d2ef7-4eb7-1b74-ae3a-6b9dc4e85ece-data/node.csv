@@ -1,0 +1,12 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-12 20:08:27.42331,,,,,,f,,{},source,1,
+3,2019-03-12 20:18:15.024504,Brittany Evans,True,,,,f,,{},mafioso,1,3
+11,2019-03-12 20:18:16.205073,Rachel Costa,True,,,,f,,{},bystander,1,6
+10,2019-03-12 20:18:15.89416,Mr. Joseph Mcknight,False,2019-03-12 20:19:20.907761,,,f,,{},bystander,1,4
+7,2019-03-12 20:18:15.497847,Elizabeth Andrews,False,2019-03-12 20:23:10.809453,,,f,,{},bystander,1,2
+2,2019-03-12 20:18:14.800352,Erin Blevins,False,2019-03-12 20:25:51.666953,,,f,,{},mafioso,1,10
+13,2019-03-12 20:18:18.080998,Jorge Mcintosh,False,2019-03-12 20:27:00.737234,,,f,,{},bystander,1,8
+4,2019-03-12 20:18:15.186481,Melissa Hunt,False,2019-03-12 20:29:41.205999,,,f,,{},bystander,1,1
+8,2019-03-12 20:18:15.619937,Lindsay Johnson,False,2019-03-12 20:30:50.509196,,,f,,{},bystander,1,9
+12,2019-03-12 20:18:16.60629,Jamie Burch,False,2019-03-12 20:33:30.488362,,,f,,{},bystander,1,5
+5,2019-03-12 20:18:15.296772,Frank Steele,False,2019-03-12 20:22:01.478772,,,t,2019-03-12 21:09:05.568961,{},bystander,1,7

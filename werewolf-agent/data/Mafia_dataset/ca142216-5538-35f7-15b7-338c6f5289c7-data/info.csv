@@ -1,0 +1,76 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-16 21:02:05.82578,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+3,2019-03-16 21:02:56.139866,,,,,,f,,{},vote,2,1,Michael Carter: Steven Davis
+4,2019-03-16 21:03:08.303065,,,,,,t,2019-03-16 21:03:10.762885,{},vote,4,1,Steven Davis: Daniel Parks
+2,2019-03-16 21:02:45.048419,,,,,,t,2019-03-16 21:03:10.775272,{},text,4,1,Steven Davis: lets eliminate the first name
+5,2019-03-16 21:03:11.433316,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Steven Davis
+7,2019-03-16 21:03:16.892481,,,,,,f,,{},text,14,1,Dana Wilson: Hello
+15,2019-03-16 21:03:39.442622,,,,,,f,,{},text,2,1,Michael Carter: Hey
+16,2019-03-16 21:03:46.638814,,,,,,f,,{},vote,14,1,Dana Wilson: Heather French
+18,2019-03-16 21:03:53.796405,,,,,,f,,{},vote,2,1,Michael Carter: Heather French
+25,2019-03-16 21:04:39.254193,,,,,,f,,{},text,14,1,Dana Wilson: lol
+27,2019-03-16 21:05:14.703872,,,,,,t,2019-03-16 21:05:51.377036,{},text,13,1,Heather French: you all will see soon (shrugs)
+23,2019-03-16 21:04:14.834282,,,,,,t,2019-03-16 21:05:51.390025,{},text,13,1,Heather French: lol exactly!
+21,2019-03-16 21:04:04.058511,,,,,,t,2019-03-16 21:05:51.401639,{},vote,13,1,Heather French: Shannon Ryan
+11,2019-03-16 21:03:29.275037,,,,,,t,2019-03-16 21:05:51.412342,{},text,13,1,Heather French: hello
+33,2019-03-16 21:05:52.54234,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Heather French
+34,2019-03-16 21:06:16.553113,,,,,,f,,{},vote,2,1,Michael Carter: Nancy Garcia
+30,2019-03-16 21:05:41.237028,,,,,,t,2019-03-16 21:07:00.725416,{},text,8,1,Nancy Garcia: Feather Hench
+28,2019-03-16 21:05:25.22311,,,,,,t,2019-03-16 21:07:00.735624,{},vote,8,1,Nancy Garcia: Heather French
+24,2019-03-16 21:04:30.347241,,,,,,t,2019-03-16 21:07:00.74613,{},text,8,1,Nancy Garcia: Heather French sounds appropriate
+12,2019-03-16 21:03:30.550664,,,,,,t,2019-03-16 21:07:00.754725,{},text,8,1,Nancy Garcia: good day
+35,2019-03-16 21:07:01.111455,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Nancy Garcia
+45,2019-03-16 21:08:05.005377,,,,,,f,,{},vote,14,1,Dana Wilson: Mark Johnson MD
+46,2019-03-16 21:08:21.02312,,,,,,f,,{},vote,2,1,Michael Carter: Christina Walker
+17,2019-03-16 21:03:48.602589,,,,,,t,2019-03-16 21:09:41.458515,{},text,12,1,Mark Johnson MD: Hey 
+20,2019-03-16 21:03:57.07357,,,,,,t,2019-03-16 21:09:41.481329,{},vote,12,1,Mark Johnson MD: Heather French
+43,2019-03-16 21:07:44.821673,,,,,,t,2019-03-16 21:09:41.503364,{},vote,12,1,Mark Johnson MD: Dana Wilson
+48,2019-03-16 21:09:42.345306,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Mark Johnson MD
+49,2019-03-16 21:09:56.271329,,,,,,f,,{},vote,2,1,Michael Carter: Christina Walker
+13,2019-03-16 21:03:31.15658,,,,,,t,2019-03-16 21:10:50.830802,{},text,6,1,Christina Walker: yo
+14,2019-03-16 21:03:38.898079,,,,,,t,2019-03-16 21:10:50.842596,{},vote,6,1,Christina Walker: Nancy Garcia
+19,2019-03-16 21:03:55.212934,,,,,,t,2019-03-16 21:10:50.852821,{},text,6,1,Christina Walker: hi
+38,2019-03-16 21:07:28.412231,,,,,,t,2019-03-16 21:10:50.864234,{},vote,6,1,Christina Walker: Daniel Parks
+50,2019-03-16 21:10:51.182376,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Christina Walker
+52,2019-03-16 21:11:04.345839,,,,,,f,,{},vote,14,1,Dana Wilson: Shannon Ryan
+53,2019-03-16 21:11:07.236438,,,,,,f,,{},vote,6,1,Christina Walker: Tamara Wilkinson
+54,2019-03-16 21:11:15.608548,,,,,,f,,{},vote,2,1,Michael Carter: Shannon Ryan
+6,2019-03-16 21:03:16.04373,,,,,,t,2019-03-16 21:13:31.111113,{},text,9,1,Shannon Ryan: hello
+8,2019-03-16 21:03:23.0595,,,,,,t,2019-03-16 21:13:31.123982,{},vote,9,1,Shannon Ryan: Heather French
+26,2019-03-16 21:05:03.802515,,,,,,t,2019-03-16 21:13:31.144702,{},text,9,1,Shannon Ryan: feather
+32,2019-03-16 21:05:50.921588,,,,,,t,2019-03-16 21:13:31.156391,{},text,9,1,Shannon Ryan: lol
+36,2019-03-16 21:07:08.653816,,,,,,t,2019-03-16 21:13:31.17004,{},text,9,1,Shannon Ryan: shannon ryan next
+39,2019-03-16 21:07:32.393991,,,,,,t,2019-03-16 21:13:31.182338,{},text,9,1,Shannon Ryan: she was poor
+41,2019-03-16 21:07:34.808226,,,,,,t,2019-03-16 21:13:31.194042,{},text,9,1,Shannon Ryan: /
+42,2019-03-16 21:07:36.504259,,,,,,t,2019-03-16 21:13:31.206564,{},text,9,1,Shannon Ryan: ?
+44,2019-03-16 21:07:48.298801,,,,,,t,2019-03-16 21:13:31.218953,{},vote,9,1,Shannon Ryan: Mark Johnson MD
+55,2019-03-16 21:11:18.409955,,,,,,t,2019-03-16 21:13:31.23169,{},text,9,1,Shannon Ryan: next day
+56,2019-03-16 21:11:26.414208,,,,,,t,2019-03-16 21:13:31.24282,{},vote,9,1,Shannon Ryan: Tamara Wilkinson
+58,2019-03-16 21:11:47.24626,,,,,,t,2019-03-16 21:13:31.255656,{},text,9,1,Shannon Ryan: done deal
+9,2019-03-16 21:03:24.611984,,,,,,t,2019-03-16 21:14:40.800911,{},text,11,1,Daniel Parks: Hi
+29,2019-03-16 21:05:25.991211,,,,,,t,2019-03-16 21:14:40.810415,{},vote,11,1,Daniel Parks: Nancy Garcia
+40,2019-03-16 21:07:33.223815,,,,,,t,2019-03-16 21:14:40.817914,{},vote,11,1,Daniel Parks: Christina Walker
+51,2019-03-16 21:10:57.294827,,,,,,t,2019-03-16 21:14:40.825003,{},vote,11,1,Daniel Parks: Shannon Ryan
+63,2019-03-16 21:14:40.895247,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Daniel Parks
+64,2019-03-16 21:14:43.538124,,,,,,f,,{},vote,14,1,Dana Wilson: Tamara Wilkinson
+65,2019-03-16 21:14:57.706576,,,,,,f,,{},vote,2,1,Michael Carter: Tamara Wilkinson
+67,2019-03-16 21:15:26.114399,,,,,,f,,{},text,14,1,"Dana Wilson: Things that make you go ""hmm"""
+69,2019-03-16 21:15:34.07526,,,,,,f,,{},text,14,1,"Dana Wilson: Sorry, Tamara!"
+72,2019-03-16 21:16:22.286161,,,,,,f,,{},text,14,1,Dana Wilson: Maybe it will be an open-ending like the Sopranos?
+10,2019-03-16 21:03:25.29699,,,,,,t,2019-03-16 21:17:20.869057,{},text,10,1,Tamara Wilkinson: Hello
+22,2019-03-16 21:04:05.983823,,,,,,t,2019-03-16 21:17:20.880924,{},text,10,1,Tamara Wilkinson: Why all the hate for Heather?
+60,2019-03-16 21:13:16.08989,,,,,,t,2019-03-16 21:13:31.267119,{},text,9,1,Shannon Ryan: outlier
+61,2019-03-16 21:13:31.471323,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Shannon Ryan
+62,2019-03-16 21:13:47.664201,,,,,,f,,{},vote,2,1,Michael Carter: Daniel Parks
+74,2019-03-16 21:17:09.715804,,,,,,f,,{},text,14,1,"Dana Wilson: Maybe ""Don't Stop Believin'"" will just kick in as you leave."
+68,2019-03-16 21:15:26.288483,,,,,,t,2019-03-16 21:17:20.967778,{},text,10,1,"Tamara Wilkinson: Oh no, I guess my time has come!"
+71,2019-03-16 21:15:58.403229,,,,,,t,2019-03-16 21:17:20.980799,{},vote,10,1,Tamara Wilkinson: Dana Wilson
+73,2019-03-16 21:16:49.195564,,,,,,t,2019-03-16 21:17:20.993193,{},text,10,1,Tamara Wilkinson: Would that be the blue screen of death on the computer?
+31,2019-03-16 21:05:42.544731,,,,,,t,2019-03-16 21:17:20.893063,{},vote,10,1,Tamara Wilkinson: Nancy Garcia
+37,2019-03-16 21:07:09.537509,,,,,,t,2019-03-16 21:17:20.904687,{},text,10,1,Tamara Wilkinson: Poor Heather :(
+47,2019-03-16 21:09:32.067487,,,,,,t,2019-03-16 21:17:20.915754,{},vote,10,1,Tamara Wilkinson: Mark Johnson MD
+57,2019-03-16 21:11:37.278982,,,,,,t,2019-03-16 21:17:20.927385,{},text,10,1,Tamara Wilkinson: Shannon watch out! The mafia is out to get you!
+59,2019-03-16 21:12:10.939766,,,,,,t,2019-03-16 21:17:20.938119,{},vote,10,1,Tamara Wilkinson: Daniel Parks
+66,2019-03-16 21:15:05.00262,,,,,,t,2019-03-16 21:17:20.949372,{},text,10,1,Tamara Wilkinson: Who is in the mafia? Hmm...
+70,2019-03-16 21:15:54.759783,,,,,,t,2019-03-16 21:17:20.957883,{},text,10,1,Tamara Wilkinson: be gentle!
+75,2019-03-16 21:17:21.047204,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Tamara Wilkinson

@@ -1,0 +1,89 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-15 20:39:00.072732,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-15 20:39:23.401357,,,,,,f,,{},text,2,1,Dr. Kelli Brooks: Hello
+3,2019-03-15 20:39:42.872783,,,,,,f,,{},text,2,1,Dr. Kelli Brooks: Do you want to get rid of Henry Evans?
+4,2019-03-15 20:39:53.717517,,,,,,f,,{},text,3,1,Bob Woods: Okay
+5,2019-03-15 20:39:57.103514,,,,,,f,,{},vote,2,1,Dr. Kelli Brooks: Henry Evans
+6,2019-03-15 20:39:59.843378,,,,,,f,,{},vote,3,1,Bob Woods: Henry Evans
+7,2019-03-15 20:40:06.82205,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Henry Evans
+11,2019-03-15 20:40:31.016817,,,,,,f,,{},text,3,1,Bob Woods: LOL :(
+13,2019-03-15 20:40:34.758861,,,,,,f,,{},text,2,1,Dr. Kelli Brooks: Hello
+15,2019-03-15 20:40:39.82427,,,,,,f,,{},text,3,1,Bob Woods: that would be a mistake...
+16,2019-03-15 20:40:41.833629,,,,,,f,,{},text,4,1,Danielle Little: Don't kill me!
+18,2019-03-15 20:40:49.20485,,,,,,f,,{},text,12,1,Bryan Castillo: Hello
+22,2019-03-15 20:41:15.714929,,,,,,f,,{},text,2,1,"Dr. Kelli Brooks: So, are we all voting randomly?"
+25,2019-03-15 20:41:27.875457,,,,,,f,,{},text,3,1,Bob Woods: exactly
+28,2019-03-15 20:41:38.289478,,,,,,f,,{},vote,2,1,Dr. Kelli Brooks: Matthew Bridges
+30,2019-03-15 20:41:56.215093,,,,,,f,,{},vote,3,1,Bob Woods: Matthew Bridges
+31,2019-03-15 20:41:56.736018,,,,,,f,,{},vote,4,1,Danielle Little: Bob Woods
+36,2019-03-15 20:42:25.659543,,,,,,f,,{},vote,12,1,Bryan Castillo: Matthew Bridges
+26,2019-03-15 20:41:28.84502,,,,,,t,2019-03-15 20:42:46.272225,{},text,14,1,Matthew Bridges: Nope ;)
+17,2019-03-15 20:40:46.407967,,,,,,t,2019-03-15 20:42:46.284772,{},text,14,1,"Matthew Bridges: Sorry, I just picked a random name :("
+12,2019-03-15 20:40:34.070833,,,,,,t,2019-03-15 20:42:46.302791,{},text,14,1,"Matthew Bridges: Hi, everybody!"
+8,2019-03-15 20:40:17.171269,,,,,,t,2019-03-15 20:42:46.324389,{},vote,14,1,Matthew Bridges: Bob Woods
+37,2019-03-15 20:42:47.297488,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Matthew Bridges
+38,2019-03-15 20:43:04.792331,,,,,,f,,{},text,2,1,Dr. Kelli Brooks: Any ideas this round?
+39,2019-03-15 20:43:21.212718,,,,,,f,,{},text,3,1,Bob Woods: hmmm it seems like they might go blake next round
+40,2019-03-15 20:43:38.326827,,,,,,f,,{},text,3,1,Bob Woods: I might go James Lopex
+41,2019-03-15 20:43:45.294019,,,,,,f,,{},text,2,1,Dr. Kelli Brooks: Ernest seemed vocal - should we pick him and then vote Blake when it is everyone
+42,2019-03-15 20:43:46.685976,,,,,,f,,{},vote,3,1,Bob Woods: James Lopez
+43,2019-03-15 20:43:54.576443,,,,,,f,,{},text,2,1,Dr. Kelli Brooks: oh-ok - I can go James
+34,2019-03-15 20:42:15.818814,,,,,,t,2019-03-15 20:43:55.870737,{},text,10,1,James Lopez: <3
+32,2019-03-15 20:42:14.702541,,,,,,t,2019-03-15 20:43:55.882766,{},text,10,1,James Lopez: RIP Matt 
+24,2019-03-15 20:41:25.626182,,,,,,t,2019-03-15 20:43:55.892506,{},vote,10,1,James Lopez: Matthew Bridges
+23,2019-03-15 20:41:20.034998,,,,,,t,2019-03-15 20:43:55.904533,{},text,10,1,"James Lopez: Seems odd that Matthew would make the first choice, probably mafia"
+9,2019-03-15 20:40:22.50253,,,,,,t,2019-03-15 20:43:55.915939,{},text,10,1,James Lopez: hi
+44,2019-03-15 20:43:56.80563,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - James Lopez
+46,2019-03-15 20:44:29.709162,,,,,,f,,{},text,3,1,Bob Woods: lol
+49,2019-03-15 20:44:36.468469,,,,,,f,,{},text,2,1,"Dr. Kelli Brooks: So, does that mean vote Ernest?"
+50,2019-03-15 20:44:37.086092,,,,,,f,,{},vote,4,1,Danielle Little: Ernest Nguyen
+51,2019-03-15 20:44:39.750748,,,,,,f,,{},text,3,1,Bob Woods: so you talked first now?
+53,2019-03-15 20:44:44.448749,,,,,,f,,{},vote,2,1,Dr. Kelli Brooks: Ernest Nguyen
+54,2019-03-15 20:44:46.246511,,,,,,f,,{},text,3,1,Bob Woods: lol
+55,2019-03-15 20:44:54.806811,,,,,,f,,{},vote,12,1,Bryan Castillo: Ernest Nguyen
+57,2019-03-15 20:44:59.367061,,,,,,f,,{},vote,3,1,Bob Woods: Ernest Nguyen
+60,2019-03-15 20:45:13.723767,,,,,,f,,{},text,3,1,Bob Woods: not different at all by the looks of things
+65,2019-03-15 20:46:17.816069,,,,,,f,,{},text,12,1,Bryan Castillo: Not this time lol
+19,2019-03-15 20:40:54.283739,,,,,,t,2019-03-15 20:46:36.125828,{},text,7,1,Ernest Nguyen: its the asian one 
+27,2019-03-15 20:41:32.016609,,,,,,t,2019-03-15 20:46:36.143491,{},vote,7,1,Ernest Nguyen: Blake Gordon
+33,2019-03-15 20:42:15.737057,,,,,,t,2019-03-15 20:46:36.15997,{},text,7,1,Ernest Nguyen: blake talked second so has to be him
+35,2019-03-15 20:42:23.532416,,,,,,t,2019-03-15 20:46:36.175307,{},text,7,1,Ernest Nguyen: first is always safe its second
+45,2019-03-15 20:44:19.185974,,,,,,t,2019-03-15 20:46:36.192395,{},text,7,1,Ernest Nguyen: so first one to talk gets to die 
+69,2019-03-15 20:46:52.123679,,,,,,f,,{},text,3,1,Bob Woods: YES!
+14,2019-03-15 20:40:35.353479,,,,,,t,2019-03-15 20:47:45.807536,{},text,9,1,Kathryn Reid: Hello
+20,2019-03-15 20:40:56.377383,,,,,,t,2019-03-15 20:47:45.814128,{},text,9,1,Kathryn Reid: I'm a bystander
+21,2019-03-15 20:41:10.458139,,,,,,t,2019-03-15 20:47:45.820397,{},vote,9,1,Kathryn Reid: Bob Woods
+47,2019-03-15 20:44:31.640726,,,,,,t,2019-03-15 20:47:45.826929,{},vote,9,1,Kathryn Reid: Bob Woods
+59,2019-03-15 20:45:03.391003,,,,,,t,2019-03-15 20:47:45.834635,{},text,9,1,Kathryn Reid: Matthew was a bystander
+63,2019-03-15 20:46:02.297739,,,,,,t,2019-03-15 20:47:45.842392,{},text,9,1,Kathryn Reid: I want to die
+66,2019-03-15 20:46:18.737944,,,,,,t,2019-03-15 20:47:45.849863,{},text,9,1,Kathryn Reid: Thanks Ernest
+74,2019-03-15 20:48:54.289904,,,,,,f,,{},vote,3,1,Bob Woods: Blake Gordon
+76,2019-03-15 20:49:05.798623,,,,,,f,,{},vote,2,1,Dr. Kelli Brooks: Blake Gordon
+79,2019-03-15 20:49:26.399278,,,,,,f,,{},vote,12,1,Bryan Castillo: Blake Gordon
+82,2019-03-15 20:49:48.350392,,,,,,f,,{},vote,4,1,Danielle Little: Blake Gordon
+83,2019-03-15 20:49:58.412982,,,,,,f,,{},text,2,1,Dr. Kelli Brooks: sorry Blake
+84,2019-03-15 20:50:17.753186,,,,,,f,,{},text,3,1,"Bob Woods: it was real, it was fun, it was really fun"
+86,2019-03-15 20:50:21.052292,,,,,,f,,{},text,3,1,Bob Woods: see you later
+52,2019-03-15 20:44:40.334384,,,,,,t,2019-03-15 20:46:36.205806,{},text,7,1,Ernest Nguyen: james chose matthew first so has to be Matt
+56,2019-03-15 20:44:57.357684,,,,,,t,2019-03-15 20:46:36.217987,{},text,7,1,Ernest Nguyen: im first to talk to a second day
+58,2019-03-15 20:45:00.281762,,,,,,t,2019-03-15 20:46:36.232392,{},text,7,1,Ernest Nguyen: totally different
+61,2019-03-15 20:45:29.204834,,,,,,t,2019-03-15 20:46:36.24689,{},text,7,1,Ernest Nguyen: says the not so famous younger sister
+62,2019-03-15 20:45:54.697349,,,,,,t,2019-03-15 20:46:36.258596,{},vote,7,1,Ernest Nguyen: Kathryn Reid
+67,2019-03-15 20:46:36.635363,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Ernest Nguyen
+68,2019-03-15 20:46:45.733617,,,,,,f,,{},text,2,1,Dr. Kelli Brooks: Want to vote Kathryn?
+70,2019-03-15 20:46:55.836188,,,,,,f,,{},vote,2,1,Dr. Kelli Brooks: Kathryn Reid
+71,2019-03-15 20:47:16.347201,,,,,,f,,{},vote,3,1,Bob Woods: Kathryn Reid
+72,2019-03-15 20:47:46.020388,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Kathryn Reid
+73,2019-03-15 20:48:48.736003,,,,,,f,,{},text,2,1,Dr. Kelli Brooks: lol - nobody wants to talk
+75,2019-03-15 20:49:01.304173,,,,,,f,,{},text,3,1,Bob Woods: you broke the seal
+77,2019-03-15 20:49:11.289438,,,,,,f,,{},text,12,1,Bryan Castillo: oops
+78,2019-03-15 20:49:11.725954,,,,,,f,,{},text,3,1,Bob Woods: I think its Blake
+80,2019-03-15 20:49:31.162258,,,,,,f,,{},text,3,1,Bob Woods: thats who Ernest though it was?
+85,2019-03-15 20:50:18.808707,,,,,,t,2019-03-15 20:50:26.632852,{},text,6,1,"Blake Gordon: Just so you know, I am a bystander."
+88,2019-03-15 20:50:27.153962,,,,,,f,,{},text,6,1,Blake Gordon: So long 
+10,2019-03-15 20:40:24.873275,,,,,,t,2019-03-15 20:50:26.550077,{},text,6,1,Blake Gordon: Hi everyone!
+29,2019-03-15 20:41:47.08577,,,,,,t,2019-03-15 20:50:26.568932,{},vote,6,1,Blake Gordon: Matthew Bridges
+48,2019-03-15 20:44:34.525476,,,,,,t,2019-03-15 20:50:26.582222,{},text,6,1,Blake Gordon: lol
+64,2019-03-15 20:46:10.499293,,,,,,t,2019-03-15 20:50:26.60366,{},vote,6,1,Blake Gordon: Kathryn Reid
+81,2019-03-15 20:49:38.676583,,,,,,t,2019-03-15 20:50:26.61482,{},vote,6,1,Blake Gordon: Bryan Castillo
+87,2019-03-15 20:50:26.703851,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Blake Gordon

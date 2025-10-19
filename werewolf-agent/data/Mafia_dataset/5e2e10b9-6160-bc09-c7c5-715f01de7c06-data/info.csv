@@ -1,0 +1,85 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-12 01:07:38.970024,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+3,2019-03-12 01:07:51.577998,,,,,,f,,{},text,3,1,Timothy Moore: Hey
+6,2019-03-12 01:08:23.408616,,,,,,f,,{},text,3,1,Timothy Moore: haha you too
+8,2019-03-12 01:08:44.451227,,,,,,f,,{},info,1,1,Phase Change to Daytime
+9,2019-03-12 01:08:51.819626,,,,,,f,,{},text,8,1,Laura Baldwin: Hi!
+13,2019-03-12 01:09:04.893344,,,,,,f,,{},text,3,1,Timothy Moore: What's up everyone
+16,2019-03-12 01:09:13.371903,,,,,,f,,{},text,8,1,Laura Baldwin: How is everyone?
+22,2019-03-12 01:09:27.186705,,,,,,f,,{},vote,8,1,Laura Baldwin: Alexander Ford
+27,2019-03-12 01:10:31.811416,,,,,,f,,{},text,8,1,Laura Baldwin: Ditto David. Feels good!
+30,2019-03-12 01:11:01.768319,,,,,,f,,{},vote,3,1,Timothy Moore: Tyrone Mckee
+31,2019-03-12 01:11:16.916404,,,,,,t,2019-03-12 01:11:25.2216,{},text,2,1,Daniel Mayer: Nope not me
+20,2019-03-12 01:09:22.559504,,,,,,t,2019-03-12 01:11:25.243414,{},vote,2,1,Daniel Mayer: Alexander Ford
+18,2019-03-12 01:09:18.481695,,,,,,t,2019-03-12 01:11:25.260157,{},text,2,1,Daniel Mayer: Nothing much here.. got a good nights rest
+10,2019-03-12 01:08:56.786475,,,,,,t,2019-03-12 01:11:25.304445,{},text,2,1,Daniel Mayer: Hello
+7,2019-03-12 01:08:42.154934,,,,,,t,2019-03-12 01:11:25.335261,{},text,2,1,Daniel Mayer: Yep... are we the only mafia?
+5,2019-03-12 01:08:22.87856,,,,,,t,2019-03-12 01:11:25.361011,{},text,2,1,Daniel Mayer: What about Alexander?
+4,2019-03-12 01:08:02.827959,,,,,,t,2019-03-12 01:11:25.396676,{},text,2,1,Daniel Mayer: Okay Tim is cool.
+2,2019-03-12 01:07:46.795701,,,,,,t,2019-03-12 01:11:25.418512,{},text,2,1,Daniel Mayer: Hello
+32,2019-03-12 01:11:27.320273,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Daniel Mayer
+33,2019-03-12 01:11:49.795781,,,,,,f,,{},text,3,1,Timothy Moore: sick
+34,2019-03-12 01:11:57.033802,,,,,,f,,{},text,3,1,Timothy Moore: lonely time
+35,2019-03-12 01:12:21.475168,,,,,,f,,{},vote,3,1,Timothy Moore: Jacob Pearson
+26,2019-03-12 01:10:30.720369,,,,,,t,2019-03-12 01:12:34.164209,{},vote,11,1,Jacob Pearson: Tyrone Mckee
+23,2019-03-12 01:09:45.826069,,,,,,t,2019-03-12 01:12:34.176684,{},text,11,1,Jacob Pearson: tyrone
+19,2019-03-12 01:09:21.965953,,,,,,t,2019-03-12 01:12:34.187536,{},text,11,1,Jacob Pearson: hi
+36,2019-03-12 01:12:34.795882,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Jacob Pearson
+37,2019-03-12 01:12:43.766127,,,,,,f,,{},text,8,1,Laura Baldwin: Did everyone have a good Monday?
+39,2019-03-12 01:12:56.731551,,,,,,f,,{},text,3,1,Timothy Moore: So far so good
+43,2019-03-12 01:13:53.175062,,,,,,f,,{},text,3,1,"Timothy Moore: that sounded a little suspicious, just saying"
+45,2019-03-12 01:14:04.403536,,,,,,f,,{},vote,3,1,Timothy Moore: Tyrone Mckee
+49,2019-03-12 01:15:04.143556,,,,,,f,,{},text,8,1,Laura Baldwin: I believe Tyrone
+50,2019-03-12 01:15:08.975457,,,,,,f,,{},vote,8,1,Laura Baldwin: Timothy Moore
+11,2019-03-12 01:08:59.613606,,,,,,t,2019-03-12 01:15:14.476413,{},text,12,1,Tyrone Mckee: Hello
+24,2019-03-12 01:10:05.060019,,,,,,t,2019-03-12 01:15:14.483028,{},vote,12,1,Tyrone Mckee: Timothy Moore
+38,2019-03-12 01:12:55.585304,,,,,,t,2019-03-12 01:15:14.489375,{},text,12,1,Tyrone Mckee: been a good monday here surprisingly.
+42,2019-03-12 01:13:31.69704,,,,,,t,2019-03-12 01:15:14.495249,{},text,12,1,"Tyrone Mckee: I'm totally not mafioso! lol. but it's cool, gotta make dinner anyway! "
+47,2019-03-12 01:14:15.279897,,,,,,t,2019-03-12 01:15:14.501283,{},text,12,1,"Tyrone Mckee: that's fine. seriously, gotta cook. can kick me out but I am a bystander as you'll soon see :)"
+51,2019-03-12 01:15:14.82095,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Tyrone Mckee
+52,2019-03-12 01:15:31.021338,,,,,,f,,{},text,3,1,Timothy Moore: live to fight another day
+53,2019-03-12 01:15:33.574752,,,,,,f,,{},text,3,1,Timothy Moore: i guess
+54,2019-03-12 01:15:46.006576,,,,,,f,,{},text,3,1,Timothy Moore: its a hard life being the only man
+55,2019-03-12 01:15:59.674777,,,,,,f,,{},vote,3,1,Timothy Moore: Benjamin Neal
+15,2019-03-12 01:09:13.215886,,,,,,t,2019-03-12 01:16:24.169453,{},text,10,1,Benjamin Neal: Hello
+21,2019-03-12 01:09:24.500464,,,,,,t,2019-03-12 01:16:24.175425,{},vote,10,1,Benjamin Neal: Daniel Mayer
+41,2019-03-12 01:13:09.477992,,,,,,t,2019-03-12 01:16:24.181719,{},vote,10,1,Benjamin Neal: Tyrone Mckee
+56,2019-03-12 01:16:24.310796,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Benjamin Neal
+58,2019-03-12 01:17:03.993957,,,,,,f,,{},text,8,1,Laura Baldwin: Well great lol
+59,2019-03-12 01:17:22.925531,,,,,,f,,{},text,3,1,Timothy Moore: why we voting so fast?
+60,2019-03-12 01:17:41.576061,,,,,,f,,{},text,3,1,Timothy Moore: what did laura do
+62,2019-03-12 01:18:01.413168,,,,,,f,,{},text,8,1,Laura Baldwin: I did the first round purely because it sounded Mafia like but I'm observing who hasn't voted proven mafia now
+63,2019-03-12 01:18:36.374232,,,,,,f,,{},text,3,1,Timothy Moore: you know jennifer hasn't said anything yet
+64,2019-03-12 01:18:52.381308,,,,,,f,,{},vote,3,1,Timothy Moore: Jennifer Bond
+65,2019-03-12 01:18:55.812261,,,,,,f,,{},vote,8,1,Laura Baldwin: Jennifer Bond
+14,2019-03-12 01:09:08.714338,,,,,,t,2019-03-12 01:19:04.278133,{},text,7,1,Jennifer Bond: Hello!
+25,2019-03-12 01:10:24.199037,,,,,,t,2019-03-12 01:19:04.288405,{},vote,7,1,Jennifer Bond: Daniel Mayer
+40,2019-03-12 01:13:06.370989,,,,,,t,2019-03-12 01:19:04.300636,{},vote,7,1,Jennifer Bond: Laura Baldwin
+57,2019-03-12 01:16:37.839775,,,,,,t,2019-03-12 01:19:04.310323,{},vote,7,1,Jennifer Bond: Laura Baldwin
+67,2019-03-12 01:19:21.518504,,,,,,f,,{},text,3,1,Timothy Moore: that went well
+68,2019-03-12 01:19:29.959644,,,,,,f,,{},text,3,1,Timothy Moore: hello any researching reading my thoughts
+69,2019-03-12 01:19:35.056847,,,,,,f,,{},text,3,1,Timothy Moore: researcher*
+70,2019-03-12 01:19:49.170193,,,,,,f,,{},text,3,1,"Timothy Moore: welcome, it's quite lonely"
+73,2019-03-12 01:20:14.534705,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Alexander Ford
+75,2019-03-12 01:21:13.203469,,,,,,f,,{},text,3,1,Timothy Moore: who hasn't been voting during the day then?
+80,2019-03-12 01:22:04.185166,,,,,,f,,{},vote,8,1,Laura Baldwin: David Martinez
+66,2019-03-12 01:19:04.487571,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Jennifer Bond
+81,2019-03-12 01:22:09.233875,,,,,,f,,{},text,3,1,Timothy Moore: forgot my coffee and it's been downhill since
+71,2019-03-12 01:20:04.091577,,,,,,f,,{},text,3,1,Timothy Moore: We'll see if i can keep laura on my side
+72,2019-03-12 01:20:10.650862,,,,,,f,,{},vote,3,1,Timothy Moore: Alexander Ford
+76,2019-03-12 01:21:43.024606,,,,,,f,,{},text,8,1,Laura Baldwin: But they can vote twice so ignore me
+77,2019-03-12 01:21:48.714069,,,,,,f,,{},text,8,1,Laura Baldwin: it's been a long Monday here lol
+78,2019-03-12 01:21:54.664927,,,,,,f,,{},text,3,1,Timothy Moore: yeah same
+83,2019-03-12 01:22:47.351662,,,,,,t,2019-03-12 01:22:54.214253,{},vote,6,1,David Martinez: Laura Baldwin
+12,2019-03-12 01:09:03.689523,,,,,,t,2019-03-12 01:20:14.276723,{},text,9,1,Alexander Ford: hi
+28,2019-03-12 01:10:42.296561,,,,,,t,2019-03-12 01:20:14.289234,{},vote,9,1,Alexander Ford: Daniel Mayer
+44,2019-03-12 01:13:56.71341,,,,,,t,2019-03-12 01:20:14.301416,{},text,9,1,Alexander Ford: that's exactly what a mafioso would say
+48,2019-03-12 01:14:58.681086,,,,,,t,2019-03-12 01:20:14.313373,{},vote,9,1,Alexander Ford: Tyrone Mckee
+61,2019-03-12 01:17:52.216584,,,,,,t,2019-03-12 01:20:14.322832,{},text,9,1,Alexander Ford: it's so random
+74,2019-03-12 01:20:19.634614,,,,,,f,,{},text,8,1,Laura Baldwin: What I realized now is that the people voting during the day are most likely bystanders meaning Bond ... and she voted a mafia out >_<
+82,2019-03-12 01:22:46.838326,,,,,,f,,{},vote,3,1,Timothy Moore: David Martinez
+17,2019-03-12 01:09:14.137495,,,,,,t,2019-03-12 01:22:54.189642,{},text,6,1,David Martinez: Hey
+29,2019-03-12 01:10:45.522756,,,,,,t,2019-03-12 01:22:54.195888,{},vote,6,1,David Martinez: Daniel Mayer
+46,2019-03-12 01:14:14.359472,,,,,,t,2019-03-12 01:22:54.201873,{},vote,6,1,David Martinez: Tyrone Mckee
+79,2019-03-12 01:21:58.168642,,,,,,t,2019-03-12 01:22:54.20791,{},text,6,1,David Martinez: Its been a slow monday
+84,2019-03-12 01:22:54.341775,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - David Martinez

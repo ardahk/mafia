@@ -1,0 +1,72 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-16 23:12:49.401949,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+4,2019-03-16 23:13:32.154718,,,,,,t,2019-03-16 23:13:54.370958,{},text,3,1,Alexander Dillon: Hi. 
+5,2019-03-16 23:13:55.002776,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Alexander Dillon
+6,2019-03-16 23:14:06.467885,,,,,,f,,{},text,13,1,Steven Brown: Hello all
+8,2019-03-16 23:14:14.103795,,,,,,f,,{},text,4,1,James Smith: Hello
+9,2019-03-16 23:14:18.947642,,,,,,f,,{},text,13,1,Steven Brown: alrighty
+10,2019-03-16 23:14:19.745086,,,,,,f,,{},text,14,1,Clayton Cook: hello
+13,2019-03-16 23:14:26.642302,,,,,,f,,{},text,12,1,Andrew Price: Hey
+14,2019-03-16 23:14:28.651852,,,,,,f,,{},text,11,1,Regina Martin: hello 
+16,2019-03-16 23:14:36.447496,,,,,,f,,{},text,4,1,James Smith: Ok
+17,2019-03-16 23:14:39.958731,,,,,,f,,{},text,12,1,Andrew Price: not James Smith
+18,2019-03-16 23:14:47.602273,,,,,,f,,{},text,13,1,Steven Brown: Why?
+20,2019-03-16 23:14:51.362264,,,,,,f,,{},text,4,1,"James Smith: No really, not"
+21,2019-03-16 23:14:58.782259,,,,,,f,,{},vote,11,1,Regina Martin: Ryan Ray
+22,2019-03-16 23:15:01.754771,,,,,,f,,{},text,12,1,Andrew Price: Cathy
+25,2019-03-16 23:15:12.016466,,,,,,f,,{},vote,12,1,Andrew Price: Cathy Lopez
+27,2019-03-16 23:15:18.373276,,,,,,f,,{},text,13,1,Steven Brown: 80secs left
+28,2019-03-16 23:15:32.978816,,,,,,f,,{},text,4,1,James Smith: Not sure who to choose
+32,2019-03-16 23:15:51.139056,,,,,,f,,{},text,12,1,Andrew Price: Cathy is Mafia I think
+33,2019-03-16 23:15:52.892151,,,,,,f,,{},text,14,1,Clayton Cook: agree how are we supposed to play this game over a chat box haha
+35,2019-03-16 23:16:12.199942,,,,,,f,,{},text,11,1,Regina Martin: whats the prize if we win?
+37,2019-03-16 23:16:18.932115,,,,,,f,,{},vote,13,1,Steven Brown: James Smith
+39,2019-03-16 23:16:23.907304,,,,,,f,,{},text,4,1,James Smith: Don't think there is a prize
+40,2019-03-16 23:16:25.833114,,,,,,f,,{},text,14,1,Clayton Cook: if you are mafia just respond to this 
+42,2019-03-16 23:16:29.852114,,,,,,f,,{},vote,4,1,James Smith: Cathy Lopez
+43,2019-03-16 23:16:32.951408,,,,,,f,,{},text,11,1,Regina Martin: vote me out then lol
+38,2019-03-16 23:16:20.432376,,,,,,t,2019-03-16 23:16:34.777697,{},vote,8,1,Ryan Ray: Cathy Lopez
+36,2019-03-16 23:16:12.218092,,,,,,t,2019-03-16 23:16:34.791894,{},text,8,1,Ryan Ray: Don't you turn this on me
+31,2019-03-16 23:15:50.082529,,,,,,t,2019-03-16 23:16:34.800846,{},text,8,1,Ryan Ray: I have no rationale just speeding things up 
+29,2019-03-16 23:15:33.481286,,,,,,t,2019-03-16 23:16:34.811947,{},text,8,1,Ryan Ray: I'm voting for Cathy 
+19,2019-03-16 23:14:49.980287,,,,,,t,2019-03-16 23:16:34.820597,{},text,8,1,Ryan Ray: Then who besides James?
+12,2019-03-16 23:14:25.108763,,,,,,t,2019-03-16 23:16:34.831284,{},text,8,1,Ryan Ray: I don't trust James
+44,2019-03-16 23:16:35.772088,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Ryan Ray
+45,2019-03-16 23:16:35.892421,,,,,,f,,{},vote,14,1,Clayton Cook: Ryan Ray
+7,2019-03-16 23:14:08.919799,,,,,,t,2019-03-16 23:17:44.362239,{},text,6,1,Cathy Lopez: james smith
+11,2019-03-16 23:14:19.991887,,,,,,t,2019-03-16 23:17:44.373346,{},text,6,1,Cathy Lopez: hi
+23,2019-03-16 23:15:04.464627,,,,,,t,2019-03-16 23:17:44.382439,{},text,6,1,Cathy Lopez: ryan ray needs to be gone
+34,2019-03-16 23:16:04.988598,,,,,,t,2019-03-16 23:17:44.391344,{},text,6,1,Cathy Lopez: Lets eliminate Ryan
+41,2019-03-16 23:16:29.323198,,,,,,t,2019-03-16 23:17:44.400368,{},vote,6,1,Cathy Lopez: Ryan Ray
+47,2019-03-16 23:17:44.756185,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Cathy Lopez
+48,2019-03-16 23:18:06.907999,,,,,,f,,{},text,13,1,Steven Brown: Welp they weren't mafia.... so there are only a few choices left
+50,2019-03-16 23:18:29.763658,,,,,,f,,{},text,14,1,Clayton Cook: haha
+51,2019-03-16 23:18:30.956515,,,,,,f,,{},text,13,1,Steven Brown: Well no.
+53,2019-03-16 23:18:45.709008,,,,,,f,,{},text,4,1,James Smith: Not sure how to tell
+54,2019-03-16 23:18:57.730238,,,,,,f,,{},text,11,1,Regina Martin: im hungry vote me off
+55,2019-03-16 23:18:58.05971,,,,,,f,,{},text,13,1,Steven Brown: Could be any of us. Its just a guess.
+56,2019-03-16 23:19:10.753469,,,,,,f,,{},text,13,1,Steven Brown: I wish there was more back story lol
+58,2019-03-16 23:19:17.416615,,,,,,f,,{},text,14,1,Clayton Cook: great game in person
+59,2019-03-16 23:19:21.596519,,,,,,f,,{},text,14,1,Clayton Cook: impossible like this
+60,2019-03-16 23:19:29.585988,,,,,,f,,{},vote,14,1,Clayton Cook: Garrett Baker
+61,2019-03-16 23:19:31.129329,,,,,,f,,{},text,13,1,Steven Brown: agreed
+62,2019-03-16 23:19:35.202478,,,,,,f,,{},text,11,1,Regina Martin: or am i just saying vote me off
+63,2019-03-16 23:19:39.478657,,,,,,f,,{},text,4,1,"James Smith: Really, regina?"
+65,2019-03-16 23:19:50.110376,,,,,,f,,{},text,14,1,Clayton Cook: well regina isn't mafia we know that
+66,2019-03-16 23:20:04.918221,,,,,,f,,{},text,14,1,Clayton Cook: she'd be invested if she was
+67,2019-03-16 23:20:11.60735,,,,,,f,,{},text,14,1,Clayton Cook: so don't kill her
+68,2019-03-16 23:20:16.12383,,,,,,f,,{},vote,12,1,Andrew Price: Regina Martin
+69,2019-03-16 23:20:20.246324,,,,,,f,,{},vote,11,1,Regina Martin: Garrett Baker
+70,2019-03-16 23:20:23.142847,,,,,,f,,{},text,13,1,Steven Brown: Or reverse psychology
+2,2019-03-16 23:12:59.615242,,,,,,t,2019-03-16 23:20:24.808087,{},text,2,1,Garrett Baker: Sup
+3,2019-03-16 23:13:30.953917,,,,,,t,2019-03-16 23:20:24.81661,{},vote,2,1,Garrett Baker: Alexander Dillon
+15,2019-03-16 23:14:34.180546,,,,,,t,2019-03-16 23:20:24.826051,{},text,2,1,Garrett Baker: Yo
+24,2019-03-16 23:15:06.1782,,,,,,t,2019-03-16 23:20:24.838653,{},vote,2,1,Garrett Baker: Ryan Ray
+26,2019-03-16 23:15:12.441811,,,,,,t,2019-03-16 23:20:24.847754,{},text,2,1,Garrett Baker: Get ryan outta here
+30,2019-03-16 23:15:44.605575,,,,,,t,2019-03-16 23:20:24.856853,{},text,2,1,Garrett Baker: Ryan talkin too much
+46,2019-03-16 23:17:23.815354,,,,,,t,2019-03-16 23:20:24.866433,{},vote,2,1,Garrett Baker: Cathy Lopez
+49,2019-03-16 23:18:23.714917,,,,,,t,2019-03-16 23:20:24.878987,{},text,2,1,Garrett Baker: It's you probably
+52,2019-03-16 23:18:38.362922,,,,,,t,2019-03-16 23:20:24.891734,{},vote,2,1,Garrett Baker: Steven Brown
+57,2019-03-16 23:19:11.391846,,,,,,t,2019-03-16 23:20:24.904926,{},text,2,1,Garrett Baker: Kind of a fun game haha
+64,2019-03-16 23:19:47.631559,,,,,,t,2019-03-16 23:20:24.920717,{},text,2,1,Garrett Baker: There's a bonus prize guys come on now
+71,2019-03-16 23:20:24.986475,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Garrett Baker

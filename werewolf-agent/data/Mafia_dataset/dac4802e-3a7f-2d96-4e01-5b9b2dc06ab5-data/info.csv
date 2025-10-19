@@ -1,0 +1,55 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-11 23:46:52.509892,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-11 23:47:38.578076,,,,,,f,,{},text,2,1,Alyssa Washington: I say Thomas
+3,2019-03-11 23:47:41.262465,,,,,,f,,{},vote,2,1,Alyssa Washington: Thomas Davis
+4,2019-03-11 23:47:50.289865,,,,,,f,,{},vote,3,1,Mary Mullins: Thomas Davis
+5,2019-03-11 23:48:00.931016,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Thomas Davis
+7,2019-03-11 23:48:18.820382,,,,,,f,,{},text,2,1,Alyssa Washington: Hi
+8,2019-03-11 23:48:19.140146,,,,,,f,,{},vote,16,1,Cassandra Miller: Alyssa Washington
+11,2019-03-11 23:48:30.177918,,,,,,f,,{},text,3,1,Mary Mullins: Hi
+13,2019-03-11 23:48:42.580148,,,,,,f,,{},text,2,1,Alyssa Washington: I'm not sure how to guess
+21,2019-03-11 23:49:25.868287,,,,,,f,,{},vote,2,1,Alyssa Washington: Patrick Ellis
+23,2019-03-11 23:49:37.969093,,,,,,f,,{},text,3,1,Mary Mullins: patrick vs john
+26,2019-03-11 23:50:32.38906,,,,,,f,,{},vote,3,1,Mary Mullins: Patrick Ellis
+27,2019-03-11 23:50:42.842786,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Patrick Ellis
+28,2019-03-11 23:51:15.128565,,,,,,f,,{},text,2,1,Alyssa Washington: Get John Davis
+29,2019-03-11 23:51:20.685549,,,,,,f,,{},vote,2,1,Alyssa Washington: John Davis
+30,2019-03-11 23:51:34.890263,,,,,,f,,{},vote,3,1,Mary Mullins: John Davis
+22,2019-03-11 23:49:34.634898,,,,,,t,2019-03-11 23:51:49.928731,{},text,10,1,John Davis: lol
+18,2019-03-11 23:49:20.931152,,,,,,t,2019-03-11 23:51:49.945739,{},vote,10,1,John Davis: Patrick Ellis
+15,2019-03-11 23:49:04.192075,,,,,,t,2019-03-11 23:51:49.967084,{},text,10,1,John Davis: lets pick patrick ellis
+9,2019-03-11 23:48:22.917847,,,,,,t,2019-03-11 23:51:49.982923,{},text,10,1,John Davis: hi
+31,2019-03-11 23:51:51.047622,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - John Davis
+35,2019-03-11 23:52:16.411264,,,,,,f,,{},text,2,1,Alyssa Washington: hi
+43,2019-03-11 23:53:31.640109,,,,,,f,,{},vote,2,1,Alyssa Washington: Ms. Yvette Davis
+44,2019-03-11 23:53:47.031668,,,,,,f,,{},vote,3,1,Mary Mullins: Ms. Yvette Davis
+45,2019-03-11 23:54:28.753797,,,,,,t,2019-03-11 23:54:30.317063,{},text,12,1,Ms. Yvette Davis: EXIT
+38,2019-03-11 23:52:33.456014,,,,,,t,2019-03-11 23:54:30.337253,{},text,12,1,Ms. Yvette Davis: OK I'M FINISH
+34,2019-03-11 23:52:16.22565,,,,,,t,2019-03-11 23:54:30.349775,{},text,12,1,Ms. Yvette Davis: THANK YOU
+33,2019-03-11 23:52:08.77935,,,,,,t,2019-03-11 23:54:30.361233,{},text,12,1,Ms. Yvette Davis: HI
+14,2019-03-11 23:48:45.627627,,,,,,t,2019-03-11 23:54:30.375155,{},text,12,1,Ms. Yvette Davis: HI
+46,2019-03-11 23:54:30.766211,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Ms. Yvette Davis
+47,2019-03-11 23:54:42.868698,,,,,,f,,{},text,2,1,Alyssa Washington: Let's get brandy 
+48,2019-03-11 23:54:46.247822,,,,,,f,,{},vote,2,1,Alyssa Washington: Brandy Waller
+49,2019-03-11 23:54:57.20286,,,,,,f,,{},vote,3,1,Mary Mullins: Brandy Waller
+6,2019-03-11 23:48:17.439355,,,,,,t,2019-03-11 23:55:39.918708,{},text,5,1,"Brandy Waller: It's the first turn, anyone have any ideas?"
+10,2019-03-11 23:48:23.941426,,,,,,t,2019-03-11 23:55:39.928112,{},text,5,1,Brandy Waller: Also hi
+17,2019-03-11 23:49:11.797898,,,,,,t,2019-03-11 23:55:39.936196,{},text,5,1,Brandy Waller: Let's pick John Davis
+20,2019-03-11 23:49:24.755131,,,,,,t,2019-03-11 23:55:39.944149,{},text,5,1,"Brandy Waller: He was the first one to make a suggestion, and he's at the top of the list"
+24,2019-03-11 23:49:50.858429,,,,,,t,2019-03-11 23:55:39.951834,{},vote,5,1,Brandy Waller: John Davis
+25,2019-03-11 23:50:11.706724,,,,,,t,2019-03-11 23:55:39.961195,{},text,5,1,"Brandy Waller: Yeah. We don't really have anything else to go on now, you know?"
+32,2019-03-11 23:52:05.337338,,,,,,t,2019-03-11 23:55:39.979562,{},text,5,1,Brandy Waller: Well then. Guess it wasn't either of those guys
+36,2019-03-11 23:52:17.525137,,,,,,t,2019-03-11 23:55:39.987468,{},text,5,1,Brandy Waller: Also hi. 
+40,2019-03-11 23:52:55.542223,,,,,,t,2019-03-11 23:55:39.995446,{},vote,5,1,Brandy Waller: Mary Mullins
+41,2019-03-11 23:53:02.510886,,,,,,t,2019-03-11 23:55:40.009443,{},text,5,1,Brandy Waller: It seems really weird that they'd eliminate the only other person with accusations
+42,2019-03-11 23:53:27.689149,,,,,,t,2019-03-11 23:55:40.024915,{},text,5,1,Brandy Waller: Whoa sorry about that my page suddenly scrolled down and I thought time was up and just hit vote
+50,2019-03-11 23:55:40.341088,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Brandy Waller
+52,2019-03-11 23:58:18.817027,,,,,,f,,{},vote,3,1,Mary Mullins: Robert Stewart MD
+53,2019-03-11 23:58:19.668088,,,,,,f,,{},vote,2,1,Alyssa Washington: Robert Stewart MD
+12,2019-03-11 23:48:32.975298,,,,,,t,2019-03-11 23:58:20.30618,{},text,13,1,Robert Stewart MD: hi
+16,2019-03-11 23:49:08.622877,,,,,,t,2019-03-11 23:58:20.335836,{},text,13,1,Robert Stewart MD: yes
+19,2019-03-11 23:49:24.015793,,,,,,t,2019-03-11 23:58:20.358936,{},vote,13,1,Robert Stewart MD: Patrick Ellis
+37,2019-03-11 23:52:24.381203,,,,,,t,2019-03-11 23:58:20.387001,{},text,13,1,Robert Stewart MD: hi
+39,2019-03-11 23:52:50.702746,,,,,,t,2019-03-11 23:58:20.412881,{},vote,13,1,Robert Stewart MD: Ms. Yvette Davis
+51,2019-03-11 23:58:14.402468,,,,,,t,2019-03-11 23:58:20.430566,{},vote,13,1,Robert Stewart MD: Alyssa Washington
+54,2019-03-11 23:58:20.509541,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Robert Stewart MD

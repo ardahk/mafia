@@ -1,0 +1,45 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-13 23:10:04.534719,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-13 23:10:35.186105,,,,,,f,,{},vote,2,1,Sara Bright: Carlos Smith
+3,2019-03-13 23:11:01.650522,,,,,,f,,{},text,3,1,Kevin Hodge: cristian
+4,2019-03-13 23:11:10.737967,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Carlos Smith
+7,2019-03-13 23:11:20.642347,,,,,,f,,{},text,7,1,Christian Atkinson: Hi
+11,2019-03-13 23:11:43.412976,,,,,,f,,{},text,2,1,Sara Bright: hello
+13,2019-03-13 23:12:04.321563,,,,,,f,,{},text,3,1,Kevin Hodge: hi
+15,2019-03-13 23:12:30.917764,,,,,,f,,{},vote,3,1,Kevin Hodge: Scott Nelson
+17,2019-03-13 23:12:44.33405,,,,,,f,,{},vote,2,1,Sara Bright: Timothy Cherry
+18,2019-03-13 23:13:13.703133,,,,,,f,,{},vote,7,1,Christian Atkinson: Robert Evans
+6,2019-03-13 23:11:20.160127,,,,,,t,2019-03-13 23:13:50.232952,{},text,10,1,Robert Evans: get ya
+5,2019-03-13 23:11:16.918744,,,,,,t,2019-03-13 23:13:50.277851,{},vote,10,1,Robert Evans: Joshua Holland
+20,2019-03-13 23:13:51.605691,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Robert Evans
+21,2019-03-13 23:14:14.493287,,,,,,f,,{},text,2,1,Sara Bright: who now?
+22,2019-03-13 23:14:21.459578,,,,,,f,,{},vote,3,1,Kevin Hodge: Terri Brewer
+23,2019-03-13 23:14:30.637758,,,,,,f,,{},text,2,1,Sara Bright: okays
+24,2019-03-13 23:14:38.86395,,,,,,f,,{},vote,2,1,Sara Bright: Terri Brewer
+12,2019-03-13 23:12:03.736798,,,,,,t,2019-03-13 23:14:59.696768,{},vote,12,1,Terri Brewer: Scott Nelson
+9,2019-03-13 23:11:33.07407,,,,,,t,2019-03-13 23:14:59.706509,{},text,12,1,Terri Brewer: Hey
+25,2019-03-13 23:15:00.172613,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Terri Brewer
+27,2019-03-13 23:15:30.195266,,,,,,f,,{},text,2,1,Sara Bright: oh no!
+28,2019-03-13 23:15:30.313686,,,,,,f,,{},vote,3,1,Kevin Hodge: Sandra Robinson
+29,2019-03-13 23:15:33.26627,,,,,,f,,{},text,2,1,Sara Bright: lolz
+30,2019-03-13 23:15:42.978987,,,,,,f,,{},text,7,1,Christian Atkinson: Terry has died :(
+31,2019-03-13 23:16:30.275815,,,,,,f,,{},vote,7,1,Christian Atkinson: Sandra Robinson
+33,2019-03-13 23:17:36.612335,,,,,,f,,{},vote,2,1,Sara Bright: Scott Nelson
+32,2019-03-13 23:16:41.987349,,,,,,t,2019-03-13 23:17:39.816608,{},vote,6,1,Sandra Robinson: Kevin Hodge
+16,2019-03-13 23:12:38.310717,,,,,,t,2019-03-13 23:17:39.827289,{},vote,6,1,Sandra Robinson: Robert Evans
+8,2019-03-13 23:11:29.381118,,,,,,t,2019-03-13 23:17:39.839317,{},text,6,1,Sandra Robinson: Hi
+34,2019-03-13 23:17:40.153916,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Sandra Robinson
+35,2019-03-13 23:18:01.317665,,,,,,f,,{},text,2,1,Sara Bright: going very well
+36,2019-03-13 23:18:07.757952,,,,,,f,,{},text,3,1,Kevin Hodge: timothy next
+37,2019-03-13 23:18:20.928217,,,,,,f,,{},vote,2,1,Sara Bright: Timothy Cherry
+38,2019-03-13 23:18:30.584423,,,,,,f,,{},vote,3,1,Kevin Hodge: Timothy Cherry
+26,2019-03-13 23:15:17.468489,,,,,,t,2019-03-13 23:18:49.657848,{},vote,11,1,Timothy Cherry: Sara Bright
+19,2019-03-13 23:13:29.771464,,,,,,t,2019-03-13 23:18:49.671257,{},text,11,1,Timothy Cherry: wow what a game
+14,2019-03-13 23:12:22.040633,,,,,,t,2019-03-13 23:18:49.683916,{},vote,11,1,Timothy Cherry: Terri Brewer
+10,2019-03-13 23:11:35.774552,,,,,,t,2019-03-13 23:18:49.698694,{},text,11,1,Timothy Cherry: hi
+39,2019-03-13 23:18:49.931199,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Timothy Cherry
+40,2019-03-13 23:19:28.817201,,,,,,f,,{},vote,3,1,Kevin Hodge: Scott Nelson
+41,2019-03-13 23:20:17.064896,,,,,,f,,{},text,7,1,Christian Atkinson: if you are in the mafia please say so
+42,2019-03-13 23:21:23.020826,,,,,,f,,{},vote,7,1,Christian Atkinson: Joshua Holland
+43,2019-03-13 23:21:25.734044,,,,,,f,,{},vote,2,1,Sara Bright: Scott Nelson
+44,2019-03-13 23:21:29.814604,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Scott Nelson

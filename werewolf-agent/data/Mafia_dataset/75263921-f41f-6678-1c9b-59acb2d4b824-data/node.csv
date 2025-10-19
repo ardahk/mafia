@@ -1,0 +1,9 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-13 18:05:11.170091,,,,,,f,,{},source,1,
+2,2019-03-13 18:28:00.167877,Brandy Knight,True,,,,f,,{},mafioso,1,9
+10,2019-03-13 18:28:03.095239,Elizabeth Mason,True,,,,f,,{},bystander,1,5
+6,2019-03-13 18:28:00.506722,Kelly Lopez,False,2019-03-13 18:31:45.882925,,,t,2019-03-13 18:29:51.044165,{},bystander,1,11
+8,2019-03-13 18:28:01.278947,Cody Henderson Jr.,False,2019-03-13 18:32:55.529653,,,f,,{},bystander,1,3
+4,2019-03-13 18:28:00.305104,Ronald Smith,False,2019-03-13 18:35:35.421009,,,t,2019-03-13 18:34:11.868458,{},mafioso,1,2
+9,2019-03-13 18:28:02.506831,William Williams,False,2019-03-13 18:36:45.216348,,,f,,{},bystander,1,8
+7,2019-03-13 18:28:00.763337,Adam Davidson,False,2019-03-13 18:39:25.539306,,,f,,{},bystander,1,4

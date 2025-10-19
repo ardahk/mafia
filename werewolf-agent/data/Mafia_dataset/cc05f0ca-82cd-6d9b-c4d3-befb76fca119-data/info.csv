@@ -1,0 +1,72 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-11 21:57:19.163589,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-11 21:57:28.21375,,,,,,f,,{},text,2,1,James Lamb: hello
+3,2019-03-11 21:57:58.395197,,,,,,f,,{},vote,2,1,James Lamb: Clinton Sims
+4,2019-03-11 21:58:15.142548,,,,,,f,,{},vote,3,1,Eric Fisher: Clinton Sims
+5,2019-03-11 21:58:16.599592,,,,,,f,,{},text,3,1,Eric Fisher: oh it started 
+6,2019-03-11 21:58:21.232877,,,,,,f,,{},text,3,1,Eric Fisher: oops
+7,2019-03-11 21:58:24.875744,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Clinton Sims
+8,2019-03-11 21:58:29.003577,,,,,,f,,{},text,2,1,James Lamb: all good
+13,2019-03-11 21:58:42.568389,,,,,,f,,{},text,12,1,Daniel Jones: Hello
+17,2019-03-11 21:58:46.784856,,,,,,f,,{},text,3,1,Eric Fisher: hello
+19,2019-03-11 21:58:53.409245,,,,,,f,,{},text,16,1,Dalton Frazier: Hi
+22,2019-03-11 21:59:02.894192,,,,,,f,,{},vote,2,1,James Lamb: James Martin
+24,2019-03-11 21:59:34.767618,,,,,,f,,{},vote,12,1,Daniel Jones: Eric Fisher
+34,2019-03-11 22:00:52.357187,,,,,,f,,{},vote,3,1,Eric Fisher: James Martin
+36,2019-03-11 22:01:03.186991,,,,,,f,,{},vote,16,1,Dalton Frazier: James Lamb
+28,2019-03-11 21:59:58.015214,,,,,,t,2019-03-11 22:01:04.517744,{},text,15,1,James Martin: NO
+26,2019-03-11 21:59:48.686648,,,,,,t,2019-03-11 22:01:04.540153,{},text,15,1,James Martin: HII
+14,2019-03-11 21:58:42.711569,,,,,,t,2019-03-11 22:01:04.552205,{},text,15,1,James Martin: HELLO
+10,2019-03-11 21:58:33.128503,,,,,,t,2019-03-11 22:01:04.565436,{},text,15,1,James Martin: HI
+9,2019-03-11 21:58:29.947798,,,,,,t,2019-03-11 22:01:04.574632,{},vote,15,1,James Martin: Eric Fisher
+37,2019-03-11 22:01:05.29855,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - James Martin
+39,2019-03-11 22:01:14.660189,,,,,,f,,{},text,3,1,Eric Fisher: 🤔
+40,2019-03-11 22:01:15.638739,,,,,,f,,{},vote,2,1,James Lamb: Rachael Cunningham
+41,2019-03-11 22:01:21.416892,,,,,,f,,{},vote,3,1,Eric Fisher: Rachael Cunningham
+42,2019-03-11 22:01:29.348363,,,,,,f,,{},text,2,1,James Lamb: sorry
+43,2019-03-11 22:01:43.142267,,,,,,f,,{},text,3,1,Eric Fisher: I think my thing is lagging 
+33,2019-03-11 22:00:52.111147,,,,,,t,2019-03-11 22:02:14.232727,{},text,8,1,Rachael Cunningham: Maybe the people who are all voting the same the first day are mafia?
+32,2019-03-11 22:00:30.110872,,,,,,t,2019-03-11 22:02:14.243509,{},text,8,1,Rachael Cunningham: It shows what people are voting for.
+25,2019-03-11 21:59:45.989053,,,,,,t,2019-03-11 22:02:14.255265,{},text,8,1,Rachael Cunningham: Anyone have suggestions?
+18,2019-03-11 21:58:52.45513,,,,,,t,2019-03-11 22:02:14.265325,{},text,8,1,Rachael Cunningham: No idea who to eliminate.
+15,2019-03-11 21:58:43.602829,,,,,,t,2019-03-11 22:02:14.274673,{},text,8,1,Rachael Cunningham: Hello.
+44,2019-03-11 22:02:14.663758,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Rachael Cunningham
+46,2019-03-11 22:02:28.065409,,,,,,f,,{},vote,2,1,James Lamb: Lori Solomon
+49,2019-03-11 22:03:08.342018,,,,,,f,,{},vote,12,1,Daniel Jones: George Le
+50,2019-03-11 22:03:12.176949,,,,,,f,,{},text,3,1,Eric Fisher: I guess rachel was right 😂 
+53,2019-03-11 22:03:28.591753,,,,,,f,,{},vote,3,1,Eric Fisher: George Le
+54,2019-03-11 22:04:03.780434,,,,,,f,,{},text,12,1,Daniel Jones: only mafia can talk and vote at night
+57,2019-03-11 22:04:53.14787,,,,,,f,,{},vote,16,1,Dalton Frazier: Maxwell Reyes
+12,2019-03-11 21:58:40.605114,,,,,,t,2019-03-11 22:04:54.481985,{},text,11,1,George Le: Hi all
+20,2019-03-11 21:58:58.255321,,,,,,t,2019-03-11 22:04:54.489005,{},vote,11,1,George Le: Eric Fisher
+29,2019-03-11 22:00:04.097688,,,,,,t,2019-03-11 22:04:54.495611,{},text,11,1,George Le: No
+45,2019-03-11 22:02:26.418616,,,,,,t,2019-03-11 22:04:54.502606,{},vote,11,1,George Le: Eric Fisher
+48,2019-03-11 22:03:01.144461,,,,,,t,2019-03-11 22:04:54.508589,{},text,11,1,George Le: Mafia can't send messages at night.
+56,2019-03-11 22:04:40.008574,,,,,,t,2019-03-11 22:04:54.514528,{},text,11,1,George Le: ok
+58,2019-03-11 22:04:54.838371,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - George Le
+59,2019-03-11 22:05:20.292267,,,,,,f,,{},vote,2,1,James Lamb: Lori Solomon
+60,2019-03-11 22:05:28.966872,,,,,,f,,{},vote,3,1,Eric Fisher: Lori Solomon
+11,2019-03-11 21:58:35.405054,,,,,,t,2019-03-11 22:06:04.360306,{},text,6,1,Lori Solomon: hello everyone
+21,2019-03-11 21:58:59.368298,,,,,,t,2019-03-11 22:06:04.375929,{},text,6,1,Lori Solomon: same 
+23,2019-03-11 21:59:05.77681,,,,,,t,2019-03-11 22:06:04.39326,{},text,6,1,Lori Solomon: trying to think what we can go off
+27,2019-03-11 21:59:53.001605,,,,,,t,2019-03-11 22:06:04.404218,{},text,6,1,Lori Solomon: anyone have anything to offer. i dont even know what would be suspicious
+30,2019-03-11 22:00:07.83256,,,,,,t,2019-03-11 22:06:04.417057,{},text,6,1,Lori Solomon: who is mafia? 
+31,2019-03-11 22:00:29.394344,,,,,,t,2019-03-11 22:06:04.434071,{},text,6,1,Lori Solomon: too easy well i dont want to just blindly kill so idk
+38,2019-03-11 22:01:05.568899,,,,,,t,2019-03-11 22:06:04.4575,{},text,6,1,Lori Solomon: seems between those two
+51,2019-03-11 22:03:14.092256,,,,,,t,2019-03-11 22:06:04.480255,{},text,6,1,Lori Solomon: hmm well george kept the same person
+52,2019-03-11 22:03:25.269324,,,,,,t,2019-03-11 22:06:04.499647,{},vote,6,1,Lori Solomon: George Le
+63,2019-03-11 22:06:40.361843,,,,,,f,,{},vote,2,1,James Lamb: Maxwell Reyes
+66,2019-03-11 22:07:12.699472,,,,,,f,,{},text,2,1,"James Lamb: Sorry, :)"
+69,2019-03-11 22:08:31.095386,,,,,,f,,{},text,3,1,Eric Fisher: 🤔 I still don't know I'm just going along with the crow d
+70,2019-03-11 22:08:42.896491,,,,,,f,,{},vote,16,1,Dalton Frazier: James Lamb
+16,2019-03-11 21:58:46.220251,,,,,,t,2019-03-11 22:08:44.36103,{},text,14,1,Maxwell Reyes: Hi.
+35,2019-03-11 22:01:02.695115,,,,,,t,2019-03-11 22:08:44.36874,{},vote,14,1,Maxwell Reyes: James Martin
+47,2019-03-11 22:02:59.592509,,,,,,t,2019-03-11 22:08:44.37796,{},vote,14,1,Maxwell Reyes: George Le
+64,2019-03-11 22:06:55.843606,,,,,,t,2019-03-11 22:08:44.386548,{},text,14,1,Maxwell Reyes: That's just mean man! ;)
+55,2019-03-11 22:04:17.347771,,,,,,t,2019-03-11 22:06:04.513617,{},text,6,1,Lori Solomon: maybe james lamb but he changed choices this time maybe to throw off
+61,2019-03-11 22:06:04.795527,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Lori Solomon
+62,2019-03-11 22:06:35.803141,,,,,,f,,{},vote,12,1,Daniel Jones: Maxwell Reyes
+67,2019-03-11 22:07:22.61636,,,,,,t,2019-03-11 22:08:44.393479,{},text,14,1,Maxwell Reyes: No sweat ;)
+68,2019-03-11 22:08:15.878246,,,,,,t,2019-03-11 22:08:44.400083,{},text,14,1,"Maxwell Reyes: Eric, care to weigh in?"
+65,2019-03-11 22:07:04.75328,,,,,,t,2019-03-11 22:08:44.406585,{},vote,14,1,Maxwell Reyes: Daniel Jones
+71,2019-03-11 22:08:44.443068,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Maxwell Reyes

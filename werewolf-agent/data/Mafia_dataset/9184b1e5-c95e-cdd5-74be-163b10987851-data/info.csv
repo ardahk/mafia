@@ -1,0 +1,15 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-01-25 21:12:36.654503,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+4,2019-01-25 21:13:42.009949,,,,,,f,,{},info,1,1,Phase Change to Daytime
+5,2019-01-25 21:13:52.609785,,,,,,f,,{},text,7,1,Sarah Williams: Morning at last.
+8,2019-01-25 21:14:01.101548,,,,,,f,,{},vote,7,1,Sarah Williams: Jennifer Diaz
+9,2019-01-25 21:14:01.970393,,,,,,f,,{},text,4,1,Theresa Torres: Hello
+10,2019-01-25 21:14:27.871592,,,,,,f,,{},text,6,1,Joshua Hebert Jr.: Hi
+11,2019-01-25 21:14:47.842566,,,,,,f,,{},vote,6,1,Joshua Hebert Jr.: Jennifer Diaz
+13,2019-01-25 21:15:08.506274,,,,,,f,,{},vote,4,1,Theresa Torres: Jennifer Diaz
+12,2019-01-25 21:14:56.13181,,,,,,t,2019-01-25 21:16:21.960777,{},text,2,1,Jennifer Diaz: Who's next...
+7,2019-01-25 21:13:57.784914,,,,,,t,2019-01-25 21:16:21.970925,{},vote,2,1,Jennifer Diaz: Sarah Williams
+6,2019-01-25 21:13:55.876851,,,,,,t,2019-01-25 21:16:21.977993,{},text,2,1,Jennifer Diaz: Hi again
+3,2019-01-25 21:12:59.727188,,,,,,t,2019-01-25 21:16:21.985002,{},text,2,1,Jennifer Diaz: Hi
+2,2019-01-25 21:12:57.534423,,,,,,t,2019-01-25 21:16:21.991886,{},vote,2,1,Jennifer Diaz: Connie Franklin
+14,2019-01-25 21:16:22.136489,,,,,,f,,{},info,1,1,Phase Change to Nighttime

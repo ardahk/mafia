@@ -1,0 +1,7 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-01-25 20:55:19.48106,,,,,,f,,{},source,1,
+4,2019-01-25 21:12:36.874877,Theresa Torres,True,,,,f,,{},bystander,1,1
+6,2019-01-25 21:12:38.652487,Joshua Hebert Jr.,True,,,,f,,{},bystander,1,5
+7,2019-01-25 21:12:39.790867,Sarah Williams,True,,,,f,,{},bystander,1,2
+3,2019-01-25 21:12:36.807707,Connie Franklin,False,2019-01-25 21:13:42.065571,,,f,,{},bystander,1,4
+2,2019-01-25 21:12:36.592817,Jennifer Diaz,False,2019-01-25 21:16:22.230066,,,f,,{},mafioso,1,3

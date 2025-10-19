@@ -1,0 +1,96 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-12 01:07:42.718865,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-12 01:08:00.843361,,,,,,f,,{},text,4,1,Riley Webster: Hello
+3,2019-03-12 01:08:07.323776,,,,,,f,,{},text,2,1,Amy Lewis: Ok obviously Daniel King MD
+4,2019-03-12 01:08:20.432233,,,,,,f,,{},text,2,1,Amy Lewis: Obviously
+5,2019-03-12 01:08:20.542756,,,,,,f,,{},vote,4,1,Riley Webster: Daniel King MD
+6,2019-03-12 01:08:23.418841,,,,,,f,,{},text,2,1,Amy Lewis: And hello
+7,2019-03-12 01:08:33.113552,,,,,,f,,{},vote,2,1,Amy Lewis: Daniel King MD
+8,2019-03-12 01:08:44.179641,,,,,,f,,{},text,4,1,Riley Webster: Yes I say Daniel King
+9,2019-03-12 01:08:49.240001,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Daniel King MD
+10,2019-03-12 01:09:05.569823,,,,,,f,,{},text,9,1,Shannon Diaz: hi team
+12,2019-03-12 01:09:13.064528,,,,,,f,,{},vote,9,1,Shannon Diaz: Mary Mata
+13,2019-03-12 01:09:13.113564,,,,,,f,,{},text,2,1,Amy Lewis: Ok obviously William Frank MD
+15,2019-03-12 01:09:26.217519,,,,,,f,,{},text,2,1,Amy Lewis: And hello
+17,2019-03-12 01:09:30.604519,,,,,,f,,{},text,4,1,Riley Webster: William Frank MD 
+18,2019-03-12 01:09:34.519497,,,,,,f,,{},text,10,1,Kimberly Harris: Kimberly Harris
+21,2019-03-12 01:09:44.377494,,,,,,f,,{},text,4,1,Riley Webster: Good idea
+23,2019-03-12 01:09:51.46865,,,,,,f,,{},text,9,1,Shannon Diaz: okay
+25,2019-03-12 01:09:56.709371,,,,,,f,,{},text,4,1,Riley Webster: How
+29,2019-03-12 01:10:16.484645,,,,,,f,,{},vote,10,1,Kimberly Harris: William Frank MD
+30,2019-03-12 01:10:17.740565,,,,,,f,,{},vote,2,1,Amy Lewis: William Frank MD
+32,2019-03-12 01:10:22.89876,,,,,,f,,{},vote,4,1,Riley Webster: William Frank MD
+34,2019-03-12 01:10:28.750894,,,,,,f,,{},text,9,1,Shannon Diaz: oos sorry mary
+37,2019-03-12 01:10:48.797458,,,,,,f,,{},text,4,1,Riley Webster: Sorry William
+38,2019-03-12 01:10:51.25261,,,,,,f,,{},text,9,1,Shannon Diaz: :)
+43,2019-03-12 01:11:10.396961,,,,,,f,,{},text,4,1,Riley Webster: Bye Bye
+44,2019-03-12 01:11:21.03298,,,,,,f,,{},text,9,1,Shannon Diaz: bye
+41,2019-03-12 01:11:03.522699,,,,,,t,2019-03-12 01:11:29.068084,{},text,12,1,William Frank MD: bye
+40,2019-03-12 01:11:01.087311,,,,,,t,2019-03-12 01:11:29.074194,{},text,12,1,William Frank MD: No prop
+31,2019-03-12 01:10:19.789331,,,,,,t,2019-03-12 01:11:29.07974,{},vote,12,1,William Frank MD: Riley Webster
+27,2019-03-12 01:10:06.65657,,,,,,t,2019-03-12 01:11:29.085455,{},text,12,1,William Frank MD: Riley
+20,2019-03-12 01:09:42.451042,,,,,,t,2019-03-12 01:11:29.09078,{},text,12,1,William Frank MD: yelloooo
+45,2019-03-12 01:11:29.502432,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - William Frank MD
+46,2019-03-12 01:11:43.473571,,,,,,f,,{},text,2,1,Amy Lewis: All right you pick
+47,2019-03-12 01:11:53.171241,,,,,,f,,{},vote,4,1,Riley Webster: Russell Harding
+48,2019-03-12 01:12:05.181664,,,,,,f,,{},text,4,1,Riley Webster: Sorry Russell
+49,2019-03-12 01:12:16.499155,,,,,,f,,{},text,2,1,Amy Lewis: he was first on the list
+50,2019-03-12 01:12:18.87975,,,,,,f,,{},vote,2,1,Amy Lewis: Russell Harding
+51,2019-03-12 01:12:26.246388,,,,,,f,,{},text,4,1,Riley Webster: Yes
+52,2019-03-12 01:12:39.096046,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Russell Harding
+53,2019-03-12 01:12:52.527446,,,,,,f,,{},text,9,1,Shannon Diaz: I say Damon
+58,2019-03-12 01:13:09.277904,,,,,,f,,{},text,10,1,Kimberly Harris: Mary Mata
+59,2019-03-12 01:13:11.486426,,,,,,f,,{},text,4,1,Riley Webster: I say Jamie
+60,2019-03-12 01:13:13.75469,,,,,,f,,{},text,9,1,Shannon Diaz: sorry!
+64,2019-03-12 01:13:33.78736,,,,,,f,,{},vote,4,1,Riley Webster: Jamie Sanchez
+65,2019-03-12 01:13:35.691406,,,,,,f,,{},vote,9,1,Shannon Diaz: Damon Ryan
+66,2019-03-12 01:13:44.391525,,,,,,f,,{},vote,10,1,Kimberly Harris: Mary Mata
+67,2019-03-12 01:13:52.673399,,,,,,f,,{},vote,2,1,Amy Lewis: Damon Ryan
+68,2019-03-12 01:13:54.501138,,,,,,f,,{},text,4,1,Riley Webster: Say goodnight.
+70,2019-03-12 01:14:46.058168,,,,,,f,,{},text,9,1,Shannon Diaz: Jamie are you sure about Amy or Riley?
+71,2019-03-12 01:15:02.576142,,,,,,f,,{},text,4,1,Riley Webster: Oh boy
+73,2019-03-12 01:15:17.558978,,,,,,f,,{},text,2,1,Amy Lewis: yeah i'm mafia vote for me
+16,2019-03-12 01:09:27.651592,,,,,,t,2019-03-12 01:15:19.105226,{},text,13,1,Damon Ryan: hi
+33,2019-03-12 01:10:26.669624,,,,,,t,2019-03-12 01:15:19.115418,{},vote,13,1,Damon Ryan: William Frank MD
+57,2019-03-12 01:13:04.565251,,,,,,t,2019-03-12 01:15:19.125079,{},text,13,1,Damon Ryan: ouch
+75,2019-03-12 01:15:31.835945,,,,,,f,,{},text,2,1,Amy Lewis: ok i think mary mata
+76,2019-03-12 01:15:47.052093,,,,,,f,,{},text,4,1,Riley Webster: Was thinking her as well.
+11,2019-03-12 01:09:05.619609,,,,,,t,2019-03-12 01:16:28.856956,{},text,6,1,Mary Mata: Hello!
+19,2019-03-12 01:09:35.670674,,,,,,t,2019-03-12 01:16:28.862703,{},text,6,1,Mary Mata: Lets off William!
+81,2019-03-12 01:16:49.229575,,,,,,f,,{},text,9,1,Shannon Diaz: So any guesses?
+82,2019-03-12 01:16:57.331486,,,,,,f,,{},text,10,1,Kimberly Harris: Mary Mata
+83,2019-03-12 01:17:07.20837,,,,,,f,,{},text,4,1,Riley Webster: Mary.
+84,2019-03-12 01:17:10.927472,,,,,,f,,{},text,9,1,Shannon Diaz: is she still here?
+86,2019-03-12 01:17:31.622465,,,,,,f,,{},text,10,1,Kimberly Harris: guess not
+87,2019-03-12 01:17:40.603807,,,,,,f,,{},text,4,1,Riley Webster: Then Jamie.
+14,2019-03-12 01:09:13.510622,,,,,,t,2019-03-12 01:19:09.038265,{},text,8,1,Jamie Sanchez: Hi
+24,2019-03-12 01:09:52.344595,,,,,,t,2019-03-12 01:19:09.044261,{},text,8,1,Jamie Sanchez: amy lewis
+26,2019-03-12 01:10:06.463949,,,,,,t,2019-03-12 01:19:09.049924,{},vote,8,1,Jamie Sanchez: Amy Lewis
+55,2019-03-12 01:12:56.266377,,,,,,t,2019-03-12 01:19:09.055764,{},text,8,1,Jamie Sanchez: Amy lewis or Riley both are mafia
+63,2019-03-12 01:13:22.971332,,,,,,t,2019-03-12 01:19:09.061869,{},vote,8,1,Jamie Sanchez: Amy Lewis
+69,2019-03-12 01:14:07.128087,,,,,,t,2019-03-12 01:15:19.134937,{},vote,13,1,Damon Ryan: Amy Lewis
+74,2019-03-12 01:15:19.459079,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Damon Ryan
+77,2019-03-12 01:15:54.739945,,,,,,f,,{},vote,4,1,Riley Webster: Mary Mata
+78,2019-03-12 01:15:56.584186,,,,,,f,,{},vote,2,1,Amy Lewis: Mary Mata
+79,2019-03-12 01:16:15.14853,,,,,,f,,{},text,4,1,Riley Webster: Say bye bye Mary
+22,2019-03-12 01:09:47.241778,,,,,,t,2019-03-12 01:16:28.868514,{},vote,6,1,Mary Mata: William Frank MD
+28,2019-03-12 01:10:09.967279,,,,,,t,2019-03-12 01:16:28.874386,{},text,6,1,Mary Mata: Vote in the dropdown menu
+35,2019-03-12 01:10:34.114491,,,,,,t,2019-03-12 01:16:28.880638,{},text,6,1,Mary Mata: It's ok
+36,2019-03-12 01:10:45.063927,,,,,,t,2019-03-12 01:16:28.88663,{},text,6,1,Mary Mata: Just a game peeps
+39,2019-03-12 01:10:55.504779,,,,,,t,2019-03-12 01:16:28.894371,{},text,6,1,Mary Mata: Later William!
+42,2019-03-12 01:11:07.976199,,,,,,t,2019-03-12 01:16:28.901916,{},text,6,1,Mary Mata: Bye
+54,2019-03-12 01:12:54.68833,,,,,,t,2019-03-12 01:16:28.908359,{},text,6,1,"Mary Mata: Okay, so someone needs to sleep with the fishes"
+56,2019-03-12 01:13:01.505539,,,,,,t,2019-03-12 01:16:28.914711,{},text,6,1,Mary Mata: Damon sounds good
+61,2019-03-12 01:13:18.344628,,,,,,t,2019-03-12 01:16:28.920672,{},text,6,1,Mary Mata: Sorry Damon.
+62,2019-03-12 01:13:21.023599,,,,,,t,2019-03-12 01:16:28.927192,{},vote,6,1,Mary Mata: Damon Ryan
+80,2019-03-12 01:16:29.081029,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Mary Mata
+85,2019-03-12 01:17:29.193981,,,,,,f,,{},text,9,1,Shannon Diaz: I don't see her name
+88,2019-03-12 01:17:56.59084,,,,,,f,,{},text,10,1,Kimberly Harris: yep
+89,2019-03-12 01:18:01.872334,,,,,,f,,{},vote,10,1,Kimberly Harris: Jamie Sanchez
+90,2019-03-12 01:18:04.095285,,,,,,f,,{},text,9,1,Shannon Diaz: okay
+91,2019-03-12 01:18:18.469288,,,,,,f,,{},vote,9,1,Shannon Diaz: Jamie Sanchez
+93,2019-03-12 01:18:40.020834,,,,,,f,,{},vote,2,1,Amy Lewis: Jamie Sanchez
+94,2019-03-12 01:18:45.445213,,,,,,f,,{},vote,4,1,Riley Webster: Jamie Sanchez
+72,2019-03-12 01:15:13.377379,,,,,,t,2019-03-12 01:19:09.067692,{},text,8,1,Jamie Sanchez: First to act against what was a bystander
+92,2019-03-12 01:18:26.535244,,,,,,t,2019-03-12 01:19:09.073766,{},vote,8,1,Jamie Sanchez: Kimberly Harris
+95,2019-03-12 01:19:09.101877,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Jamie Sanchez

@@ -1,0 +1,59 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-16 00:11:10.170523,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-16 00:11:31.384684,,,,,,f,,{},text,2,1,Christine Peterson: Hi
+3,2019-03-16 00:11:58.25178,,,,,,f,,{},text,2,1,Christine Peterson: I'm going to vote we eliminate Henry Bowers
+4,2019-03-16 00:12:02.354165,,,,,,f,,{},text,3,1,Louis Webb: Hey!
+5,2019-03-16 00:12:02.478287,,,,,,f,,{},vote,2,1,Christine Peterson: Henry Bowers
+6,2019-03-16 00:12:14.351817,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Henry Bowers
+7,2019-03-16 00:12:16.035118,,,,,,f,,{},text,3,1,Louis Webb: me too!
+10,2019-03-16 00:12:58.156442,,,,,,f,,{},text,3,1,Louis Webb: No i'm a voter
+13,2019-03-16 00:13:05.351266,,,,,,f,,{},text,6,1,Christina Figueroa: justin rivas jr?
+14,2019-03-16 00:13:13.258735,,,,,,f,,{},vote,2,1,Christine Peterson: Justin Rivas Jr.
+15,2019-03-16 00:13:15.844584,,,,,,f,,{},vote,6,1,Christina Figueroa: Justin Rivas Jr.
+17,2019-03-16 00:13:22.048348,,,,,,f,,{},text,7,1,Kevin Pearson: Kevin Pearson
+19,2019-03-16 00:13:45.507352,,,,,,f,,{},text,3,1,Louis Webb: lol
+21,2019-03-16 00:14:00.929508,,,,,,f,,{},text,3,1,Louis Webb: i agree
+24,2019-03-16 00:14:19.788334,,,,,,f,,{},vote,7,1,Kevin Pearson: Justin Rivas Jr.
+25,2019-03-16 00:14:21.726491,,,,,,f,,{},vote,3,1,Louis Webb: Abigail Perez
+27,2019-03-16 00:14:39.007818,,,,,,t,2019-03-16 00:14:53.714378,{},vote,8,1,Justin Rivas Jr.: Abigail Perez
+22,2019-03-16 00:14:02.575723,,,,,,t,2019-03-16 00:14:53.72432,{},text,8,1,Justin Rivas Jr.: so do we want to vote off someone
+18,2019-03-16 00:13:36.305215,,,,,,t,2019-03-16 00:14:53.732847,{},text,8,1,Justin Rivas Jr.: that is you right?
+16,2019-03-16 00:13:15.981484,,,,,,t,2019-03-16 00:14:53.741889,{},text,8,1,Justin Rivas Jr.: I am a bystander
+12,2019-03-16 00:13:01.685209,,,,,,t,2019-03-16 00:14:53.750756,{},text,8,1,Justin Rivas Jr.: who do you think the mafia is
+28,2019-03-16 00:14:54.156429,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Justin Rivas Jr.
+29,2019-03-16 00:15:10.085815,,,,,,f,,{},text,2,1,Christine Peterson: You completely revealed yourself and they still didn't realize you where mafia the heck lol
+30,2019-03-16 00:15:15.947781,,,,,,f,,{},text,3,1,Louis Webb: hahahaha!
+31,2019-03-16 00:15:28.487778,,,,,,f,,{},text,2,1,Christine Peterson: Ok so they think it's abigail
+32,2019-03-16 00:15:32.208448,,,,,,f,,{},text,2,1,Christine Peterson: let's not vote for them
+33,2019-03-16 00:15:44.115894,,,,,,f,,{},text,2,1,Christine Peterson: I say we elinate
+34,2019-03-16 00:15:51.527088,,,,,,f,,{},text,2,1,Christine Peterson: Trevor brown
+35,2019-03-16 00:15:55.336161,,,,,,f,,{},text,3,1,Louis Webb: ok
+36,2019-03-16 00:15:58.248391,,,,,,f,,{},vote,2,1,Christine Peterson: Trevor Brown
+37,2019-03-16 00:15:58.393623,,,,,,f,,{},vote,3,1,Louis Webb: Trevor Brown
+26,2019-03-16 00:14:35.158823,,,,,,t,2019-03-16 00:16:03.357718,{},vote,5,1,Trevor Brown: Abigail Perez
+20,2019-03-16 00:13:45.796198,,,,,,t,2019-03-16 00:16:03.365607,{},text,5,1,Trevor Brown: abigail perez is mafia
+9,2019-03-16 00:12:46.20129,,,,,,t,2019-03-16 00:16:03.372813,{},text,5,1,Trevor Brown: louis are you a bystander?
+38,2019-03-16 00:16:03.587459,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Trevor Brown
+41,2019-03-16 00:16:19.390485,,,,,,f,,{},vote,6,1,Christina Figueroa: Abigail Perez
+42,2019-03-16 00:16:21.499386,,,,,,f,,{},vote,2,1,Christine Peterson: Abigail Perez
+43,2019-03-16 00:16:31.837618,,,,,,f,,{},vote,3,1,Louis Webb: Abigail Perez
+45,2019-03-16 00:17:29.457903,,,,,,f,,{},text,3,1,Louis Webb: That's what somebody in the mafia would say!
+48,2019-03-16 00:18:32.280876,,,,,,f,,{},vote,7,1,Kevin Pearson: Abigail Perez
+49,2019-03-16 00:18:32.947462,,,,,,f,,{},text,6,1,Christina Figueroa: what about kevin?
+8,2019-03-16 00:12:25.950083,,,,,,t,2019-03-16 00:18:43.627618,{},vote,9,1,Abigail Perez: Justin Rivas Jr.
+40,2019-03-16 00:16:11.366909,,,,,,t,2019-03-16 00:18:43.644866,{},vote,9,1,Abigail Perez: Jordan Vincent
+44,2019-03-16 00:17:14.723359,,,,,,t,2019-03-16 00:18:43.655595,{},text,9,1,"Abigail Perez: I'm a bystander, duh "
+47,2019-03-16 00:17:51.306205,,,,,,t,2019-03-16 00:18:43.666385,{},text,9,1,Abigail Perez: Jordan is mobster
+50,2019-03-16 00:18:43.875321,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Abigail Perez
+51,2019-03-16 00:19:03.235429,,,,,,f,,{},text,2,1,Christine Peterson: Ok now let's eliminate Jordan then outnumber vote kevin
+52,2019-03-16 00:19:07.204231,,,,,,f,,{},text,2,1,Christine Peterson: since kevin seems very quiet
+53,2019-03-16 00:19:12.456027,,,,,,f,,{},text,2,1,Christine Peterson: what you think?
+54,2019-03-16 00:19:18.790744,,,,,,f,,{},text,3,1,Louis Webb: Yeah I think that is a good plan
+55,2019-03-16 00:19:22.933241,,,,,,f,,{},vote,2,1,Christine Peterson: Jordan Vincent
+56,2019-03-16 00:19:33.921355,,,,,,f,,{},vote,3,1,Louis Webb: Jordan Vincent
+57,2019-03-16 00:19:36.686182,,,,,,f,,{},text,2,1,Christine Peterson: I think Christina will believe us
+11,2019-03-16 00:12:58.650424,,,,,,t,2019-03-16 00:19:53.409672,{},vote,4,1,Jordan Vincent: Justin Rivas Jr.
+23,2019-03-16 00:14:03.580388,,,,,,t,2019-03-16 00:19:53.416827,{},text,4,1,Jordan Vincent: Yes
+39,2019-03-16 00:16:07.17877,,,,,,t,2019-03-16 00:19:53.42449,{},vote,4,1,Jordan Vincent: Abigail Perez
+46,2019-03-16 00:17:34.912249,,,,,,t,2019-03-16 00:19:53.431731,{},text,4,1,Jordan Vincent: Lol
+58,2019-03-16 00:19:53.468962,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Jordan Vincent

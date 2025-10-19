@@ -1,0 +1,80 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-15 17:54:16.895882,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-15 17:54:26.420514,,,,,,f,,{},text,2,1,Mike Burton: Hello
+3,2019-03-15 17:54:31.92948,,,,,,f,,{},text,3,1,William Holmes: How's it going
+4,2019-03-15 17:54:42.487418,,,,,,f,,{},text,2,1,"Mike Burton: Good, who should we eliminate?"
+5,2019-03-15 17:54:51.111022,,,,,,f,,{},text,3,1,William Holmes: Dillon?
+6,2019-03-15 17:54:55.503528,,,,,,f,,{},text,2,1,Mike Burton: Ok
+7,2019-03-15 17:54:59.816946,,,,,,f,,{},vote,2,1,Mike Burton: Dillon Goodwin
+8,2019-03-15 17:55:03.147715,,,,,,f,,{},vote,3,1,William Holmes: Dillon Goodwin
+9,2019-03-15 17:55:13.111724,,,,,,f,,{},text,3,1,William Holmes: voted
+10,2019-03-15 17:55:19.405009,,,,,,f,,{},text,2,1,Mike Burton: same
+11,2019-03-15 17:55:22.939077,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Dillon Goodwin
+12,2019-03-15 17:55:37.512809,,,,,,f,,{},vote,14,1,Charles Graham: Rodney Maynard
+14,2019-03-15 17:55:56.675524,,,,,,f,,{},text,2,1,Mike Burton: what about now?
+17,2019-03-15 17:56:15.090962,,,,,,f,,{},text,13,1,Rodney Maynard: I'm a bystander too.  Girl named Rodney  lol
+18,2019-03-15 17:56:24.846783,,,,,,f,,{},text,2,1,Mike Burton: I am also a bystander
+19,2019-03-15 17:56:34.247755,,,,,,f,,{},text,3,1,William Holmes: Same
+21,2019-03-15 17:56:41.325583,,,,,,f,,{},text,14,1,Charles Graham: me too
+22,2019-03-15 17:56:54.289194,,,,,,f,,{},text,14,1,Charles Graham: says the bot
+23,2019-03-15 17:56:56.510635,,,,,,f,,{},text,3,1,William Holmes: Sharon didn't answer
+24,2019-03-15 17:57:07.033672,,,,,,f,,{},vote,13,1,Rodney Maynard: Sharon Parker
+27,2019-03-15 17:57:12.5186,,,,,,f,,{},vote,3,1,William Holmes: Sharon Parker
+32,2019-03-15 17:57:25.6012,,,,,,f,,{},vote,2,1,Mike Burton: Sandra Reese
+34,2019-03-15 17:57:40.933499,,,,,,f,,{},text,2,1,Mike Burton: Not sure
+36,2019-03-15 17:57:59.593396,,,,,,f,,{},text,3,1,William Holmes: Someone's a fibber
+30,2019-03-15 17:57:22.449866,,,,,,t,2019-03-15 17:58:02.225242,{},vote,10,1,Sharon Parker: Rodney Maynard
+25,2019-03-15 17:57:07.926996,,,,,,t,2019-03-15 17:58:02.234571,{},text,10,1,Sharon Parker: im a bystander
+37,2019-03-15 17:58:02.699731,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Sharon Parker
+39,2019-03-15 17:58:12.355975,,,,,,f,,{},text,2,1,Mike Burton: Who do we pick now?
+40,2019-03-15 17:58:31.447743,,,,,,f,,{},text,3,1,William Holmes: Scott?
+41,2019-03-15 17:58:32.742609,,,,,,f,,{},vote,2,1,Mike Burton: Sandra Reese
+42,2019-03-15 17:58:40.703529,,,,,,f,,{},text,2,1,Mike Burton: I voted Sandra out
+43,2019-03-15 17:58:42.893127,,,,,,f,,{},text,3,1,William Holmes: Next during the day let's pick Sandra
+44,2019-03-15 17:58:52.140558,,,,,,f,,{},text,2,1,Mike Burton: ah shoot i already choose
+45,2019-03-15 17:58:53.728908,,,,,,f,,{},text,2,1,Mike Burton: my bad
+46,2019-03-15 17:58:55.128843,,,,,,f,,{},text,3,1,"William Holmes: Ok, scott next then"
+47,2019-03-15 17:58:58.889055,,,,,,f,,{},text,2,1,Mike Burton: ok
+48,2019-03-15 17:59:00.176516,,,,,,f,,{},vote,3,1,William Holmes: Sandra Reese
+35,2019-03-15 17:57:44.938549,,,,,,t,2019-03-15 17:59:12.183644,{},vote,9,1,Sandra Reese: Sharon Parker
+15,2019-03-15 17:55:58.639402,,,,,,t,2019-03-15 17:59:12.214083,{},text,9,1,"Sandra Reese: I'm a bystander...and a girl, I guess."
+49,2019-03-15 17:59:13.144256,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Sandra Reese
+50,2019-03-15 17:59:18.199132,,,,,,f,,{},text,13,1,Rodney Maynard: We got one of our own :(  
+51,2019-03-15 17:59:20.664081,,,,,,f,,{},vote,3,1,William Holmes: Scott Thomas
+53,2019-03-15 17:59:27.561405,,,,,,f,,{},text,2,1,Mike Burton: I think scott is sketchy
+54,2019-03-15 17:59:31.188427,,,,,,f,,{},vote,2,1,Mike Burton: Scott Thomas
+55,2019-03-15 17:59:37.105696,,,,,,f,,{},vote,14,1,Charles Graham: Scott Thomas
+56,2019-03-15 17:59:42.078752,,,,,,f,,{},text,13,1,"Rodney Maynard: Okay, let's go with him."
+58,2019-03-15 17:59:45.913274,,,,,,f,,{},text,3,1,"William Holmes: Yea, I agree"
+59,2019-03-15 17:59:46.396928,,,,,,f,,{},vote,13,1,Rodney Maynard: Scott Thomas
+63,2019-03-15 18:00:20.033577,,,,,,f,,{},text,14,1,Charles Graham: so long
+64,2019-03-15 18:00:28.391359,,,,,,f,,{},text,13,1,"Rodney Maynard: Aw Scott, now I'm feeling sorry for you."
+65,2019-03-15 18:00:34.094884,,,,,,f,,{},text,3,1,William Holmes: I'm not
+68,2019-03-15 18:01:01.318492,,,,,,f,,{},text,3,1,William Holmes: Then I'm sorry
+69,2019-03-15 18:01:03.10865,,,,,,f,,{},text,13,1,"Rodney Maynard: They said you, not me.  I just went along...."
+72,2019-03-15 18:01:47.012373,,,,,,f,,{},text,3,1,"William Holmes: Ok, now I'm glad you're voted out "
+16,2019-03-15 17:56:05.059554,,,,,,t,2019-03-15 18:01:52.187041,{},vote,5,1,Scott Thomas: Judith Sharp
+74,2019-03-15 18:02:01.535656,,,,,,f,,{},text,2,1,Mike Burton: who do we choose now>
+75,2019-03-15 18:02:12.87523,,,,,,f,,{},text,3,1,"William Holmes: Let's go with Judith, then during the day let's go with Rodney"
+76,2019-03-15 18:02:19.10484,,,,,,f,,{},text,2,1,Mike Burton: ok
+78,2019-03-15 18:02:23.156858,,,,,,f,,{},vote,2,1,Mike Burton: Judith Sharp
+13,2019-03-15 17:55:46.990757,,,,,,t,2019-03-15 18:03:02.069693,{},vote,12,1,Judith Sharp: Sandra Reese
+28,2019-03-15 17:57:16.580716,,,,,,t,2019-03-15 18:03:02.08076,{},text,12,1,Judith Sharp: yes
+29,2019-03-15 17:57:21.748042,,,,,,t,2019-03-15 18:03:02.090553,{},text,12,1,Judith Sharp: hxcbv
+31,2019-03-15 17:57:25.158561,,,,,,t,2019-03-15 18:03:02.099124,{},text,12,1,Judith Sharp: xjfhuishf
+60,2019-03-15 17:59:56.889614,,,,,,t,2019-03-15 18:03:02.107299,{},text,12,1,Judith Sharp: bsdfyhidu
+71,2019-03-15 18:01:38.96748,,,,,,t,2019-03-15 18:03:02.11462,{},text,12,1,Judith Sharp: yes
+20,2019-03-15 17:56:39.80492,,,,,,t,2019-03-15 18:01:52.194559,{},text,5,1,Scott Thomas: I'm a bystander too... NOT MAFIA.. not a bot.
+26,2019-03-15 17:57:11.535977,,,,,,t,2019-03-15 18:01:52.201676,{},text,5,1,Scott Thomas: Just don't captcha me dude.
+33,2019-03-15 17:57:28.737274,,,,,,t,2019-03-15 18:01:52.208458,{},text,5,1,Scott Thomas: Who is the mafia?
+38,2019-03-15 17:58:03.105769,,,,,,t,2019-03-15 18:01:52.217726,{},text,5,1,Scott Thomas: I pretty much guess they won't say.. right?
+52,2019-03-15 17:59:27.0097,,,,,,t,2019-03-15 18:01:52.231538,{},text,5,1,Scott Thomas: Oh my God I'm alive.
+57,2019-03-15 17:59:42.967343,,,,,,t,2019-03-15 18:01:52.246169,{},text,5,1,Scott Thomas: nope nope nope..it isn't me.. I promise.
+61,2019-03-15 17:59:59.102887,,,,,,t,2019-03-15 18:01:52.257175,{},text,5,1,Scott Thomas: Don't do it.. I'm really not a Mafia.
+62,2019-03-15 18:00:10.569648,,,,,,t,2019-03-15 18:01:52.268193,{},text,5,1,"Scott Thomas: I'm...Melting,.,"
+66,2019-03-15 18:00:37.908686,,,,,,t,2019-03-15 18:01:52.278357,{},text,5,1,Scott Thomas: you should
+67,2019-03-15 18:00:44.841196,,,,,,t,2019-03-15 18:01:52.289979,{},vote,5,1,Scott Thomas: Rodney Maynard
+70,2019-03-15 18:01:28.854268,,,,,,t,2019-03-15 18:01:52.30093,{},text,5,1,Scott Thomas: Yeah.. that's what all the Nazis said.
+73,2019-03-15 18:01:52.55068,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Scott Thomas
+77,2019-03-15 18:02:21.71556,,,,,,f,,{},vote,3,1,William Holmes: Judith Sharp
+79,2019-03-15 18:03:02.153497,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Judith Sharp

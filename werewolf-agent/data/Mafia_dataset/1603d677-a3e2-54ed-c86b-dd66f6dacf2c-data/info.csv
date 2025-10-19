@@ -1,0 +1,74 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-13 18:14:33.125675,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+7,2019-03-13 18:15:37.856094,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Frances Kelly
+8,2019-03-13 18:15:45.240134,,,,,,f,,{},vote,14,1,Frances Kelly: Shawn Bailey
+11,2019-03-13 18:15:58.195739,,,,,,f,,{},text,13,1,Alicia Randall: Bystander here
+12,2019-03-13 18:16:02.689486,,,,,,f,,{},text,12,1,Chad Collins: i am a bystander too.
+13,2019-03-13 18:16:05.211998,,,,,,f,,{},text,7,1,Gabriel Durham: Bystander too.
+17,2019-03-13 18:16:19.777676,,,,,,f,,{},text,13,1,Alicia Randall: Wow isn't that convenient
+18,2019-03-13 18:16:22.152594,,,,,,f,,{},text,5,1,Stephen Clark: Right.
+20,2019-03-13 18:16:37.43334,,,,,,f,,{},vote,12,1,Chad Collins: Alicia Randall
+21,2019-03-13 18:16:43.521121,,,,,,f,,{},vote,5,1,Stephen Clark: Diane Mooney
+24,2019-03-13 18:16:56.51649,,,,,,f,,{},vote,13,1,Alicia Randall: Diane Mooney
+25,2019-03-13 18:17:02.088206,,,,,,f,,{},vote,7,1,Gabriel Durham: Donna Cook
+31,2019-03-13 18:17:52.561416,,,,,,f,,{},text,13,1,Alicia Randall: Noooooo
+32,2019-03-13 18:18:10.522055,,,,,,t,2019-03-13 18:18:17.659554,{},text,11,1,Diane Mooney: Jordan may was the first to accuse me. they are mafia
+30,2019-03-13 18:17:30.389237,,,,,,t,2019-03-13 18:18:17.669097,{},text,11,1,Diane Mooney: rip me
+29,2019-03-13 18:17:26.498426,,,,,,t,2019-03-13 18:18:17.677825,{},text,11,1,Diane Mooney: you guys just killed a bystander
+27,2019-03-13 18:17:11.607332,,,,,,t,2019-03-13 18:18:17.685371,{},vote,11,1,Diane Mooney: Jordan May
+10,2019-03-13 18:15:47.928922,,,,,,t,2019-03-13 18:18:17.692778,{},text,11,1,Diane Mooney: I am a bystander. dont kill me
+33,2019-03-13 18:18:18.374548,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Diane Mooney
+19,2019-03-13 18:16:34.578535,,,,,,t,2019-03-13 18:19:27.299718,{},vote,9,1,Jordan May: Diane Mooney
+16,2019-03-13 18:16:17.871723,,,,,,t,2019-03-13 18:19:27.307345,{},text,9,1,Jordan May: Bystander here also
+39,2019-03-13 18:19:27.742565,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Jordan May
+41,2019-03-13 18:19:54.489776,,,,,,f,,{},vote,13,1,Alicia Randall: Shawn Bailey
+42,2019-03-13 18:20:08.431849,,,,,,f,,{},text,7,1,"Gabriel Durham: Well, then... "
+44,2019-03-13 18:20:31.212967,,,,,,f,,{},vote,5,1,Stephen Clark: Shawn Bailey
+45,2019-03-13 18:20:33.474946,,,,,,f,,{},vote,12,1,Chad Collins: Donna Cook
+50,2019-03-13 18:21:21.527942,,,,,,f,,{},vote,7,1,Gabriel Durham: Shawn Bailey
+3,2019-03-13 18:15:15.926338,,,,,,t,2019-03-13 18:22:07.469682,{},text,4,1,Shawn Bailey: Hi 
+4,2019-03-13 18:15:26.813302,,,,,,t,2019-03-13 18:22:07.478159,{},text,4,1,Shawn Bailey: Who should we eliminate tonight? 
+6,2019-03-13 18:15:33.627208,,,,,,t,2019-03-13 18:22:07.48508,{},vote,4,1,Shawn Bailey: Frances Kelly
+9,2019-03-13 18:15:46.673216,,,,,,t,2019-03-13 18:22:07.493161,{},text,4,1,Shawn Bailey: Sounds good to me. 
+22,2019-03-13 18:16:47.794627,,,,,,t,2019-03-13 18:22:07.500395,{},vote,4,1,Shawn Bailey: Diane Mooney
+34,2019-03-13 18:18:27.610353,,,,,,t,2019-03-13 18:22:07.510004,{},text,4,1,"Shawn Bailey: Okay, so we're going to go with Jordan?"
+36,2019-03-13 18:18:42.247445,,,,,,t,2019-03-13 18:22:07.518924,{},vote,4,1,Shawn Bailey: Jordan May
+38,2019-03-13 18:19:13.192044,,,,,,t,2019-03-13 18:22:07.528047,{},text,4,1,Shawn Bailey: Do we start with DOnna tomorrow? And try to get a trend going?
+43,2019-03-13 18:20:30.229764,,,,,,t,2019-03-13 18:22:07.536447,{},vote,4,1,Shawn Bailey: Donna Cook
+51,2019-03-13 18:21:24.363806,,,,,,t,2019-03-13 18:22:07.546519,{},text,4,1,Shawn Bailey: I think Donna talks a lot and tries to confuse us. 
+56,2019-03-13 18:22:07.832038,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Shawn Bailey
+14,2019-03-13 18:16:08.469601,,,,,,t,2019-03-13 18:23:17.155242,{},text,10,1,"Donna Cook: Donna Cook here, not a mafia member :)"
+26,2019-03-13 18:17:04.103949,,,,,,t,2019-03-13 18:23:17.161332,{},vote,10,1,Donna Cook: Diane Mooney
+28,2019-03-13 18:17:22.9908,,,,,,t,2019-03-13 18:23:17.167513,{},text,10,1,"Donna Cook: Diane, it's about time you die"
+40,2019-03-13 18:19:45.780696,,,,,,t,2019-03-13 18:23:17.173626,{},text,10,1,Donna Cook: holy crap they killed our only lead
+46,2019-03-13 18:20:39.841683,,,,,,t,2019-03-13 18:23:17.180412,{},text,10,1,"Donna Cook: I don't like Alicia Randall, she seems to try to ply herself off."
+49,2019-03-13 18:21:20.346148,,,,,,t,2019-03-13 18:23:17.186585,{},text,10,1,"Donna Cook: You guys are making a mistake killing me, I'm Donna Cook, the best bystander in the world"
+62,2019-03-13 18:23:17.488715,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Donna Cook
+63,2019-03-13 18:23:26.828491,,,,,,f,,{},text,10,1,Donna Cook: OOF
+64,2019-03-13 18:23:31.668054,,,,,,f,,{},vote,5,1,Stephen Clark: Tricia Miller
+65,2019-03-13 18:23:40.127981,,,,,,f,,{},vote,13,1,Alicia Randall: Tricia Miller
+66,2019-03-13 18:23:41.150762,,,,,,f,,{},vote,12,1,Chad Collins: Alicia Randall
+69,2019-03-13 18:24:13.99179,,,,,,f,,{},text,7,1,Gabriel Durham: Chad and Tricia have to be the mafia based on the voting patterns.
+71,2019-03-13 18:25:47.075933,,,,,,f,,{},text,5,1,Stephen Clark: lol
+72,2019-03-13 18:25:55.430555,,,,,,f,,{},text,13,1,"Alicia Randall: I think so. Because mafia know who the other mafia are, and probably wouldn't kill their own"
+53,2019-03-13 18:21:37.017007,,,,,,t,2019-03-13 18:23:17.192546,{},text,10,1,Donna Cook: You guys are going to kill another bystander
+54,2019-03-13 18:21:56.486942,,,,,,t,2019-03-13 18:23:17.199059,{},text,10,1,Donna Cook: I'm trying to help
+55,2019-03-13 18:22:01.046408,,,,,,t,2019-03-13 18:23:17.204998,{},vote,10,1,Donna Cook: Shawn Bailey
+67,2019-03-13 18:23:50.856736,,,,,,f,,{},vote,7,1,Gabriel Durham: Tricia Miller
+70,2019-03-13 18:25:39.403753,,,,,,t,2019-03-13 18:25:57.365648,{},text,3,1,Tricia Miller: And I would've gotten away with it if it wasn't for you meddling kids :D
+2,2019-03-13 18:14:55.207902,,,,,,t,2019-03-13 18:25:57.270411,{},text,3,1,"Tricia Miller: Hi, all!"
+5,2019-03-13 18:15:32.781428,,,,,,t,2019-03-13 18:25:57.276725,{},text,3,1,Tricia Miller: Jordan?
+15,2019-03-13 18:16:17.567848,,,,,,t,2019-03-13 18:25:57.283186,{},text,3,1,Tricia Miller: Me too!
+23,2019-03-13 18:16:55.446798,,,,,,t,2019-03-13 18:25:57.28932,{},vote,3,1,Tricia Miller: Diane Mooney
+35,2019-03-13 18:18:37.016513,,,,,,t,2019-03-13 18:25:57.295229,{},text,3,1,Tricia Miller: Alright
+37,2019-03-13 18:18:46.893464,,,,,,t,2019-03-13 18:25:57.301232,{},vote,3,1,Tricia Miller: Jordan May
+47,2019-03-13 18:21:06.954919,,,,,,t,2019-03-13 18:25:57.307935,{},text,3,1,Tricia Miller: Donna was a bit too quick to throw Diane under the bus on day one though.
+48,2019-03-13 18:21:12.164239,,,,,,t,2019-03-13 18:25:57.314114,{},vote,3,1,Tricia Miller: Donna Cook
+52,2019-03-13 18:21:25.114923,,,,,,t,2019-03-13 18:25:57.32124,{},text,3,1,Tricia Miller: And now Alicia.
+57,2019-03-13 18:22:28.182639,,,,,,t,2019-03-13 18:25:57.327703,{},vote,3,1,Tricia Miller: Donna Cook
+58,2019-03-13 18:22:38.920488,,,,,,t,2019-03-13 18:25:57.333758,{},text,3,1,Tricia Miller: Guess it's all me then.
+59,2019-03-13 18:22:54.823454,,,,,,t,2019-03-13 18:25:57.339753,{},text,3,1,"Tricia Miller: Tricia Miller, one woman army."
+60,2019-03-13 18:23:09.218161,,,,,,t,2019-03-13 18:25:57.345884,{},text,3,1,Tricia Miller: Stalking in the night.
+61,2019-03-13 18:23:13.298531,,,,,,t,2019-03-13 18:25:57.352684,{},text,3,1,Tricia Miller: Eating some donuts.
+68,2019-03-13 18:23:57.019551,,,,,,t,2019-03-13 18:25:57.359164,{},vote,3,1,Tricia Miller: Alicia Randall
+73,2019-03-13 18:25:57.430673,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Tricia Miller

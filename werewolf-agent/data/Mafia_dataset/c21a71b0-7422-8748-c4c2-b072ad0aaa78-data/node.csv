@@ -1,0 +1,12 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-10 23:20:08.251089,,,,,,f,,{},source,1,
+14,2019-03-10 23:34:52.880858,Alicia Esparza,True,,,,f,,{},bystander,1,9
+16,2019-03-10 23:34:53.70593,Abigail Woods,True,,,,f,,{},bystander,1,8
+2,2019-03-10 23:34:49.831671,Paul Gaines,False,2019-03-10 23:35:56.699169,,,f,,{},mafioso,1,10
+10,2019-03-10 23:34:50.43569,Cory Barron,False,2019-03-10 23:38:37.593063,,,f,,{},bystander,1,7
+8,2019-03-10 23:34:50.281834,Jill Mcdonald,False,2019-03-10 23:39:46.502016,,,f,,{},bystander,1,4
+15,2019-03-10 23:34:53.19991,Ashley Stout,False,2019-03-10 23:42:26.974096,,,f,,{},bystander,1,3
+13,2019-03-10 23:34:50.772239,Nicholas Davis,False,2019-03-10 23:43:36.30507,,,f,,{},bystander,1,1
+6,2019-03-10 23:34:50.173996,Laura Buck,False,2019-03-10 23:46:16.127689,,,f,,{},bystander,1,6
+12,2019-03-10 23:34:50.664761,Donna Farrell,False,2019-03-10 23:47:26.471341,,,f,,{},bystander,1,5
+4,2019-03-10 23:34:50.043071,Danielle Oliver,False,2019-03-10 23:50:06.359624,,,f,,{},mafioso,1,2

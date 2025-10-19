@@ -1,0 +1,104 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-16 21:03:31.91588,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+3,2019-03-16 21:04:42.727676,,,,,,f,,{},info,1,1,Phase Change to Daytime
+5,2019-03-16 21:04:48.460333,,,,,,f,,{},text,13,1,Eric Schneider: Hi
+8,2019-03-16 21:04:58.859198,,,,,,f,,{},text,5,1,Alexander Griffin: hello
+9,2019-03-16 21:05:00.484842,,,,,,f,,{},text,10,1,Ashley Bautista: hey
+10,2019-03-16 21:05:02.7129,,,,,,f,,{},text,9,1,Mitchell Schultz: Hello
+11,2019-03-16 21:05:06.576535,,,,,,f,,{},text,14,1,Cynthia Bird: hi
+12,2019-03-16 21:05:09.712101,,,,,,f,,{},text,13,1,Eric Schneider: Who should we eliminate?
+13,2019-03-16 21:05:17.876041,,,,,,f,,{},text,5,1,Alexander Griffin: who didn't respond?
+15,2019-03-16 21:05:34.568389,,,,,,f,,{},text,14,1,Cynthia Bird: all respoded
+16,2019-03-16 21:05:35.174938,,,,,,f,,{},text,13,1,Eric Schneider: I don't see Kendra Craig responding
+17,2019-03-16 21:05:46.310409,,,,,,f,,{},text,5,1,Alexander Griffin: looks like Kendra is it then
+20,2019-03-16 21:05:54.764132,,,,,,f,,{},vote,13,1,Eric Schneider: Kendra Craig
+23,2019-03-16 21:06:04.701691,,,,,,f,,{},vote,9,1,Mitchell Schultz: Kendra Craig
+24,2019-03-16 21:06:06.052508,,,,,,f,,{},vote,5,1,Alexander Griffin: Kendra Craig
+25,2019-03-16 21:06:07.039481,,,,,,f,,{},text,14,1,Cynthia Bird: kendra then
+26,2019-03-16 21:06:10.741386,,,,,,f,,{},text,13,1,Eric Schneider: Sorry Kendra...
+28,2019-03-16 21:06:19.636693,,,,,,f,,{},text,10,1,Ashley Bautista: sounds good
+29,2019-03-16 21:06:39.96696,,,,,,f,,{},vote,14,1,Cynthia Bird: Kendra Craig
+31,2019-03-16 21:07:10.454151,,,,,,f,,{},text,5,1,Alexander Griffin: no response
+33,2019-03-16 21:07:19.44532,,,,,,f,,{},text,10,1,Ashley Bautista: she hasn't responded
+32,2019-03-16 21:07:15.564026,,,,,,t,2019-03-16 21:07:22.19382,{},vote,6,1,Kendra Craig: Sara Reed
+34,2019-03-16 21:07:23.176471,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Kendra Craig
+35,2019-03-16 21:07:23.832011,,,,,,f,,{},text,6,1,Kendra Craig: i'm here
+22,2019-03-16 21:06:03.82366,,,,,,t,2019-03-16 21:08:31.969436,{},vote,11,1,Beth Ramsey: Kendra Craig
+7,2019-03-16 21:04:57.502148,,,,,,t,2019-03-16 21:08:31.983381,{},text,11,1,Beth Ramsey: Hello
+42,2019-03-16 21:08:32.814276,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Beth Ramsey
+43,2019-03-16 21:08:43.898811,,,,,,f,,{},text,13,1,Eric Schneider: Did everybody sleep well last night?
+44,2019-03-16 21:08:52.696187,,,,,,f,,{},text,14,1,Cynthia Bird: who's next?
+45,2019-03-16 21:08:53.027201,,,,,,f,,{},text,10,1,Ashley Bautista: barely 
+47,2019-03-16 21:09:01.907554,,,,,,f,,{},text,5,1,Alexander Griffin: how so?
+51,2019-03-16 21:09:20.274059,,,,,,f,,{},text,5,1,Alexander Griffin: hmm anyone heard from Ruben?
+52,2019-03-16 21:09:21.246788,,,,,,f,,{},text,9,1,Mitchell Schultz: This game can easily make one feel paranoid...
+53,2019-03-16 21:09:29.313495,,,,,,f,,{},text,10,1,Ashley Bautista: lol 
+54,2019-03-16 21:09:35.921333,,,,,,f,,{},text,13,1,Eric Schneider: I think that the best approach is to wait until the very end to vote
+55,2019-03-16 21:09:40.758888,,,,,,f,,{},text,9,1,Mitchell Schultz: 8 people left?
+57,2019-03-16 21:09:49.20289,,,,,,f,,{},text,5,1,Alexander Griffin: not a clue
+59,2019-03-16 21:10:02.917473,,,,,,f,,{},text,5,1,"Alexander Griffin: going for people who aren't participating first though so, sorry Ruben"
+61,2019-03-16 21:10:06.580292,,,,,,f,,{},text,14,1,"Cynthia Bird: since Sara voted me on first round, I will vote her now."
+62,2019-03-16 21:10:07.642601,,,,,,f,,{},vote,5,1,Alexander Griffin: Ruben Sanchez
+63,2019-03-16 21:10:22.396984,,,,,,f,,{},text,10,1,Ashley Bautista: i agree with ruben
+65,2019-03-16 21:10:25.910693,,,,,,f,,{},text,13,1,Eric Schneider: I just noticed (looking back at round 1) that Kendra Craig did end up voting.
+66,2019-03-16 21:10:26.344346,,,,,,f,,{},text,5,1,Alexander Griffin: vengeance pick...nice! lol
+68,2019-03-16 21:11:03.006583,,,,,,f,,{},vote,14,1,Cynthia Bird: Sara Reed
+70,2019-03-16 21:11:08.66208,,,,,,f,,{},vote,13,1,Eric Schneider: Sara Reed
+71,2019-03-16 21:11:10.149942,,,,,,f,,{},vote,9,1,Mitchell Schultz: Sara Reed
+6,2019-03-16 21:04:54.356633,,,,,,t,2019-03-16 21:12:21.829516,{},text,12,1,Kenneth Chavez: hi
+21,2019-03-16 21:05:58.610305,,,,,,t,2019-03-16 21:12:21.838504,{},text,12,1,Kenneth Chavez: sounds good
+27,2019-03-16 21:06:18.610792,,,,,,t,2019-03-16 21:12:21.851692,{},vote,12,1,Kenneth Chavez: Kendra Craig
+46,2019-03-16 21:08:54.365726,,,,,,t,2019-03-16 21:12:21.862943,{},text,12,1,Kenneth Chavez: I feel endangered
+49,2019-03-16 21:09:14.747021,,,,,,t,2019-03-16 21:12:21.872184,{},text,12,1,Kenneth Chavez: So I vote we all pick random names
+58,2019-03-16 21:09:50.22031,,,,,,t,2019-03-16 21:12:21.881658,{},text,12,1,Kenneth Chavez: You don't
+60,2019-03-16 21:10:03.82616,,,,,,t,2019-03-16 21:12:21.890668,{},text,12,1,Kenneth Chavez: which is why I say we all randomly pick
+67,2019-03-16 21:10:43.346764,,,,,,t,2019-03-16 21:12:21.899896,{},text,12,1,Kenneth Chavez: yeet
+77,2019-03-16 21:12:22.209685,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Kenneth Chavez
+78,2019-03-16 21:12:32.468363,,,,,,f,,{},text,5,1,"Alexander Griffin: ok, who do we have left?"
+79,2019-03-16 21:12:36.928424,,,,,,f,,{},text,9,1,Mitchell Schultz: Dang
+81,2019-03-16 21:12:42.297174,,,,,,f,,{},text,10,1,Ashley Bautista: oh my 
+82,2019-03-16 21:12:48.36483,,,,,,f,,{},text,14,1,"Cynthia Bird: Sara was a mafioso, so I was right"
+84,2019-03-16 21:12:58.895303,,,,,,f,,{},text,5,1,Alexander Griffin: still going with Ruben....nothing but crickets from him/her
+85,2019-03-16 21:13:03.437657,,,,,,f,,{},vote,10,1,Ashley Bautista: Ruben Sanchez
+86,2019-03-16 21:13:15.675719,,,,,,f,,{},text,13,1,Eric Schneider: I'm leaning toward Ruben as well
+2,2019-03-16 21:04:27.191461,,,,,,t,2019-03-16 21:11:12.504706,{},text,2,1,Sara Reed: Hello Ruben.  Who should we knock off?
+4,2019-03-16 21:04:42.850493,,,,,,t,2019-03-16 21:11:12.516744,{},vote,2,1,Sara Reed: Ashley Bautista
+14,2019-03-16 21:05:26.925228,,,,,,t,2019-03-16 21:11:12.530349,{},text,2,1,Sara Reed: Who was dropped during the night?
+19,2019-03-16 21:05:53.546369,,,,,,t,2019-03-16 21:11:12.54421,{},vote,2,1,Sara Reed: Cynthia Bird
+30,2019-03-16 21:07:02.978538,,,,,,t,2019-03-16 21:11:12.560297,{},text,2,1,Sara Reed: Why Kendra?
+36,2019-03-16 21:07:30.750344,,,,,,t,2019-03-16 21:11:12.572347,{},text,2,1,Sara Reed: Who now?
+38,2019-03-16 21:08:07.137502,,,,,,t,2019-03-16 21:11:12.58468,{},text,2,1,Sara Reed: Beth?
+40,2019-03-16 21:08:18.63483,,,,,,t,2019-03-16 21:11:12.603045,{},vote,2,1,Sara Reed: Beth Ramsey
+48,2019-03-16 21:09:02.395041,,,,,,t,2019-03-16 21:11:12.623544,{},text,2,1,Sara Reed: I did not thinking I could be next!!!
+56,2019-03-16 21:09:43.434629,,,,,,t,2019-03-16 21:11:12.635687,{},text,2,1,Sara Reed: This is scaring me.  How do you find the bad guys?
+64,2019-03-16 21:10:22.65479,,,,,,t,2019-03-16 21:11:12.644594,{},text,2,1,"Sara Reed: But if it a tie, the machine picks!"
+72,2019-03-16 21:11:10.44792,,,,,,t,2019-03-16 21:11:12.654832,{},vote,2,1,Sara Reed: Alexander Griffin
+74,2019-03-16 21:11:13.511723,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Sara Reed
+80,2019-03-16 21:12:39.456697,,,,,,f,,{},text,13,1,Eric Schneider: Good morning again!  :-)
+83,2019-03-16 21:12:52.400286,,,,,,f,,{},text,14,1,Cynthia Bird: morning
+75,2019-03-16 21:11:34.583449,,,,,,t,2019-03-16 21:15:02.15468,{},text,3,1,Ruben Sanchez: who now?
+88,2019-03-16 21:13:18.746969,,,,,,t,2019-03-16 21:15:02.164774,{},text,3,1,Ruben Sanchez: I'll vote for you
+90,2019-03-16 21:13:24.248089,,,,,,t,2019-03-16 21:15:02.174237,{},vote,3,1,Ruben Sanchez: Alexander Griffin
+87,2019-03-16 21:13:17.84101,,,,,,f,,{},text,9,1,"Mitchell Schultz: Maybe Ruben then, Idk"
+89,2019-03-16 21:13:20.589682,,,,,,f,,{},text,5,1,Alexander Griffin: yeah and she voted for me on her way out...the hell
+92,2019-03-16 21:13:35.804889,,,,,,f,,{},text,10,1,Ashley Bautista: lol
+91,2019-03-16 21:13:30.125086,,,,,,f,,{},text,5,1,Alexander Griffin: lol there he is
+93,2019-03-16 21:13:54.287482,,,,,,f,,{},text,10,1,Ashley Bautista: this just got intersting 
+94,2019-03-16 21:13:56.040942,,,,,,f,,{},text,13,1,Eric Schneider: Ruben already voted this round for Alexander....
+95,2019-03-16 21:14:01.706454,,,,,,f,,{},text,5,1,Alexander Griffin: yeah...again
+96,2019-03-16 21:14:32.635854,,,,,,f,,{},text,14,1,Cynthia Bird: were is Ruben?
+97,2019-03-16 21:14:38.629675,,,,,,f,,{},text,13,1,Eric Schneider: Let's hope that he is a mafioso
+98,2019-03-16 21:14:45.150621,,,,,,f,,{},text,5,1,Alexander Griffin: he's spoken once
+99,2019-03-16 21:14:51.930419,,,,,,f,,{},text,5,1,Alexander Griffin: pretty sure he is
+100,2019-03-16 21:14:54.396616,,,,,,f,,{},vote,13,1,Eric Schneider: Ruben Sanchez
+101,2019-03-16 21:14:54.579374,,,,,,f,,{},vote,14,1,Cynthia Bird: Ruben Sanchez
+102,2019-03-16 21:14:58.406562,,,,,,f,,{},text,10,1,Ashley Bautista: he is here now and voted
+18,2019-03-16 21:05:52.489679,,,,,,t,2019-03-16 21:15:02.078332,{},vote,3,1,Ruben Sanchez: Alexander Griffin
+37,2019-03-16 21:07:56.610495,,,,,,t,2019-03-16 21:15:02.090493,{},text,3,1,Ruben Sanchez: I don't know
+39,2019-03-16 21:08:15.3449,,,,,,t,2019-03-16 21:15:02.101337,{},text,3,1,Ruben Sanchez: sure
+41,2019-03-16 21:08:20.005184,,,,,,t,2019-03-16 21:15:02.111152,{},vote,3,1,Ruben Sanchez: Beth Ramsey
+50,2019-03-16 21:09:19.265252,,,,,,t,2019-03-16 21:15:02.120402,{},text,3,1,Ruben Sanchez: I feel the same
+69,2019-03-16 21:11:05.226988,,,,,,t,2019-03-16 21:15:02.129845,{},text,3,1,Ruben Sanchez: could be you Alexandra 
+73,2019-03-16 21:11:11.697929,,,,,,t,2019-03-16 21:15:02.13723,{},vote,3,1,Ruben Sanchez: Alexander Griffin
+76,2019-03-16 21:11:55.451061,,,,,,t,2019-03-16 21:15:02.146116,{},vote,3,1,Ruben Sanchez: Kenneth Chavez
+103,2019-03-16 21:15:02.221579,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Ruben Sanchez

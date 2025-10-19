@@ -1,0 +1,145 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-13 23:14:56.591274,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-13 23:15:05.164594,,,,,,f,,{},text,2,1,Anna Lopez: Hello!
+3,2019-03-13 23:15:15.162583,,,,,,f,,{},text,3,1,Kelsey Wallace: Hey guys
+4,2019-03-13 23:15:17.528408,,,,,,f,,{},vote,2,1,Anna Lopez: Andrew Newton
+5,2019-03-13 23:15:44.736604,,,,,,f,,{},text,3,1,Kelsey Wallace: who are we going to eliminate next round? not this one. let's think in advance
+6,2019-03-13 23:15:57.674202,,,,,,f,,{},text,2,1,Anna Lopez: Mr. Robert
+7,2019-03-13 23:16:00.165518,,,,,,f,,{},vote,3,1,Kelsey Wallace: Andrew Newton
+8,2019-03-13 23:16:02.752608,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Andrew Newton
+9,2019-03-13 23:16:08.396449,,,,,,f,,{},text,2,1,Anna Lopez: Hi!
+12,2019-03-13 23:16:22.034896,,,,,,f,,{},text,2,1,Anna Lopez: No idea yet.
+15,2019-03-13 23:16:24.274408,,,,,,f,,{},text,12,1,Carla Morris: hello
+16,2019-03-13 23:16:25.81886,,,,,,f,,{},text,3,1,Kelsey Wallace: hey
+25,2019-03-13 23:16:51.867632,,,,,,f,,{},text,5,1,Jacob Lowery: Hello
+28,2019-03-13 23:16:59.616109,,,,,,f,,{},text,12,1,Carla Morris: y?
+30,2019-03-13 23:17:18.463193,,,,,,f,,{},text,2,1,Anna Lopez: Should we wait to eliminate someone?
+32,2019-03-13 23:17:22.700881,,,,,,f,,{},text,2,1,Anna Lopez: It's a little early to tell.
+36,2019-03-13 23:17:39.310066,,,,,,f,,{},text,3,1,"Kelsey Wallace: hmm ok analyzing this conversation....I think bianca was a little to flippant in how she was like ""sucks to be andrew"" haha"
+39,2019-03-13 23:17:45.147146,,,,,,f,,{},text,12,1,Carla Morris: I'm slow
+40,2019-03-13 23:17:47.444802,,,,,,f,,{},text,3,1,Kelsey Wallace: I'm going to vote bianca. she's so casual with life and death
+42,2019-03-13 23:17:57.03014,,,,,,f,,{},vote,2,1,Anna Lopez: Bianca Nguyen
+43,2019-03-13 23:17:57.986387,,,,,,f,,{},vote,3,1,Kelsey Wallace: Bianca Nguyen
+49,2019-03-13 23:18:19.098399,,,,,,f,,{},text,2,1,Anna Lopez: It's a shot in the dark.
+52,2019-03-13 23:18:24.200147,,,,,,f,,{},vote,12,1,Carla Morris: Zachary Jackson
+10,2019-03-13 23:16:09.092579,,,,,,t,2019-03-13 23:18:42.286425,{},text,8,1,Zachary Jackson: who do you think?
+14,2019-03-13 23:16:23.519915,,,,,,t,2019-03-13 23:18:42.300599,{},text,8,1,Zachary Jackson: right.
+21,2019-03-13 23:16:39.846198,,,,,,t,2019-03-13 23:18:42.320645,{},text,8,1,Zachary Jackson: whoever doesnt respond? lol
+37,2019-03-13 23:17:41.746512,,,,,,t,2019-03-13 23:18:42.338071,{},text,8,1,Zachary Jackson: Mr. robert is only MR. lol
+53,2019-03-13 23:18:30.468718,,,,,,t,2019-03-13 23:18:42.350784,{},vote,8,1,Zachary Jackson: Mr. Robert Bryant
+54,2019-03-13 23:18:44.026155,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Zachary Jackson
+55,2019-03-13 23:18:54.446812,,,,,,f,,{},text,2,1,Anna Lopez: Doing good so far.
+56,2019-03-13 23:19:04.114467,,,,,,f,,{},text,3,1,Kelsey Wallace: haha yes
+57,2019-03-13 23:19:08.123129,,,,,,f,,{},text,2,1,Anna Lopez: Should we still go for Mr. Roberts?
+58,2019-03-13 23:19:30.677561,,,,,,f,,{},text,3,1,Kelsey Wallace: who got 3eliminated?
+59,2019-03-13 23:19:31.920036,,,,,,f,,{},text,3,1,Kelsey Wallace: i can't tell
+60,2019-03-13 23:19:46.604267,,,,,,f,,{},text,3,1,Kelsey Wallace: yeah roberts
+61,2019-03-13 23:19:49.086663,,,,,,f,,{},text,2,1,Anna Lopez: Zachary
+62,2019-03-13 23:19:51.31104,,,,,,f,,{},vote,2,1,Anna Lopez: Mr. Robert Bryant
+11,2019-03-13 23:16:19.067294,,,,,,t,2019-03-13 23:19:51.560514,{},text,6,1,Mr. Robert Bryant: shot in the dark 
+18,2019-03-13 23:16:33.84994,,,,,,t,2019-03-13 23:19:51.570927,{},text,6,1,Mr. Robert Bryant: bianca sounds good since shes mia lol
+22,2019-03-13 23:16:41.058132,,,,,,t,2019-03-13 23:19:51.579627,{},text,6,1,Mr. Robert Bryant: jk there she is
+31,2019-03-13 23:17:18.888262,,,,,,t,2019-03-13 23:19:51.590047,{},text,6,1,"Mr. Robert Bryant: you're a slow typer, maybe that means youre a mafiosa"
+41,2019-03-13 23:17:47.812632,,,,,,t,2019-03-13 23:19:51.599133,{},text,6,1,"Mr. Robert Bryant: Kayla hasnt replied in awhile, bye!"
+47,2019-03-13 23:18:11.161306,,,,,,t,2019-03-13 23:19:51.6107,{},text,6,1,Mr. Robert Bryant: 30 secs
+50,2019-03-13 23:18:19.706691,,,,,,t,2019-03-13 23:19:51.620404,{},vote,6,1,Mr. Robert Bryant: Zachary Jackson
+63,2019-03-13 23:19:52.015276,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Mr. Robert Bryant
+65,2019-03-13 23:19:54.760977,,,,,,f,,{},text,6,1,Mr. Robert Bryant: damn!
+68,2019-03-13 23:20:12.355302,,,,,,f,,{},vote,12,1,Carla Morris: Bianca Nguyen
+17,2019-03-13 23:16:32.067577,,,,,,t,2019-03-13 23:26:22.128508,{},text,7,1,Denise Acosta: Hello!
+26,2019-03-13 23:16:53.046521,,,,,,t,2019-03-13 23:26:22.141432,{},text,7,1,Denise Acosta: I think we should eliminate Carla
+33,2019-03-13 23:17:25.66451,,,,,,t,2019-03-13 23:26:22.158998,{},text,7,1,Denise Acosta: I don't know lol...we are supposed to eliminate somebody
+34,2019-03-13 23:17:37.817544,,,,,,t,2019-03-13 23:26:22.172858,{},text,7,1,Denise Acosta: right?
+46,2019-03-13 23:18:06.168684,,,,,,t,2019-03-13 23:26:22.183334,{},text,7,1,Denise Acosta: where is everybody getting this info?
+48,2019-03-13 23:18:15.696537,,,,,,t,2019-03-13 23:26:22.195016,{},text,7,1,Denise Acosta: how do we vote?
+51,2019-03-13 23:18:21.683585,,,,,,t,2019-03-13 23:26:22.205752,{},vote,7,1,Denise Acosta: Carla Morris
+66,2019-03-13 23:20:02.683957,,,,,,t,2019-03-13 23:26:22.216675,{},vote,7,1,Denise Acosta: Bianca Nguyen
+13,2019-03-13 23:16:22.470786,,,,,,t,2019-03-13 23:27:31.538369,{},text,13,1,Kayla Rivera: Hello
+29,2019-03-13 23:17:14.446091,,,,,,t,2019-03-13 23:27:31.545779,{},vote,13,1,Kayla Rivera: Zachary Jackson
+44,2019-03-13 23:17:59.130396,,,,,,t,2019-03-13 23:27:31.55345,{},text,13,1,Kayla Rivera: Wow
+69,2019-03-13 23:20:25.582025,,,,,,t,2019-03-13 23:27:31.560784,{},text,13,1,Kayla Rivera: I doubt he's still watching
+71,2019-03-13 23:20:35.009983,,,,,,f,,{},text,2,1,Anna Lopez: He should be at the end game screen now.
+74,2019-03-13 23:21:05.262721,,,,,,f,,{},vote,2,1,Anna Lopez: Bianca Nguyen
+77,2019-03-13 23:21:18.552647,,,,,,f,,{},text,2,1,Anna Lopez: What?
+75,2019-03-13 23:21:10.313599,,,,,,t,2019-03-13 23:22:32.113955,{},text,10,1,Bianca Nguyen: wait
+78,2019-03-13 23:21:22.905142,,,,,,t,2019-03-13 23:22:32.122501,{},text,10,1,Bianca Nguyen: maf majority
+83,2019-03-13 23:21:35.899511,,,,,,t,2019-03-13 23:22:32.132942,{},text,10,1,Bianca Nguyen: You're a bystander!
+84,2019-03-13 23:21:41.093842,,,,,,t,2019-03-13 23:22:32.146708,{},text,10,1,Bianca Nguyen: You are*
+85,2019-03-13 23:21:42.82899,,,,,,t,2019-03-13 23:22:32.157319,{},text,10,1,Bianca Nguyen: excuse me
+89,2019-03-13 23:22:08.882951,,,,,,t,2019-03-13 23:22:32.165788,{},text,10,1,Bianca Nguyen: Y'all are lynching an innocent person
+82,2019-03-13 23:21:33.471747,,,,,,t,2019-03-13 23:26:22.226521,{},text,7,1,Denise Acosta: Bye Bianca
+72,2019-03-13 23:20:37.1147,,,,,,f,,{},vote,3,1,Kelsey Wallace: Bianca Nguyen
+73,2019-03-13 23:20:38.305667,,,,,,f,,{},text,2,1,Anna Lopez: RIP Zachary
+90,2019-03-13 23:22:11.698506,,,,,,t,2019-03-13 23:22:32.175278,{},text,10,1,Bianca Nguyen: if you kill me
+87,2019-03-13 23:21:49.480226,,,,,,f,,{},text,12,1,Carla Morris: no one wants to talk huh
+91,2019-03-13 23:22:15.104295,,,,,,f,,{},text,3,1,"Kelsey Wallace: well, no it looks like carla voted bianca"
+19,2019-03-13 23:16:35.129172,,,,,,t,2019-03-13 23:22:31.975342,{},text,10,1,Bianca Nguyen: Sucks to be Andrew
+20,2019-03-13 23:16:39.088869,,,,,,t,2019-03-13 23:22:31.987691,{},text,10,1,Bianca Nguyen: what
+23,2019-03-13 23:16:41.966204,,,,,,t,2019-03-13 23:22:32.001187,{},text,10,1,Bianca Nguyen: no I'm here
+24,2019-03-13 23:16:49.40401,,,,,,t,2019-03-13 23:22:32.016924,{},text,10,1,Bianca Nguyen: zachary
+27,2019-03-13 23:16:54.386518,,,,,,t,2019-03-13 23:22:32.029931,{},text,10,1,Bianca Nguyen: you're very accusatory
+35,2019-03-13 23:17:38.755142,,,,,,t,2019-03-13 23:22:32.040603,{},text,10,1,"Bianca Nguyen: Zachary, your time has come"
+38,2019-03-13 23:17:44.756057,,,,,,t,2019-03-13 23:22:32.050734,{},vote,10,1,Bianca Nguyen: Zachary Jackson
+45,2019-03-13 23:18:05.197183,,,,,,t,2019-03-13 23:22:32.062333,{},text,10,1,Bianca Nguyen: I do not fear death only life
+64,2019-03-13 23:19:52.961464,,,,,,t,2019-03-13 23:22:32.086518,{},text,10,1,Bianca Nguyen: whoops
+67,2019-03-13 23:20:06.220677,,,,,,t,2019-03-13 23:22:32.095643,{},text,10,1,Bianca Nguyen: sorry Zachary (if you're still watching)
+70,2019-03-13 23:20:34.671141,,,,,,t,2019-03-13 23:22:32.10338,{},text,10,1,"Bianca Nguyen: Mr. Robert Bryant what does it say to the left of ""Your player's name is:""?"
+76,2019-03-13 23:21:13.913491,,,,,,t,2019-03-13 23:22:32.186872,{},text,10,1,Bianca Nguyen: oh crap
+79,2019-03-13 23:21:26.541434,,,,,,t,2019-03-13 23:22:32.205015,{},text,10,1,Bianca Nguyen: well
+80,2019-03-13 23:21:28.30816,,,,,,t,2019-03-13 23:22:32.214895,{},text,10,1,Bianca Nguyen: not majority
+94,2019-03-13 23:22:25.009391,,,,,,t,2019-03-13 23:22:32.223826,{},text,10,1,Bianca Nguyen: I be dead
+95,2019-03-13 23:22:26.781623,,,,,,t,2019-03-13 23:22:32.234431,{},text,10,1,Bianca Nguyen: bye yall
+97,2019-03-13 23:22:32.747143,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Bianca Nguyen
+81,2019-03-13 23:21:29.705094,,,,,,t,2019-03-13 23:27:31.568433,{},text,13,1,Kayla Rivera: Lol Bianca
+86,2019-03-13 23:21:43.476678,,,,,,f,,{},text,3,1,Kelsey Wallace: so let's see...looking at the previous conversation it looks like bianca and carla might be allies but i'm not sure
+88,2019-03-13 23:21:56.546402,,,,,,f,,{},text,3,1,Kelsey Wallace: i'm just trying to think strategically. they seemed like they agreed on things
+92,2019-03-13 23:22:16.651554,,,,,,f,,{},text,3,1,Kelsey Wallace: nevermind
+93,2019-03-13 23:22:21.167839,,,,,,t,2019-03-13 23:22:32.244227,{},text,10,1,Bianca Nguyen: At this point it doesn't matter I guess
+96,2019-03-13 23:22:28.427383,,,,,,t,2019-03-13 23:22:32.254724,{},text,10,1,Bianca Nguyen: enjoy maf
+98,2019-03-13 23:22:38.914529,,,,,,f,,{},text,3,1,Kelsey Wallace: lol!
+99,2019-03-13 23:22:49.174713,,,,,,f,,{},text,2,1,Anna Lopez: They have no idea yet. :)
+100,2019-03-13 23:22:57.253901,,,,,,f,,{},text,3,1,Kelsey Wallace: love this
+101,2019-03-13 23:23:19.164545,,,,,,f,,{},text,2,1,Anna Lopez: Should we keep Carla in since he seems supicious?
+102,2019-03-13 23:23:25.967868,,,,,,f,,{},text,2,1,Anna Lopez: suspicious*
+103,2019-03-13 23:23:42.221327,,,,,,f,,{},info,1,1,Phase Change to Daytime
+104,2019-03-13 23:23:48.578102,,,,,,f,,{},vote,12,1,Carla Morris: Denise Acosta
+105,2019-03-13 23:23:57.712687,,,,,,f,,{},text,2,1,Anna Lopez: Ok
+108,2019-03-13 23:24:17.806499,,,,,,f,,{},text,12,1,Carla Morris: I'm going with the one that voted for me
+110,2019-03-13 23:24:39.427136,,,,,,f,,{},vote,2,1,Anna Lopez: Denise Acosta
+112,2019-03-13 23:24:44.392158,,,,,,f,,{},text,12,1,Carla Morris: too late now
+113,2019-03-13 23:24:46.421287,,,,,,f,,{},text,2,1,Anna Lopez: Did you not read the rules?
+115,2019-03-13 23:24:52.480882,,,,,,f,,{},text,2,1,Anna Lopez: drhhdfrh
+116,2019-03-13 23:24:56.216956,,,,,,f,,{},text,12,1,Carla Morris: I'm real
+117,2019-03-13 23:24:56.323229,,,,,,f,,{},text,2,1,Anna Lopez: real enough for you?
+118,2019-03-13 23:24:58.214645,,,,,,f,,{},text,5,1,Jacob Lowery: me either
+119,2019-03-13 23:25:00.315527,,,,,,f,,{},text,12,1,Carla Morris: I read the rules as well
+121,2019-03-13 23:25:17.733074,,,,,,f,,{},text,5,1,Jacob Lowery: days are too long
+123,2019-03-13 23:25:27.225736,,,,,,f,,{},text,12,1,Carla Morris: I agree
+127,2019-03-13 23:25:44.60723,,,,,,f,,{},text,3,1,Kelsey Wallace: i'm not sure. i think carla is a bystander
+128,2019-03-13 23:25:48.203189,,,,,,f,,{},vote,3,1,Kelsey Wallace: Denise Acosta
+129,2019-03-13 23:26:04.587338,,,,,,f,,{},text,3,1,Kelsey Wallace: jacob hasn't really said anything until now which is suspicious
+130,2019-03-13 23:26:06.868148,,,,,,f,,{},text,3,1,Kelsey Wallace: idk 
+131,2019-03-13 23:26:07.837882,,,,,,f,,{},text,2,1,Anna Lopez: I have no idea at this point honestly.
+132,2019-03-13 23:26:11.308647,,,,,,f,,{},text,12,1,"Carla Morris: very boring, can't change my vote now but thanks for the apology"
+106,2019-03-13 23:24:10.201867,,,,,,t,2019-03-13 23:26:22.238867,{},text,7,1,Denise Acosta: why??
+107,2019-03-13 23:24:15.450274,,,,,,t,2019-03-13 23:26:22.250009,{},text,7,1,Denise Acosta: what did I do?
+109,2019-03-13 23:24:34.179666,,,,,,t,2019-03-13 23:26:22.268276,{},text,7,1,Denise Acosta: aaahhh...I didn't even know what I was doing
+114,2019-03-13 23:24:48.519261,,,,,,t,2019-03-13 23:26:22.27953,{},text,7,1,Denise Acosta: Not sure I'm even playihg with real people???
+120,2019-03-13 23:25:07.224377,,,,,,t,2019-03-13 23:26:22.288939,{},text,7,1,Denise Acosta: I did
+122,2019-03-13 23:25:20.758677,,,,,,t,2019-03-13 23:26:22.300253,{},text,7,1,Denise Acosta: O well...eliminate me lol
+124,2019-03-13 23:25:27.263883,,,,,,t,2019-03-13 23:26:22.319644,{},text,7,1,"Denise Acosta: Ya, this is boring"
+126,2019-03-13 23:25:43.766162,,,,,,t,2019-03-13 23:26:22.335469,{},text,7,1,"Denise Acosta: yes, I apologize Carla"
+133,2019-03-13 23:26:17.203276,,,,,,t,2019-03-13 23:26:22.347269,{},text,7,1,Denise Acosta: yep
+134,2019-03-13 23:26:19.465145,,,,,,t,2019-03-13 23:26:22.358446,{},text,7,1,Denise Acosta: no problem
+135,2019-03-13 23:26:22.754398,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Denise Acosta
+136,2019-03-13 23:26:29.508696,,,,,,f,,{},text,2,1,Anna Lopez: Oops.
+137,2019-03-13 23:26:33.996932,,,,,,f,,{},text,3,1,Kelsey Wallace: sorry abotu last turn i was trying to decide who to pick and rna out of time
+138,2019-03-13 23:26:47.198052,,,,,,f,,{},text,2,1,Anna Lopez: Nah it's fine.
+139,2019-03-13 23:26:56.41135,,,,,,f,,{},text,2,1,Anna Lopez: I didn't notice the time was so low.
+140,2019-03-13 23:27:18.920212,,,,,,f,,{},vote,2,1,Anna Lopez: Kayla Rivera
+141,2019-03-13 23:27:20.156886,,,,,,f,,{},text,3,1,Kelsey Wallace: carla?
+142,2019-03-13 23:27:27.342456,,,,,,f,,{},text,2,1,Anna Lopez: Not yet.
+143,2019-03-13 23:27:30.999314,,,,,,f,,{},vote,3,1,Kelsey Wallace: Kayla Rivera
+111,2019-03-13 23:24:40.947209,,,,,,t,2019-03-13 23:27:31.575947,{},text,13,1,Kayla Rivera: lol
+125,2019-03-13 23:25:32.521249,,,,,,t,2019-03-13 23:27:31.58346,{},text,13,1,Kayla Rivera: Everyone's real. Hard to tell who is together. Hmmm
+144,2019-03-13 23:27:31.701819,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Kayla Rivera

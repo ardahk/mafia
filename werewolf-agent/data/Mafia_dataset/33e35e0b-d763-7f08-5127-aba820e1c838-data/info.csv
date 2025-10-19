@@ -1,0 +1,96 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-01-28 18:43:06.064307,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+6,2019-01-28 18:44:17.646403,,,,,,f,,{},info,1,1,Phase Change to Daytime
+7,2019-01-28 18:44:17.991826,,,,,,f,,{},info,1,1,Phase Change to Daytime
+9,2019-01-28 18:44:29.674958,,,,,,f,,{},text,5,1,Jean Griffin: Hello
+10,2019-01-28 18:44:35.143688,,,,,,f,,{},text,6,1,Gregory Martinez: hello
+11,2019-01-28 18:44:35.639188,,,,,,f,,{},text,5,1,Jean Griffin: who do we eliminate ?
+13,2019-01-28 18:44:38.910705,,,,,,f,,{},text,12,1,Jason Davis: Hi!
+16,2019-01-28 18:44:52.216331,,,,,,f,,{},text,12,1,Jason Davis: lol
+17,2019-01-28 18:44:58.253413,,,,,,f,,{},text,12,1,Jason Davis: I vote for JOhn
+18,2019-01-28 18:45:00.486609,,,,,,f,,{},vote,6,1,Gregory Martinez: John Thompson
+19,2019-01-28 18:45:02.023636,,,,,,f,,{},vote,12,1,Jason Davis: John Thompson
+20,2019-01-28 18:45:05.127186,,,,,,f,,{},vote,13,1,Rhonda Morris: John Thompson
+23,2019-01-28 18:45:09.039013,,,,,,f,,{},text,5,1,Jean Griffin: voting for john then
+25,2019-01-28 18:45:14.547441,,,,,,f,,{},vote,5,1,Jean Griffin: John Thompson
+27,2019-01-28 18:45:37.288319,,,,,,t,2019-01-28 18:46:56.717766,{},vote,3,1,John Thompson: Cynthia Stokes
+8,2019-01-28 18:44:23.159822,,,,,,t,2019-01-28 18:46:56.747994,{},text,3,1,John Thompson: Ok I too will vote that
+3,2019-01-28 18:43:53.36643,,,,,,t,2019-01-28 18:46:56.770289,{},text,3,1,John Thompson: HI
+28,2019-01-28 18:46:58.561479,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+29,2019-01-28 18:46:58.618452,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+30,2019-01-28 18:46:58.951124,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+31,2019-01-28 18:46:59.249464,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+32,2019-01-28 18:46:59.41516,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+33,2019-01-28 18:46:59.635341,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+34,2019-01-28 18:46:59.951263,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+22,2019-01-28 18:45:08.16823,,,,,,t,2019-01-28 18:48:06.126631,{},vote,9,1,Michael Gibson: John Thompson
+15,2019-01-28 18:44:48.613223,,,,,,t,2019-01-28 18:48:06.135654,{},text,9,1,Michael Gibson: Hi 
+38,2019-01-28 18:48:06.659527,,,,,,f,,{},info,1,1,Phase Change to Daytime
+39,2019-01-28 18:48:07.290338,,,,,,f,,{},info,1,1,Phase Change to Daytime
+40,2019-01-28 18:48:15.712583,,,,,,f,,{},text,6,1,Gregory Martinez: woo
+41,2019-01-28 18:48:32.632809,,,,,,f,,{},text,5,1,Jean Griffin: who's next? does anyone have any leads?
+43,2019-01-28 18:48:47.023637,,,,,,f,,{},text,6,1,Gregory Martinez: since theres only two roles we sort of have to random lynch
+45,2019-01-28 18:48:55.957692,,,,,,f,,{},text,13,1,Rhonda Morris: idk john voted for cynthia that's the only lead
+46,2019-01-28 18:48:57.087061,,,,,,f,,{},text,5,1,"Jean Griffin: alyssa did ""yesterday"""
+47,2019-01-28 18:49:06.839139,,,,,,f,,{},text,6,1,Gregory Martinez: he could have voted for cynthia to try to provide her cover
+49,2019-01-28 18:49:09.138649,,,,,,f,,{},text,6,1,Gregory Martinez: if shes the other maf
+52,2019-01-28 18:49:26.766049,,,,,,f,,{},text,12,1,Jason Davis: How about Jason since he voted for alyssa
+54,2019-01-28 18:49:51.677059,,,,,,f,,{},text,6,1,Gregory Martinez: hmm
+56,2019-01-28 18:49:59.687184,,,,,,f,,{},text,6,1,Gregory Martinez: why did jason frye random voe alyssa
+57,2019-01-28 18:50:00.743275,,,,,,f,,{},text,6,1,Gregory Martinez: thats sus
+58,2019-01-28 18:50:02.934251,,,,,,f,,{},text,5,1,Jean Griffin: well we have to make a decision.
+61,2019-01-28 18:50:10.629797,,,,,,f,,{},text,6,1,Gregory Martinez: ^
+62,2019-01-28 18:50:16.526708,,,,,,f,,{},vote,12,1,Jason Davis: Jason Frye
+63,2019-01-28 18:50:21.549767,,,,,,f,,{},text,6,1,Gregory Martinez: no
+65,2019-01-28 18:50:29.900997,,,,,,f,,{},text,6,1,Gregory Martinez: he misttyped in the box at the start of day 
+66,2019-01-28 18:50:36.413475,,,,,,f,,{},text,6,1,Gregory Martinez: we all could see it
+68,2019-01-28 18:50:40.48644,,,,,,f,,{},text,5,1,Jean Griffin: are we going for frye?
+69,2019-01-28 18:50:44.791815,,,,,,f,,{},text,6,1,Gregory Martinez: no
+24,2019-01-28 18:45:11.55022,,,,,,t,2019-01-28 18:50:46.647004,{},vote,11,1,Jason Frye: John Thompson
+48,2019-01-28 18:49:07.836738,,,,,,t,2019-01-28 18:50:46.666289,{},vote,11,1,Jason Frye: Alyssa Reynolds
+72,2019-01-28 18:50:47.917469,,,,,,f,,{},text,11,1,Jason Frye: I couldnt 
+74,2019-01-28 18:50:48.104207,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+75,2019-01-28 18:50:48.31187,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+14,2019-01-28 18:44:44.78443,,,,,,t,2019-01-28 18:51:56.248595,{},text,14,1,Alyssa Reynolds: John was trying to talk at night so he is mafia
+78,2019-01-28 18:51:57.587481,,,,,,f,,{},info,1,1,Phase Change to Daytime
+80,2019-01-28 18:52:08.992302,,,,,,f,,{},vote,6,1,Gregory Martinez: Cynthia Stokes
+81,2019-01-28 18:52:14.640744,,,,,,f,,{},text,13,1,Rhonda Morris: yeah i agree
+2,2019-01-28 18:43:44.052748,,,,,,t,2019-01-28 18:54:36.407536,{},text,2,1,Cynthia Stokes: Hello
+4,2019-01-28 18:44:05.926882,,,,,,t,2019-01-28 18:54:36.415918,{},text,2,1,Cynthia Stokes: I'm going to vote for Sarah
+5,2019-01-28 18:44:14.981637,,,,,,t,2019-01-28 18:54:36.426011,{},vote,2,1,Cynthia Stokes: Sarah Williams
+60,2019-01-28 18:50:10.490395,,,,,,t,2019-01-28 18:50:46.688362,{},text,11,1,Jason Frye: Only the people who can sse John message is other mafia 
+70,2019-01-28 18:50:47.638675,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+71,2019-01-28 18:50:47.791947,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+73,2019-01-28 18:50:48.050856,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+76,2019-01-28 18:50:48.425517,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+21,2019-01-28 18:45:08.141079,,,,,,t,2019-01-28 18:51:56.287389,{},vote,14,1,Alyssa Reynolds: John Thompson
+44,2019-01-28 18:48:51.411678,,,,,,t,2019-01-28 18:51:56.320643,{},text,14,1,Alyssa Reynolds: No because no one said anything.
+50,2019-01-28 18:49:10.180819,,,,,,t,2019-01-28 18:51:56.386165,{},text,14,1,Alyssa Reynolds: I am a bystander though since I lead the John lynch.
+51,2019-01-28 18:49:26.075311,,,,,,t,2019-01-28 18:51:56.416498,{},text,14,1,Alyssa Reynolds: Cynthia was also the last to vote John.
+59,2019-01-28 18:50:04.417874,,,,,,t,2019-01-28 18:51:56.452589,{},text,14,1,Alyssa Reynolds: I knew because I played mafia on epicmafia where that kind of slip happens all the time
+67,2019-01-28 18:50:38.729803,,,,,,t,2019-01-28 18:51:56.505512,{},vote,14,1,Alyssa Reynolds: Cynthia Stokes
+79,2019-01-28 18:52:04.8312,,,,,,f,,{},text,6,1,Gregory Martinez: 100% cynthia
+82,2019-01-28 18:52:17.966762,,,,,,f,,{},text,12,1,Jason Davis: Sure why not
+83,2019-01-28 18:52:22.275939,,,,,,f,,{},vote,13,1,Rhonda Morris: Cynthia Stokes
+85,2019-01-28 18:52:25.828674,,,,,,f,,{},vote,12,1,Jason Davis: Cynthia Stokes
+86,2019-01-28 18:52:27.214983,,,,,,f,,{},text,6,1,Gregory Martinez: just trust
+87,2019-01-28 18:52:32.798808,,,,,,f,,{},text,6,1,Gregory Martinez: because theres no cop role youre gonna have to trust me
+88,2019-01-28 18:52:40.082751,,,,,,f,,{},text,5,1,Jean Griffin: hmm
+89,2019-01-28 18:53:32.399713,,,,,,f,,{},vote,5,1,Jean Griffin: Cynthia Stokes
+90,2019-01-28 18:53:51.044286,,,,,,f,,{},text,5,1,Jean Griffin: okay then
+77,2019-01-28 18:51:21.542315,,,,,,t,2019-01-28 18:54:36.544029,{},vote,2,1,Cynthia Stokes: Alyssa Reynolds
+93,2019-01-28 18:54:36.953251,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+12,2019-01-28 18:44:37.850185,,,,,,t,2019-01-28 18:54:36.435647,{},text,2,1,Cynthia Stokes: Hi
+26,2019-01-28 18:45:23.503757,,,,,,t,2019-01-28 18:54:36.444603,{},vote,2,1,Cynthia Stokes: John Thompson
+35,2019-01-28 18:47:32.169466,,,,,,t,2019-01-28 18:54:36.453391,{},text,2,1,Cynthia Stokes: Voting Michael
+36,2019-01-28 18:47:45.618449,,,,,,t,2019-01-28 18:54:36.462976,{},text,2,1,Cynthia Stokes: oh it's just me now
+37,2019-01-28 18:47:48.745346,,,,,,t,2019-01-28 18:54:36.471376,{},vote,2,1,Cynthia Stokes: Michael Gibson
+42,2019-01-28 18:48:41.534633,,,,,,t,2019-01-28 18:54:36.480004,{},text,2,1,Cynthia Stokes: no
+53,2019-01-28 18:49:31.262717,,,,,,t,2019-01-28 18:54:36.489136,{},text,2,1,Cynthia Stokes: or did you know because you were the one talking to him at night
+55,2019-01-28 18:49:55.696784,,,,,,t,2019-01-28 18:54:36.498444,{},text,2,1,Cynthia Stokes: jason was quick to vote
+64,2019-01-28 18:50:27.376824,,,,,,t,2019-01-28 18:54:36.508298,{},vote,2,1,Cynthia Stokes: Jason Frye
+84,2019-01-28 18:52:22.381587,,,,,,t,2019-01-28 18:54:36.519172,{},text,2,1,Cynthia Stokes: why?
+91,2019-01-28 18:54:15.438173,,,,,,t,2019-01-28 18:54:36.531617,{},vote,2,1,Cynthia Stokes: Gregory Martinez
+92,2019-01-28 18:54:36.658059,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+94,2019-01-28 18:55:38.405856,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+95,2019-01-28 18:55:39.225013,,,,,,f,,{},text,6,1,Gregory Martinez: did the game break

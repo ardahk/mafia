@@ -1,0 +1,12 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,network_id,participant_id
+1,2019-03-10 22:35:50.728052,,,,,,f,,{},source,1,
+2,2019-03-10 22:45:39.652855,Jason Smith,True,,,,f,,{},mafioso,1,10
+3,2019-03-10 22:45:39.802533,Robert Anderson,True,,,,f,,{},mafioso,1,7
+11,2019-03-10 22:45:40.537448,Katherine Harper,True,,,,f,,{},bystander,1,4
+14,2019-03-10 22:45:42.395388,Kimberly Warren,True,,,,f,,{},bystander,1,6
+6,2019-03-10 22:45:39.903527,Alexander Lopez,False,2019-03-10 22:46:45.644226,,,f,,{},bystander,1,3
+10,2019-03-10 22:45:40.383152,James Perez,False,2019-03-10 22:49:25.968852,,,f,,{},bystander,1,1
+16,2019-03-10 22:45:42.799327,Ricardo Owens,False,2019-03-10 22:53:16.549769,,,f,,{},bystander,1,9
+9,2019-03-10 22:45:40.189507,Katherine Hull,False,2019-03-10 22:54:25.277851,,,f,,{},bystander,1,2
+13,2019-03-10 22:45:41.34832,David Barnes,False,2019-03-10 22:57:05.561315,,,t,2019-03-10 22:49:51.047962,{},bystander,1,8
+15,2019-03-10 22:45:42.725253,Stephen Frank,False,2019-03-10 22:58:15.171382,,,f,,{},bystander,1,5

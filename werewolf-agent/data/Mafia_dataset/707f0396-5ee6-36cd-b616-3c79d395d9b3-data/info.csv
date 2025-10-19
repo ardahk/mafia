@@ -1,0 +1,151 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,details,type,origin_id,network_id,contents
+1,2019-03-15 20:46:33.309828,,,,,,f,,{},info,1,1,Phase Change to Nighttime
+2,2019-03-15 20:46:45.622281,,,,,,f,,{},text,4,1,Jamie Meadows: Hello
+3,2019-03-15 20:46:50.660628,,,,,,f,,{},text,2,1,Tiffany Hernandez: Hi!
+4,2019-03-15 20:47:09.67736,,,,,,f,,{},text,2,1,Tiffany Hernandez: How many of us are there?
+5,2019-03-15 20:47:16.682837,,,,,,f,,{},text,4,1,Jamie Meadows: I don't think it matters who we pick for the first night really since we don't know anything
+6,2019-03-15 20:47:21.542376,,,,,,f,,{},text,4,1,Jamie Meadows: Just 2 I think
+7,2019-03-15 20:47:38.193924,,,,,,f,,{},info,1,1,Phase Change to Daytime
+8,2019-03-15 20:47:42.93969,,,,,,f,,{},vote,4,1,Jamie Meadows: Robin Green
+12,2019-03-15 20:47:58.24387,,,,,,f,,{},vote,2,1,Tiffany Hernandez: Justin Lee
+13,2019-03-15 20:48:05.336094,,,,,,f,,{},vote,8,1,Tristan Rodriguez: Justin Lee
+17,2019-03-15 20:48:15.395538,,,,,,f,,{},text,4,1,Jamie Meadows: Why?
+18,2019-03-15 20:48:19.16426,,,,,,f,,{},text,6,1,Robin Green: poor guy
+23,2019-03-15 20:48:54.785495,,,,,,f,,{},text,2,1,Tiffany Hernandez: no way to tell
+27,2019-03-15 20:49:18.136026,,,,,,f,,{},text,6,1,Robin Green: justin doesn't sound mafia. but it could be a trap.
+31,2019-03-15 20:49:50.175089,,,,,,f,,{},vote,6,1,Robin Green: Justin Lee
+32,2019-03-15 20:49:50.840945,,,,,,f,,{},text,4,1,Jamie Meadows: welp votes aren't changeable 
+36,2019-03-15 20:50:20.441045,,,,,,f,,{},text,2,1,Tiffany Hernandez: Justin is a nice name!
+37,2019-03-15 20:50:25.289592,,,,,,f,,{},text,4,1,Jamie Meadows: Sam if justin isn't mafia I'm assuming you are
+42,2019-03-15 20:50:40.891951,,,,,,f,,{},text,4,1,Jamie Meadows: because you tried to get people to vote right away
+46,2019-03-15 20:51:09.066921,,,,,,f,,{},text,6,1,Robin Green: why did the timer start over?
+49,2019-03-15 20:51:25.712039,,,,,,f,,{},text,2,1,Tiffany Hernandez: only a small amount of time left!
+51,2019-03-15 20:51:50.537729,,,,,,f,,{},text,4,1,Jamie Meadows: 40 seconds for me
+54,2019-03-15 20:52:16.236301,,,,,,f,,{},text,2,1,Tiffany Hernandez: hmmmmm
+56,2019-03-15 20:52:28.562665,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Justin Lee
+57,2019-03-15 20:52:38.556359,,,,,,f,,{},text,4,1,Jamie Meadows: Let's get lisa
+58,2019-03-15 20:52:55.257312,,,,,,f,,{},text,2,1,"Tiffany Hernandez: ok, sounds good"
+59,2019-03-15 20:52:57.431271,,,,,,f,,{},vote,4,1,Jamie Meadows: Lisa Wright
+60,2019-03-15 20:53:05.366672,,,,,,f,,{},vote,2,1,Tiffany Hernandez: Lisa Wright
+61,2019-03-15 20:53:22.089003,,,,,,f,,{},text,2,1,Tiffany Hernandez: I can't believe how many of them there are!
+14,2019-03-15 20:48:05.787316,,,,,,t,2019-03-15 20:53:37.184168,{},text,12,1,Lisa Wright: hi
+16,2019-03-15 20:48:11.912871,,,,,,t,2019-03-15 20:53:37.193685,{},vote,12,1,Lisa Wright: Samuel Rogers
+41,2019-03-15 20:50:40.764853,,,,,,t,2019-03-15 20:53:37.20291,{},text,12,1,Lisa Wright: hello
+55,2019-03-15 20:52:24.283188,,,,,,t,2019-03-15 20:53:37.211723,{},text,12,1,Lisa Wright: hi
+62,2019-03-15 20:53:37.770257,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Lisa Wright
+65,2019-03-15 20:53:50.623541,,,,,,f,,{},vote,12,1,Lisa Wright: Tiffany Hernandez
+68,2019-03-15 20:54:04.845444,,,,,,f,,{},text,4,1,Jamie Meadows: Is there any way to tell if he was mafia?
+69,2019-03-15 20:54:08.158165,,,,,,f,,{},text,2,1,Tiffany Hernandez: hahahaha
+26,2019-03-15 20:49:06.449671,,,,,,t,2019-03-15 20:57:27.200366,{},text,14,1,Marvin Jackson: hello
+28,2019-03-15 20:49:34.019769,,,,,,t,2019-03-15 20:57:27.211052,{},vote,14,1,Marvin Jackson: Kevin Vazquez
+45,2019-03-15 20:50:58.73631,,,,,,t,2019-03-15 20:57:27.219759,{},text,14,1,Marvin Jackson: vote for kevin
+72,2019-03-15 20:54:15.417174,,,,,,t,2019-03-15 20:57:27.229347,{},text,14,1,Marvin Jackson: vote out kevin
+20,2019-03-15 20:48:29.901667,,,,,,t,2019-03-15 21:00:07.496121,{},vote,9,1,Kevin Vazquez: Justin Lee
+10,2019-03-15 20:47:54.125282,,,,,,t,2019-03-15 21:01:17.199601,{},text,5,1,Nicole Fields: ok
+11,2019-03-15 20:47:57.617865,,,,,,t,2019-03-15 21:01:17.20899,{},vote,5,1,Nicole Fields: Justin Lee
+19,2019-03-15 20:48:24.195128,,,,,,t,2019-03-15 21:01:17.21816,{},text,5,1,Nicole Fields: what kindof person is named justin anyway
+24,2019-03-15 20:48:57.281329,,,,,,t,2019-03-15 21:01:17.227834,{},text,5,1,Nicole Fields: nope only the mafia
+33,2019-03-15 20:49:52.184439,,,,,,t,2019-03-15 21:01:17.237741,{},text,5,1,Nicole Fields: whoa this is 2019 you cant say that
+35,2019-03-15 20:50:10.936939,,,,,,t,2019-03-15 21:01:17.246974,{},text,5,1,Nicole Fields: lol idc
+39,2019-03-15 20:50:33.116735,,,,,,t,2019-03-15 21:01:17.256226,{},text,5,1,Nicole Fields: oooo good point
+48,2019-03-15 20:51:17.399672,,,,,,t,2019-03-15 21:01:17.266082,{},text,5,1,Nicole Fields: do you have anything to say for yourself justin
+64,2019-03-15 20:53:48.770656,,,,,,t,2019-03-15 21:01:17.275652,{},text,5,1,Nicole Fields: I feel so bad for justin
+66,2019-03-15 20:53:55.044597,,,,,,t,2019-03-15 21:01:17.284994,{},text,5,1,Nicole Fields: he was just a kid
+71,2019-03-15 20:54:12.581723,,,,,,t,2019-03-15 21:01:17.295354,{},text,5,1,Nicole Fields: it said he was bystander
+15,2019-03-15 20:48:07.927744,,,,,,t,2019-03-15 21:03:57.366338,{},vote,7,1,Michelle Guerra: Justin Lee
+44,2019-03-15 20:50:50.228144,,,,,,t,2019-03-15 21:03:57.37578,{},text,7,1,Michelle Guerra: hi
+74,2019-03-15 20:54:24.16629,,,,,,f,,{},text,4,1,Jamie Meadows: I'm voting for sam
+82,2019-03-15 20:54:40.48475,,,,,,f,,{},vote,4,1,Jamie Meadows: Samuel Rogers
+79,2019-03-15 20:54:33.571819,,,,,,t,2019-03-15 20:56:17.961395,{},text,13,1,Samuel Rogers: so much for my bright ideas
+81,2019-03-15 20:54:38.631163,,,,,,t,2019-03-15 20:56:17.970419,{},text,13,1,Samuel Rogers: sam it is
+90,2019-03-15 20:56:02.182797,,,,,,t,2019-03-15 20:56:17.980965,{},text,13,1,Samuel Rogers: if nothing else it's amusing
+84,2019-03-15 20:55:03.424066,,,,,,t,2019-03-15 20:57:27.238206,{},vote,14,1,Marvin Jackson: Kevin Vazquez
+93,2019-03-15 20:56:13.033766,,,,,,t,2019-03-15 21:00:07.507513,{},vote,9,1,Kevin Vazquez: Samuel Rogers
+77,2019-03-15 20:54:31.711116,,,,,,t,2019-03-15 21:01:17.306564,{},text,5,1,Nicole Fields: be honest
+91,2019-03-15 20:56:06.780805,,,,,,f,,{},text,8,1,Tristan Rodriguez: I wonder if there is a trick to this.  Like if the names mean anything
+95,2019-03-15 20:56:16.489886,,,,,,f,,{},vote,6,1,Robin Green: Samuel Rogers
+75,2019-03-15 20:54:28.993092,,,,,,t,2019-03-15 21:01:17.317661,{},text,5,1,Nicole Fields: wait wait
+80,2019-03-15 20:54:34.247502,,,,,,t,2019-03-15 21:01:17.328098,{},text,5,1,Nicole Fields: are you mafia?
+86,2019-03-15 20:55:15.845603,,,,,,t,2019-03-15 21:01:17.339564,{},text,5,1,Nicole Fields: lol
+87,2019-03-15 20:55:45.749301,,,,,,t,2019-03-15 21:03:57.385469,{},vote,7,1,Michelle Guerra: Samuel Rogers
+9,2019-03-15 20:47:45.580022,,,,,,t,2019-03-15 20:56:17.787378,{},text,13,1,Samuel Rogers: lets get rid of justin lee
+21,2019-03-15 20:48:33.956432,,,,,,t,2019-03-15 20:56:17.797439,{},text,13,1,Samuel Rogers: hope he is mafia
+22,2019-03-15 20:48:44.125538,,,,,,t,2019-03-15 20:56:17.80736,{},text,13,1,Samuel Rogers: can we tell?
+25,2019-03-15 20:49:05.378978,,,,,,t,2019-03-15 20:56:17.817357,{},text,13,1,Samuel Rogers: sigh
+29,2019-03-15 20:49:38.093311,,,,,,t,2019-03-15 20:56:17.827154,{},text,13,1,Samuel Rogers: guerra sounds mafia
+30,2019-03-15 20:49:46.041857,,,,,,t,2019-03-15 20:56:17.836552,{},text,13,1,Samuel Rogers: maybe
+34,2019-03-15 20:50:06.008499,,,,,,t,2019-03-15 20:56:17.847157,{},text,13,1,"Samuel Rogers: not pc, sorry"
+38,2019-03-15 20:50:31.389202,,,,,,t,2019-03-15 20:56:17.856963,{},text,13,1,Samuel Rogers: long day
+40,2019-03-15 20:50:39.187536,,,,,,t,2019-03-15 20:56:17.866402,{},text,13,1,Samuel Rogers: lol
+43,2019-03-15 20:50:49.502925,,,,,,t,2019-03-15 20:56:17.876346,{},text,13,1,Samuel Rogers: hi lisa
+47,2019-03-15 20:51:10.120753,,,,,,t,2019-03-15 20:56:17.886227,{},text,13,1,Samuel Rogers: sorry michelle
+50,2019-03-15 20:51:29.83233,,,,,,t,2019-03-15 20:56:17.896721,{},text,13,1,Samuel Rogers: glitch?
+52,2019-03-15 20:51:54.819128,,,,,,t,2019-03-15 20:56:17.906488,{},text,13,1,Samuel Rogers: justin aint talking
+53,2019-03-15 20:52:12.53262,,,,,,t,2019-03-15 20:56:17.915907,{},text,13,1,Samuel Rogers: 16
+63,2019-03-15 20:53:40.606404,,,,,,t,2019-03-15 20:56:17.924897,{},text,13,1,Samuel Rogers: whoever justin was he is gone. lol
+67,2019-03-15 20:53:58.503085,,,,,,t,2019-03-15 20:56:17.933859,{},text,13,1,Samuel Rogers: sleeps with fishes
+70,2019-03-15 20:54:11.799779,,,,,,t,2019-03-15 20:56:17.94337,{},text,13,1,"Samuel Rogers: ok nicole, who's next?"
+73,2019-03-15 20:54:20.694117,,,,,,t,2019-03-15 20:56:17.952339,{},text,13,1,Samuel Rogers: sigh
+97,2019-03-15 20:56:18.753799,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Samuel Rogers
+76,2019-03-15 20:54:30.167297,,,,,,t,2019-03-15 21:01:17.349327,{},text,5,1,Nicole Fields: sam
+83,2019-03-15 20:54:47.62655,,,,,,t,2019-03-15 21:01:17.360455,{},text,5,1,Nicole Fields: gonna vote yourself out?
+88,2019-03-15 20:55:50.499455,,,,,,t,2019-03-15 21:01:17.370856,{},text,5,1,Nicole Fields: well I think sam is alright
+78,2019-03-15 20:54:33.525676,,,,,,f,,{},text,4,1,Jamie Meadows: he keeps trying to get rid of people
+92,2019-03-15 20:56:12.899319,,,,,,f,,{},text,6,1,Robin Green: wth
+94,2019-03-15 20:56:13.899454,,,,,,f,,{},text,4,1,Jamie Meadows: he voted for justin with no justification though
+85,2019-03-15 20:55:11.223126,,,,,,t,2019-03-15 20:56:17.990006,{},text,13,1,Samuel Rogers: ah! can't vote for myself
+96,2019-03-15 20:56:16.818428,,,,,,t,2019-03-15 20:56:17.998999,{},text,13,1,Samuel Rogers: yea...
+98,2019-03-15 20:56:33.936755,,,,,,f,,{},text,2,1,Tiffany Hernandez: How about Marvin?
+99,2019-03-15 20:56:39.271079,,,,,,f,,{},text,4,1,Jamie Meadows: ok!
+100,2019-03-15 20:56:44.05671,,,,,,f,,{},vote,4,1,Jamie Meadows: Marvin Jackson
+101,2019-03-15 20:56:44.186013,,,,,,f,,{},text,2,1,Tiffany Hernandez: He hasn't said much.
+102,2019-03-15 20:56:46.657719,,,,,,f,,{},text,2,1,Tiffany Hernandez: ok
+103,2019-03-15 20:56:53.509224,,,,,,f,,{},vote,2,1,Tiffany Hernandez: Marvin Jackson
+104,2019-03-15 20:57:01.334389,,,,,,f,,{},text,4,1,Jamie Meadows: I think we can get people to turn on Nicole because she stuck up for sam
+105,2019-03-15 20:57:21.807652,,,,,,f,,{},text,2,1,Tiffany Hernandez: slowly but surely . . .
+106,2019-03-15 20:57:27.592886,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Marvin Jackson
+107,2019-03-15 20:57:56.400302,,,,,,f,,{},text,4,1,Jamie Meadows: Well there's at least one mafia left
+108,2019-03-15 20:58:08.345247,,,,,,f,,{},text,4,1,Jamie Meadows: do we know how many total there are?
+110,2019-03-15 20:58:40.105858,,,,,,f,,{},text,2,1,Tiffany Hernandez: The instructions made it sound pretty equal
+111,2019-03-15 20:58:56.947265,,,,,,f,,{},text,6,1,Robin Green: there are as many as there ever were
+113,2019-03-15 20:59:15.177131,,,,,,f,,{},text,4,1,Jamie Meadows: Who hasn't talked at all?
+117,2019-03-15 20:59:59.126007,,,,,,f,,{},text,2,1,Tiffany Hernandez: I thought Mafia had to outnumber bystanders to win
+118,2019-03-15 20:59:59.316573,,,,,,f,,{},vote,4,1,Jamie Meadows: Kevin Vazquez
+120,2019-03-15 21:00:01.634822,,,,,,f,,{},vote,6,1,Robin Green: Nicole Fields
+121,2019-03-15 21:00:04.47241,,,,,,f,,{},vote,8,1,Tristan Rodriguez: Kevin Vazquez
+122,2019-03-15 21:00:06.192656,,,,,,f,,{},text,4,1,Jamie Meadows: I don't think michelle has talked either
+123,2019-03-15 21:00:07.941336,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Kevin Vazquez
+125,2019-03-15 21:00:16.145978,,,,,,f,,{},text,2,1,Tiffany Hernandez: who's next?
+126,2019-03-15 21:00:23.780808,,,,,,f,,{},text,2,1,Tiffany Hernandez: we're doing good
+127,2019-03-15 21:00:44.336391,,,,,,f,,{},text,4,1,Jamie Meadows: hmmm let's get rid of nicole I think
+128,2019-03-15 21:00:49.908399,,,,,,f,,{},text,2,1,Tiffany Hernandez: ok
+129,2019-03-15 21:00:50.339713,,,,,,f,,{},text,4,1,Jamie Meadows: since no one else is speaking
+130,2019-03-15 21:00:56.964768,,,,,,f,,{},vote,4,1,Jamie Meadows: Nicole Fields
+131,2019-03-15 21:01:01.824359,,,,,,f,,{},vote,2,1,Tiffany Hernandez: Nicole Fields
+89,2019-03-15 20:56:01.069724,,,,,,t,2019-03-15 21:01:17.380526,{},vote,5,1,Nicole Fields: Robin Green
+109,2019-03-15 20:58:23.686004,,,,,,t,2019-03-15 21:01:17.391431,{},text,5,1,Nicole Fields: it said at least one I think
+112,2019-03-15 20:59:00.642189,,,,,,t,2019-03-15 21:01:17.402466,{},text,5,1,Nicole Fields: well they win as soon as they have as many members as there are bystanders left
+114,2019-03-15 20:59:26.742157,,,,,,t,2019-03-15 21:01:17.41372,{},text,5,1,Nicole Fields: kevin
+115,2019-03-15 20:59:48.309577,,,,,,t,2019-03-15 21:01:17.423473,{},text,5,1,Nicole Fields: anything to say for yourself kevin
+116,2019-03-15 20:59:59.121424,,,,,,t,2019-03-15 21:01:17.435548,{},vote,5,1,Nicole Fields: Kevin Vazquez
+119,2019-03-15 21:00:01.538831,,,,,,t,2019-03-15 21:01:17.453971,{},text,5,1,Nicole Fields: totally guilty
+132,2019-03-15 21:01:17.68353,,,,,,f,,{},info,1,1,Phase Change to Daytime: Victim - Nicole Fields
+133,2019-03-15 21:01:25.739302,,,,,,f,,{},text,5,1,Nicole Fields: aw
+134,2019-03-15 21:01:33.385845,,,,,,f,,{},text,8,1,Tristan Rodriguez: well going after Kevin was a mistake.  
+135,2019-03-15 21:01:46.566746,,,,,,f,,{},text,2,1,Tiffany Hernandez: sigh
+136,2019-03-15 21:01:58.833727,,,,,,f,,{},text,4,1,Jamie Meadows: Michelle hasn't spoken and she hasn't been voting in the most recent rounds
+137,2019-03-15 21:01:59.678185,,,,,,f,,{},text,6,1,Robin Green: haha
+138,2019-03-15 21:02:07.966935,,,,,,f,,{},vote,8,1,Tristan Rodriguez: Michelle Guerra
+139,2019-03-15 21:02:17.783124,,,,,,f,,{},text,4,1,Jamie Meadows: So she could be afk or not wanting to look suspicious
+140,2019-03-15 21:02:29.365097,,,,,,f,,{},text,2,1,Tiffany Hernandez: true
+141,2019-03-15 21:02:40.397617,,,,,,f,,{},vote,4,1,Jamie Meadows: Michelle Guerra
+142,2019-03-15 21:02:42.259434,,,,,,f,,{},text,6,1,Robin Green: would be easier if we could see hats
+144,2019-03-15 21:02:53.616378,,,,,,f,,{},text,2,1,Tiffany Hernandez: seriously!
+146,2019-03-15 21:03:41.158874,,,,,,f,,{},text,6,1,Robin Green: that sounds like something mafia would say
+147,2019-03-15 21:03:53.71231,,,,,,f,,{},vote,6,1,Robin Green: Michelle Guerra
+148,2019-03-15 21:03:55.210883,,,,,,f,,{},text,8,1,Tristan Rodriguez: If only we had a secret language
+124,2019-03-15 21:00:08.336359,,,,,,t,2019-03-15 21:03:57.396863,{},vote,7,1,Michelle Guerra: Kevin Vazquez
+143,2019-03-15 21:02:51.36855,,,,,,t,2019-03-15 21:03:57.405922,{},vote,7,1,Michelle Guerra: Jamie Meadows
+145,2019-03-15 21:03:04.639935,,,,,,t,2019-03-15 21:03:57.415111,{},text,7,1,Michelle Guerra: I'm not mafia guys :(
+149,2019-03-15 21:03:56.627035,,,,,,t,2019-03-15 21:03:57.424544,{},text,7,1,Michelle Guerra: lol. you'll see if I get iliminated that I was a bystanfer
+150,2019-03-15 21:03:57.533337,,,,,,f,,{},info,1,1,Phase Change to Nighttime: Victim - Michelle Guerra
