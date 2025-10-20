@@ -1,9 +1,9 @@
 from __future__ import annotations
 
 from datetime import datetime, timezone
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Any
 
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 
 from .demo_script import DEMO_SCENARIO
 from .metrics import build_metrics
@@ -19,7 +19,15 @@ from .models import (
     DiscussionTurn,
     GameRecord,
     MatchRequest,
+    NightActionRequest,
+    NightActionResponse,
+    NightContextRequest,
+    NightContextResponse,
     NightPhaseRecord,
+    NightPhaseResolveRequest,
+    NightPhaseResolveResponse,
+    NightPhaseStartRequest,
+    NightPhaseStartResponse,
     NightPromptRecord,
     NightRolePrompt,
     NightResponseRecord,
@@ -32,8 +40,23 @@ from .models import (
 )
 from .rules import night_kill_resolution, resolve_vote
 from .state import GameState
+from .night_prompts import (
+    generate_wolf_night_prompt,
+    generate_detective_night_prompt,
+    generate_doctor_night_prompt,
+    generate_villager_night_prompt
+)
+from .night_tools import (
+    get_night_tools_for_role,
+    validate_night_action,
+    format_night_action_response
+)
+from .elo_system import EloCalculator, create_elo_calculator
 
 app = FastAPI(title="Werewolf Green Agent", description="Design-doc referee demo")
+
+# Global ELO calculator instance
+elo_calculator = create_elo_calculator()
 
 
 def _player_profiles() -> List[PlayerProfile]:
@@ -458,3 +481,307 @@ def run_demo_match(req: MatchRequest) -> Assessment:
     record = build_record(req.seed)
     metrics = build_metrics(record)
     return Assessment(record=record, metrics=metrics)
+
+
+# Night Phase API Endpoints
+@app.post("/night/start", response_model=NightPhaseStartResponse)
+def start_night_phase(req: NightPhaseStartRequest) -> NightPhaseStartResponse:
+    """Initialize a night phase and send prompts to all agents."""
+    try:
+        # For now, we'll use the demo scenario
+        # In a real implementation, this would load the actual game state
+        phase_id = f"night_{req.night_number}_{req.game_id}"
+        
+        return NightPhaseStartResponse(
+            success=True,
+            message=f"Night phase {req.night_number} started",
+            night_number=req.night_number,
+            phase_id=phase_id
+        )
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/night/context", response_model=NightContextResponse)
+def get_night_context(req: NightContextRequest) -> NightContextResponse:
+    """Get role-specific night context for a player."""
+    try:
+        # Create a demo game state for prompt generation
+        # In real implementation, this would load from actual game state
+        demo_players = ["A1", "A2", "A3", "A4", "A5", "A6"]
+        demo_roles = {"A1": "peasant", "A2": "werewolf", "A3": "detective", 
+                     "A4": "peasant", "A5": "werewolf", "A6": "doctor"}
+        demo_alignments = {"A1": "town", "A2": "wolves", "A3": "town", 
+                          "A4": "town", "A5": "wolves", "A6": "town"}
+        
+        state = GameState(demo_players, demo_roles, demo_alignments)
+        
+        # Generate role-specific prompt
+        if req.role == "werewolf":
+            wolf_partners = [pid for pid in demo_players if demo_roles[pid] == "werewolf" and pid != req.player_id]
+            prompt = generate_wolf_night_prompt(state, req.player_id, 1, wolf_partners, [])
+            
+            return NightContextResponse(
+                role=req.role,
+                night_number=1,
+                available_actions=["kill", "wolf_chat"],
+                targets=[pid for pid in demo_players if demo_roles[pid] != "werewolf"],
+                private_info={
+                    "wolf_partners": wolf_partners,
+                    "wolf_chat_history": [],
+                    "prompt": prompt.model_dump()
+                },
+                public_info={
+                    "alive_players": demo_players,
+                    "last_elimination": None
+                }
+            )
+        elif req.role == "detective":
+            prompt = generate_detective_night_prompt(state, req.player_id, 1, [])
+            
+            return NightContextResponse(
+                role=req.role,
+                night_number=1,
+                available_actions=["inspect"],
+                targets=[pid for pid in demo_players if pid != req.player_id],
+                private_info={
+                    "previous_inspections": [],
+                    "prompt": prompt.model_dump()
+                },
+                public_info={
+                    "alive_players": demo_players,
+                    "last_elimination": None
+                }
+            )
+        elif req.role == "doctor":
+            prompt = generate_doctor_night_prompt(state, req.player_id, 1, {
+                "heal_potion_used": False,
+                "kill_potion_used": False
+            })
+            
+            return NightContextResponse(
+                role=req.role,
+                night_number=1,
+                available_actions=["protect", "kill_potion"],
+                targets=demo_players,
+                private_info={
+                    "heal_potion_used": False,
+                    "kill_potion_used": False,
+                    "prompt": prompt.model_dump()
+                },
+                public_info={
+                    "alive_players": demo_players,
+                    "last_elimination": None
+                }
+            )
+        else:  # villager
+            prompt = generate_villager_night_prompt(state, req.player_id, 1)
+            
+            return NightContextResponse(
+                role=req.role,
+                night_number=1,
+                available_actions=["sleep"],
+                targets=[],
+                private_info={
+                    "prompt": prompt.model_dump()
+                },
+                public_info={
+                    "alive_players": demo_players,
+                    "last_elimination": None
+                }
+            )
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/night/tools/{role}")
+def get_night_tools(role: str) -> Dict[str, Any]:
+    """Get available tools for a specific role during night phase."""
+    try:
+        if role not in ["werewolf", "detective", "doctor", "villager"]:
+            raise HTTPException(status_code=400, detail=f"Invalid role: {role}")
+        
+        tools = get_night_tools_for_role(role)
+        return {
+            "role": role,
+            "tools": tools,
+            "message": f"Available tools for {role} during night phase"
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/night/action", response_model=NightActionResponse)
+def submit_night_action(req: NightActionRequest) -> NightActionResponse:
+    """Submit a night action from a white agent."""
+    try:
+        # Determine role from player_id (in real implementation, load from game state)
+        # For demo purposes, use hardcoded mapping
+        demo_roles = {"A1": "villager", "A2": "werewolf", "A3": "detective", 
+                     "A4": "villager", "A5": "werewolf", "A6": "doctor"}
+        role = demo_roles.get(req.player_id, "villager")
+        
+        # Validate the action
+        validation = validate_night_action(req.model_dump(), role)
+        if not validation["valid"]:
+            return NightActionResponse(
+                success=False,
+                message=validation["error"]
+            )
+        
+        # Store the action (in real implementation, this would be stored in game state)
+        action_data = req.model_dump()
+        action_data["player_id"] = req.player_id
+        action_data["role"] = role
+        action_data["timestamp"] = datetime.now().isoformat()
+        
+        # Generate action ID
+        action_id = f"{req.action_type}_{req.player_id}_{datetime.now().timestamp()}"
+        
+        # Format response message
+        formatted_action = format_night_action_response(action_data, role)
+        
+        return NightActionResponse(
+            success=True,
+            message=f"Night action submitted: {formatted_action}",
+            action_id=action_id
+        )
+        
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/night/resolve", response_model=NightPhaseResolveResponse)
+def resolve_night_phase(req: NightPhaseResolveRequest) -> NightPhaseResolveResponse:
+    """Resolve all night actions and determine outcomes."""
+    try:
+        # In real implementation, this would:
+        # 1. Collect all submitted actions
+        # 2. Process them in correct order (seer -> wolves -> witch)
+        # 3. Determine outcomes
+        # 4. Update game state
+        
+        # For now, return demo resolution
+        outcomes = {
+            "wolf_kill": {"target": "A4", "success": True},
+            "seer_inspection": {"target": "A5", "is_werewolf": True},
+            "doctor_protection": {"target": "A3", "saved": True}
+        }
+        
+        return NightPhaseResolveResponse(
+            success=True,
+            message="Night phase resolved successfully",
+            outcomes=outcomes,
+            public_announcement="A4 was killed overnight in a werewolf attack."
+        )
+        
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+# ELO Rating System Endpoints
+@app.post("/elo/process_game")
+def process_game_result(
+    winner_id: str,
+    loser_id: str, 
+    winner_role: str,
+    loser_role: str,
+    game_id: str = None
+) -> Dict[str, Any]:
+    """Process a game result and update ELO ratings."""
+    try:
+        result = elo_calculator.process_game_result(
+            winner_id=winner_id,
+            loser_id=loser_id,
+            winner_role=winner_role,
+            loser_role=loser_role,
+            game_id=game_id
+        )
+        return {
+            "success": True,
+            "message": "Game result processed successfully",
+            "result": result
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/elo/rankings")
+def get_elo_rankings(sort_by: str = "overall") -> Dict[str, Any]:
+    """Get ELO rankings for all players."""
+    try:
+        rankings = elo_calculator.get_rankings(sort_by=sort_by)
+        return {
+            "success": True,
+            "rankings": rankings,
+            "sort_by": sort_by,
+            "total_players": len(rankings)
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/elo/player/{player_id}")
+def get_player_elo(player_id: str) -> Dict[str, Any]:
+    """Get ELO rating and stats for a specific player."""
+    try:
+        stats = elo_calculator.get_player_stats(player_id)
+        if stats is None:
+            raise HTTPException(status_code=404, detail=f"Player {player_id} not found")
+        
+        return {
+            "success": True,
+            "player_stats": stats
+        }
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/elo/head-to-head/{player1}/{player2}")
+def get_head_to_head(player1: str, player2: str) -> Dict[str, Any]:
+    """Get head-to-head record between two players."""
+    try:
+        record = elo_calculator.get_head_to_head(player1, player2)
+        if record is None:
+            return {
+                "success": True,
+                "head_to_head": {
+                    "player1": player1,
+                    "player2": player2,
+                    "wins": 0,
+                    "losses": 0,
+                    "ties": 0,
+                    "total_games": 0,
+                    "win_rate": 0.0
+                }
+            }
+        
+        return {
+            "success": True,
+            "head_to_head": {
+                "player1": record.player1,
+                "player2": record.player2,
+                "wins": record.wins,
+                "losses": record.losses,
+                "ties": record.ties,
+                "total_games": record.total_games,
+                "win_rate": record.win_rate
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/elo/matrix")
+def get_head_to_head_matrix() -> Dict[str, Any]:
+    """Get complete head-to-head matrix for all players."""
+    try:
+        matrix = elo_calculator.get_head_to_head_matrix()
+        return {
+            "success": True,
+            "head_to_head_matrix": matrix
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))

@@ -229,3 +229,55 @@ class GameRecord(BaseModel):
 class Assessment(BaseModel):
     record: GameRecord
     metrics: PostGameMetrics
+
+
+# Night Phase API Models
+class NightActionRequest(BaseModel):
+    player_id: str
+    action_type: str  # "kill", "inspect", "protect", "heal", "kill_potion"
+    target: Optional[str] = None
+    reasoning: Optional[str] = None
+    message: Optional[str] = None  # For wolf chat
+
+
+class NightActionResponse(BaseModel):
+    success: bool
+    message: str
+    action_id: Optional[str] = None
+
+
+class NightContextRequest(BaseModel):
+    player_id: str
+    role: str
+
+
+class NightContextResponse(BaseModel):
+    role: str
+    night_number: int
+    available_actions: List[str]
+    targets: List[str]
+    private_info: Dict[str, Any]
+    public_info: Dict[str, Any]
+
+
+class NightPhaseStartRequest(BaseModel):
+    game_id: str
+    night_number: int
+
+
+class NightPhaseStartResponse(BaseModel):
+    success: bool
+    message: str
+    night_number: int
+    phase_id: str
+
+
+class NightPhaseResolveRequest(BaseModel):
+    phase_id: str
+
+
+class NightPhaseResolveResponse(BaseModel):
+    success: bool
+    message: str
+    outcomes: Dict[str, Any]
+    public_announcement: str
