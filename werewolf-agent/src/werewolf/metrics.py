@@ -4,12 +4,17 @@ from collections import defaultdict
 from typing import Dict, List, Optional
 
 from .models import (
+    AgentInfluence,
     AgentMetrics,
+    AgentDecisionQuality,
+    DecisionQualityMetrics,
     GameRecord,
+    InfluenceMetrics,
     MetricsSummary,
     PostGameMetrics,
     RoleName,
     RoleSummary,
+    DayDecisionQuality,
 )
 
 
@@ -146,4 +151,165 @@ def build_metrics(record: GameRecord) -> PostGameMetrics:
         total_days=total_days,
     )
 
-    return PostGameMetrics(per_agent=per_agent, per_role=per_role, summary=summary)
+    # --- Decision Quality and Influence Metrics ---
+    # Build per-day vote sequences and tallies
+    day_votes: Dict[int, List[Dict[str, str]]] = defaultdict(list)
+    day_elims: Dict[int, Optional[str]] = {}
+    for phase in record.phases:
+        if phase.phase_type != "day":
+            continue
+        day_number = phase.day_number
+        for resp in phase.voting.responses:
+            day_votes[day_number].append({"voter": resp.player_id, "target": resp.vote_response.vote})
+        eliminated = phase.voting.resolution.eliminated
+        day_elims[day_number] = eliminated.get("player_id") if eliminated else None
+
+    # Helper: compute tally progression and final wagon order
+    def compute_tally_and_wagon(votes: List[Dict[str, str]]):
+        tally_progression: List[Dict[str, int]] = []
+        tally: Dict[str, int] = defaultdict(int)
+        for v in votes:
+            tally[v["target"]] += 1
+            tally_progression.append(dict(tally))
+        return tally_progression
+
+    # Decision quality accumulators
+    per_agent_decisions: Dict[str, Dict[str, int]] = defaultdict(lambda: {"on_enemy": 0, "on_friend": 0, "on_wolf": 0, "on_town": 0})
+    per_day_quality: List[DayDecisionQuality] = []
+
+    # Influence accumulators
+    swing_events: List[Dict[str, object]] = []
+    per_agent_influence: Dict[str, Dict[str, int]] = defaultdict(lambda: {"swing_votes": 0, "early_final_wagon_votes": 0})
+
+    # Precompute alignments
+    alignments = {pid: ("wolves" if role == "werewolf" else "town") for pid, role in record.role_assignment.items()}
+
+    for day_number, votes in day_votes.items():
+        # Decision quality per day
+        town_votes = 0
+        town_on_wolves = 0
+        wolves_alive = {pid for pid, role in record.role_assignment.items() if role == "werewolf" and any(p.id == pid and p.alive for p in record.players)}
+        # Morning wolves alive approximated as wolves not eliminated before or on this day
+        # Use elimination_day map if available
+        wolves_alive_morning = set()
+        for pid, role in record.role_assignment.items():
+            if role != "werewolf":
+                continue
+            elim_day = elimination_day.get(pid)
+            if elim_day is None or elim_day > day_number:
+                wolves_alive_morning.add(pid)
+
+        for v in votes:
+            voter = v["voter"]
+            target = v["target"]
+            voter_align = alignments[voter]
+            target_align = alignments[target]
+            if voter_align == "town":
+                town_votes += 1
+                if target_align == "wolves":
+                    town_on_wolves += 1
+            if target_align == "wolves":
+                per_agent_decisions[voter]["on_wolf"] += 1
+                per_agent_decisions[voter]["on_enemy"] += 1 if voter_align == "town" else 0
+            else:
+                per_agent_decisions[voter]["on_town"] += 1
+                per_agent_decisions[voter]["on_enemy"] += 1 if voter_align == "wolves" else 0
+                per_agent_decisions[voter]["on_friend"] += 1 if voter_align == "town" else 0
+
+        precision = (town_on_wolves / town_votes) if town_votes else 0.0
+        mis_elim = False
+        eliminated_pid = day_elims.get(day_number)
+        if eliminated_pid:
+            mis_elim = record.role_assignment[eliminated_pid] != "werewolf"
+        # Recall: unique wolves voted / wolves alive that morning
+        wolves_voted = {v["target"] for v in votes if alignments[v["target"]] == "wolves"}
+        recall = (len(wolves_voted) / len(wolves_alive_morning)) if wolves_alive_morning else 0.0
+        per_day_quality.append(
+            DayDecisionQuality(day_number=day_number, town_precision=precision, town_recall=recall, mis_elimination=mis_elim)
+        )
+
+        # Influence metrics: swing vote and early wagon
+        tally_prog = compute_tally_and_wagon(votes)
+        target_final = eliminated_pid
+        if target_final:
+            # Determine wagon order on final target
+            wagon_order = [v["voter"] for v in votes if v["target"] == target_final]
+            half = max(1, len(wagon_order) // 2)
+            for i, voter in enumerate(wagon_order):
+                if i < half:
+                    per_agent_influence[voter]["early_final_wagon_votes"] += 1
+            # Swing voter detection: first vote where final target gains a strict lead never lost later
+            lead_never_lost = None
+            current_leader = None
+            for idx, tp in enumerate(tally_prog):
+                # leader and lead count
+                if not tp:
+                    continue
+                leader = max(tp.items(), key=lambda x: x[1])[0]
+                # strict leader check
+                counts = sorted(tp.values(), reverse=True)
+                strict = len(counts) == 1 or (len(counts) > 1 and counts[0] > counts[1])
+                if leader == target_final and strict:
+                    lead_never_lost = idx
+                    current_leader = leader
+                    break
+            if lead_never_lost is not None and current_leader == target_final:
+                # verify never tied or overtaken later
+                def still_leads_after(start_idx: int) -> bool:
+                    max_count_after = None
+                    for tp in tally_prog[start_idx:]:
+                        max_count = max(tp.values())
+                        tf_count = tp.get(target_final, 0)
+                        if any((c == max_count and k != target_final) for k, c in tp.items()):
+                            if tf_count == max_count and sum(1 for c in tp.values() if c == max_count) > 1:
+                                return False
+                            if tf_count < max_count:
+                                return False
+                    return True
+
+                if still_leads_after(lead_never_lost):
+                    swing_vote = votes[lead_never_lost]
+                    swing_events.append({"day_number": day_number, "swing_voter": swing_vote["voter"], "target": target_final})
+                    per_agent_influence[swing_vote["voter"]]["swing_votes"] += 1
+
+    # Build per-agent decision quality models
+    dq_per_agent: Dict[str, AgentDecisionQuality] = {}
+    for pid in per_agent:
+        on_enemy = per_agent_decisions[pid]["on_enemy"]
+        on_wolf = per_agent_decisions[pid]["on_wolf"]
+        on_town = per_agent_decisions[pid]["on_town"]
+        total_votes = on_wolf + on_town
+        votes_on_enemies_rate = (on_enemy / total_votes) if total_votes else 0.0
+        bus_rate = None
+        if per_agent[pid].role == "werewolf":
+            wolf_votes = total_votes
+            bus_rate = (on_wolf / wolf_votes) if wolf_votes else 0.0
+        dq_per_agent[pid] = AgentDecisionQuality(
+            votes_on_enemies_rate=votes_on_enemies_rate,
+            wolves_voted=on_wolf,
+            town_voted=on_town,
+            bus_rate=bus_rate,
+        )
+
+    # Build per-agent influence models
+    infl_per_agent: Dict[str, AgentInfluence] = {}
+    for pid in per_agent:
+        stats = per_agent_influence[pid]
+        infl_per_agent[pid] = AgentInfluence(
+            swing_votes=stats.get("swing_votes", 0),
+            early_final_wagon_votes=stats.get("early_final_wagon_votes", 0),
+        )
+
+    decision_quality = DecisionQualityMetrics(per_agent=dq_per_agent, per_day=per_day_quality)
+    influence = InfluenceMetrics(
+        per_agent=infl_per_agent,
+        swing_events=[{"day_number": e["day_number"], "swing_voter": e["swing_voter"], "target": e["target"]} for e in swing_events],
+    )
+
+    return PostGameMetrics(
+        per_agent=per_agent,
+        per_role=per_role,
+        summary=summary,
+        decision_quality=decision_quality,
+        influence=influence,
+    )

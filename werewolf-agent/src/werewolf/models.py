@@ -4,7 +4,7 @@ from typing import Any, Dict, List, Literal, Optional, Union
 from pydantic import BaseModel, Field
 
 PhaseType = Literal["day", "night"]
-RoleName = Literal["werewolf", "detective", "doctor", "peasant"]
+RoleName = Literal["werewolf", "detective", "doctor", "peasant", "villager"]
 Alignment = Literal["wolves", "town"]
 
 
@@ -207,10 +207,47 @@ class MetricsSummary(BaseModel):
     total_days: int
 
 
+class AgentDecisionQuality(BaseModel):
+    votes_on_enemies_rate: float
+    wolves_voted: int
+    town_voted: int
+    bus_rate: Optional[float] = None
+
+
+class DayDecisionQuality(BaseModel):
+    day_number: int
+    town_precision: float
+    town_recall: float
+    mis_elimination: bool
+
+
+class AgentInfluence(BaseModel):
+    swing_votes: int
+    early_final_wagon_votes: int
+
+
+class DaySwingEvent(BaseModel):
+    day_number: int
+    swing_voter: Optional[str]
+    target: Optional[str]
+
+
+class DecisionQualityMetrics(BaseModel):
+    per_agent: Dict[str, AgentDecisionQuality]
+    per_day: List[DayDecisionQuality]
+
+
+class InfluenceMetrics(BaseModel):
+    per_agent: Dict[str, AgentInfluence]
+    swing_events: List[DaySwingEvent]
+
+
 class PostGameMetrics(BaseModel):
     per_agent: Dict[str, AgentMetrics]
     per_role: Dict[RoleName, RoleSummary]
     summary: MetricsSummary
+    decision_quality: Optional[DecisionQualityMetrics] = None
+    influence: Optional[InfluenceMetrics] = None
 
 
 class GameRecord(BaseModel):
