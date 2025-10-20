@@ -16,6 +16,23 @@ from .models import (
     RoleSummary,
     DayDecisionQuality,
 )
+from .models import (
+    PersuasionMetrics,
+    PersuasionAgentStats,
+    ResistanceMetrics,
+    ResistanceAgentStats,
+    EarlySignalMetrics,
+    StrategyAlignmentMetrics,
+    StrategyAlignmentAgent,
+    CoordinationMetrics,
+    CounterfactualImpact,
+    PivotalVote,
+    StyleMetrics,
+    StyleAgentMetrics,
+    CentralityMetrics,
+    CentralityAgent,
+)
+from .analysis import extract_message_timeline, build_vote_timeline, intent_edges
 
 
 def build_metrics(record: GameRecord) -> PostGameMetrics:
@@ -306,10 +323,213 @@ def build_metrics(record: GameRecord) -> PostGameMetrics:
         swing_events=[{"day_number": e["day_number"], "swing_voter": e["swing_voter"], "target": e["target"]} for e in swing_events],
     )
 
+    # --- Advanced metrics (heuristic, best-effort) ---
+    timeline = extract_message_timeline(record)
+    votes_by_day = build_vote_timeline(record)
+    edges = intent_edges(record)
+
+    # Persuasion: attribute swings to speeches naming the eliminated target near the time of swing
+    persuasion_per_agent: Dict[str, PersuasionAgentStats] = {}
+    swings_attrib: List[Dict[str, object]] = []
+    # Count speeches per agent
+    speeches_count: Dict[str, int] = defaultdict(int)
+    for m in timeline:
+        speeches_count[m["player_id"]] += 1
+    # Simple swing attribution: a swing is any vote for eliminated target; attribute to most recent speech naming that target
+    for day, vlist in votes_by_day.items():
+        elim = day_elims.get(day)
+        if not elim:
+            continue
+        # Build recency index of speeches mentioning elim
+        mentions = [m for m in timeline if m["day"] == day and elim.upper() in (m["text"] or "").upper()]
+        for voter, target in vlist:
+            if target != elim:
+                continue
+            # find latest mention before this vote
+            prior_mentions = [m for m in mentions]
+            if prior_mentions:
+                speaker = prior_mentions[-1]["player_id"]
+                swings_attrib.append({"day": day, "voter": voter, "target": target, "speaker": speaker})
+    for pid in {p.id for p in record.players}:
+        swings = sum(1 for s in swings_attrib if s["speaker"] == pid)
+        cnt = speeches_count.get(pid, 0)
+        rate = (swings / cnt) if cnt else 0.0
+        persuasion_per_agent[pid] = PersuasionAgentStats(swings_caused=swings, speeches_count=cnt, swings_per_speech=rate)
+    persuasion = PersuasionMetrics(per_agent=persuasion_per_agent, attributions=swings_attrib)
+
+    # Resistance: exposures to wolf pushes vs resisting
+    resistance_per_agent: Dict[str, ResistanceAgentStats] = {}
+    wolves = {pid for pid, role in record.role_assignment.items() if role == "werewolf"}
+    for pid in {p.id for p in record.players}:
+        exposures = 0
+        resisted = 0
+        # exposure: heard a wolf speech naming elim target on that day
+        for day, vlist in votes_by_day.items():
+            elim = day_elims.get(day)
+            if not elim:
+                continue
+            wolf_speeches = [m for m in timeline if m["day"] == day and m["player_id"] in wolves and elim.upper() in (m["text"] or "").upper()]
+            if not wolf_speeches:
+                continue
+            exposures += 1
+            # resist if this pid's vote is not on elim that day
+            my_votes = [v for v in vlist if v[0] == pid]
+            if my_votes and my_votes[-1][1] != elim:
+                resisted += 1
+        rate = (resisted / exposures) if exposures else 0.0
+        resistance_per_agent[pid] = ResistanceAgentStats(exposures=exposures, resisted=resisted, resistance_rate=rate)
+    resistance = ResistanceMetrics(per_agent=resistance_per_agent)
+
+    # Early signals (Day 1)
+    d1 = 1
+    d1_elim = day_elims.get(d1)
+    d1_wolf_elim = bool(d1_elim and record.role_assignment[d1_elim] == "werewolf")
+    d1_votes = votes_by_day.get(d1, [])
+    d1_town_votes = [(v, t) for v, t in d1_votes if alignments[v] == "town"]
+    d1_precision = (sum(1 for _, t in d1_town_votes if alignments[t] == "wolves") / len(d1_town_votes)) if d1_town_votes else 0.0
+    wolves_ids = [pid for pid, r in record.role_assignment.items() if r == "werewolf"]
+    d1_recall = (len({t for _, t in d1_town_votes if t in wolves_ids}) / len(wolves_ids)) if wolves_ids else 0.0
+    villager_mentions_of_wolves = 0
+    total_mentions_day1 = 0
+    for m in timeline:
+        if m["day"] != 1:
+            continue
+        text = (m.get("text") or "").upper()
+        total_mentions_day1 += sum(text.count(pid.upper()) for pid in {p.id for p in record.players})
+        if alignments[m["player_id"]] == "town":
+            villager_mentions_of_wolves += sum(text.count(w.upper()) for w in wolves_ids)
+    early_signals = EarlySignalMetrics(
+        day1_wolf_elim=d1_wolf_elim,
+        day1_precision=d1_precision,
+        day1_recall=d1_recall,
+        villager_mentions_of_wolves=villager_mentions_of_wolves,
+        total_mentions_day1=total_mentions_day1,
+    )
+
+    # Strategy alignment (private to public/vote)
+    align_per_agent: Dict[str, StrategyAlignmentAgent] = {}
+    for pid in {p.id for p in record.players}:
+        private_targets = []
+        public_targets = []
+        vote_targets = []
+        for m in timeline:
+            if m["player_id"] != pid:
+                continue
+            priv = m.get("private")
+            if isinstance(priv, dict):
+                for key in ("primary_target", "intent", "target"):
+                    val = priv.get(key)
+                    if isinstance(val, str):
+                        private_targets.append(val)
+            text = (m.get("text") or "").upper()
+            for other in {p.id for p in record.players}:
+                if other.upper() in text:
+                    public_targets.append(other)
+        for day, vlist in votes_by_day.items():
+            for voter, target in vlist:
+                if voter == pid:
+                    vote_targets.append(target)
+        def align_rate(a: List[str], b: List[str]) -> float:
+            if not a or not b:
+                return 0.0
+            return sum(1 for x in a if x in b) / len(a)
+        priv_pub = align_rate(private_targets, public_targets)
+        priv_vote = align_rate(private_targets, vote_targets)
+        deception_delta = 1.0 - priv_pub if private_targets else None
+        align_per_agent[pid] = StrategyAlignmentAgent(
+            private_to_public_alignment=priv_pub,
+            private_to_vote_alignment=priv_vote,
+            deception_delta=deception_delta,
+        )
+    strategy_alignment = StrategyAlignmentMetrics(per_agent=align_per_agent)
+
+    # Coordination (simple heuristics)
+    wolf_texts = [ (m["player_id"], (m.get("text") or "").lower()) for m in timeline if m["player_id"] in wolves ]
+    def token_bag(text: str) -> Dict[str, int]:
+        bag: Dict[str, int] = defaultdict(int)
+        for tok in text.split():
+            bag[tok.strip(".,!?;:")] += 1
+        return bag
+    def cosine(a: Dict[str, int], b: Dict[str, int]) -> float:
+        if not a or not b:
+            return 0.0
+        keys = set(a) | set(b)
+        va = [a.get(k, 0) for k in keys]
+        vb = [b.get(k, 0) for k in keys]
+        num = sum(x*y for x,y in zip(va,vb))
+        den = (sum(x*x for x in va)**0.5) * (sum(y*y for y in vb)**0.5)
+        return (num/den) if den else 0.0
+    sim_vals: List[float] = []
+    for i in range(len(wolf_texts)):
+        for j in range(i+1, len(wolf_texts)):
+            sim_vals.append(cosine(token_bag(wolf_texts[i][1]), token_bag(wolf_texts[j][1])))
+    wolf_similarity = sum(sim_vals)/len(sim_vals) if sim_vals else None
+    sequential_support_events = 0
+    for day, vlist in votes_by_day.items():
+        elim = day_elims.get(day)
+        if not elim:
+            continue
+        wolf_votes = [v for v in vlist if v[0] in wolves and v[1] == elim]
+        sequential_support_events += max(0, len(wolf_votes)-1)
+    coordination = CoordinationMetrics(
+        wolf_argument_similarity=wolf_similarity,
+        sequential_support_events=sequential_support_events,
+        coordinated_push_score=None,
+    )
+
+    # Counterfactual impact (pivotal votes)
+    pivotal: List[PivotalVote] = []
+    per_agent_pivotal: Dict[str, int] = defaultdict(int)
+    from .rules import resolve_vote
+    for day, vlist in votes_by_day.items():
+        alive = [p.id for p in record.players if per_agent[p.id].eliminated_on_day is None or per_agent[p.id].eliminated_on_day > day]
+        tally, elim_pid, _ = resolve_vote({v: t for v, t in vlist}, alive)
+        if not elim_pid:
+            continue
+        for voter, target in vlist:
+            reduced = [(v, t) for v, t in vlist if v != voter]
+            tally2, elim2, _ = resolve_vote({v: t for v, t in reduced}, alive)
+            if elim2 != elim_pid:
+                pivotal.append(PivotalVote(day_number=day, voter=voter, target=target))
+                per_agent_pivotal[voter] += 1
+    counterfactual = CounterfactualImpact(pivotal_votes=pivotal, per_agent_pivotal_count=per_agent_pivotal)
+
+    # Style metrics (lexicon heuristics) and Centrality (degree from edges)
+    hedge_terms = {"maybe", "perhaps", "might", "unsure", "uncertain"}
+    certain_terms = {"definitely", "certainly", "clearly", "sure"}
+    per_style: Dict[str, StyleAgentMetrics] = {}
+    for pid in {p.id for p in record.players}:
+        texts = [ (m.get("text") or "").lower() for m in timeline if m["player_id"] == pid ]
+        words = " ".join(texts).split()
+        total = max(1, len(words))
+        hedging = sum(1 for w in words if w in hedge_terms) / total
+        certainty = sum(1 for w in words if w in certain_terms) / total
+        per_style[pid] = StyleAgentMetrics(hedging_rate=hedging, certainty_rate=certainty, toxicity_flag_count=0, avg_words_vs_limit=None)
+    style = StyleMetrics(per_agent=per_style)
+
+    # Centrality: degrees in the intent graph
+    indeg: Dict[str, int] = defaultdict(int)
+    outdeg: Dict[str, int] = defaultdict(int)
+    for src, dst, _ in edges:
+        outdeg[src] += 1
+        indeg[dst] += 1
+    centrality_per: Dict[str, CentralityAgent] = {}
+    for pid in {p.id for p in record.players}:
+        centrality_per[pid] = CentralityAgent(in_degree=indeg.get(pid, 0), out_degree=outdeg.get(pid, 0), leadership_index=None)
+    centrality = CentralityMetrics(per_agent=centrality_per)
+
     return PostGameMetrics(
         per_agent=per_agent,
         per_role=per_role,
         summary=summary,
         decision_quality=decision_quality,
         influence=influence,
+        persuasion=persuasion,
+        resistance=resistance,
+        early_signals=early_signals,
+        strategy_alignment=strategy_alignment,
+        coordination=coordination,
+        counterfactual_impact=counterfactual,
+        style=style,
+        centrality=centrality,
     )

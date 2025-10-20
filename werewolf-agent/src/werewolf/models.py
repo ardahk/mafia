@@ -248,6 +248,116 @@ class PostGameMetrics(BaseModel):
     summary: MetricsSummary
     decision_quality: Optional[DecisionQualityMetrics] = None
     influence: Optional[InfluenceMetrics] = None
+    # Advanced metrics
+    persuasion: Optional["PersuasionMetrics"] = None
+    resistance: Optional["ResistanceMetrics"] = None
+    early_signals: Optional["EarlySignalMetrics"] = None
+    strategy_alignment: Optional["StrategyAlignmentMetrics"] = None
+    coordination: Optional["CoordinationMetrics"] = None
+    counterfactual_impact: Optional["CounterfactualImpact"] = None
+    rating_robustness: Optional["RatingRobustness"] = None
+    style: Optional["StyleMetrics"] = None
+    centrality: Optional["CentralityMetrics"] = None
+
+
+# Advanced metrics containers
+
+class PersuasionAgentStats(BaseModel):
+    swings_caused: int
+    speeches_count: int
+    swings_per_speech: float
+    avg_wagon_delta: Optional[float] = None
+
+
+class PersuasionMetrics(BaseModel):
+    per_agent: Dict[str, PersuasionAgentStats]
+    attributions: List[Dict[str, Any]] = Field(default_factory=list)
+
+
+class ResistanceAgentStats(BaseModel):
+    exposures: int
+    resisted: int
+    resistance_rate: float
+
+
+class ResistanceMetrics(BaseModel):
+    per_agent: Dict[str, ResistanceAgentStats]
+
+
+class EarlySignalMetrics(BaseModel):
+    day1_wolf_elim: bool
+    day1_precision: float
+    day1_recall: float
+    villager_mentions_of_wolves: int
+    total_mentions_day1: int
+
+
+class StrategyAlignmentAgent(BaseModel):
+    private_to_public_alignment: Optional[float] = None
+    private_to_vote_alignment: Optional[float] = None
+    deception_delta: Optional[float] = None
+
+
+class StrategyAlignmentMetrics(BaseModel):
+    per_agent: Dict[str, StrategyAlignmentAgent]
+
+
+class CoordinationMetrics(BaseModel):
+    wolf_argument_similarity: Optional[float] = None
+    sequential_support_events: int
+    coordinated_push_score: Optional[float] = None
+
+
+class PivotalVote(BaseModel):
+    day_number: int
+    voter: str
+    target: str
+
+
+class CounterfactualImpact(BaseModel):
+    pivotal_votes: List[PivotalVote] = Field(default_factory=list)
+    per_agent_pivotal_count: Dict[str, int] = Field(default_factory=dict)
+
+
+class RatingRobustness(BaseModel):
+    elo_ci_overall: Optional[List[float]] = None
+    elo_ci_wolf: Optional[List[float]] = None
+    elo_ci_villager: Optional[List[float]] = None
+    volatility_index: Optional[float] = None
+
+
+class StyleAgentMetrics(BaseModel):
+    hedging_rate: float
+    certainty_rate: float
+    toxicity_flag_count: int
+    avg_words_vs_limit: Optional[float] = None
+
+
+class StyleMetrics(BaseModel):
+    per_agent: Dict[str, StyleAgentMetrics]
+
+
+class CentralityAgent(BaseModel):
+    in_degree: int
+    out_degree: int
+    leadership_index: Optional[float] = None
+
+
+class CentralityMetrics(BaseModel):
+    per_agent: Dict[str, CentralityAgent]
+
+
+# PostGameMetrics extensions for advanced metrics
+class AdvancedPostGame(BaseModel):
+    persuasion: Optional[PersuasionMetrics] = None
+    resistance: Optional[ResistanceMetrics] = None
+    early_signals: Optional[EarlySignalMetrics] = None
+    strategy_alignment: Optional[StrategyAlignmentMetrics] = None
+    coordination: Optional[CoordinationMetrics] = None
+    counterfactual_impact: Optional[CounterfactualImpact] = None
+    rating_robustness: Optional[RatingRobustness] = None
+    style: Optional[StyleMetrics] = None
+    centrality: Optional[CentralityMetrics] = None
 
 
 class GameRecord(BaseModel):
