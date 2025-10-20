@@ -27,7 +27,12 @@ def test_elo_system():
     ]
     
     for i, game in enumerate(games, 1):
-        response = requests.post(f"{BASE_URL}/elo/process_game", params=game)
+        response = requests.post(f"{BASE_URL}/elo/process_game", 
+                               params={"winner_id": game["winner"], 
+                                      "loser_id": game["loser"], 
+                                      "winner_role": game["winner_role"], 
+                                      "loser_role": game["loser_role"],
+                                      "game_id": game["game_id"]})
         if response.status_code == 200:
             result = response.json()
             print(f" Game {i}: {game['winner']} beat {game['loser']} - Rating changes: {result['result']['winner_change']:.1f}, {result['result']['loser_change']:.1f}")
@@ -121,7 +126,7 @@ def test_elo_system():
 
 def demo_elo_calculation():
     """Demonstrate ELO calculation with example data."""
-    print("\n🧮 ELO Calculation Demo")
+    print("\n ELO Calculation Demo")
     print("-" * 30)
     
     # Simulate a tournament
@@ -142,7 +147,11 @@ def demo_elo_calculation():
     ]
     
     for i, game in enumerate(tournament_games, 1):
-        response = requests.post(f"{BASE_URL}/elo/process_game", params=game)
+        response = requests.post(f"{BASE_URL}/elo/process_game", 
+                               params={"winner_id": game["winner"], 
+                                      "loser_id": game["loser"], 
+                                      "winner_role": game["winner_role"], 
+                                      "loser_role": game["loser_role"]})
         if response.status_code == 200:
             result = response.json()
             print(f"Round {i}: {game['winner']} ({game['winner_role']}) beats {game['loser']} ({game['loser_role']})")
